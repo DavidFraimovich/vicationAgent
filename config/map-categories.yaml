@@ -1,0 +1,36 @@
+categories:
+  food:
+    icon: "❤️"
+    keywords: [restaurant, trattoria, osteria, cafe, caffè, bakery, gelato, bar, bistro, market, hütte, rifugio, alm, lunch, dinner]
+  meat:
+    icon: "🥩"
+    keywords: [steak, grill, burger, bbq, smoke, smoked, meat, macelleria, salumificio, steakhouse]
+  viewpoint:
+    icon: "👁"
+    keywords: [viewpoint, lookout, mirador, panorama, pass, skywalk, belvedere, tower, sunset, terrace]
+  nature:
+    icon: "🏔"
+    keywords: [lago, lake, alm, valley, val, waterfall, gorge, cave, trail, hut, rifugio, dolomites, meadow, marmolada]
+  activity:
+    icon: "🎟"
+    keywords: [museum, boat, cable car, spa, experience, ticket, tour, attraction]
+  logistics:
+    icon: "🧭"
+    keywords: [airport, hostel, hotel, parking, station, terminal, lockers, rental car, road, toll, check-in, check-out]
+
+priorities:
+  - A
+  - B
+  - C
+  - Conditional
+  - Reject-default
+
+planning_statuses:
+  - discovered
+  - resolved
+  - map_only
+  - candidate_for_day
+  - calendar_anchor
+  - scheduled
+  - conditional
+  - rejected_default

@@ -1,0 +1,406 @@
+"name","latitude","longitude","address","category","priority","planning_status","google_maps_url","notes"
+"Baraqa","42.2706758","42.7059127","7 Tamar Mepe St, Kutaisi, גאורגיה","food","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7e94b8fc82a4988a","User rating: 5/5"
+"Barrel & The tap","31.7799751","35.2195234","הלל 33, ירושלים, ישראל","food","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe0111639ec72e68e","User rating: 5/5"
+"Beata Gamer Makeup artist & hair stylist","31.4062525","35.0817938",,"uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6208fd943992c7cb","אלופה אמיתית!
+איפור מושלם, עמיד ומדויק, ויחס אישי מדהים. הרגשתי הכי יפה שיש – ממליצה בחום ❣️
+User rating: 5/5"
+"COFFEE STAND DOB st. specialty coffeeshop","47.4973462","19.0604416","Budapest, Dob u. 11, 1074 הונגריה","uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa34d61585d63d748","User rating: 5/5"
+"El Paso","42.270814","42.7054386","Kutaisi, גאורגיה","uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x204f9506c9618ab","User rating: 5/5"
+"Hungarikum Bisztró","47.5034835","19.0479192","Budapest, Steindl Imre u. 13, 1051 הונגריה","uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2356a71b716602c5","User rating: 5/5"
+"KIU Dormitory | Building F |","42.202635","42.7137793","6P37+3G2, Chognari, גאורגיה","uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x60351cc6ea4ada9f","The beat dormitory I have ever seen
+User rating: 5/5"
+"Koala Autorent - Autóbérlés","47.5084985","19.0247838","Budapest, Lövőház u. 2-6, 1024 הונגריה","uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb62ac3100bd2af2e","User rating: 5/5"
+"Neverland Bar • Escape Room • Pizzeria","47.4955721","19.063021","Budapest, Dohány u. 22-24, 1074 הונגריה","food","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7093535ec5f24adb","User rating: 5/5"
+"Paprika Vendéglő","47.5088683","19.0831081","Budapest, Dózsa György út 72, 1071 הונגריה","uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc51a5b54efc2fce1","User rating: 5/5"
+"Ski School Alps Bansko","41.8288451","23.4772373","Noviyat Grad, ul. ""Nayden Gerov"" 1, 2770 Bansko, בולגריה","uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbdf3b96e187ea8b1","אחלה מדריכים, אנשים טובים, ציוד חדש ומאוד איכותי. יחס מכבד וסבלנות:)
+השכרנו ציוד ל3 ימים ו2 שיעורים, הבנות התקדמו יפה מאוד:)
+User rating: 5/5"
+"באסטיון הדייגים","47.5021827","19.0347812","Budapest, 1014 הונגריה","uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2f263ca844235e46","User rating: 5/5"
+"בית הכנסת רומבך","47.4977215","19.0586486","Budapest, Rumbach Sebestyén u. 13, 1074 הונגריה","uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xee6817f97d1c6b26","User rating: 5/5"
+"ביתו של הודיני","47.499424","19.034996","Budapest, Dísz tér 11, 1014 הונגריה","uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xef78c7d678a21d3e","User rating: 5/5"
+"בלום וילג'","33.1773153","35.6145661","Klor Center, כפר בלום, ישראל","uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xee5654a6441373cb","User rating: 5/5"
+"גלידה באר שבע אשדוד","31.807206","34.6370576","הטיילת 1, אשדוד, 77221, ישראל","uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf91c2d6d396019a4","User rating: 5/5"
+"כנסיית מתיאש","47.5019537","19.0341617","Budapest, Szentháromság tér 2, 1014 הונגריה","uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x62d0728c6f694ad5","User rating: 5/5"
+"מצודת אשדוד-ים","31.7802778","34.6216667","אשדוד, ישראל","uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x74e15370d95370a5","User rating: 5/5"
+"סושיה","31.7802246","35.2134733","יוסף טרומפלדור 1, ירושלים, 9459001, ישראל","uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x75e58cd43dc9800a","User rating: 5/5"
+"סטף בלונז'רי","31.7754723","35.127615","שביל ישראל, ירושלים, ישראל","uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe4942cfe8396e195","User rating: 5/5"
+"סמוקאיט","31.8132447","34.6582231","הבנאים 3, אשדוד, ישראל","uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2c5c182e39d777e2","מגיעים במיוחד מירושלים!
+אחלה המבורגר ואחלה בשרים!
+הבשרים מעושנים כמו שצריך במעשנת, רטבים מדהימים!
+מוגש באהבה אמיתית על ידי צוות מקצועי ושירותי!
+באמת אין על המקום המדהים הזה.
+אוכל ושירות 10/10!!!
+User rating: 5/5"
+"פוקצ'ה בר","31.7798555","35.2180867","4 94582, רבי עקיבא, ירושלים, ישראל","uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7d4d60abe0132b0d","User rating: 5/5"
+"קופי בין","31.7814399","35.2208906","יפו 34, ירושלים, ישראל","uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9aded8796773a443","User rating: 5/5"
+"תיאטרון ירושלים","31.7690082","35.2156368","דוד מרכוס 20, ירושלים, ישראל","uncategorized","B","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7c3f368e3e417efd","User rating: 5/5"
+"AO Hotel Venice Mestre","45.4814965","12.2389804","Via Ca' Marcello, 15, 30172 Venezia VE, איטליה","logistics","C","discovered","http://maps.google.com/?cid=2559267828695871316",
+"Alcron Bar","50.07993","14.4262041","Štěpánská 624/40, 110 00 Nové Město, צ׳כיה","food","C","discovered","http://maps.google.com/?cid=835522215946775730",
+"Amanohashidate Viewland","35.5519555","135.1813454","437 Monju, Miyazu, Kyoto 626-0001, יפן","uncategorized","C","discovered","http://maps.google.com/?cid=9832018647717181034",
+"Anonymous Shrink's Office","50.0803768","14.4221397","Jungmannova 23/11, 110 00 Nové Město, צ׳כיה","uncategorized","C","discovered","http://maps.google.com/?cid=10170776620065597442",
+"Antica Trattoria da Tito dal 1913","43.7819929","11.2604198","Via S. Gallo, 112/R, 50129 Firenze FI, איטליה","food","C","discovered","http://maps.google.com/?cid=14001773119209120616",
+"Antico Salumificio Anzuini - La Macelleria storica e Grill di Filiera","43.7685633","11.2572552","Via dei Neri, 82r/84r, 50122 Firenze FI, איטליה","meat","C","discovered","http://maps.google.com/?cid=7220880383589001097",
+"Atsuta Jingu","35.1273579","136.9086948","1 Chome-1-1 Jingu, Atsuta Ward, Nagoya, Aichi 456-8585, יפן","uncategorized","C","discovered","http://maps.google.com/?cid=12291755161046017723",
+"Aufzug Café","48.1883603","16.3804143","Wiedner Gürtel 4, 1040 Wien, אוסטריה","uncategorized","C","discovered","http://maps.google.com/?cid=3724250263658786365",
+"Autódromo Fernanda Pires da Silva","38.7490973","-9.393499","Av. Alfredo César Torres, 2646-901 Alcabideche, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=1500903805939394296",
+"BABAE","43.7687903","11.2473846","Via Santo Spirito, 21R, 50125 Firenze FI, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=14388278338523411158",
+"BOKAMORRA HAUTE COUTURE PIZZA & COCKTAILS","43.5070461","16.4325975","Trumbićeva obala 16, 21000, Split, קרואטיה","uncategorized","C","discovered","http://maps.google.com/?cid=12587645468638511921",
+"Baba bakery","41.6920272","44.7999395","4 Ivane Machabeli St, Tbilisi 0104, גאורגיה","food","C","discovered","http://maps.google.com/?cid=5767534453115147553",
+"Baraqa Georgian Cuisine","50.0903324","14.4224913","Kozí 915/7, 110 00 Staré Město, צ׳כיה","food","C","discovered","http://maps.google.com/?cid=4255381534977501839",
+"Batumi Dolphinarium","41.6476993","41.6235592","51 Rustaveli Ave, Batumi, גאורגיה","uncategorized","C","discovered","http://maps.google.com/?cid=16051990915821461367",
+"Bazari Orbeliani","41.697808","44.8041738","3a Vekua Street, Tbilisi, גאורגיה","uncategorized","C","discovered","http://maps.google.com/?cid=17939434807740088672",
+"Baía do Peixe - Cascais","38.6956164","-9.419788","Dom Carlos I Avenue 6, 2750-310 Cascais, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=9078313156070407844",
+"Bilušića Buk","44.0130577","16.0684128","22300, Krk, קרואטיה","uncategorized","C","discovered","http://maps.google.com/?cid=8506177486761053568",
+"Bled Castle","46.3699146","14.1006225","Grajska cesta 61, 4260 Bled, סלובניה","uncategorized","C","discovered","http://maps.google.com/?cid=990976632077902768",
+"Boothclub Amsterdam","52.3702804","4.888779","Raamsteeg 2, 1012 VZ Amsterdam, הולנד","uncategorized","C","discovered","http://maps.google.com/?cid=14654708133598634137",
+"Botanical Garden of Villa Carlotta","45.9858523","9.2306397","Via Statale, 5605, 22019 Tremezzo CO, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=3273507624804171626",
+"Boulder House","41.4881886","-8.0678151","Rua Rally de Portugal n.º1610, 4800-000 Fafe, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=3861438614260036818",
+"Cafe Stamba","41.7055473","44.7881813","14 Merab Kostava St, Tbilisi 0108, גאורגיה","food","C","discovered","http://maps.google.com/?cid=11609158590271921227",
+"Café im Kunsthistorischen Museum Wien","48.2039112","16.3615447","Maria-Theresien-Platz 1, 1010 Wien, אוסטריה","activity","C","discovered","http://maps.google.com/?cid=6072060520573645866",
+"Cascatas de Fecha de Barjas","41.7032472","-8.1093693","PV3R+F5X, פורטוגל","food","C","discovered","http://maps.google.com/?cid=15382936034980493503",
+"Cascate del Mulino","42.6482857","11.5126785","Strada Vicinale Molino del Bagno, 9/a, 58014 Manciano GR, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=3457818854320056671",
+"Centro Cultural Casapiano","38.6993618","-9.2061308","R. dos Jerónimos 7 A, 1400-210 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=16325227314536203884",
+"Chapel of Souls","41.1498821","-8.6056554","R. de Santa Catarina 428, 4000-444 Porto, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=1230150224831809461",
+"Chiesa della Pietà - Santa Maria della Visitazione","45.4340611","12.3449371","Riva degli Schiavoni, 30122 Venezia VE, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=15348996005781860060",
+"Church of Saint Ildefonso","41.1460999","-8.6066989","Praça da Batalha s/n, 4000-101 Porto, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=2129444736023985607",
+"Church of Saint Mary of Bethlehem","38.6975595","-9.2053949","Praça do Império, 1400-206 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=7543270160309464982",
+"Church of St. Ignatius","42.6395767","18.1091649","Poljana Ruđera Boškovića 7, 20000, Dubrovnik, קרואטיה","uncategorized","C","discovered","http://maps.google.com/?cid=13789876511782074518",
+"Chureito Pagoda","35.5012626","138.8013852","2-chome-4-1 Asama, Fujiyoshida, Yamanashi 403-0011, יפן","uncategorized","C","discovered","http://maps.google.com/?cid=15733293726462568345",
+"Ciampini Roma","41.9037442","12.4780424","Piazza di S. Lorenzo in Lucina, 29, 00186 Roma RM, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=336293268680546583",
+"Cidadela de Cascais","38.6939198","-9.4193804","Av. Dom Carlos I 246, 2750-310 Cascais, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=8104872259151464310",
+"Como","45.8139668","9.080769","22100 קומו, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=10399164710032163915",
+"Crazy Khinkali","48.1940351","16.3512936","Hofmühlgasse 19, 1060 Wien, אוסטריה","uncategorized","C","discovered","http://maps.google.com/?cid=17280728469387026682",
+"Croatian Association of Fine Artists","45.8099757","15.987163","Trg Žrtava Fašizma 16, 10000, Zagreb, קרואטיה","uncategorized","C","discovered","http://maps.google.com/?cid=7368679028090157422",
+"D'Origem - Museu do Azeite","41.2003121","-7.5339339","R. do Cabo da Rua 4, 5085-010 Casal de Loivos, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=13496045307375768019",
+"DAISI Georgian Gastro Bar","32.0214164","34.7395719","Ben Gurion Street 71, בת ים, 5945101, ישראל","food","C","discovered","http://maps.google.com/?cid=18103429880414861663",
+"Deer Park","34.6810292","135.8430668","160-1 Kasuganocho, Nara, 630-8212, יפן","nature","C","discovered","http://maps.google.com/?cid=8526435458450427534",
+"Dolce Vita Vintage Store","43.774379","11.2519162","Via del Giglio, 39, 50123 Firenze FI, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=16894585225322840900",
+"Drugi buk","44.0427703","16.2545653","22300, Kovačić, קרואטיה","uncategorized","C","discovered","http://maps.google.com/?cid=2738763178418031155",
+"Dulle Griet","51.0565719","3.7252779","Vrijdagmarkt 50, 9000 Gent, בלגיה","uncategorized","C","discovered","http://maps.google.com/?cid=4029422743128906269",
+"Elixir Mystery (Real Escape Adventure)","50.084205","14.420384","Havelská 1, 110 00 Staré Město, צ׳כיה","uncategorized","C","discovered","http://maps.google.com/?cid=10599563745465274084",
+"Escape Rooms Game Over - Santa Clara","38.7164936","-9.1238073","Campo de Santa Clara 160A, 1100-475 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=8088522077449611711",
+"Eye Film Museum","52.384348","4.901276","IJpromenade 1, 1031 KT Amsterdam, הולנד","activity","C","discovered","http://maps.google.com/?cid=12908095405107003065",
+"Fabrique des Lumières","52.3862142","4.8721931","Pazzanistraat 37, 1014 DB Amsterdam, הולנד","uncategorized","C","discovered","http://maps.google.com/?cid=5637556023098867524",
+"Farol Museu de Santa Marta","38.6904686","-9.4209839","Av. Rei Humberto II de Itália, 2750-800 Cascais, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=10054746161280358167",
+"Farol da Nazaré","39.6044982","-9.0852719","Estr. do Farol, Nazaré, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=12880384458871820081",
+"Faz Frio","38.7160092","-9.1469233","R. Dom Pedro V 96, 1250-094 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=12675064040744724487",
+"First Escape","48.2054899","16.3740015","Himmelpfortgasse 17, 1010 Wien, אוסטריה","uncategorized","C","discovered","http://maps.google.com/?cid=14003648751010791503",
+"Florence Flea Market","34.197338","-79.685533","4001 E Palmetto St, Florence, SC 29506, ארצות הברית","food","C","discovered","http://maps.google.com/?cid=3131329699914464083",
+"Flower Market","52.36676","4.892949","Singel 630, 600 Amsterdam, הולנד","food","C","discovered","http://maps.google.com/?cid=3498926145114459067",
+"Forno de Orca Cave","39.6064461","-9.083854","Praia do Norte, Nazaré, פורטוגל","nature","C","discovered","http://maps.google.com/?cid=9457116664110666021",
+"Fort Punta Christo","44.892205","13.7976279","Štinjan bb, 52100, Pula, קרואטיה","uncategorized","C","discovered","http://maps.google.com/?cid=3186797450245534203",
+"Fotoautomatica","43.7708309","11.2621383","V. dell'Agnolo, 117, 50122 Firenze FI, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=6021313782184418815",
+"Fugaku Wind Cave","35.4776963","138.6578277","יפן, 〒401-0332 Yamanashi, Minamitsuru District, Fujikawaguchiko, Saiko, 青木ヶ原２０６８−１","nature","C","discovered","http://maps.google.com/?cid=8036167332236648500",
+"Fuji-Q Highland","35.4869467","138.7805511","5 Chome-6-1 Shinnishihara, Fujiyoshida, Yamanashi 403-0017, יפן","uncategorized","C","discovered","http://maps.google.com/?cid=5173000043195545392",
+"Funicular da Graça - Gare Inferior","38.7165713","-9.1324544","R. dos Lagares 24, 1100-601 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=14228334671043970290",
+"Giuliano Ricchi Jewelry","43.7662527","11.2468394","Piazza Santo Spirito, 12, 50125 Firenze FI, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=8755803029568848207",
+"Giunti Odeon - Cinema","43.7709923","11.25249","Piazza degli Strozzi, 50123 Firenze FI, איטליה","activity","C","discovered","http://maps.google.com/?cid=14792560191014820992",
+"Golden Horn Beach","43.2575474","16.6342783","21420, Bol, קרואטיה","uncategorized","C","discovered","http://maps.google.com/?cid=14977118235190972064",
+"Gourmet Bar Basta","43.5063378","16.4326603","Obala kneza Branimira 1a, 21000, Split, קרואטיה","food","C","discovered","http://maps.google.com/?cid=9923043725098427207",
+"Grotta Giusti Thermal Spa Resort Tuscany, Autograph Collection","43.866806","10.831807","Via della Grotta Giusti, 1411, 51015 Monsummano Terme PT, איטליה","activity","C","discovered","http://maps.google.com/?cid=5198612013905828047",
+"Hachiko Statue","35.6590579","139.7006293","2 Chome-1 Dogenzaka, Shibuya, Tokyo 150-0043, יפן","uncategorized","C","discovered","http://maps.google.com/?cid=150846235021963194",
+"Hard Rock Cafe Amsterdam","52.3620587","4.8829907","Max Euweplein 57-61, 1017 MA Amsterdam, הולנד","food","C","discovered","http://maps.google.com/?cid=9758339633093310426",
+"Harry Potter Shop Harajuku","35.6686494","139.7044101","6 Chome-31-17 Jingumae, Shibuya, Tokyo 150-0001, יפן","uncategorized","C","discovered","http://maps.google.com/?cid=3840542123008475986",
+"Hotel Villa Cipressi, by R Collection Hotels","46.0093804","9.2848263","Via 4 Novembre, 22, 23829 Varenna LC, איטליה","logistics","C","discovered","http://maps.google.com/?cid=10326679550039597677",
+"Hotline 5 | Smash Burger","48.1844717","16.3622529","Wiedner Hauptstraße 111, 1050 Wien, אוסטריה","meat","C","discovered","http://maps.google.com/?cid=7063704638404689630",
+"Hvar Lavender Fields","43.1868072","16.5007449","5GP2+P7, 21454, Brusje, קרואטיה","uncategorized","C","discovered","http://maps.google.com/?cid=2043077391944216624",
+"Iasamani","41.6896832","44.7985362","33 Lado Asatiani St, Tbilisi 0105, גאורגיה","uncategorized","C","discovered","http://maps.google.com/?cid=16050610306007891080",
+"Igreja do Carmo","41.1473563","-8.6162729","R. do Carmo, 4050-164 Porto, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=94155390668792436",
+"Italian Stock Exchange","45.4656963","9.1831266","P.za degli Affari, 6, 20123 Milano MI, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=15434914583030867478",
+"Itsukushima Shrine Otorii Gate","34.2973072","132.318133","1-1 Miyajimacho, Hatsukaichi, Hiroshima 739-0588, יפן","uncategorized","C","discovered","http://maps.google.com/?cid=7183992600935288683",
+"Iyoshi Cola","35.6644704","139.7032379","יפן, 〒150-0001 Tokyo, Shibuya, Jingumae, 5 Chome−29−12 武居ビル","uncategorized","C","discovered","http://maps.google.com/?cid=18041460817623188293",
+"Jaap Eden Ice Rink","52.3489641","4.9453819","Radioweg 64, 1098 NJ Amsterdam, הולנד","uncategorized","C","discovered","http://maps.google.com/?cid=5524914866713756210",
+"Jardim Zoológico","38.7430914","-9.1692039","Praça Marechal Humberto Delgado, 1549-004 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=4948293234082239069",
+"Jardim do Morro","41.1371459","-8.6092935","Jardim do Morro, 4430-210 Vila Nova de Gaia, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=2970628053487203559",
+"Jardins d'Etretat","49.7106287","0.2059731","Av. Damilaville, 76790 Étretat, צרפת","uncategorized","C","discovered","http://maps.google.com/?cid=14476141150579322560",
+"Jardins do Palácio de Cristal","41.1482682","-8.6255165","R. de D Manuel II, 4050-346 Porto, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=7236363821226401080",
+"Jesuit Stairs","42.6396116","18.1093696","Ul. Josipa Jurja Strossmayera 2, 20000, Dubrovnik, קרואטיה","uncategorized","C","discovered","http://maps.google.com/?cid=5382211934115492595",
+"Jo Malone London Boutique","43.7715809","11.2550956","6/, Via degli Speziali, 8, 50123 Firenze FI, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=18027322328576387285",
+"Jolly Rancher Remix","40.2899592","-76.6538539","100 Hersheypark Dr, Hershey, PA 17033, ארצות הברית","nature","C","discovered","http://maps.google.com/?cid=7649826801206639988",
+"KSP סניף אילת מרכז התיירות","29.5508512","34.952038","עגור 4, אילת, 8851001, ישראל","uncategorized","C","discovered","http://maps.google.com/?cid=7237301143027755979",
+"Katsuoji","34.8657752","135.491087","2914-1 Aomatani, Minoh, Osaka 562-8508, יפן","uncategorized","C","discovered","http://maps.google.com/?cid=963425562183482676",
+"Kellyxír - alchemical pub / Alchemical Lab Pub","50.0881438","14.3988675","Jánský vršek 312, 118 00 Malá Strana, צ׳כיה","uncategorized","C","discovered","http://maps.google.com/?cid=18309052465466558765",
+"Knin Fortress","44.0342952","16.193368","Tvrđava 3, 22300, Knin, קרואטיה","uncategorized","C","discovered","http://maps.google.com/?cid=1833184143151826032",
+"Kobe Sushi Restaurant","45.4560976","9.1805782","Corso di Porta Ticinese, 60, 20123 Milano MI, איטליה","food","C","discovered","http://maps.google.com/?cid=1428757828935112486",
+"Kravica Waterfall","43.15602","17.6081011","Zvirići 88320, בוסניה והרצגובינה","nature","C","discovered","http://maps.google.com/?cid=17779517597692586133",
+"Krka National Park","43.8666017","15.9724838","קרואטיה","nature","C","discovered","http://maps.google.com/?cid=1360602577226447160",
+"Krka River Bridge","44.0327868","16.1903252","Drniška ul. 2, 22300, Ljubač, קרואטיה","uncategorized","C","discovered","http://maps.google.com/?cid=10721244575401592647",
+"Kuromon Market","34.6653511","135.5062417","2 Chome-21 Nipponbashi, Chuo Ward, Osaka, 542-0073, יפן","food","C","discovered","http://maps.google.com/?cid=12402117845945925953",
+"L' Bacaro de' Bischeri","45.4386629","12.3348376","Ruga dei Oresi, 57, 30125 Venezia VE, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=3250123625675676351",
+"LAWSON Kawaguchiko Station","35.4986175","138.7671672","3495-2 Funatsu, Fujikawaguchiko, Minamitsuru District, Yamanashi 401-0301, יפן","logistics","C","discovered","http://maps.google.com/?cid=6997495198343809878",
+"LX Factory","38.7034602","-9.1787831","R. Rodrigues de Faria 103 Piso 3, 1300-501 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=3741271562934109100",
+"La Bottega Dei Mascareri","45.4366295","12.3284489","Calle dei Saoneri, 2720 f, 30125 Venezia VE, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=2213504872902063636",
+"La Ferme de l'Abbaye","48.6892152","1.9187249","Domaine de l’Abbaye des Vaux-de-Cernay, 78720 Cernay-la-Ville, צרפת","uncategorized","C","discovered","http://maps.google.com/?cid=276509061888034100",
+"La Paisanita Žižkov","50.0846618","14.4542575","Úřad městské části, Havlíčkovo nám. 3/700, 130 00 Praha 3-Žižkov, צ׳כיה","uncategorized","C","discovered","http://maps.google.com/?cid=11953320464407210266",
+"Lago Arpy","45.7241712","7.0002658","Lago d' Morgex, 11017 Arpy AO, איטליה","nature","C","discovered","http://maps.google.com/?cid=17156197766441182167",
+"Le Roi de la Gaufre","50.848522","4.353582","Rue de la Fourche 41, 1000 Bruxelles, בלגיה","uncategorized","C","discovered","http://maps.google.com/?cid=17545174564705964395",
+"Lindt Chocolate Boutique","48.186148","16.3025607","Hietzinger Hauptstraße 1A, 1130 Wien, אוסטריה","uncategorized","C","discovered","http://maps.google.com/?cid=17088284209798755655",
+"Lindt Schweizer Maître Chocolatier","48.2026877","16.3701081","Kärntner Str. 53/55, 1010 Wien, אוסטריה","uncategorized","C","discovered","http://maps.google.com/?cid=8840955908435513105",
+"Lisbon Story Centre","38.7078989","-9.1353652","Praça do Comércio 78, 1100-148 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=112945307802060332",
+"Livraria Lello","41.1469055","-8.6147746","R. das Carmelitas 144, 4050-161 Porto, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=9153637019004560463",
+"LockStars Lockers - luggage storage in Sofia","42.6978913","23.3223441","Подлез ЦУМ, Sofia Center, 1000 Sofia, בולגריה","logistics","C","discovered","http://maps.google.com/?cid=11579050146306014953",
+"Logar Valley","46.3831161","14.6200864","Logarska Dolina 9, 3335 Solčava, סלובניה","nature","C","discovered","http://maps.google.com/?cid=2237108341194816476",
+"Lolita","41.7056942","44.7868573","7 Tamar Chovelidze St, Tbilisi, גאורגיה","uncategorized","C","discovered","http://maps.google.com/?cid=10161991376116800545",
+"Lovers Canal Cruises Amsterdam","52.3785759","4.8972127","Prins Hendrikkade 20B, 1012 TL Amsterdam, הולנד","uncategorized","C","discovered","http://maps.google.com/?cid=3138390483094157780",
+"Lumia Gallery","50.0872307","14.424276","Celetná 596/15, 110 00 Staré Město, צ׳כיה","uncategorized","C","discovered","http://maps.google.com/?cid=16567049419362557296",
+"MAAT - Museum of Art, Architecture and Technology","38.6958561","-9.193312","Av. Brasília, 1300-598 Lisboa, פורטוגל","activity","C","discovered","http://maps.google.com/?cid=14633127902029896644",
+"Man Hanging Out - David Černý's Statue of Sigmund Freud","50.0841654","14.4182994","Husova, 110 00 Staré Město, צ׳כיה","uncategorized","C","discovered","http://maps.google.com/?cid=17042887168490056698",
+"Manojlovački slapovi","44.0154986","16.0255979","22305, Ivoševci, קרואטיה","uncategorized","C","discovered","http://maps.google.com/?cid=16640595286808581517",
+"Miradouro Olhos do Tua","41.2380099","-7.3825805","Castanheiro, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=18059806935118251632",
+"Miramar","49.5333367","8.6430577","Waidallee 100, 69469 Weinheim-Waid, גרמניה","uncategorized","C","discovered","http://maps.google.com/?cid=13357847305662495940",
+"Miso Sushi","52.3700652","4.8891949","Spuistraat 267, 1012 VR Amsterdam, הולנד","uncategorized","C","discovered","http://maps.google.com/?cid=12036032960218262049",
+"Mominoki House Ueno Shop","35.7087146","139.7736793","4 Chome-5-2 Ueno, Taito City, Tokyo 110-0005, יפן","uncategorized","C","discovered","http://maps.google.com/?cid=10326772162495764060",
+"Moulin Jaune","48.8625975","2.8845027","GPS 48.86113, 1 Sente du Moulin Nicole u bout de la rue des Abbesses (zone artisanale, 33 Rue des Abbesses 2.892526, 77580 Crécy-la-Chapelle, צרפת","uncategorized","C","discovered","http://maps.google.com/?cid=9210892639997157097",
+"Mount Srdj hiking tours","42.6470693","18.105517","Jadranska cesta, 20000, Dubrovnik, קרואטיה","activity","C","discovered","http://maps.google.com/?cid=7080352092781789107",
+"Muralhas Fernandinas do Porto","41.1415444","-8.6094661","Escadas do Caminho Novo 17, 4000-173 Porto, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=8999422360131879368",
+"Museu Condes de Castro Guimarães","38.6920844","-9.4216236","Av. Rei Humberto II de Itália, 2750-319 Cascais, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=17510942584847406697",
+"Museu da Cidade do Porto","41.1490054","-8.6154767","Praça de Carlos Alberto 71, 4050-159 Porto, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=6058216603665251134",
+"Nadi! Bistro","38.7206838","-9.1543088","Rua de São Filipe Néri 21, 1250-225 Lisboa, פורטוגל","food","C","discovered","http://maps.google.com/?cid=15239323641331581765",
+"Nara Park","34.685047","135.843012","Nara, יפן","nature","C","discovered","http://maps.google.com/?cid=17972930374069941334",
+"Narusawa Ice Cave","35.4749276","138.6669694","יפן, 〒401-0320 Yamanashi, Minamitsuru District, Narusawa, 鳴沢8533","nature","C","discovered","http://maps.google.com/?cid=8057440359102355314",
+"Nashi Store Firenze","43.770553","11.25523","Via dei Lamberti, 1, 50123 Firenze FI, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=8978942542633333192",
+"Noboribetsu Jigokudani Valley","42.4976231","141.1486602","無番地 Noboribetsuonsencho, Noboribetsu, Hokkaido 059-0551, יפן","nature","C","discovered","http://maps.google.com/?cid=14390601882475151052",
+"Northern Velebit National Park","44.7656747","14.9440741","Krasno 96, 53274, Krasno, קרואטיה","nature","C","discovered","http://maps.google.com/?cid=13373934447344820850",
+"ORO Marjanishvili","41.707979","44.7945411","5 Kote Marjanishvili St, Tbilisi 0102, גאורגיה","uncategorized","C","discovered","http://maps.google.com/?cid=7960406190013071293",
+"Oishi Park","35.522904","138.7457522","２５２５番地の１１先 Oishi, Fujikawaguchiko, Minamitsuru District, Yamanashi 401-0305, יפן","nature","C","discovered","http://maps.google.com/?cid=11686369390762469636",
+"Onsen - Fuji Yurari Hot Spring","35.4761278","138.6915967","8532-5, Narusawa, Minamitsuru District, Yamanashi 401-0320, יפן","uncategorized","C","discovered","http://maps.google.com/?cid=14348185201046083084",
+"Original Vienna Snowglobe factory","48.2242581","16.331158","Schumanngasse 87, 1170 Wien, אוסטריה","uncategorized","C","discovered","http://maps.google.com/?cid=13344736909984599402",
+"Osteria Pastella","43.7738868","11.2477938","Via della Scala, 17 R, 50123 Firenze FI, איטליה","food","C","discovered","http://maps.google.com/?cid=6959710244317015688",
+"Park and Palace of Monserrate","38.7942297","-9.4206357","R. Barbosa du Bocage 136, 2710-405 Sintra, פורטוגל","food|nature","C","discovered","http://maps.google.com/?cid=3893787195456529206",
+"Parque Natural da Arrábida","38.4693714","-9.0643419","פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=12603540988883000104",
+"Passadiços do Corgo","41.2967539","-7.7396452","R. da Guia 6, 5000-621 Vila Real, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=17080554775635487040",
+"Peneda-Gerês National Park","41.7282173","-8.1626317","פורטוגל","nature","C","discovered","http://maps.google.com/?cid=7861380121707580854",
+"Piazza Strozzi","43.771294","11.2522376","Piazza degli Strozzi, 50123 Firenze FI, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=15378278106005101790",
+"Pierluigi","41.8967899","12.468655","Piazza de' Ricci, 144, 00186 Roma RM, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=1956858223217939296",
+"Pierre Marcolini I The Biscuit Shop","50.840954","4.354339","Place du Grand Sablon 39, 1000 Bruxelles, בלגיה","uncategorized","C","discovered","http://maps.google.com/?cid=13795153575945564245",
+"Pierre Marcolini Zavel","50.8413367","4.3536546","Rue des Minimes 1, 1000 Bruxelles, בלגיה","uncategorized","C","discovered","http://maps.google.com/?cid=15661770362245375600",
+"Pink Street","38.7072464","-9.1437847","R. Nova do Carvalho 21 23, 1200-291 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=11013617497986018078",
+"Plataforma","38.7650867","-9.3437298","Largo Joaquim José Correia 38, 2635-047 Rio de Mouro, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=12531773321353051640",
+"Ponte da Misarela","41.6920025","-8.019547","Sidros, Montalegre, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=2076448055046603848",
+"Ponto Grande Lunch on Tour","41.190783","-7.545759","R. António Manuel Saraiva 41, 5085-037 Vila Real, פורטוגל","activity","C","discovered","http://maps.google.com/?cid=12804276148715014258",
+"Porto Cathedral","41.1428531","-8.6111165","Terreiro da Sé, 4050-573 Porto, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=5340368308542978025",
+"Porto São Bento","41.145492","-8.609544","Praça de Almeida Garrett, 4000-069 Porto, פורטוגל","food","C","discovered","http://maps.google.com/?cid=1319433874625296190",
+"Punta Spartivento","45.9912845","9.2654879","Via Eugenio Vitali, 22021 Bellagio CO, איטליה","activity","C","discovered","http://maps.google.com/?cid=1443080216153676875",
+"Quinta da Regaleira","38.7963069","-9.3960244","2710-567 Sintra, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=13826549032849925411",
+"Real Companhia Velha - 1st Demarcation Museum","41.1368193","-8.6185813","Alameda da, R. de Serpa Pinto 44B, 4400-012 Vila Nova de Gaia, פורטוגל","activity","C","discovered","http://maps.google.com/?cid=8801275696413313484",
+"Red Light Secrets Museum","52.3736815","4.8990206","Oudezijds Achterburgwal 60, 1012 DP Amsterdam, הולנד","activity","C","discovered","http://maps.google.com/?cid=2080204606597770313",
+"Rembrandts Amsterdam Experience","52.3624302","4.8835827","Weteringschans 2, 1017 SG Amsterdam, הולנד","activity","C","discovered","http://maps.google.com/?cid=2041355217718856482",
+"Retro Design Center","47.6720045","19.0793991","Szentendre, Rév u. 4, 2000 הונגריה","uncategorized","C","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x73886c23a2f257b6","User rating: 2/5"
+"Rialto Market","45.4396574","12.3337524","Calle Prima de la Donzella, 306, 30125 Venezia VE, איטליה","food","C","discovered","http://maps.google.com/?cid=3540078105342841897",
+"River Slunjčica Spring","45.0785295","15.5880932","Općina, 47240, Slunj, קרואטיה","uncategorized","C","discovered","http://maps.google.com/?cid=8097417567734111002",
+"Rosa da Rua","38.7146568","-9.1459637","R. da Rosa 265, 1200-385 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=9501906361862527957",
+"Roski waterfall","43.9037295","15.9749626","Šetnica Roški Slap - Visovac, 22324, Bogatić, קרואטיה","nature","C","discovered","http://maps.google.com/?cid=12817609757364630042",
+"SALOMON Shibuya Store","35.6651514","139.7032085","יפן, 〒150-0001 Tokyo, Shibuya, Jingumae, 6 Chome−16−13 Naias神宮前ビル 1-2F","uncategorized","C","discovered","http://maps.google.com/?cid=11500096422956191937",
+"SENTORI Vineria di Quartiere","41.8676124","12.5273222","Via Tommaso Inghirami, 98, 00179 Roma RM, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=12532630998612991776",
+"SEPHORA FIRENZE MARTELLI","43.773746","11.255642","Via de' Martelli, 10, 50129 Firenze FI, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=10585148727263008443",
+"SEPHORA FIRENZE S.MARIA NOVELLA","43.7765073","11.2484986","Grandi Stazioni GROUND FLOOR, Piazza della Stazione, 33, 50123 Firenze FI, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=9230459824831606204",
+"Sanctuary of Christ the King","38.6786319","-9.1713326","Av. do Cristo Rei, 2800-058 Almada, פורטוגל","food","C","discovered","http://maps.google.com/?cid=7209122328404945537",
+"Sant' Eustachio Caffè","41.8982749","12.4754254","Piazza di S. Eustachio, 82, 00186 Roma RM, איטליה","food","C","discovered","http://maps.google.com/?cid=7298372981774856920",
+"Santa Maria","38.6911756","-9.4214114","Praceta Farol, 2750-642 Cascais, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=7346071673830218591",
+"SantaLucia - Ristorante & Cocktail Bar","41.9002996","12.4724612","Largo Febo, 12, 00186 Roma RM, איטליה","food","C","discovered","http://maps.google.com/?cid=14079297076193046784",
+"Santuário de Nossa Senhora dos Remédios","41.0916737","-7.8166895","Monte de Santo Estevão, 5100-025 Lamego, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=1579440064669121509",
+"Satchashnike - Restaurant, Pub & Grill","41.7105617","44.7840277","60 Merab Kostava St, Tbilisi 0180, גאורגיה","food|meat","C","discovered","http://maps.google.com/?cid=10811108984381046479",
+"Sea Organ","44.11722","15.2199087","Obala kralja Petra Krešimira IV, 23000, Zadar, קרואטיה","uncategorized","C","discovered","http://maps.google.com/?cid=13150488992529175466",
+"Semi di grano Home Restaurant","46.0256776","9.2909321","Via delle Corti, 3, 23828 Gittana LC, איטליה","food","C","discovered","http://maps.google.com/?cid=3125249593820388874",
+"Sephora","38.71103","-9.139588","ARMAZÉNS DO CHIADO MALL, R. do Carmo, 1200-094 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=8883800376311330903",
+"Shushabandi","41.7086122","44.7800965","ღვინის ქარხანა, 1 Vasil Petriashvili Street, Wine Factory N 1, 1 ვასილ პეტრიაშვილის ქ, Tbilisi 0179, גאורגיה","uncategorized","C","discovered","http://maps.google.com/?cid=14130066479408630547",
+"Skradinski Buk waterfall","43.8176375","15.923255","Put svetog jere, 22222, Skradin, קרואטיה","nature","C","discovered","http://maps.google.com/?cid=18291294198162022316",
+"Skywalk Biokovo","43.2854126","17.0847386","Biokovska cesta, 21325, Tučepi, קרואטיה","uncategorized","C","discovered","http://maps.google.com/?cid=8287484663571940621",
+"Slap Krčić Knin","44.041652","16.2351624","Dalibora Defilipisa, 22300, Kovačić, קרואטיה","uncategorized","C","discovered","http://maps.google.com/?cid=4680822151140837602",
+"Slap Peričnik","46.4391857","13.893777","4281 Mojstrana, סלובניה","uncategorized","C","discovered","http://maps.google.com/?cid=3514961209664406345",
+"Slap za mlin","44.039308","16.278544","Unnamed Road, 22310, Polača, קרואטיה","logistics","C","discovered","http://maps.google.com/?cid=18085732256049872054",
+"Speculum Alchemiae","50.0908333","14.4225","Haštalská 1, 110 00 Staré Město, צ׳כיה","uncategorized","C","discovered","http://maps.google.com/?cid=862081189472864776",
+"Statue of Liberty","35.6278727","139.7718346","1 Chome-4-2 Daiba, Minato City, Tokyo 135-0091, יפן","uncategorized","C","discovered","http://maps.google.com/?cid=13582406982295785891",
+"Stohrer","48.8652644","2.3468149","51 Rue Montorgueil, 75002 Paris, צרפת","uncategorized","C","discovered","http://maps.google.com/?cid=10364766292052201131",
+"Super Bock Group","41.2140335","-8.6265688","Via Norte Aptd. 1044, 4466-955 Leça do Balio, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=12216629890825832328",
+"Supplizio","41.897487","12.467911","Via dei Banchi Vecchi, 143, 00186 Roma RM, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=3996016769783120937",
+"São Bento station","41.1442942","-8.6105935","Av. Dom Afonso Henriques, 4000-069 Porto, פורטוגל","logistics","C","discovered","http://maps.google.com/?cid=5084096334174903872",
+"T Fondaco Rooftop Terrace","45.4382733","12.3365754","San Marco, 5541, 30124 Venezia VE, איטליה","viewpoint","C","discovered","http://maps.google.com/?cid=3132879262492274582",
+"TRAVELER’S FACTORY STATION","35.6824079","139.7662649","יפן, 〒100-0005 Tokyo, Chiyoda City, Marunouchi, 1 Chome−9−1 JR 東日本東京駅地下 1 階改札外","logistics","C","discovered","http://maps.google.com/?cid=4380050185974589460",
+"Takachiho Gorge","32.7012777","131.3007272","Mukoyama, Takachiho, Nishiusuki District, Miyazaki 882-1103, יפן","nature","C","discovered","http://maps.google.com/?cid=6375229180841893771",
+"Taverna Mari Bakuriani","41.7470583","43.5339885","Bakuriani, גאורגיה","uncategorized","C","discovered","http://maps.google.com/?cid=15288909132615967593",
+"The Greeting to the Sun","44.1175922","15.2198229","Istarska obala, 23000, Zadar, קרואטיה","uncategorized","C","discovered","http://maps.google.com/?cid=13336879238238292918",
+"The Making of Harry Potter - Warner Bros. Studio Tour Tokyo","35.745183","139.6460909","1 Chome-1-7 Kasugacho, Nerima City, Tokyo 179-0074, יפן","activity","C","discovered","http://maps.google.com/?cid=9641848556797388443",
+"The Milk & Honey Distillery","32.0499956","34.7632799","התחייה 16, תל אביב-יפו, ישראל","uncategorized","C","discovered","http://maps.google.com/?cid=14154175258262571173",
+"The Underdog® Flagship Store Thissio","37.974959","23.7191374","Iraklidon 8, Athina 118 51, יוון","uncategorized","C","discovered","http://maps.google.com/?cid=16726594657126156132",
+"Third cascade","44.0397229","16.2658328","Unnamed Road, 22300, Kovačić, קרואטיה","logistics","C","discovered","http://maps.google.com/?cid=14120155156878919216",
+"To-ji Temple","34.9803395","135.7476935","1 Kujocho, Minami Ward, Kyoto, 601-8473, יפן","uncategorized","C","discovered","http://maps.google.com/?cid=15271193799445412112",
+"Town Hall Tower","50.0615295","19.9364793","Rynek Główny 1, 30-001 Kraków, פולין","viewpoint","C","discovered","http://maps.google.com/?cid=774207539409295598",
+"Tram 28","38.7152423","-9.1360784","Praça Martim Moniz 577, 1100-341 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=10561565466108241236",
+"Trattoria Marione","43.7717474","11.2505558","Via della Spada, 27R, 50123 Firenze FI, איטליה","food|activity","C","discovered","http://maps.google.com/?cid=1257300512138157134",
+"Trigo de Cantos - Amarante Tavern","41.1460143","-8.6035613","Praça dos Poveiros 122, 4000-393 Porto, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=5647790835214762770",
+"Truso Gorge","42.5814312","44.4646739","HFJ7+HVF, Kvemo Okrokana, גאורגיה","nature","C","discovered","http://maps.google.com/?cid=16265944741368130139",
+"Tsurumi Ryokuchi Park","34.7114354","135.5717236","2-163 Ryokuchikoen, Tsurumi Ward, Osaka, 538-0036, יפן","nature","C","discovered","http://maps.google.com/?cid=4562824874247146475",
+"Uncle Rikuro’s Cheesecake Daimaru Shinsaibashi","34.673163","135.5009632","יפן, 〒542-8501 Osaka, Chuo Ward, Shinsaibashisuji, 1 Chome−7−1 大丸心斎橋店 地下1階","uncategorized","C","discovered","http://maps.google.com/?cid=12078478413620141099",
+"Uniqlo Ginza Flagship Store","35.6702448","139.7634686","יפן, 〒104-0061 Tokyo, Chuo City, Ginza, 6 Chome−9−5 ギンザコマツ東館 １階～１２階","uncategorized","C","discovered","http://maps.google.com/?cid=5036491705805576403",
+"Unresolved saved place 103",,,,"uncategorized","C","discovered","http://maps.google.com/?q=43.776118,11.253123","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 116",,,,"uncategorized","C","discovered","http://maps.google.com/?q=53023+Bagni+San+Filippo,+%D0%A1%D0%B8%D0%B5%D0%BD%D0%B0,+%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0x13296a79868cdf55:0x26082c9206497671","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 117",,,,"uncategorized","C","discovered","http://maps.google.com/?q=43.063899,11.560188","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 12",,,,"uncategorized","C","discovered","http://maps.google.com/?q=68000+Colmar,+France&ftid=0x479165dff670c1cf:0xe35d7e3e616ce966","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 126",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Dam,+Amsterdam,+%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B&ftid=0x47c609c73b4b14ef:0x7e86dfc7e2ced272","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 13",,,,"uncategorized","C","discovered","http://maps.google.com/?q=56812+Cochem,+Germany&ftid=0x47be470b0fbd4815:0xbca1249e69a82a90","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 131",,,,"uncategorized","C","discovered","http://maps.google.com/?q=52.366040,4.896949","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 135",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Largo+da+Luz,+Lisboa,+Portugal&ftid=0xd1932d1faba6677:0x11f264451f2fd66f","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 139",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Cais+da+Ribeira,+Porto,+%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0xd2464e0c8cbfb51:0xdffdd074ee6ba7be","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 146",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Durbuy,+Belgium&ftid=0x47c04e593e3f3c65:0xd44aee13bf7926db","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 148",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Liguria,+Italy&ftid=0x12d31265d82c4fb5:0x105e67d473c7c90","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 15",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Lake+HaNeelam&ftid=0x151c4222bde0765f:0x334fba7c1b0594f","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 157",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Amarante,+Portugal&ftid=0xd24bef00c79b2e3:0xc36de6016e7f05ee","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 171",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Museumplein,+1071+DJ+Amsterdam,+Netherlands&ftid=0x47c609efc7dc0ae7:0x56a4fbb45c23f3bf","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 179",,,,"uncategorized","C","discovered","http://maps.google.com/?q=4845-063+Ger%C3%AAs,+Portugal&ftid=0xd2518e6002dd37f:0x59bab107083aaed3","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 180",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Grutas+de+Mira+de+Aire,+2485-050+Mira+de+Aire,+Portugal&ftid=0xd189ba827e6bb51:0x57947a0b42e675a9","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 192",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Berlengas,+Portugal&ftid=0xd1f42daf0fda36b:0x2120431bda11174f","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 195",,,,"uncategorized","C","discovered","http://maps.google.com/?q=%D0%9A%D0%B0%D1%88%D0%BA%D0%B0%D0%B9%D1%88,+%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0xd1ec47379b79a97:0x870d3b7e1807bbc2","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 198",,,,"uncategorized","C","discovered","http://maps.google.com/?q=%D0%90%D0%BB%D0%B1%D1%83%D1%84%D0%B5%D0%B9%D1%80%D0%B0,+%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0xd1aceae38ddc41f:0xed22e7a562441045","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 199",,,,"uncategorized","C","discovered","http://maps.google.com/?q=%D0%9C%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D0%B0,+%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0xd107dbb4664ccab:0x24c06972823ba698","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 20",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Lago+d'+Arpy,+11017+Morgex,+Aosta+Valley,+Italy&ftid=0x47893fa41d492179:0xdcdded58609cb5bf","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 200",,,,"uncategorized","C","discovered","http://maps.google.com/?q=%D0%A1%D0%B8%D0%BD%D1%82%D1%80%D0%B0,+%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0xd1edac1a7510ee9:0x13585cc0b00f573c","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 209",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Ribeira,+Porto,+Portugal&ftid=0xd2464e724adc789:0xa72dd2f0f7d62f0","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 214",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Serra+do+Bu%C3%A7aco,+Portugal&ftid=0xd23028a4cbd6589:0x26a01cf679784bc8","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 219",,,,"uncategorized","C","discovered","http://maps.google.com/?q=37.119719,-8.522317","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 227",,,,"uncategorized","C","discovered","http://maps.google.com/?q=31.99096487359348,34.88823227584362","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 231",,,,"uncategorized","C","discovered","http://maps.google.com/?q=22016+%D0%A2%D1%80%D0%B5%D0%BC%D0%B5%D0%B4%D0%B7%D0%BE,+%D0%9A%D0%BE%D0%BC%D0%BE,+%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0x478422d6c3e57d7f:0xe8247e3e5a70bb9b","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 232",,,,"uncategorized","C","discovered","http://maps.google.com/?q=23900+%D0%9B%D0%B5%D0%BA%D0%BA%D0%BE,+%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0x478402d32a793355:0x8f7caba70bc80602","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 233",,,,"uncategorized","C","discovered","http://maps.google.com/?q=22017+%D0%9C%D0%B5%D0%BD%D0%B0%D0%B4%D0%B6%D0%BE,+%D0%9A%D0%BE%D0%BC%D0%BE,+%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0x47843d067e66a05f:0x829849a45fdf6c27","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 236",,,,"uncategorized","C","discovered","http://maps.google.com/?q=22034+%D0%91%D1%80%D1%83%D0%BD%D0%B0%D1%82%D0%B5,+%D0%9A%D0%BE%D0%BC%D0%BE,+%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0x47869dc4c50efc33:0xe5eaab4a72004a78","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 237",,,,"uncategorized","C","discovered","http://maps.google.com/?q=22100+%D0%9A%D0%BE%D0%BC%D0%BE,+%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0x47869c481027ed63:0xb99b96af785ff524","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 240",,,,"uncategorized","C","discovered","http://maps.google.com/?q=31.747202569724838,35.19622463732958","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 248",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Hamme+Yesha%60&ftid=0x15031759aa989c81:0xd2044e6317114cb1","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 250",,,,"uncategorized","C","discovered","http://maps.google.com/?q=48.185728,16.312516","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 251",,,,"uncategorized","C","discovered","http://maps.google.com/?q=48.210599,16.358267","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 255",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Kurbadstra%C3%9Fe+14,+1100+Wien,+%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F&ftid=0x476dabd53c02a977:0x684b4bbaa50db60a","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 273",,,,"uncategorized","C","discovered","http://maps.google.com/?q=%D0%97%D0%B5%D0%BC%D0%BC%D0%B5%D1%80%D0%B8%D0%BD%D0%B3,+%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F&ftid=0x476ddf75292f8947:0x3a377c59272dd626","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 276",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Stephansplatz,+1010+Wien,+%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F&ftid=0x476d079f3e69c281:0x20563c156aa1fde","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 277",,,,"uncategorized","C","discovered","http://maps.google.com/?q=48.208402,16.373490999999998","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 278",,,,"uncategorized","C","discovered","http://maps.google.com/?q=48.191468,16.380916","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 279",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Karlsplatz,+Wien,+Austria&ftid=0x476d07653fefd931:0xbf63bf6f7ab59e29","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 290",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Hallstatt,+Austria&ftid=0x4771366f6e414663:0x16c165596a26c1ad","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 295",,,,"uncategorized","C","discovered","http://maps.google.com/?q=45.814877,15.970992","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 310",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Dinara,+22310,+Kijevo,+Croatia&ftid=0x47601477a7aa4a39:0x247c9d09501620ee","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 311",,,,"uncategorized","C","discovered","http://maps.google.com/?q=43.965553,16.412434","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 315",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Ul.+Stjepana+Ivi%C4%8Devi%C4%87a+22,+21300,+Makarska,+%D0%A5%D0%BE%D1%80%D0%B2%D0%B0%D1%82%D0%B8%D1%8F&ftid=0x134aee6ea3675ce7:0xded70b0fc678569f","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 316",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Od+Gaja+54,+20000,+Dubrovnik,+Croatia&ftid=0x134c75264dde72d7:0x4a1e6e08de227a9d","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 317",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Od+Gaja+19,+20000,+Dubrovnik,+Croatia&ftid=0x134c75264612051f:0x867be7cc285b2029","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 323",,,,"uncategorized","C","discovered","http://maps.google.com/?q=42.641481,18.111448","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 324",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Sr%C4%91,+20000,+%D0%94%D1%83%D0%B1%D1%80%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA,+%D0%A5%D0%BE%D1%80%D0%B2%D0%B0%D1%82%D0%B8%D1%8F&ftid=0x134c74ce54f3d091:0xda9769209a7265b7","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 326",,,,"uncategorized","C","discovered","http://maps.google.com/?q=43.976883,16.429928","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 330",,,,"uncategorized","C","discovered","http://maps.google.com/?q=47240,+Rastoke,+Croatia&ftid=0x4763ff73f2e4daeb:0x2600ad5153365d72","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 331",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Stiniva,+21480,+Marinje+Zemlje,+Croatia&ftid=0x13359608cbde422d:0xa99242f02de7b4c0","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 333",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Omi%C5%A1,+Croatia&ftid=0x134a98152ce46845:0x46516efef6fd3fc2","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 335",,,,"uncategorized","C","discovered","http://maps.google.com/?q=4280+%D0%9A%D1%80%D0%B0%D0%BD%D1%8C%D1%81%D0%BA%D0%B0-%D0%93%D0%BE%D1%80%D0%B0,+%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F&ftid=0x477a7ce5980f8af5:0xdc10e282bbdf9dde","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 343",,,,"uncategorized","C","discovered","http://maps.google.com/?q=%D0%AE%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5+%D0%90%D0%BB%D1%8C%D0%BF%D1%8B,+5232+Bohinjsko+jezero,+%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F&ftid=0x477a60380828a19b:0x5415362912f4f82f","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 344",,,,"uncategorized","C","discovered","http://maps.google.com/?q=%D0%91%D0%BE%D1%85%D0%B8%D0%BD%D1%8C%D1%81%D0%BA%D0%BE,+4265+Bohinjsko+jezero,+%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F&ftid=0x477af35779d240f3:0x3fb08f3272bb08cd","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 345",,,,"uncategorized","C","discovered","http://maps.google.com/?q=4260+%D0%91%D0%BB%D0%B5%D0%B4,+%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F&ftid=0x477a8e1dd7139961:0x400f81c823fec50","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 347",,,,"uncategorized","C","discovered","http://maps.google.com/?q=%D0%A0%D0%BE%D0%B2%D0%B8%D0%BD%D1%8C,+%D0%A5%D0%BE%D1%80%D0%B2%D0%B0%D1%82%D0%B8%D1%8F&ftid=0x477cbf634d5c86ff:0xffc69f61c598ae53","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 351",,,,"uncategorized","C","discovered","http://maps.google.com/?q=%D0%91%D0%BB%D0%B5%D0%B4%D1%81%D0%BA%D0%BE%D0%B5+%D0%BE%D0%B7.,+4260+Bled,+%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F&ftid=0x477a9139b9d9e421:0x83cd8331dd0107ac","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 352",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Dubrovnik,+Croatia&ftid=0x134b8ba20835e87d:0x400ad50862bd500","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 353",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Bi%C5%A1evo,+Croatia&ftid=0x1335b87b4c8a655d:0x1e2d602a4ade81ae","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 355",,,,"uncategorized","C","discovered","http://maps.google.com/?q=San+Marco,+30100+Venice,+Metropolitan+City+of+Venice,+Italy&ftid=0x477eb1d094386ca5:0x18526446127edbff","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 358",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Fondaco+dei+Tedeschi,+Calle+del+Fontego+dei+Tedeschi,+30100+Venezia+VE,+Italy&ftid=0x477eb1dbc41d43f1:0xa6b4ace23437a36c","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 61",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Montenegro&ftid=0x134c3217242c1fcb:0x384c9d866effd346","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 62",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Bateti+Lake,+Georgia&ftid=0x404342a613017c4f:0x98d9ea95b8abbab9","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 72",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Nokonoshima+Island,+Noko,+Nishi+Ward,+Fukuoka,+819-0012,+Japan&ftid=0x3541ed2c7331c57d:0xd86d98150fb1a2bd","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 74",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Kumamoto,+Japan&ftid=0x3540f414acf11b4f:0x1a51ced19bcf5c31","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 75",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Brittany,+France&ftid=0x4811ca61ae7e8eaf:0x10ca5cd36df24b0","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 81",,,,"uncategorized","C","discovered","http://maps.google.com/?q=50170+Mont+Saint-Michel,+France&ftid=0x480ea8d67c9ceeb3:0xc5834ce47e0dc3fe","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 82",,,,"uncategorized","C","discovered","http://maps.google.com/?q=11-16+Rue+de+Vaugirard,+75006+Paris,+France&ftid=0x47e671dc66d0b73f:0xe91c5e598d9b402c","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 86",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Akihabara+Electric+Town,+%D0%A2%D0%BE%D0%BA%D0%B8%D0%BE,+%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F&ftid=0x60188c1d829dd5cd:0x772f5995da208987","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 90",,,,"uncategorized","C","discovered","http://maps.google.com/?q=Lake+T%C5%8Dya,+%D0%BF%D1%80%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0+%D0%A5%D0%BE%D0%BA%D0%BA%D0%B0%D0%B9%D0%B4%D0%BE,+%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F&ftid=0x5f7557af9b64ca35:0x21c193a08edbad51","אין מיקום זמין למקום השמור הזה"
+"Unresolved saved place 93",,,,"uncategorized","C","discovered","http://maps.google.com/?q=43.763318,11.257042","אין מיקום זמין למקום השמור הזה"
+"Verneus","50.0893625","14.4152787","nám. J. Palacha, 110 00 Josefov, צ׳כיה","uncategorized","C","discovered","http://maps.google.com/?cid=13732853103135748406",
+"Vidikovac Brljan","44.0170555","16.0297005","Krka national park, 22305, Ivoševci, קרואטיה","nature","C","discovered","http://maps.google.com/?cid=17890845971823039097",
+"Villa Monastero garden","46.0092665","9.2855607","Viale Giovanni Polvani, 4, 23829 Varenna LC, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=5899485800677490675",
+"Vivoli","43.7699351","11.2600892","Via Isola delle Stinche, 7r, 50122 Firenze FI, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=12532930283436957875",
+"Vranjaca Cave","43.5622166","16.6482314","Unnamed Road,, 21204, Kotlenice, קרואטיה","nature|logistics","C","discovered","http://maps.google.com/?cid=5447023042848855965",
+"WEnice Streetfood","45.4394615","12.3338144","Calle de le Beccarie o Panateria, 319, 30125 Venezia VE, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=4978923253142027279",
+"Waterfall Brljan","44.0124301","16.0348765","22305, Puljane, קרואטיה","nature","C","discovered","http://maps.google.com/?cid=2012253099729352070",
+"Waterfalls Miljacka","44.0035005","16.0198382","22305, Puljane, קרואטיה","nature","C","discovered","http://maps.google.com/?cid=14158446020938252281",
+"Winterparade","52.3839099","4.9053205","Tolhuisweg 3, 1031 CL Amsterdam, הולנד","uncategorized","C","discovered","http://maps.google.com/?cid=1017273724126605040",
+"Xocolat","48.2112222","16.3655917","Freyung 2, 1010 Wien, אוסטריה","uncategorized","C","discovered","http://maps.google.com/?cid=471180979524660762",
+"Yagizaki Park Lavender Field","35.5113905","138.7537928","897番地の1 Kodachi, Fujikawaguchiko, Minamitsuru District, Yamanashi 401-0302, יפן","nature","C","discovered","http://maps.google.com/?cid=7973732870938140697",
+"Zipline Croatia","43.4454154","16.692477","Ul. Josipa Pupačića 4, 21310, Omiš, קרואטיה","uncategorized","C","discovered","http://maps.google.com/?cid=15312906861426892006",
+"bEAT","47.1868659","18.4124914","Székesfehérvár, Vörösmarty tér 1, 8000 הונגריה","uncategorized","C","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xae25d946716a18e3","User rating: 3/5"
+"kneina","41.6903477","44.8036577","7 Beglar Akhospireli St, Tbilisi 0108, גאורגיה","uncategorized","C","discovered","http://maps.google.com/?cid=14567198875852715276",
+"teamLab Borderless: MORI Building DIGITAL ART MUSEUM","35.6620689","139.7432671","יפן, 〒106-0041 Tokyo, Minato City, Toranomon, 5 Chome−９ Azabudai Hills Garden Plaza B, B1","activity","C","discovered","http://maps.google.com/?cid=6355049266444838481",
+"teamLab Planets TOKYO DMM","35.6491207","139.7897739","6 Chome-1-16 Toyosu, Koto City, Tokyo 135-0061, יפן","uncategorized","C","discovered","http://maps.google.com/?cid=7918542870314997282",
+"אגמי פליטביצה","44.8653966","15.5820119","קרואטיה","uncategorized","C","discovered","http://maps.google.com/?cid=367764615831641712",
+"אולפני יוניברסל יפן","34.6656768","135.4323185","2 Chome-1-33 Sakurajima, Konohana Ward, Osaka, 554-0031, יפן","uncategorized","C","discovered","http://maps.google.com/?cid=3892796888607511210",
+"אורו","32.0617724","34.7754413","לבונטין 12, תל אביב-יפו, ישראל","uncategorized","C","discovered","http://maps.google.com/?cid=9902658516724706337",
+"אושר עד - תלפיות, ירושלים","31.7534878","35.2130043","קניון בית הדר, הרכבים 8, ירושלים, ישראל","uncategorized","C","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xecc37abbbba3eb37","User rating: 4/5"
+"אטומיום","50.8948787","4.3415547","Pl. de l'Atomium 1, 1020 Bruxelles, בלגיה","uncategorized","C","discovered","http://maps.google.com/?cid=5950107355577726729",
+"אלמורול","39.4619434","-8.3839117","Praia do Ribatejo, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=12685815122188784262",
+"אנדרטת התגליות","38.6935973","-9.2057115","Av. Brasília, 1400-038 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=9171844586408633881",
+"ארמון בלוודר","48.1914751","16.3809322","1030 Vienna, אוסטריה","uncategorized","C","discovered","http://maps.google.com/?cid=5360968363265979911",
+"ארמון פרונטיירה","38.7401303","-9.1803574","Largo São Domingos de Benfica 01, 1500-554 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=14159322620969434184",
+"בזיליקת מריה הקדושה","50.0616411","19.9393903","plac Mariacki 5, 31-042 Kraków, פולין","uncategorized","C","discovered","http://maps.google.com/?cid=15940242599518715698",
+"בית אנה פרנק","52.3752182","4.8839765","Westermarkt 20, 1016 GV Amsterdam, הולנד","uncategorized","C","discovered","http://maps.google.com/?cid=15319659771873942282",
+"ברביקן קרקוב","50.0654718","19.9416613","Basztowa, 30-547 Kraków, פולין","uncategorized","C","discovered","http://maps.google.com/?cid=11940862024594805379",
+"גלריית ויטוריו אמנואלה השני","45.4658434","9.1899401","20123 Milan, Metropolitan City of Milan, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=2813514643363451926",
+"גן לאומי עין חמד","31.794795","35.127566","ירושלים, ישראל","uncategorized","C","discovered","http://maps.google.com/?cid=9615481431191046381",
+"דיסנילנד","35.6328964","139.8803943","1-1 Maihama, Urayasu, Chiba 279-0031, יפן","uncategorized","C","discovered","http://maps.google.com/?cid=16490271119724106699",
+"האקדמיה לאמנות של פירנצה","43.7768145","11.2586424","Via Ricasoli, 58/60, 50129 Firenze FI, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=7875942179259130567",
+"האקווריום של ליסבון","38.7635435","-9.0937415","Esplanada Dom Carlos I s/nº, 1990-005 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=10970538238193885488",
+"הארד רוק קפה","50.0866743","14.4192144","Dům U Rotta, Malé Nám. 3, 110 00 Josefov, צ׳כיה","uncategorized","C","discovered","http://maps.google.com/?cid=8519605458968604086",
+"הארי'ז בר","45.4324341","12.337203","Calle Vallaresso, 1323, 30124 Venezia VE, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=5821160107486921993",
+"הדרקון של ואוול","50.0530183","19.9335845","Stare Miasto, Kraków, פולין","uncategorized","C","discovered","http://maps.google.com/?cid=9914501735572340072",
+"המדרגות הספרדיות","41.90599","12.482775","Piazza di Spagna, 00187 Roma RM, איטליה","activity","C","discovered","http://maps.google.com/?cid=9205591385677129999",
+"המוזיאון הלאומי ברג'לו","43.7703981","11.2580078","Via del Proconsolo, 4, 50122 Firenze FI, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=2394959777485432300",
+"המפעל","31.7769788","35.2214076","המערבים 3, ירושלים, ישראל","uncategorized","C","discovered","http://maps.google.com/?cid=392122898801609649",
+"הפארק הלאומי טריגלב","46.3424727","13.7990434","4265 Bohinjsko jezero, סלובניה","uncategorized","C","discovered","http://maps.google.com/?cid=14481090786027974296",
+"הפארק הלאומי טריגלב","46.3424727","13.7990434","4265 Bohinjsko jezero, סלובניה","uncategorized","C","discovered","http://maps.google.com/?cid=1081136715368919280",
+"השעון האסטרונומי בפראג","50.0870215","14.4207065","Staroměstské nám. 1, 110 00 Josefov, צ׳כיה","uncategorized","C","discovered","http://maps.google.com/?cid=17400577118091478678",
+"וילה בלבינאלו","45.9652533","9.2024923","22016 Tremezzina, Province of Como, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=5509293497181114517",
+"זוֹדִיָּאכִּי","41.6992221","44.7988371","6 Gia Chanturia St, Tbilisi, גאורגיה","uncategorized","C","discovered","http://maps.google.com/?cid=17695692270793943928",
+"טירת אוסקה","34.6872571","135.5258546","1-1 Osakajo, Chuo Ward, Osaka, 540-0002, יפן","uncategorized","C","discovered","http://maps.google.com/?cid=1081374622389182017",
+"טירת דה האר","52.1214185","4.9863057","Kasteellaan 1, 3455 RR Utrecht, הולנד","uncategorized","C","discovered","http://maps.google.com/?cid=9787025623597051096",
+"טירת סאו ז'ורז'ה","38.7139092","-9.1334762","R. de Santa Cruz do Castelo, 1100-129 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=13024533549412529111",
+"כיכר הסיניוריה","43.7696855","11.2556422","P.za della Signoria, 50122 Firenze FI, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=11510190685880029293",
+"כיכר מריה תרזה","48.2046208","16.3609674","Maria-Theresien-Platz, 1010 Wien, אוסטריה","uncategorized","C","discovered","http://maps.google.com/?cid=16512097571346380664",
+"כנסיית סנטה מריה דלה גרציה","45.465963","9.1709621","Via Giuseppe Antonio Sassi, 3, 20123 Milano MI, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=17103490255119931993",
+"כנסיית קלריגוש","41.1458838","-8.6139451","R. de São Filipe de Nery, 4050-546 Porto, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=8124884474302192112",
+"מגדל אבק השריפה","50.087273","14.4277887","Nám. Republiky 5, 110 00 Staré Město, צ׳כיה","uncategorized","C","discovered","http://maps.google.com/?cid=10613216719000703910",
+"מגדל בלן","38.6915837","-9.2159773","Av. Brasília, 1400-038 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=3459570102839693631",
+"מגדל הטלוויזיה ז'יז'קוב","50.0810526","14.4511741","Mahlerovy sady 1, 130 00 Praha 3-Žižkov, צ׳כיה","uncategorized","C","discovered","http://maps.google.com/?cid=11969593978648954899",
+"מגדל פיזה","43.722952","10.396597","Piazza del Duomo, 56126 Pisa PI, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=3669494377653533699",
+"מוזיאון ד'אורסה","48.8599614","2.3265614","Esplanade Valéry Giscard d'Estaing, 75007 Paris, צרפת","uncategorized","C","discovered","http://maps.google.com/?cid=15019994644224418776",
+"מוזיאון הדואומו","43.7731706","11.258112","Piazza del Duomo, 9, 50122 Firenze FI, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=11597658596633837649",
+"מוזיאון ואן גוך","52.3580757","4.8812053","Museumplein 6, 1071 DJ Amsterdam, הולנד","activity","C","discovered","http://maps.google.com/?cid=13990476974401570074",
+"מוזיאון מוצרט בבית מוצרט","48.2081643","16.3749633","Mozarthaus, Domgasse 5, 1010 Wien, אוסטריה","uncategorized","C","discovered","http://maps.google.com/?cid=10548703226415677921",
+"מיינד מייז","50.0730513","14.4312155","Tyršova 9, 120 00 Nové Město, צ׳כיה","uncategorized","C","discovered","http://maps.google.com/?cid=12118227082807591214",
+"מנזר ז'רונימוש","38.6978909","-9.2067039","Praça do Império 1400-206 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=9760810247707356141",
+"מנזר סטרהוב (Strahovsky klaster)","50.0861478","14.3892515","Strahovské nádvoří 1/132, 118 00 Praha 1-Strahov, צ׳כיה","uncategorized","C","discovered","http://maps.google.com/?cid=14930948157833878256",
+"מנזר קרמו","38.7120383","-9.1406129","Largo do Carmo, 1200-092 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=3663666638493854959",
+"מעיין סודה","42.5881749","44.4220488","HCQC+7R7, Ketrisi, גאורגיה","uncategorized","C","discovered","http://maps.google.com/?cid=3593942445220405334",
+"מצוקי דרגות בר","31.5900245","35.3930032","8698300, IL, Afcon Charging Station, מצפה שלם","logistics","C","discovered","http://maps.google.com/?cid=4695857955601334236",
+"מצפור הים האדום","29.5414652","34.9319486","לבנדר 10, אילת, ישראל","uncategorized","C","discovered","http://maps.google.com/?cid=11805439728081349719",
+"מצפור הפלמינגו","29.6287732","34.9974135","HaArava, ישראל","uncategorized","C","discovered","http://maps.google.com/?cid=6029807869545781206",
+"מקדש פושימי אינארי","34.9676945","135.7791876","68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882, יפן","uncategorized","C","discovered","http://maps.google.com/?cid=8870624639634301673",
+"מקסים","48.8674428","2.3223256","3 Rue Royale, 75008 Paris, צרפת","uncategorized","C","discovered","http://maps.google.com/?cid=14922951412202961093",
+"מרכז שירות כביש 6","32.0699958","34.9361763","כביש יצחק רבין, ישראל","uncategorized","C","discovered","http://maps.google.com/?cid=16925778989725062829",
+"נמל התעופה הבינלאומי ונציה מרקו פולו","45.5046844","12.3466295","Viale Galileo Galilei, 30, 30173 Venezia VE, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=2589906724184017049",
+"נמל התעופה הבינלאומי של טביליסי","41.6695391","44.9646437","MX97+RV6, Tbilisi, גאורגיה","uncategorized","C","discovered","https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xccb68c40c8eecbc1","User rating: 3/5"
+"נמל התעופה ואצלב האוול","50.101791","14.2631811","Aviatická, 161 00 Praha 6, צ׳כיה","uncategorized","C","discovered","http://maps.google.com/?cid=3435543728786568876",
+"סדנאות קרמיקה - סטודיו חאטור","31.743425","35.178171","עין יעל ירושלים, 9148101, ישראל","uncategorized","C","discovered","http://maps.google.com/?cid=16920602416494673608",
+"סנטה מריה דל פיורה","43.773145","11.2559602","Piazza del Duomo, 50122 Firenze FI, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=6165783601337790965",
+"עין עוזי","31.7581995","35.1380016","ישראל","uncategorized","C","discovered","http://maps.google.com/?cid=15367985753726063275",
+"פארק ג'יבלי","35.1750406","137.0887716","Ibaragabasama, Nagakute, Aichi 480-1342, יפן","food","C","discovered","http://maps.google.com/?cid=3897385516668359307",
+"פארק המצפה התת ימי","29.5037774","34.9177235","חוף אלמוג, אילת, ישראל","uncategorized","C","discovered","http://maps.google.com/?cid=2166387543453836812",
+"פורטר אנד סאנס","32.0702542","34.7844629","הארבעה 14, תל אביב-יפו, ישראל","uncategorized","C","discovered","http://maps.google.com/?cid=8511254045223403321",
+"פורשה","48.8342104","9.1525545","Porscheplatz 1, 70435 Stuttgart, גרמניה","uncategorized","C","discovered","http://maps.google.com/?cid=4359595003385706887",
+"פטריות ים המלח","31.1896851","35.3652565","חוף, עין בוקק, ישראל","uncategorized","C","discovered","http://maps.google.com/?cid=8224707998858498044",
+"קולומביה עודפים קלחים","31.4482879","34.6804733","קלחים, ישראל","uncategorized","C","discovered","http://maps.google.com/?cid=17201977867125399483",
+"קמפנילה די ג'וטו","43.7728578","11.2557822","Piazza del Duomo, 43°46'22""N 11°15'20""E, 50122 Firenze FI, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=11262237341554472376",
+"קניון וינטגאר","46.3935926","14.0856595","Turistično društvo Gorje, Podhom 80, 4247 Zgornje Gorje, סלובניה","uncategorized","C","discovered","http://maps.google.com/?cid=2503374199684783594",
+"קפה פלוריאן","45.4336094","12.338223","P.za San Marco, 57, 30124 Venezia VE, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=2984251328638419091",
+"קתדרלת ליסבון","38.7098339","-9.1329535","Largo da Sé 1, 1100-585 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=10551402986858832409",
+"קתדרלת מילאנו","45.4640976","9.1919265","P.za del Duomo, 20122 Milano MI, איטליה","uncategorized","C","discovered","http://maps.google.com/?cid=12357681832208772627",
+"רד בול רינג","47.2196684","14.7651131","Red Bull Ring Str. 1, 8724 Spielberg, אוסטריה","uncategorized","C","discovered","http://maps.google.com/?cid=8617876506244680763",
+"רייקסמוזיאום","52.3599976","4.8852188","Museumstraat 1, 1071 XX Amsterdam, הולנד","activity","C","discovered","http://maps.google.com/?cid=15367253546462381445",
+"שָׁאוִוי לוֹמִי (האריה השחור)","41.7084803","44.8061618","PR54+9FV, Zurab Kvlividze St, Tbilisi, גאורגיה","uncategorized","C","discovered","http://maps.google.com/?cid=5349691423837450253",
+"שמורת טבע תל דור","32.6163253","34.9155016","נחשולים, ישראל","uncategorized","C","discovered","http://maps.google.com/?cid=11293434565148079523",
+"שער אוגוסטה","38.7084447","-9.1368243","R. Augusta 2, 1100-053 Lisboa, פורטוגל","uncategorized","C","discovered","http://maps.google.com/?cid=14188067636392380848",
+"תערוכת עולם הגופות","52.3748239","4.8947471","Damrak 66, 1012 LM Amsterdam, הולנד","uncategorized","C","discovered","http://maps.google.com/?cid=7075236320433452026",
+"ეთნო წისქვილი • Ethno Tsiskvili","41.771287","44.779815","99 Akaki Beliashvili St, Tbilisi, גאורגיה","uncategorized","C","discovered","http://maps.google.com/?cid=4893030621056386169",
+"კაფე 38","41.6892939","44.8078756","38 Betlemi St, Tbilisi 0205, גאורגיה","uncategorized","C","discovered","http://maps.google.com/?cid=15109854195231591289",
+"ნინო ჩაკვეტაძის გალერეა ""ნოჩა"" | Nino Chakvetadze's gallery ""Nocha""","41.7039893","44.7884166","12 Mikheil Zandukeli St, Tbilisi 0108, גאורגיה","uncategorized","C","discovered","http://maps.google.com/?cid=14366565250596306298",
+"小松屋本家","35.0101379","137.0405555","יפן, 〒472-0023 Aichi, Chiryu, Nishimachi, Nishi−８３","uncategorized","C","discovered","http://maps.google.com/?cid=12382654517019463695",

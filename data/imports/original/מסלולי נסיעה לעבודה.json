@@ -1,0 +1,275 @@
+{"trips": [
+  {
+    "id": "4A6D61B67B877623",
+    "place_visit": [
+      {
+        "id": "SOURCE_ID",
+        "place": {
+          "lat_lng": {
+            "latitude": 48.119841967754475,
+            "longitude": 16.5633278153991
+          },
+          "semantic_type": "TYPE_UNKNOWN"
+        }
+      },
+      {
+        "id": "DESTINATION_ID",
+        "place": {
+          "lat_lng": {
+            "latitude": 48.1977343,
+            "longitude": 16.333501899999998
+          },
+          "semantic_type": "TYPE_UNKNOWN"
+        }
+      }
+    ],
+    "transition": [{
+      "route": {
+        "travel_mode": "TRANSIT",
+        "transit": {"route": {"leg": [
+          {
+            "mode": "WALKING",
+            "destination": "Vienna Airport Terminal 1"
+          },
+          {
+            "mode": "TRANSIT",
+            "destination": "Wien Westbahnhof (Europaplatz)"
+          },
+          {"mode": "WALKING"}
+        ]}}
+      },
+      "origin": {"visit_id": "SOURCE_ID"},
+      "destination": {"visit_id": "DESTINATION_ID"}
+    }]
+  },
+  {
+    "id": "4D131AAF0A2BDD32",
+    "place_visit": [
+      {
+        "id": "SOURCE_ID",
+        "place": {
+          "lat_lng": {
+            "latitude": 45.485307770287335,
+            "longitude": 9.195832426989025
+          },
+          "semantic_type": "TYPE_UNKNOWN"
+        }
+      },
+      {
+        "id": "DESTINATION_ID",
+        "place": {
+          "lat_lng": {
+            "latitude": 45.486084899999994,
+            "longitude": 9.159655299999999
+          },
+          "semantic_type": "TYPE_UNKNOWN"
+        }
+      }
+    ],
+    "transition": [{
+      "route": {
+        "travel_mode": "TRANSIT",
+        "transit": {"route": {"leg": [
+          {
+            "mode": "WALKING",
+            "destination": "Gioia M2"
+          },
+          {
+            "mode": "TRANSIT",
+            "destination": "C.so Sempione Via E. Filiberto"
+          },
+          {"mode": "WALKING"}
+        ]}}
+      },
+      "origin": {"visit_id": "SOURCE_ID"},
+      "destination": {"visit_id": "DESTINATION_ID"}
+    }]
+  },
+  {
+    "id": "5042D69E0CEFA58D",
+    "place_visit": [
+      {
+        "id": "SOURCE_ID",
+        "place": {
+          "lat_lng": {
+            "latitude": 41.14086289251528,
+            "longitude": -8.615377595509408
+          },
+          "semantic_type": "TYPE_UNKNOWN"
+        }
+      },
+      {
+        "id": "DESTINATION_ID",
+        "place": {
+          "lat_lng": {
+            "latitude": 41.158628799999995,
+            "longitude": -8.6309842
+          },
+          "semantic_type": "TYPE_UNKNOWN"
+        }
+      }
+    ],
+    "transition": [{
+      "route": {
+        "travel_mode": "TRANSIT",
+        "transit": {"route": {"leg": [
+          {
+            "mode": "WALKING",
+            "destination": "Ribeira"
+          },
+          {
+            "mode": "TRANSIT",
+            "destination": "Mercado Do Bolhão"
+          },
+          {
+            "mode": "TRANSIT",
+            "destination": "Casa da Música"
+          },
+          {"mode": "WALKING"}
+        ]}}
+      },
+      "origin": {"visit_id": "SOURCE_ID"},
+      "destination": {"visit_id": "DESTINATION_ID"}
+    }]
+  },
+  {
+    "id": "5448C8A6A5F12F2D",
+    "place_visit": [
+      {"id": ""},
+      {
+        "id": "DESTINATION_ID",
+        "place": {
+          "lat_lng": {
+            "latitude": 41.794504499999995,
+            "longitude": 12.2501391
+          },
+          "semantic_type": "TYPE_UNKNOWN"
+        }
+      }
+    ],
+    "transition": [{
+      "route": {"travel_mode": "DRIVE"},
+      "origin": {"visit_id": ""},
+      "destination": {"visit_id": "DESTINATION_ID"}
+    }]
+  },
+  {
+    "id": "5771D8C2A83D6704",
+    "place_visit": [
+      {
+        "id": "SOURCE_ID",
+        "place": {
+          "lat_lng": {
+            "latitude": 34.4359064,
+            "longitude": 135.2434494
+          },
+          "semantic_type": "TYPE_UNKNOWN"
+        }
+      },
+      {
+        "id": "DESTINATION_ID",
+        "place": {
+          "lat_lng": {
+            "latitude": 35.0160394,
+            "longitude": 135.7593746
+          },
+          "semantic_type": "TYPE_UNKNOWN"
+        }
+      }
+    ],
+    "transition": [{
+      "route": {
+        "travel_mode": "TRANSIT",
+        "transit": {"route": {"leg": [
+          {
+            "mode": "WALKING",
+            "destination": "関西空港駅"
+          },
+          {
+            "mode": "TRANSIT",
+            "destination": "Kyoto Station"
+          },
+          {
+            "mode": "TRANSIT",
+            "destination": "Marutamachi Station"
+          },
+          {"mode": "WALKING"}
+        ]}}
+      },
+      "origin": {"visit_id": "SOURCE_ID"},
+      "destination": {"visit_id": "DESTINATION_ID"}
+    }]
+  },
+  {
+    "id": "57A5A7049DB6AE66",
+    "place_visit": [
+      {
+        "id": "SOURCE_ID",
+        "place": {
+          "lat_lng": {
+            "latitude": 34.707426,
+            "longitude": 135.504309
+          },
+          "semantic_type": "TYPE_UNKNOWN"
+        }
+      },
+      {
+        "id": "DESTINATION_ID",
+        "place": {
+          "lat_lng": {
+            "latitude": 35.654744199999996,
+            "longitude": 139.7563434
+          },
+          "semantic_type": "TYPE_UNKNOWN"
+        }
+      }
+    ],
+    "transition": [{
+      "route": {
+        "travel_mode": "TRANSIT",
+        "transit": {"route": {"leg": [
+          {
+            "mode": "WALKING",
+            "destination": "Umeda Station"
+          },
+          {
+            "mode": "TRANSIT",
+            "destination": "Shin-Osaka Station"
+          },
+          {
+            "mode": "TRANSIT",
+            "destination": "Shinagawa Station"
+          },
+          {
+            "mode": "TRANSIT",
+            "destination": "Hamamatsuchō Station"
+          },
+          {"mode": "WALKING"}
+        ]}}
+      },
+      "origin": {"visit_id": "SOURCE_ID"},
+      "destination": {"visit_id": "DESTINATION_ID"}
+    }]
+  },
+  {
+    "id": "5AA48A25C098B120",
+    "place_visit": [
+      {"id": ""},
+      {
+        "id": "DESTINATION_ID",
+        "place": {
+          "lat_lng": {
+            "latitude": 31.946999199999997,
+            "longitude": 34.9507802
+          },
+          "semantic_type": "TYPE_UNKNOWN"
+        }
+      }
+    ],
+    "transition": [{
+      "route": {"travel_mode": "DRIVE"},
+      "origin": {"visit_id": ""},
+      "destination": {"visit_id": "DESTINATION_ID"}
+    }]
+  }
+]}

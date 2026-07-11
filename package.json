@@ -1,0 +1,34 @@
+{
+  "name": "codex-travel-agent-local",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local-first travel agent workspace for Codex with MCP, SQLite, Google Calendar, Google Maps MCP config, Chrome workflows, and a local dashboard.",
+  "type": "module",
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "scripts": {
+    "setup": "npm install && npm run init && npm run import:provided && npm run validate",
+    "init": "tsx src/cli.ts init",
+    "import:provided": "tsx src/cli.ts import-provided",
+    "mcp": "tsx src/mcp-server.ts",
+    "dashboard": "tsx src/dashboard.ts",
+    "google:auth": "tsx src/google-auth.ts",
+    "export:mymaps": "tsx src/cli.ts export-mymaps --trip dolomites-2026",
+    "validate": "tsx src/cli.ts validate --trip dolomites-2026",
+    "backup": "tsx src/cli.ts backup",
+    "build": "tsc -p tsconfig.json",
+    "test": "tsx --test test/*.test.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.5",
+    "googleapis": "^150.0.1",
+    "yaml": "^2.8.1",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.10",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  }
+}

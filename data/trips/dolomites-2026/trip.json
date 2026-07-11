@@ -1,0 +1,11 @@
+{
+  "id": "dolomites-2026",
+  "name": "Venice + Dolomites 2026",
+  "startDate": "2026-09-09",
+  "endDate": "2026-09-25",
+  "timezone": "Europe/Rome",
+  "status": "planning",
+  "routeStrategy": "east-first",
+  "summary": "Venice 1.5 days → Cortina/Misurina/Dobbiaco → scenic transfer → Ortisei/Val Gardena → Mestre/Conegliano/VCE",
+  "travelers": 2
+}

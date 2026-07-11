@@ -1,0 +1,6631 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          12.4827750,
+          41.9059900
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-02T16:54:25Z",
+        "google_maps_url": "http://maps.google.com/?cid=9205591385677129999",
+        "location": {
+          "address": "Piazza di Spagna, 00187 Roma RM, איטליה",
+          "country_code": "IT",
+          "name": "המדרגות הספרדיות"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.4724612,
+          41.9002996
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-02T15:36:03Z",
+        "google_maps_url": "http://maps.google.com/?cid=14079297076193046784",
+        "location": {
+          "address": "Largo Febo, 12, 00186 Roma RM, איטליה",
+          "country_code": "IT",
+          "name": "SantaLucia - Ristorante & Cocktail Bar"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.4686550,
+          41.8967899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-02T15:32:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=1956858223217939296",
+        "location": {
+          "address": "Piazza de' Ricci, 144, 00186 Roma RM, איטליה",
+          "country_code": "IT",
+          "name": "Pierluigi"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.4679110,
+          41.8974870
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-02T15:27:38Z",
+        "google_maps_url": "http://maps.google.com/?cid=3996016769783120937",
+        "location": {
+          "address": "Via dei Banchi Vecchi, 143, 00186 Roma RM, איטליה",
+          "country_code": "IT",
+          "name": "Supplizio"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.4780424,
+          41.9037442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-02T15:11:26Z",
+        "google_maps_url": "http://maps.google.com/?cid=336293268680546583",
+        "location": {
+          "address": "Piazza di S. Lorenzo in Lucina, 29, 00186 Roma RM, איטליה",
+          "country_code": "IT",
+          "name": "Ciampini Roma"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.4754254,
+          41.8982749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-05-02T15:03:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=7298372981774856920",
+        "location": {
+          "address": "Piazza di S. Eustachio, 82, 00186 Roma RM, איטליה",
+          "country_code": "IT",
+          "name": "Sant' Eustachio Caffè"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.1275660,
+          31.7947950
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-03-21T07:12:30Z",
+        "google_maps_url": "http://maps.google.com/?cid=9615481431191046381",
+        "location": {
+          "address": "ירושלים, ישראל",
+          "country_code": "IL",
+          "name": "גן לאומי עין חמד"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.6804733,
+          31.4482879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-01-18T11:23:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=17201977867125399483",
+        "location": {
+          "address": "קלחים, ישראל",
+          "country_code": "IL",
+          "name": "קולומביה עודפים קלחים"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          23.3223441,
+          42.6978913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-12-24T10:25:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=11579050146306014953",
+        "location": {
+          "address": "Подлез ЦУМ, Sofia Center, 1000 Sofia, בולגריה",
+          "name": "LockStars Lockers - luggage storage in Sofia"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3223256,
+          48.8674428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-17T09:38:09Z",
+        "google_maps_url": "http://maps.google.com/?cid=14922951412202961093",
+        "location": {
+          "address": "3 Rue Royale, 75008 Paris, צרפת",
+          "country_code": "FR",
+          "name": "מקסים"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.9155016,
+          32.6163253
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-13T17:57:07Z",
+        "google_maps_url": "http://maps.google.com/?cid=11293434565148079523",
+        "location": {
+          "address": "נחשולים, ישראל",
+          "country_code": "IL",
+          "name": "שמורת טבע תל דור"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-11-03T14:11:34Z",
+        "google_maps_url": "http://maps.google.com/?q=68000+Colmar,+France&ftid=0x479165dff670c1cf:0xe35d7e3e616ce966",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-10-25T17:59:51Z",
+        "google_maps_url": "http://maps.google.com/?q=56812+Cochem,+Germany&ftid=0x47be470b0fbd4815:0xbca1249e69a82a90",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.9177235,
+          29.5037774
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-10-24T06:41:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=2166387543453836812",
+        "location": {
+          "address": "חוף אלמוג, אילת, ישראל",
+          "country_code": "IL",
+          "name": "פארק המצפה התת ימי"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-10-24T06:30:53Z",
+        "google_maps_url": "http://maps.google.com/?q=Lake+HaNeelam&ftid=0x151c4222bde0765f:0x334fba7c1b0594f",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.9974135,
+          29.6287732
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-10-24T06:26:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=6029807869545781206",
+        "location": {
+          "address": "HaArava, ישראל",
+          "country_code": "IL",
+          "name": "מצפור הפלמינגו"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.9319486,
+          29.5414652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-10-24T06:18:44Z",
+        "google_maps_url": "http://maps.google.com/?cid=11805439728081349719",
+        "location": {
+          "address": "לבנדר 10, אילת, ישראל",
+          "country_code": "IL",
+          "name": "מצפור הים האדום"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          1.9187249,
+          48.6892152
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-10-22T05:08:56Z",
+        "google_maps_url": "http://maps.google.com/?cid=276509061888034100",
+        "location": {
+          "address": "Domaine de l’Abbaye des Vaux-de-Cernay, 78720 Cernay-la-Ville, צרפת",
+          "country_code": "FR",
+          "name": "La Ferme de l'Abbaye"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.0002658,
+          45.7241712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-10-18T09:59:27Z",
+        "google_maps_url": "http://maps.google.com/?cid=17156197766441182167",
+        "location": {
+          "address": "Lago d' Morgex, 11017 Arpy AO, איטליה",
+          "country_code": "IT",
+          "name": "Lago Arpy"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-10-18T09:58:15Z",
+        "google_maps_url": "http://maps.google.com/?q=Lago+d'+Arpy,+11017+Morgex,+Aosta+Valley,+Italy&ftid=0x47893fa41d492179:0xdcdded58609cb5bf",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.8845027,
+          48.8625975
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-10-08T04:18:59Z",
+        "google_maps_url": "http://maps.google.com/?cid=9210892639997157097",
+        "location": {
+          "address": "GPS 48.86113, 1 Sente du Moulin Nicole u bout de la rue des Abbesses (zone artisanale, 33 Rue des Abbesses 2.892526, 77580 Crécy-la-Chapelle, צרפת",
+          "name": "Moulin Jaune"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7032085,
+          35.6651514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-10-03T06:02:19Z",
+        "google_maps_url": "http://maps.google.com/?cid=11500096422956191937",
+        "location": {
+          "address": "יפן, 〒150-0001 Tokyo, Shibuya, Jingumae, 6 Chome−16−13 Naias神宮前ビル 1-2F",
+          "country_code": "JP",
+          "name": "SALOMON Shibuya Store"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7634686,
+          35.6702448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-10-02T10:03:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=5036491705805576403",
+        "location": {
+          "address": "יפן, 〒104-0061 Tokyo, Chuo City, Ginza, 6 Chome−9−5 ギンザコマツ東館 １階～１２階",
+          "country_code": "JP",
+          "name": "Uniqlo Ginza Flagship Store"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7718346,
+          35.6278727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-10-01T13:53:25Z",
+        "google_maps_url": "http://maps.google.com/?cid=13582406982295785891",
+        "location": {
+          "address": "1 Chome-4-2 Daiba, Minato City, Tokyo 135-0091, יפן",
+          "country_code": "JP",
+          "name": "Statue of Liberty"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7006293,
+          35.6590579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-10-01T01:08:37Z",
+        "google_maps_url": "http://maps.google.com/?cid=150846235021963194",
+        "location": {
+          "address": "2 Chome-1 Dogenzaka, Shibuya, Tokyo 150-0043, יפן",
+          "name": "Hachiko Statue"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7662649,
+          35.6824079
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-10-01T00:33:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=4380050185974589460",
+        "location": {
+          "address": "יפן, 〒100-0005 Tokyo, Chiyoda City, Marunouchi, 1 Chome−9−1 JR 東日本東京駅地下 1 階改札外",
+          "country_code": "JP",
+          "name": "TRAVELER’S FACTORY STATION"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.7537928,
+          35.5113905
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-09-30T00:18:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=7973732870938140697",
+        "location": {
+          "address": "897番地の1 Kodachi, Fujikawaguchiko, Minamitsuru District, Yamanashi 401-0302, יפן",
+          "country_code": "JP",
+          "name": "Yagizaki Park Lavender Field"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.6915967,
+          35.4761278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-09-29T07:36:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=14348185201046083084",
+        "location": {
+          "address": "8532-5, Narusawa, Minamitsuru District, Yamanashi 401-0320, יפן",
+          "country_code": "JP",
+          "name": "Onsen - Fuji Yurari Hot Spring"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.5717236,
+          34.7114354
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-09-27T13:36:42Z",
+        "google_maps_url": "http://maps.google.com/?cid=4562824874247146475",
+        "location": {
+          "address": "2-163 Ryokuchikoen, Tsurumi Ward, Osaka, 538-0036, יפן",
+          "country_code": "JP",
+          "name": "Tsurumi Ryokuchi Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.4910870,
+          34.8657752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-09-26T23:37:51Z",
+        "google_maps_url": "http://maps.google.com/?cid=963425562183482676",
+        "location": {
+          "address": "2914-1 Aomatani, Minoh, Osaka 562-8508, יפן",
+          "country_code": "JP",
+          "name": "Katsuoji"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.8430120,
+          34.6850470
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-09-26T13:41:46Z",
+        "google_maps_url": "http://maps.google.com/?cid=17972930374069941334",
+        "location": {
+          "address": "Nara, יפן",
+          "country_code": "JP",
+          "name": "Nara Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7044101,
+          35.6686494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-09-25T14:43:35Z",
+        "google_maps_url": "http://maps.google.com/?cid=3840542123008475986",
+        "location": {
+          "address": "6 Chome-31-17 Jingumae, Shibuya, Tokyo 150-0001, יפן",
+          "country_code": "JP",
+          "name": "Harry Potter Shop Harajuku"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7032379,
+          35.6644704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-09-24T13:31:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=18041460817623188293",
+        "location": {
+          "address": "יפן, 〒150-0001 Tokyo, Shibuya, Jingumae, 5 Chome−29−12 武居ビル",
+          "country_code": "JP",
+          "name": "Iyoshi Cola"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.5009632,
+          34.6731630
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-09-23T08:21:22Z",
+        "google_maps_url": "http://maps.google.com/?cid=12078478413620141099",
+        "location": {
+          "address": "יפן, 〒542-8501 Osaka, Chuo Ward, Shinsaibashisuji, 1 Chome−7−1 大丸心斎橋店 地下1階",
+          "country_code": "JP",
+          "name": "Uncle Rikuro’s Cheesecake Daimaru Shinsaibashi"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.7395719,
+          32.0214164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-09-04T13:02:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=18103429880414861663",
+        "location": {
+          "address": "Ben Gurion Street 71, בת ים, 5945101, ישראל",
+          "country_code": "IL",
+          "name": "DAISI Georgian Gastro Bar"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.7884166,
+          41.7039893
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-08-19T11:17:46Z",
+        "google_maps_url": "http://maps.google.com/?cid=14366565250596306298",
+        "location": {
+          "address": "12 Mikheil Zandukeli St, Tbilisi 0108, גאורגיה",
+          "country_code": "GE",
+          "name": "ნინო ჩაკვეტაძის გალერეა \"ნოჩა\" | Nino Chakvetadze's gallery \"Nocha\""
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.7840277,
+          41.7105617
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-08-18T07:00:53Z",
+        "google_maps_url": "http://maps.google.com/?cid=10811108984381046479",
+        "location": {
+          "address": "60 Merab Kostava St, Tbilisi 0180, גאורגיה",
+          "country_code": "GE",
+          "name": "Satchashnike - Restaurant, Pub & Grill"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.5062417,
+          34.6653511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-08-12T18:24:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=12402117845945925953",
+        "location": {
+          "address": "2 Chome-21 Nipponbashi, Chuo Ward, Osaka, 542-0073, יפן",
+          "name": "Kuromon Market"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          43.5339885,
+          41.7470583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-08-11T13:06:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=15288909132615967593",
+        "location": {
+          "address": "Bakuriani, גאורגיה",
+          "country_code": "GE",
+          "name": "Taverna Mari Bakuriani"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          41.6235592,
+          41.6476993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-29T08:36:39Z",
+        "google_maps_url": "http://maps.google.com/?cid=16051990915821461367",
+        "location": {
+          "address": "51 Rustaveli Ave, Batumi, גאורגיה",
+          "country_code": "GE",
+          "name": "Batumi Dolphinarium"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.7881813,
+          41.7055473
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-28T11:55:27Z",
+        "google_maps_url": "http://maps.google.com/?cid=11609158590271921227",
+        "location": {
+          "address": "14 Merab Kostava St, Tbilisi 0108, גאורגיה",
+          "country_code": "GE",
+          "name": "Cafe Stamba"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          132.3181330,
+          34.2973072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-26T19:19:22Z",
+        "google_maps_url": "http://maps.google.com/?cid=7183992600935288683",
+        "location": {
+          "address": "1-1 Miyajimacho, Hatsukaichi, Hiroshima 739-0588, יפן",
+          "country_code": "JP",
+          "name": "Itsukushima Shrine Otorii Gate"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.8430668,
+          34.6810292
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-26T18:26:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=8526435458450427534",
+        "location": {
+          "address": "160-1 Kasuganocho, Nara, 630-8212, יפן",
+          "country_code": "JP",
+          "name": "Deer Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.4220488,
+          42.5881749
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-26T10:51:36Z",
+        "google_maps_url": "http://maps.google.com/?cid=3593942445220405334",
+        "location": {
+          "address": "HCQC+7R7, Ketrisi, גאורגיה",
+          "country_code": "GE",
+          "name": "מעיין סודה"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.4646739,
+          42.5814312
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-26T10:49:46Z",
+        "google_maps_url": "http://maps.google.com/?cid=16265944741368130139",
+        "location": {
+          "address": "HFJ7+HVF, Kvemo Okrokana, גאורגיה",
+          "country_code": "GE",
+          "name": "Truso Gorge"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.7798150,
+          41.7712870
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-24T11:08:19Z",
+        "google_maps_url": "http://maps.google.com/?cid=4893030621056386169",
+        "location": {
+          "address": "99 Akaki Beliashvili St, Tbilisi, גאורגיה",
+          "country_code": "GE",
+          "name": "ეთნო წისქვილი • Ethno Tsiskvili"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.8078756,
+          41.6892939
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-24T11:06:04Z",
+        "google_maps_url": "http://maps.google.com/?cid=15109854195231591289",
+        "location": {
+          "address": "38 Betlemi St, Tbilisi 0205, גאורגיה",
+          "country_code": "GE",
+          "name": "კაფე 38"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.7805511,
+          35.4869467
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-19T19:30:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=5173000043195545392",
+        "location": {
+          "address": "5 Chome-6-1 Shinnishihara, Fujiyoshida, Yamanashi 403-0017, יפן",
+          "country_code": "JP",
+          "name": "Fuji-Q Highland"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          136.9086948,
+          35.1273579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-19T18:21:43Z",
+        "google_maps_url": "http://maps.google.com/?cid=12291755161046017723",
+        "location": {
+          "address": "1 Chome-1-1 Jingu, Atsuta Ward, Nagoya, Aichi 456-8585, יפן",
+          "country_code": "JP",
+          "name": "Atsuta Jingu"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.7988371,
+          41.6992221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-14T09:37:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=17695692270793943928",
+        "location": {
+          "address": "6 Gia Chanturia St, Tbilisi, גאורגיה",
+          "country_code": "GE",
+          "name": "זוֹדִיָּאכִּי"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.7754413,
+          32.0617724
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-14T09:36:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=9902658516724706337",
+        "location": {
+          "address": "לבונטין 12, תל אביב-יפו, ישראל",
+          "country_code": "IL",
+          "name": "אורו"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.7945411,
+          41.7079790
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-14T09:35:53Z",
+        "google_maps_url": "http://maps.google.com/?cid=7960406190013071293",
+        "location": {
+          "address": "5 Kote Marjanishvili St, Tbilisi 0102, גאורגיה",
+          "country_code": "GE",
+          "name": "ORO Marjanishvili"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.8036577,
+          41.6903477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-14T09:34:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=14567198875852715276",
+        "location": {
+          "address": "7 Beglar Akhospireli St, Tbilisi 0108, גאורגיה",
+          "country_code": "GE",
+          "name": "kneina"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.7800965,
+          41.7086122
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-14T09:33:23Z",
+        "google_maps_url": "http://maps.google.com/?cid=14130066479408630547",
+        "location": {
+          "address": "ღვინის ქარხანა, 1 Vasil Petriashvili Street, Wine Factory N 1, 1 ვასილ პეტრიაშვილის ქ, Tbilisi 0179, גאורגיה",
+          "country_code": "GE",
+          "name": "Shushabandi"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.7985362,
+          41.6896832
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-14T09:32:14Z",
+        "google_maps_url": "http://maps.google.com/?cid=16050610306007891080",
+        "location": {
+          "address": "33 Lado Asatiani St, Tbilisi 0105, גאורגיה",
+          "country_code": "GE",
+          "name": "Iasamani"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.7999395,
+          41.6920272
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-14T09:31:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=5767534453115147553",
+        "location": {
+          "address": "4 Ivane Machabeli St, Tbilisi 0104, גאורגיה",
+          "country_code": "GE",
+          "name": "Baba bakery"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.8041738,
+          41.6978080
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-14T09:31:25Z",
+        "google_maps_url": "http://maps.google.com/?cid=17939434807740088672",
+        "location": {
+          "address": "3a Vekua Street, Tbilisi, גאורגיה",
+          "country_code": "GE",
+          "name": "Bazari Orbeliani"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.8061618,
+          41.7084803
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-14T09:30:12Z",
+        "google_maps_url": "http://maps.google.com/?cid=5349691423837450253",
+        "location": {
+          "address": "PR54+9FV, Zurab Kvlividze St, Tbilisi, גאורגיה",
+          "country_code": "GE",
+          "name": "שָׁאוִוי לוֹמִי (האריה השחור)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.7868573,
+          41.7056942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-14T09:29:53Z",
+        "google_maps_url": "http://maps.google.com/?cid=10161991376116800545",
+        "location": {
+          "address": "7 Tamar Chovelidze St, Tbilisi, גאורגיה",
+          "country_code": "GE",
+          "name": "Lolita"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.7844629,
+          32.0702542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-07-08T08:40:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=8511254045223403321",
+        "location": {
+          "address": "הארבעה 14, תל אביב-יפו, ישראל",
+          "country_code": "IL",
+          "name": "פורטר אנד סאנס"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-21T11:18:53Z",
+        "google_maps_url": "http://maps.google.com/?q=Montenegro&ftid=0x134c3217242c1fcb:0x384c9d866effd346",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-04T19:38:37Z",
+        "google_maps_url": "http://maps.google.com/?q=Bateti+Lake,+Georgia&ftid=0x404342a613017c4f:0x98d9ea95b8abbab9",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.1813454,
+          35.5519555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-02T12:53:03Z",
+        "google_maps_url": "http://maps.google.com/?cid=9832018647717181034",
+        "location": {
+          "address": "437 Monju, Miyazu, Kyoto 626-0001, יפן",
+          "country_code": "JP",
+          "name": "Amanohashidate Viewland"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.8013852,
+          35.5012626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-06-02T12:37:10Z",
+        "google_maps_url": "http://maps.google.com/?cid=15733293726462568345",
+        "location": {
+          "address": "2-chome-4-1 Asama, Fujiyoshida, Yamanashi 403-0011, יפן",
+          "name": "Chureito Pagoda"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.7476935,
+          34.9803395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-31T17:27:27Z",
+        "google_maps_url": "http://maps.google.com/?cid=15271193799445412112",
+        "location": {
+          "address": "1 Kujocho, Minami Ward, Kyoto, 601-8473, יפן",
+          "country_code": "JP",
+          "name": "To-ji Temple"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.6669694,
+          35.4749276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-31T12:29:55Z",
+        "google_maps_url": "http://maps.google.com/?cid=8057440359102355314",
+        "location": {
+          "address": "יפן, 〒401-0320 Yamanashi, Minamitsuru District, Narusawa, 鳴沢8533",
+          "country_code": "JP",
+          "name": "Narusawa Ice Cave"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.6578277,
+          35.4776963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-31T12:27:34Z",
+        "google_maps_url": "http://maps.google.com/?cid=8036167332236648500",
+        "location": {
+          "address": "יפן, 〒401-0332 Yamanashi, Minamitsuru District, Fujikawaguchiko, Saiko, 青木ヶ原２０６８−１",
+          "country_code": "JP",
+          "name": "Fugaku Wind Cave"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.6460909,
+          35.7451830
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-31T11:43:25Z",
+        "google_maps_url": "http://maps.google.com/?cid=9641848556797388443",
+        "location": {
+          "address": "1 Chome-1-7 Kasugacho, Nerima City, Tokyo 179-0074, יפן",
+          "country_code": "JP",
+          "name": "The Making of Harry Potter - Warner Bros. Studio Tour Tokyo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7736793,
+          35.7087146
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-31T08:15:23Z",
+        "google_maps_url": "http://maps.google.com/?cid=10326772162495764060",
+        "location": {
+          "address": "4 Chome-5-2 Ueno, Taito City, Tokyo 110-0005, יפן",
+          "country_code": "JP",
+          "name": "Mominoki House Ueno Shop"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.7457522,
+          35.5229040
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-26T06:44:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=11686369390762469636",
+        "location": {
+          "address": "２５２５番地の１１先 Oishi, Fujikawaguchiko, Minamitsuru District, Yamanashi 401-0305, יפן",
+          "country_code": "JP",
+          "name": "Oishi Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.7671672,
+          35.4986175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-26T06:44:30Z",
+        "google_maps_url": "http://maps.google.com/?cid=6997495198343809878",
+        "location": {
+          "address": "3495-2 Funatsu, Fujikawaguchiko, Minamitsuru District, Yamanashi 401-0301, יפן",
+          "country_code": "JP",
+          "name": "LAWSON Kawaguchiko Station"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-26T06:38:20Z",
+        "google_maps_url": "http://maps.google.com/?q=Nokonoshima+Island,+Noko,+Nishi+Ward,+Fukuoka,+819-0012,+Japan&ftid=0x3541ed2c7331c57d:0xd86d98150fb1a2bd",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          131.3007272,
+          32.7012777
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-26T06:37:34Z",
+        "google_maps_url": "http://maps.google.com/?cid=6375229180841893771",
+        "location": {
+          "address": "Mukoyama, Takachiho, Nishiusuki District, Miyazaki 882-1103, יפן",
+          "country_code": "JP",
+          "name": "Takachiho Gorge"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-26T06:36:24Z",
+        "google_maps_url": "http://maps.google.com/?q=Kumamoto,+Japan&ftid=0x3540f414acf11b4f:0x1a51ced19bcf5c31",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-25T18:58:01Z",
+        "google_maps_url": "http://maps.google.com/?q=Brittany,+France&ftid=0x4811ca61ae7e8eaf:0x10ca5cd36df24b0",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0.2059731,
+          49.7106287
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-22T17:41:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=14476141150579322560",
+        "location": {
+          "address": "Av. Damilaville, 76790 Étretat, צרפת",
+          "name": "Jardins d'Etretat"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7432671,
+          35.6620689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-18T08:52:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=6355049266444838481",
+        "location": {
+          "address": "יפן, 〒106-0041 Tokyo, Minato City, Toranomon, 5 Chome−９ Azabudai Hills Garden Plaza B, B1",
+          "country_code": "JP",
+          "name": "teamLab Borderless: MORI Building DIGITAL ART MUSEUM"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.0887716,
+          35.1750406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-18T07:46:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=3897385516668359307",
+        "location": {
+          "address": "Ibaragabasama, Nagakute, Aichi 480-1342, יפן",
+          "country_code": "JP",
+          "name": "פארק ג'יבלי"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          137.0405555,
+          35.0101379
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-17T20:46:09Z",
+        "google_maps_url": "http://maps.google.com/?cid=12382654517019463695",
+        "location": {
+          "address": "יפן, 〒472-0023 Aichi, Chiryu, Nishimachi, Nishi−８３",
+          "country_code": "JP",
+          "name": "小松屋本家"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          23.7191374,
+          37.9749590
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-15T15:18:56Z",
+        "google_maps_url": "http://maps.google.com/?cid=16726594657126156132",
+        "location": {
+          "address": "Iraklidon 8, Athina 118 51, יוון",
+          "country_code": "GR",
+          "name": "The Underdog® Flagship Store Thissio"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-15T07:40:41Z",
+        "google_maps_url": "http://maps.google.com/?q=50170+Mont+Saint-Michel,+France&ftid=0x480ea8d67c9ceeb3:0xc5834ce47e0dc3fe",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-14T07:41:40Z",
+        "google_maps_url": "http://maps.google.com/?q=11-16+Rue+de+Vaugirard,+75006+Paris,+France&ftid=0x47e671dc66d0b73f:0xe91c5e598d9b402c",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.7897739,
+          35.6491207
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-04T08:12:21Z",
+        "google_maps_url": "http://maps.google.com/?cid=7918542870314997282",
+        "location": {
+          "address": "6 Chome-1-16 Toyosu, Koto City, Tokyo 135-0061, יפן",
+          "country_code": "JP",
+          "name": "teamLab Planets TOKYO DMM"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.5258546,
+          34.6872571
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-03T13:34:59Z",
+        "google_maps_url": "http://maps.google.com/?cid=1081374622389182017",
+        "location": {
+          "address": "1-1 Osakajo, Chuo Ward, Osaka, 540-0002, יפן",
+          "country_code": "JP",
+          "name": "טירת אוסקה"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.4323185,
+          34.6656768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-03T12:52:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=3892796888607511210",
+        "location": {
+          "address": "2 Chome-1-33 Sakurajima, Konohana Ward, Osaka, 554-0031, יפן",
+          "country_code": "JP",
+          "name": "אולפני יוניברסל יפן"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-02T07:42:35Z",
+        "google_maps_url": "http://maps.google.com/?q=Akihabara+Electric+Town,+%D0%A2%D0%BE%D0%BA%D0%B8%D0%BE,+%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F&ftid=0x60188c1d829dd5cd:0x772f5995da208987",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          135.7791876,
+          34.9676945
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-02T07:40:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=8870624639634301673",
+        "location": {
+          "address": "68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882, יפן",
+          "country_code": "JP",
+          "name": "מקדש פושימי אינארי"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          139.8803943,
+          35.6328964
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-02T07:39:46Z",
+        "google_maps_url": "http://maps.google.com/?cid=16490271119724106699",
+        "location": {
+          "address": "1-1 Maihama, Urayasu, Chiba 279-0031, יפן",
+          "country_code": "JP",
+          "name": "דיסנילנד"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          141.1486602,
+          42.4976231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-02T07:14:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=14390601882475151052",
+        "location": {
+          "address": "無番地 Noboribetsuonsencho, Noboribetsu, Hokkaido 059-0551, יפן",
+          "country_code": "JP",
+          "name": "Noboribetsu Jigokudani Valley"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-05-02T07:13:28Z",
+        "google_maps_url": "http://maps.google.com/?q=Lake+T%C5%8Dya,+%D0%BF%D1%80%D0%B5%D1%84%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0+%D0%A5%D0%BE%D0%BA%D0%BA%D0%B0%D0%B9%D0%B4%D0%BE,+%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F&ftid=0x5f7557af9b64ca35:0x21c193a08edbad51",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2550956,
+          43.7715809
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-04-11T10:35:07Z",
+        "google_maps_url": "http://maps.google.com/?cid=18027322328576387285",
+        "location": {
+          "address": "6/, Via degli Speziali, 8, 50123 Firenze FI, איטליה",
+          "country_code": "IT",
+          "name": "Jo Malone London Boutique"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2581120,
+          43.7731706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-04-10T08:12:33Z",
+        "google_maps_url": "http://maps.google.com/?cid=11597658596633837649",
+        "location": {
+          "address": "Piazza del Duomo, 9, 50122 Firenze FI, איטליה",
+          "country_code": "IT",
+          "name": "מוזיאון הדואומו"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-04-10T06:39:18Z",
+        "google_maps_url": "http://maps.google.com/?q=43.763318,11.257042",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2580078,
+          43.7703981
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-04-10T06:38:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=2394959777485432300",
+        "location": {
+          "address": "Via del Proconsolo, 4, 50122 Firenze FI, איטליה",
+          "country_code": "IT",
+          "name": "המוזיאון הלאומי ברג'לו"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2522376,
+          43.7712940
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-04-09T22:08:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=15378278106005101790",
+        "location": {
+          "address": "Piazza degli Strozzi, 50123 Firenze FI, איטליה",
+          "country_code": "IT",
+          "name": "Piazza Strozzi"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2505558,
+          43.7717474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-04-09T13:07:43Z",
+        "google_maps_url": "http://maps.google.com/?cid=1257300512138157134",
+        "location": {
+          "address": "Via della Spada, 27R, 50123 Firenze FI, איטליה",
+          "country_code": "IT",
+          "name": "Trattoria Marione"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2477938,
+          43.7738868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-04-09T12:57:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=6959710244317015688",
+        "location": {
+          "address": "Via della Scala, 17 R, 50123 Firenze FI, איטליה",
+          "country_code": "IT",
+          "name": "Osteria Pastella"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2556420,
+          43.7737460
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-04-09T08:22:42Z",
+        "google_maps_url": "http://maps.google.com/?cid=10585148727263008443",
+        "location": {
+          "address": "Via de' Martelli, 10, 50129 Firenze FI, איטליה",
+          "country_code": "IT",
+          "name": "SEPHORA FIRENZE MARTELLI"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2484986,
+          43.7765073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-04-09T08:22:27Z",
+        "google_maps_url": "http://maps.google.com/?cid=9230459824831606204",
+        "location": {
+          "address": "Grandi Stazioni GROUND FLOOR, Piazza della Stazione, 33, 50123 Firenze FI, איטליה",
+          "country_code": "IT",
+          "name": "SEPHORA FIRENZE S.MARIA NOVELLA"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2552300,
+          43.7705530
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-04-09T05:53:55Z",
+        "google_maps_url": "http://maps.google.com/?cid=8978942542633333192",
+        "location": {
+          "address": "Via dei Lamberti, 1, 50123 Firenze FI, איטליה",
+          "country_code": "IT",
+          "name": "Nashi Store Firenze"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2604198,
+          43.7819929
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-04-06T10:53:44Z",
+        "google_maps_url": "http://maps.google.com/?cid=14001773119209120616",
+        "location": {
+          "address": "Via S. Gallo, 112/R, 50129 Firenze FI, איטליה",
+          "country_code": "IT",
+          "name": "Antica Trattoria da Tito dal 1913"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2524900,
+          43.7709923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-04-04T19:21:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=14792560191014820992",
+        "location": {
+          "address": "Piazza degli Strozzi, 50123 Firenze FI, איטליה",
+          "country_code": "IT",
+          "name": "Giunti Odeon - Cinema"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-04-04T18:54:57Z",
+        "google_maps_url": "http://maps.google.com/?q=43.776118,11.253123",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2519162,
+          43.7743790
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-04-04T18:49:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=16894585225322840900",
+        "location": {
+          "address": "Via del Giglio, 39, 50123 Firenze FI, איטליה",
+          "country_code": "IT",
+          "name": "Dolce Vita Vintage Store"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2473846,
+          43.7687903
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-04-04T18:48:31Z",
+        "google_maps_url": "http://maps.google.com/?cid=14388278338523411158",
+        "location": {
+          "address": "Via Santo Spirito, 21R, 50125 Firenze FI, איטליה",
+          "country_code": "IT",
+          "name": "BABAE"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2556422,
+          43.7696855
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-04-04T18:29:40Z",
+        "google_maps_url": "http://maps.google.com/?cid=11510190685880029293",
+        "location": {
+          "address": "P.za della Signoria, 50122 Firenze FI, איטליה",
+          "name": "כיכר הסיניוריה"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2621383,
+          43.7708309
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-22T09:20:02Z",
+        "google_maps_url": "http://maps.google.com/?cid=6021313782184418815",
+        "location": {
+          "address": "V. dell'Agnolo, 117, 50122 Firenze FI, איטליה",
+          "name": "Fotoautomatica"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.3930032,
+          31.5900245
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-01T08:49:56Z",
+        "google_maps_url": "http://maps.google.com/?cid=4695857955601334236",
+        "location": {
+          "address": "8698300, IL, Afcon Charging Station, מצפה שלם",
+          "country_code": "PS",
+          "name": "מצוקי דרגות בר"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.3652565,
+          31.1896851
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-03-01T08:48:49Z",
+        "google_maps_url": "http://maps.google.com/?cid=8224707998858498044",
+        "location": {
+          "address": "חוף, עין בוקק, ישראל",
+          "country_code": "IL",
+          "name": "פטריות ים המלח"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.6855330,
+          34.1973380
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-02-16T11:22:26Z",
+        "google_maps_url": "http://maps.google.com/?cid=3131329699914464083",
+        "location": {
+          "address": "4001 E Palmetto St, Florence, SC 29506, ארצות הברית",
+          "country_code": "US",
+          "name": "Florence Flea Market"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.5126785,
+          42.6482857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-02-08T18:42:21Z",
+        "google_maps_url": "http://maps.google.com/?cid=3457818854320056671",
+        "location": {
+          "address": "Strada Vicinale Molino del Bagno, 9/a, 58014 Manciano GR, איטליה",
+          "country_code": "IT",
+          "name": "Cascate del Mulino"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2468394,
+          43.7662527
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-01-27T19:36:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=8755803029568848207",
+        "location": {
+          "address": "Piazza Santo Spirito, 12, 50125 Firenze FI, איטליה",
+          "country_code": "IT",
+          "name": "Giuliano Ricchi Jewelry"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.6538539,
+          40.2899592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-01-21T11:04:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=7649826801206639988",
+        "location": {
+          "address": "100 Hersheypark Dr, Hershey, PA 17033, ארצות הברית",
+          "name": "Jolly Rancher Remix"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2600892,
+          43.7699351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-01-13T09:14:49Z",
+        "google_maps_url": "http://maps.google.com/?cid=12532930283436957875",
+        "location": {
+          "address": "Via Isola delle Stinche, 7r, 50122 Firenze FI, איטליה",
+          "country_code": "IT",
+          "name": "Vivoli"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.8318070,
+          43.8668060
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-01-11T18:07:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=5198612013905828047",
+        "location": {
+          "address": "Via della Grotta Giusti, 1411, 51015 Monsummano Terme PT, איטליה",
+          "country_code": "IT",
+          "name": "Grotta Giusti Thermal Spa Resort Tuscany, Autograph Collection"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-01-10T20:06:13Z",
+        "google_maps_url": "http://maps.google.com/?q=53023+Bagni+San+Filippo,+%D0%A1%D0%B8%D0%B5%D0%BD%D0%B0,+%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0x13296a79868cdf55:0x26082c9206497671",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-01-10T19:48:40Z",
+        "google_maps_url": "http://maps.google.com/?q=43.063899,11.560188",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2572552,
+          43.7685633
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-01-10T19:24:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=7220880383589001097",
+        "location": {
+          "address": "Via dei Neri, 82r/84r, 50122 Firenze FI, איטליה",
+          "country_code": "IT",
+          "name": "Antico Salumificio Anzuini - La Macelleria storica e Grill di Filiera"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2557822,
+          43.7728578
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-01-10T19:19:59Z",
+        "google_maps_url": "http://maps.google.com/?cid=11262237341554472376",
+        "location": {
+          "address": "Piazza del Duomo, 43°46'22\"N 11°15'20\"E, 50122 Firenze FI, איטליה",
+          "country_code": "IT",
+          "name": "קמפנילה די ג'וטו"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2586424,
+          43.7768145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-01-10T19:02:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=7875942179259130567",
+        "location": {
+          "address": "Via Ricasoli, 58/60, 50129 Firenze FI, איטליה",
+          "country_code": "IT",
+          "name": "האקדמיה לאמנות של פירנצה"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.2559602,
+          43.7731450
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-01-08T10:40:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=6165783601337790965",
+        "location": {
+          "address": "Piazza del Duomo, 50122 Firenze FI, איטליה",
+          "country_code": "IT",
+          "name": "סנטה מריה דל פיורה"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8929490,
+          52.3667600
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-12-31T07:25:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=3498926145114459067",
+        "location": {
+          "address": "Singel 630, 600 Amsterdam, הולנד",
+          "country_code": "NL",
+          "name": "Flower Market"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.5273222,
+          41.8676124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-12-12T21:43:53Z",
+        "google_maps_url": "http://maps.google.com/?cid=12532630998612991776",
+        "location": {
+          "address": "Via Tommaso Inghirami, 98, 00179 Roma RM, איטליה",
+          "country_code": "IT",
+          "name": "SENTORI Vineria di Quartiere"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8829907,
+          52.3620587
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-12-07T14:19:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=9758339633093310426",
+        "location": {
+          "address": "Max Euweplein 57-61, 1017 MA Amsterdam, הולנד",
+          "country_code": "NL",
+          "name": "Hard Rock Cafe Amsterdam"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8972127,
+          52.3785759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-12-07T14:00:09Z",
+        "google_maps_url": "http://maps.google.com/?cid=3138390483094157780",
+        "location": {
+          "address": "Prins Hendrikkade 20B, 1012 TL Amsterdam, הולנד",
+          "name": "Lovers Canal Cruises Amsterdam"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-12-07T13:45:47Z",
+        "google_maps_url": "http://maps.google.com/?q=Dam,+Amsterdam,+%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B&ftid=0x47c609c73b4b14ef:0x7e86dfc7e2ced272",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8835827,
+          52.3624302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-12-07T07:34:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=2041355217718856482",
+        "location": {
+          "address": "Weteringschans 2, 1017 SG Amsterdam, הולנד",
+          "country_code": "NL",
+          "name": "Rembrandts Amsterdam Experience"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.9453819,
+          52.3489641
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-12-06T20:05:41Z",
+        "google_maps_url": "http://maps.google.com/?cid=5524914866713756210",
+        "location": {
+          "address": "Radioweg 64, 1098 NJ Amsterdam, הולנד",
+          "country_code": "NL",
+          "name": "Jaap Eden Ice Rink"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8891949,
+          52.3700652
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-28T16:37:28Z",
+        "google_maps_url": "http://maps.google.com/?cid=12036032960218262049",
+        "location": {
+          "address": "Spuistraat 267, 1012 VR Amsterdam, הולנד",
+          "country_code": "NL",
+          "name": "Miso Sushi"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8947471,
+          52.3748239
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-23T15:53:17Z",
+        "google_maps_url": "http://maps.google.com/?cid=7075236320433452026",
+        "location": {
+          "address": "Damrak 66, 1012 LM Amsterdam, הולנד",
+          "country_code": "NL",
+          "name": "תערוכת עולם הגופות"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-23T12:55:37Z",
+        "google_maps_url": "http://maps.google.com/?q=52.366040,4.896949",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8990206,
+          52.3736815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-22T18:20:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=2080204606597770313",
+        "location": {
+          "address": "Oudezijds Achterburgwal 60, 1012 DP Amsterdam, הולנד",
+          "country_code": "NL",
+          "name": "Red Light Secrets Museum"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.9863057,
+          52.1214185
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-10-19T20:54:35Z",
+        "google_maps_url": "http://maps.google.com/?cid=9787025623597051096",
+        "location": {
+          "address": "Kasteellaan 1, 3455 RR Utrecht, הולנד",
+          "country_code": "NL",
+          "name": "טירת דה האר"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1395880,
+          38.7110300
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-10-04T13:45:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=8883800376311330903",
+        "location": {
+          "address": "ARMAZÉNS DO CHIADO MALL, R. do Carmo, 1200-094 Lisboa, פורטוגל",
+          "country_code": "PT",
+          "name": "Sephora"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-10-01T13:06:23Z",
+        "google_maps_url": "http://maps.google.com/?q=Largo+da+Luz,+Lisboa,+Portugal&ftid=0xd1932d1faba6677:0x11f264451f2fd66f",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -7.5339339,
+          41.2003121
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-09-29T12:38:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=13496045307375768019",
+        "location": {
+          "address": "R. do Cabo da Rua 4, 5085-010 Casal de Loivos, פורטוגל",
+          "country_code": "PT",
+          "name": "D'Origem - Museu do Azeite"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.4197880,
+          38.6956164
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-09-19T16:38:23Z",
+        "google_maps_url": "http://maps.google.com/?cid=9078313156070407844",
+        "location": {
+          "address": "Dom Carlos I Avenue 6, 2750-310 Cascais, פורטוגל",
+          "country_code": "PT",
+          "name": "Baía do Peixe - Cascais"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1543088,
+          38.7206838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-09-04T09:43:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=15239323641331581765",
+        "location": {
+          "address": "Rua de São Filipe Néri 21, 1250-225 Lisboa, פורטוגל",
+          "country_code": "PT",
+          "name": "Nadi! Bistro"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-31T13:52:20Z",
+        "google_maps_url": "http://maps.google.com/?q=Cais+da+Ribeira,+Porto,+%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0xd2464e0c8cbfb51:0xdffdd074ee6ba7be",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.6265688,
+          41.2140335
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-31T13:01:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=12216629890825832328",
+        "location": {
+          "address": "Via Norte Aptd. 1044, 4466-955 Leça do Balio, פורטוגל",
+          "name": "Super Bock Group"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1238073,
+          38.7164936
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-30T14:37:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=8088522077449611711",
+        "location": {
+          "address": "Campo de Santa Clara 160A, 1100-475 Lisboa, פורטוגל",
+          "name": "Escape Rooms Game Over - Santa Clara"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.2061308,
+          38.6993618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-30T14:07:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=16325227314536203884",
+        "location": {
+          "address": "R. dos Jerónimos 7 A, 1400-210 Lisboa, פורטוגל",
+          "country_code": "PT",
+          "name": "Centro Cultural Casapiano"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.2053949,
+          38.6975595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-30T14:07:03Z",
+        "google_maps_url": "http://maps.google.com/?cid=7543270160309464982",
+        "location": {
+          "address": "Praça do Império, 1400-206 Lisboa, פורטוגל",
+          "country_code": "PT",
+          "name": "Church of Saint Mary of Bethlehem"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1353652,
+          38.7078989
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-30T13:23:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=112945307802060332",
+        "location": {
+          "address": "Praça do Comércio 78, 1100-148 Lisboa, פורטוגל",
+          "country_code": "PT",
+          "name": "Lisbon Story Centre"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1360784,
+          38.7152423
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-30T07:11:30Z",
+        "google_maps_url": "http://maps.google.com/?cid=10561565466108241236",
+        "location": {
+          "address": "Praça Martim Moniz 577, 1100-341 Lisboa, פורטוגל",
+          "name": "Tram 28"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-27T18:47:10Z",
+        "google_maps_url": "http://maps.google.com/?q=Durbuy,+Belgium&ftid=0x47c04e593e3f3c65:0xd44aee13bf7926db",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1713326,
+          38.6786319
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-24T17:15:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=7209122328404945537",
+        "location": {
+          "address": "Av. do Cristo Rei, 2800-058 Almada, פורטוגל",
+          "name": "Sanctuary of Christ the King"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-22T09:59:52Z",
+        "google_maps_url": "http://maps.google.com/?q=Liguria,+Italy&ftid=0x12d31265d82c4fb5:0x105e67d473c7c90",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.0937415,
+          38.7635435
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-20T20:01:59Z",
+        "google_maps_url": "http://maps.google.com/?cid=10970538238193885488",
+        "location": {
+          "address": "Esplanada Dom Carlos I s/nº, 1990-005 Lisboa, פורטוגל",
+          "country_code": "PT",
+          "name": "האקווריום של ליסבון"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.6430577,
+          49.5333367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-18T18:30:42Z",
+        "google_maps_url": "http://maps.google.com/?cid=13357847305662495940",
+        "location": {
+          "address": "Waidallee 100, 69469 Weinheim-Waid, גרמניה",
+          "country_code": "DE",
+          "name": "Miramar"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -7.3825805,
+          41.2380099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-17T20:17:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=18059806935118251632",
+        "location": {
+          "address": "Castanheiro, פורטוגל",
+          "country_code": "PT",
+          "name": "Miradouro Olhos do Tua"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.6185813,
+          41.1368193
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-17T16:45:57Z",
+        "google_maps_url": "http://maps.google.com/?cid=8801275696413313484",
+        "location": {
+          "address": "Alameda da, R. de Serpa Pinto 44B, 4400-012 Vila Nova de Gaia, פורטוגל",
+          "country_code": "PT",
+          "name": "Real Companhia Velha - 1st Demarcation Museum"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1803574,
+          38.7401303
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-17T16:28:37Z",
+        "google_maps_url": "http://maps.google.com/?cid=14159322620969434184",
+        "location": {
+          "address": "Largo São Domingos de Benfica 01, 1500-554 Lisboa, פורטוגל",
+          "name": "ארמון פרונטיירה"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.6154767,
+          41.1490054
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-17T13:22:19Z",
+        "google_maps_url": "http://maps.google.com/?cid=6058216603665251134",
+        "location": {
+          "address": "Praça de Carlos Alberto 71, 4050-159 Porto, פורטוגל",
+          "country_code": "PT",
+          "name": "Museu da Cidade do Porto"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.0838540,
+          39.6064461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-17T09:37:36Z",
+        "google_maps_url": "http://maps.google.com/?cid=9457116664110666021",
+        "location": {
+          "address": "Praia do Norte, Nazaré, פורטוגל",
+          "country_code": "PT",
+          "name": "Forno de Orca Cave"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.0852719,
+          39.6044982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-17T09:30:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=12880384458871820081",
+        "location": {
+          "address": "Estr. do Farol, Nazaré, פורטוגל",
+          "country_code": "PT",
+          "name": "Farol da Nazaré"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-12T08:14:21Z",
+        "google_maps_url": "http://maps.google.com/?q=Amarante,+Portugal&ftid=0xd24bef00c79b2e3:0xc36de6016e7f05ee",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.3965970,
+          43.7229520
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-10T17:59:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=3669494377653533699",
+        "location": {
+          "address": "Piazza del Duomo, 56126 Pisa PI, איטליה",
+          "country_code": "IT",
+          "name": "מגדל פיזה"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8887790,
+          52.3702804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-10T12:25:22Z",
+        "google_maps_url": "http://maps.google.com/?cid=14654708133598634137",
+        "location": {
+          "address": "Raamsteeg 2, 1012 VZ Amsterdam, הולנד",
+          "name": "Boothclub Amsterdam"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.6066989,
+          41.1460999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-10T09:07:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=2129444736023985607",
+        "location": {
+          "address": "Praça da Batalha s/n, 4000-101 Porto, פורטוגל",
+          "country_code": "PT",
+          "name": "Church of Saint Ildefonso"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.6094661,
+          41.1415444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-10T09:03:04Z",
+        "google_maps_url": "http://maps.google.com/?cid=8999422360131879368",
+        "location": {
+          "address": "Escadas do Caminho Novo 17, 4000-173 Porto, פורטוגל",
+          "country_code": "PT",
+          "name": "Muralhas Fernandinas do Porto"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.6162729,
+          41.1473563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-10T09:02:56Z",
+        "google_maps_url": "http://maps.google.com/?cid=94155390668792436",
+        "location": {
+          "address": "R. do Carmo, 4050-164 Porto, פורטוגל",
+          "country_code": "PT",
+          "name": "Igreja do Carmo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.6139451,
+          41.1458838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-10T09:02:44Z",
+        "google_maps_url": "http://maps.google.com/?cid=8124884474302192112",
+        "location": {
+          "address": "R. de São Filipe de Nery, 4050-546 Porto, פורטוגל",
+          "country_code": "PT",
+          "name": "כנסיית קלריגוש"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.0195470,
+          41.6920025
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-10T08:23:46Z",
+        "google_maps_url": "http://maps.google.com/?cid=2076448055046603848",
+        "location": {
+          "address": "Sidros, Montalegre, פורטוגל",
+          "country_code": "PT",
+          "name": "Ponte da Misarela"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -7.8166895,
+          41.0916737
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-10T08:21:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=1579440064669121509",
+        "location": {
+          "address": "Monte de Santo Estevão, 5100-025 Lamego, פורטוגל",
+          "country_code": "PT",
+          "name": "Santuário de Nossa Senhora dos Remédios"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.2159773,
+          38.6915837
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-10T06:41:00Z",
+        "google_maps_url": "http://maps.google.com/?cid=3459570102839693631",
+        "location": {
+          "address": "Av. Brasília, 1400-038 Lisboa, פורטוגל",
+          "country_code": "PT",
+          "name": "מגדל בלן"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1329535,
+          38.7098339
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-09T19:51:51Z",
+        "google_maps_url": "http://maps.google.com/?cid=10551402986858832409",
+        "location": {
+          "address": "Largo da Sé 1, 1100-585 Lisboa, פורטוגל",
+          "country_code": "PT",
+          "name": "קתדרלת ליסבון"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1368243,
+          38.7084447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-09T19:30:43Z",
+        "google_maps_url": "http://maps.google.com/?cid=14188067636392380848",
+        "location": {
+          "address": "R. Augusta 2, 1100-053 Lisboa, פורטוגל",
+          "country_code": "PT",
+          "name": "שער אוגוסטה"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1406129,
+          38.7120383
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-09T19:29:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=3663666638493854959",
+        "location": {
+          "address": "Largo do Carmo, 1200-092 Lisboa, פורטוגל",
+          "country_code": "PT",
+          "name": "מנזר קרמו"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1334762,
+          38.7139092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-09T19:29:22Z",
+        "google_maps_url": "http://maps.google.com/?cid=13024533549412529111",
+        "location": {
+          "address": "R. de Santa Cruz do Castelo, 1100-129 Lisboa, פורטוגל",
+          "country_code": "PT",
+          "name": "טירת סאו ז'ורז'ה"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-09T19:09:46Z",
+        "google_maps_url": "http://maps.google.com/?q=Museumplein,+1071+DJ+Amsterdam,+Netherlands&ftid=0x47c609efc7dc0ae7:0x56a4fbb45c23f3bf",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.9053205,
+          52.3839099
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-09T19:09:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=1017273724126605040",
+        "location": {
+          "address": "Tolhuisweg 3, 1031 CL Amsterdam, הולנד",
+          "country_code": "NL",
+          "name": "Winterparade"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8839765,
+          52.3752182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-09T14:13:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=15319659771873942282",
+        "location": {
+          "address": "Westermarkt 20, 1016 GV Amsterdam, הולנד",
+          "country_code": "NL",
+          "name": "בית אנה פרנק"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8852188,
+          52.3599976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-09T14:12:53Z",
+        "google_maps_url": "http://maps.google.com/?cid=15367253546462381445",
+        "location": {
+          "address": "Museumstraat 1, 1071 XX Amsterdam, הולנד",
+          "country_code": "NL",
+          "name": "רייקסמוזיאום"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8812053,
+          52.3580757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-09T14:12:33Z",
+        "google_maps_url": "http://maps.google.com/?cid=13990476974401570074",
+        "location": {
+          "address": "Museumplein 6, 1071 DJ Amsterdam, הולנד",
+          "country_code": "NL",
+          "name": "מוזיאון ואן גוך"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.8721931,
+          52.3862142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-09T14:11:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=5637556023098867524",
+        "location": {
+          "address": "Pazzanistraat 37, 1014 DB Amsterdam, הולנד",
+          "country_code": "NL",
+          "name": "Fabrique des Lumières"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.3839117,
+          39.4619434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-06T05:17:56Z",
+        "google_maps_url": "http://maps.google.com/?cid=12685815122188784262",
+        "location": {
+          "address": "Praia do Ribatejo, פורטוגל",
+          "country_code": "PT",
+          "name": "אלמורול"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.1093693,
+          41.7032472
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-03T12:29:27Z",
+        "google_maps_url": "http://maps.google.com/?cid=15382936034980493503",
+        "location": {
+          "address": "PV3R+F5X, פורטוגל",
+          "country_code": "PT",
+          "name": "Cascatas de Fecha de Barjas"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-03T11:12:27Z",
+        "google_maps_url": "http://maps.google.com/?q=4845-063+Ger%C3%AAs,+Portugal&ftid=0xd2518e6002dd37f:0x59bab107083aaed3",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-03T11:11:29Z",
+        "google_maps_url": "http://maps.google.com/?q=Grutas+de+Mira+de+Aire,+2485-050+Mira+de+Aire,+Portugal&ftid=0xd189ba827e6bb51:0x57947a0b42e675a9",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1787831,
+          38.7034602
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-02T19:00:00Z",
+        "google_maps_url": "http://maps.google.com/?cid=3741271562934109100",
+        "location": {
+          "address": "R. Rodrigues de Faria 103 Piso 3, 1300-501 Lisboa, פורטוגל",
+          "country_code": "PT",
+          "name": "LX Factory"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.6105935,
+          41.1442942
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-02T18:56:56Z",
+        "google_maps_url": "http://maps.google.com/?cid=5084096334174903872",
+        "location": {
+          "address": "Av. Dom Afonso Henriques, 4000-069 Porto, פורטוגל",
+          "country_code": "PT",
+          "name": "São Bento station"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.3934990,
+          38.7490973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-02T18:18:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=1500903805939394296",
+        "location": {
+          "address": "Av. Alfredo César Torres, 2646-901 Alcabideche, פורטוגל",
+          "country_code": "PT",
+          "name": "Autódromo Fernanda Pires da Silva"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.4206357,
+          38.7942297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-02T18:15:27Z",
+        "google_maps_url": "http://maps.google.com/?cid=3893787195456529206",
+        "location": {
+          "address": "R. Barbosa du Bocage 136, 2710-405 Sintra, פורטוגל",
+          "country_code": "PT",
+          "name": "Park and Palace of Monserrate"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.2057115,
+          38.6935973
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-02T17:56:46Z",
+        "google_maps_url": "http://maps.google.com/?cid=9171844586408633881",
+        "location": {
+          "address": "Av. Brasília, 1400-038 Lisboa, פורטוגל",
+          "country_code": "PT",
+          "name": "אנדרטת התגליות"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.4216236,
+          38.6920844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-02T16:35:27Z",
+        "google_maps_url": "http://maps.google.com/?cid=17510942584847406697",
+        "location": {
+          "address": "Av. Rei Humberto II de Itália, 2750-319 Cascais, פורטוגל",
+          "country_code": "PT",
+          "name": "Museu Condes de Castro Guimarães"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.4209839,
+          38.6904686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-02T16:34:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=10054746161280358167",
+        "location": {
+          "address": "Av. Rei Humberto II de Itália, 2750-800 Cascais, פורטוגל",
+          "country_code": "PT",
+          "name": "Farol Museu de Santa Marta"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.4193804,
+          38.6939198
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-08-02T16:31:09Z",
+        "google_maps_url": "http://maps.google.com/?cid=8104872259151464310",
+        "location": {
+          "address": "Av. Dom Carlos I 246, 2750-310 Cascais, פורטוגל",
+          "country_code": "PT",
+          "name": "Cidadela de Cascais"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.4214114,
+          38.6911756
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-07-31T17:11:37Z",
+        "google_maps_url": "http://maps.google.com/?cid=7346071673830218591",
+        "location": {
+          "address": "Praceta Farol, 2750-642 Cascais, פורטוגל",
+          "country_code": "PT",
+          "name": "Santa Maria"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.0643419,
+          38.4693714
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-07-29T20:49:55Z",
+        "google_maps_url": "http://maps.google.com/?cid=12603540988883000104",
+        "location": {
+          "address": "פורטוגל",
+          "country_code": "PT",
+          "name": "Parque Natural da Arrábida"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.1626317,
+          41.7282173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-07-29T20:46:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=7861380121707580854",
+        "location": {
+          "address": "פורטוגל",
+          "country_code": "PT",
+          "name": "Peneda-Gerês National Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-07-29T20:44:38Z",
+        "google_maps_url": "http://maps.google.com/?q=Berlengas,+Portugal&ftid=0xd1f42daf0fda36b:0x2120431bda11174f",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.3960244,
+          38.7963069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-07-29T20:43:59Z",
+        "google_maps_url": "http://maps.google.com/?cid=13826549032849925411",
+        "location": {
+          "address": "2710-567 Sintra, פורטוגל",
+          "country_code": "PT",
+          "name": "Quinta da Regaleira"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.0678151,
+          41.4881886
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-07-29T20:42:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=3861438614260036818",
+        "location": {
+          "address": "Rua Rally de Portugal n.º1610, 4800-000 Fafe, פורטוגל",
+          "country_code": "PT",
+          "name": "Boulder House"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-07-26T20:22:07Z",
+        "google_maps_url": "http://maps.google.com/?q=%D0%9A%D0%B0%D1%88%D0%BA%D0%B0%D0%B9%D1%88,+%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0xd1ec47379b79a97:0x870d3b7e1807bbc2",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1933120,
+          38.6958561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-07-26T20:18:17Z",
+        "google_maps_url": "http://maps.google.com/?cid=14633127902029896644",
+        "location": {
+          "address": "Av. Brasília, 1300-598 Lisboa, פורטוגל",
+          "country_code": "PT",
+          "name": "MAAT - Museum of Art, Architecture and Technology"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1437847,
+          38.7072464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-07-26T20:17:28Z",
+        "google_maps_url": "http://maps.google.com/?cid=11013617497986018078",
+        "location": {
+          "address": "R. Nova do Carvalho 21 23, 1200-291 Lisboa, פורטוגל",
+          "country_code": "PT",
+          "name": "Pink Street"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-07-26T20:13:58Z",
+        "google_maps_url": "http://maps.google.com/?q=%D0%90%D0%BB%D0%B1%D1%83%D1%84%D0%B5%D0%B9%D1%80%D0%B0,+%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0xd1aceae38ddc41f:0xed22e7a562441045",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-07-26T20:13:22Z",
+        "google_maps_url": "http://maps.google.com/?q=%D0%9C%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D0%B0,+%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0xd107dbb4664ccab:0x24c06972823ba698",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-07-26T20:12:33Z",
+        "google_maps_url": "http://maps.google.com/?q=%D0%A1%D0%B8%D0%BD%D1%82%D1%80%D0%B0,+%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0xd1edac1a7510ee9:0x13585cc0b00f573c",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.1781710,
+          31.7434250
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-07-05T13:06:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=16920602416494673608",
+        "location": {
+          "address": "עין יעל ירושלים, 9148101, ישראל",
+          "name": "סדנאות קרמיקה - סטודיו חאטור"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.9361763,
+          32.0699958
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-30T13:52:33Z",
+        "google_maps_url": "http://maps.google.com/?cid=16925778989725062829",
+        "location": {
+          "address": "כביש יצחק רבין, ישראל",
+          "name": "מרכז שירות כביש 6"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.3437298,
+          38.7650867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-26T04:43:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=12531773321353051640",
+        "location": {
+          "address": "Largo Joaquim José Correia 38, 2635-047 Rio de Mouro, פורטוגל",
+          "country_code": "PT",
+          "name": "Plataforma"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.6056554,
+          41.1498821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-22T16:24:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=1230150224831809461",
+        "location": {
+          "address": "R. de Santa Catarina 428, 4000-444 Porto, פורטוגל",
+          "country_code": "PT",
+          "name": "Chapel of Souls"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.6255165,
+          41.1482682
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-22T16:22:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=7236363821226401080",
+        "location": {
+          "address": "R. de D Manuel II, 4050-346 Porto, פורטוגל",
+          "name": "Jardins do Palácio de Cristal"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.6111165,
+          41.1428531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-22T16:21:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=5340368308542978025",
+        "location": {
+          "address": "Terreiro da Sé, 4050-573 Porto, פורטוגל",
+          "country_code": "PT",
+          "name": "Porto Cathedral"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.6092935,
+          41.1371459
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-22T16:18:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=2970628053487203559",
+        "location": {
+          "address": "Jardim do Morro, 4430-210 Vila Nova de Gaia, פורטוגל",
+          "name": "Jardim do Morro"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.6147746,
+          41.1469055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-22T16:18:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=9153637019004560463",
+        "location": {
+          "address": "R. das Carmelitas 144, 4050-161 Porto, פורטוגל",
+          "country_code": "PT",
+          "name": "Livraria Lello"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-22T16:16:53Z",
+        "google_maps_url": "http://maps.google.com/?q=Ribeira,+Porto,+Portugal&ftid=0xd2464e724adc789:0xa72dd2f0f7d62f0",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.6095440,
+          41.1454920
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-22T16:14:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=1319433874625296190",
+        "location": {
+          "address": "Praça de Almeida Garrett, 4000-069 Porto, פורטוגל",
+          "country_code": "PT",
+          "name": "Porto São Bento"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1692039,
+          38.7430914
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-22T16:13:36Z",
+        "google_maps_url": "http://maps.google.com/?cid=4948293234082239069",
+        "location": {
+          "address": "Praça Marechal Humberto Delgado, 1549-004 Lisboa, פורטוגל",
+          "country_code": "PT",
+          "name": "Jardim Zoológico"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.2067039,
+          38.6978909
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-22T16:12:43Z",
+        "google_maps_url": "http://maps.google.com/?cid=9760810247707356141",
+        "location": {
+          "address": "Praça do Império 1400-206 Lisboa, פורטוגל",
+          "country_code": "PT",
+          "name": "מנזר ז'רונימוש"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1324544,
+          38.7165713
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-22T15:13:23Z",
+        "google_maps_url": "http://maps.google.com/?cid=14228334671043970290",
+        "location": {
+          "address": "R. dos Lagares 24, 1100-601 Lisboa, פורטוגל",
+          "country_code": "PT",
+          "name": "Funicular da Graça - Gare Inferior"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-22T14:59:47Z",
+        "google_maps_url": "http://maps.google.com/?q=Serra+do+Bu%C3%A7aco,+Portugal&ftid=0xd23028a4cbd6589:0x26a01cf679784bc8",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3468149,
+          48.8652644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-15T13:23:34Z",
+        "google_maps_url": "http://maps.google.com/?cid=10364766292052201131",
+        "location": {
+          "address": "51 Rue Montorgueil, 75002 Paris, צרפת",
+          "country_code": "FR",
+          "name": "Stohrer"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1459637,
+          38.7146568
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-11T19:16:23Z",
+        "google_maps_url": "http://maps.google.com/?cid=9501906361862527957",
+        "location": {
+          "address": "R. da Rosa 265, 1200-385 Lisboa, פורטוגל",
+          "country_code": "PT",
+          "name": "Rosa da Rua"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -8.6035613,
+          41.1460143
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-11T09:38:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=5647790835214762770",
+        "location": {
+          "address": "Praça dos Poveiros 122, 4000-393 Porto, פורטוגל",
+          "country_code": "PT",
+          "name": "Trigo de Cantos - Amarante Tavern"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -9.1469233,
+          38.7160092
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-11T09:38:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=12675064040744724487",
+        "location": {
+          "address": "R. Dom Pedro V 96, 1250-094 Lisboa, פורטוגל",
+          "country_code": "PT",
+          "name": "Faz Frio"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-08T20:13:13Z",
+        "google_maps_url": "http://maps.google.com/?q=37.119719,-8.522317",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -7.7396452,
+          41.2967539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-08T20:12:14Z",
+        "google_maps_url": "http://maps.google.com/?cid=17080554775635487040",
+        "location": {
+          "address": "R. da Guia 6, 5000-621 Vila Real, פורטוגל",
+          "country_code": "PT",
+          "name": "Passadiços do Corgo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.2214076,
+          31.7769788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-06T12:50:37Z",
+        "google_maps_url": "http://maps.google.com/?cid=392122898801609649",
+        "location": {
+          "address": "המערבים 3, ירושלים, ישראל",
+          "country_code": "IL",
+          "name": "המפעל"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -7.5457590,
+          41.1907830
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-06-01T11:57:34Z",
+        "google_maps_url": "http://maps.google.com/?cid=12804276148715014258",
+        "location": {
+          "address": "R. António Manuel Saraiva 41, 5085-037 Vila Real, פורטוגל",
+          "country_code": "PT",
+          "name": "Ponto Grande Lunch on Tour"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.0807690,
+          45.8139668
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-20T16:29:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=10399164710032163915",
+        "location": {
+          "address": "22100 קומו, איטליה",
+          "country_code": "IT",
+          "name": "Como"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.2306397,
+          45.9858523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-18T21:24:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=3273507624804171626",
+        "location": {
+          "address": "Via Statale, 5605, 22019 Tremezzo CO, איטליה",
+          "country_code": "IT",
+          "name": "Botanical Garden of Villa Carlotta"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.9416613,
+          50.0654718
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-18T08:52:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=11940862024594805379",
+        "location": {
+          "address": "Basztowa, 30-547 Kraków, פולין",
+          "country_code": "PL",
+          "name": "ברביקן קרקוב"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.9335845,
+          50.0530183
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-18T04:54:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=9914501735572340072",
+        "location": {
+          "address": "Stare Miasto, Kraków, פולין",
+          "country_code": "PL",
+          "name": "הדרקון של ואוול"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-17T11:34:04Z",
+        "google_maps_url": "http://maps.google.com/?q=31.99096487359348,34.88823227584362",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.2654879,
+          45.9912845
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-16T21:09:10Z",
+        "google_maps_url": "http://maps.google.com/?cid=1443080216153676875",
+        "location": {
+          "address": "Via Eugenio Vitali, 22021 Bellagio CO, איטליה",
+          "country_code": "IT",
+          "name": "Punta Spartivento"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.9393903,
+          50.0616411
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-16T19:38:38Z",
+        "google_maps_url": "http://maps.google.com/?cid=15940242599518715698",
+        "location": {
+          "address": "plac Mariacki 5, 31-042 Kraków, פולין",
+          "country_code": "PL",
+          "name": "בזיליקת מריה הקדושה"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.9364793,
+          50.0615295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-16T19:29:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=774207539409295598",
+        "location": {
+          "address": "Rynek Główny 1, 30-001 Kraków, פולין",
+          "country_code": "PL",
+          "name": "Town Hall Tower"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-08T17:39:47Z",
+        "google_maps_url": "http://maps.google.com/?q=22016+%D0%A2%D1%80%D0%B5%D0%BC%D0%B5%D0%B4%D0%B7%D0%BE,+%D0%9A%D0%BE%D0%BC%D0%BE,+%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0x478422d6c3e57d7f:0xe8247e3e5a70bb9b",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-08T17:38:22Z",
+        "google_maps_url": "http://maps.google.com/?q=23900+%D0%9B%D0%B5%D0%BA%D0%BA%D0%BE,+%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0x478402d32a793355:0x8f7caba70bc80602",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-08T17:36:15Z",
+        "google_maps_url": "http://maps.google.com/?q=22017+%D0%9C%D0%B5%D0%BD%D0%B0%D0%B4%D0%B6%D0%BE,+%D0%9A%D0%BE%D0%BC%D0%BE,+%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0x47843d067e66a05f:0x829849a45fdf6c27",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.2855607,
+          46.0092665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-08T17:35:55Z",
+        "google_maps_url": "http://maps.google.com/?cid=5899485800677490675",
+        "location": {
+          "address": "Viale Giovanni Polvani, 4, 23829 Varenna LC, איטליה",
+          "country_code": "IT",
+          "name": "Villa Monastero garden"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.2024923,
+          45.9652533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-08T17:35:37Z",
+        "google_maps_url": "http://maps.google.com/?cid=5509293497181114517",
+        "location": {
+          "address": "22016 Tremezzina, Province of Como, איטליה",
+          "name": "וילה בלבינאלו"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-08T17:35:04Z",
+        "google_maps_url": "http://maps.google.com/?q=22034+%D0%91%D1%80%D1%83%D0%BD%D0%B0%D1%82%D0%B5,+%D0%9A%D0%BE%D0%BC%D0%BE,+%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0x47869dc4c50efc33:0xe5eaab4a72004a78",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-08T17:34:43Z",
+        "google_maps_url": "http://maps.google.com/?q=22100+%D0%9A%D0%BE%D0%BC%D0%BE,+%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F&ftid=0x47869c481027ed63:0xb99b96af785ff524",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.9520380,
+          29.5508512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-04T21:54:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=7237301143027755979",
+        "location": {
+          "address": "עגור 4, אילת, 8851001, ישראל",
+          "country_code": "IL",
+          "name": "KSP סניף אילת מרכז התיירות"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.1380016,
+          31.7581995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-03T10:21:59Z",
+        "google_maps_url": "http://maps.google.com/?cid=15367985753726063275",
+        "location": {
+          "address": "ישראל",
+          "country_code": "IL",
+          "name": "עין עוזי"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-28T15:28:01Z",
+        "google_maps_url": "http://maps.google.com/?q=31.747202569724838,35.19622463732958",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.1805782,
+          45.4560976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-17T19:03:46Z",
+        "google_maps_url": "http://maps.google.com/?cid=1428757828935112486",
+        "location": {
+          "address": "Corso di Porta Ticinese, 60, 20123 Milano MI, איטליה",
+          "country_code": "IT",
+          "name": "Kobe Sushi Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.2848263,
+          46.0093804
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-15T16:14:40Z",
+        "google_maps_url": "http://maps.google.com/?cid=10326679550039597677",
+        "location": {
+          "address": "Via 4 Novembre, 22, 23829 Varenna LC, איטליה",
+          "country_code": "IT",
+          "name": "Hotel Villa Cipressi, by R Collection Hotels"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.1919265,
+          45.4640976
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-15T09:43:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=12357681832208772627",
+        "location": {
+          "address": "P.za del Duomo, 20122 Milano MI, איטליה",
+          "country_code": "IT",
+          "name": "קתדרלת מילאנו"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.1709621,
+          45.4659630
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-15T09:41:20Z",
+        "google_maps_url": "http://maps.google.com/?cid=17103490255119931993",
+        "location": {
+          "address": "Via Giuseppe Antonio Sassi, 3, 20123 Milano MI, איטליה",
+          "country_code": "IT",
+          "name": "כנסיית סנטה מריה דלה גרציה"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.1899401,
+          45.4658434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-15T09:40:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=2813514643363451926",
+        "location": {
+          "address": "20123 Milan, Metropolitan City of Milan, איטליה",
+          "country_code": "IT",
+          "name": "גלריית ויטוריו אמנואלה השני"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.1831266,
+          45.4656963
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-15T09:28:43Z",
+        "google_maps_url": "http://maps.google.com/?cid=15434914583030867478",
+        "location": {
+          "address": "P.za degli Affari, 6, 20123 Milano MI, איטליה",
+          "name": "Italian Stock Exchange"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.2909321,
+          46.0256776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-14T10:16:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=3125249593820388874",
+        "location": {
+          "address": "Via delle Corti, 3, 23828 Gittana LC, איטליה",
+          "country_code": "IT",
+          "name": "Semi di grano Home Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-13T21:16:09Z",
+        "google_maps_url": "http://maps.google.com/?q=Hamme+Yesha%60&ftid=0x15031759aa989c81:0xd2044e6317114cb1",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.7632799,
+          32.0499956
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-05T20:25:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=14154175258262571173",
+        "location": {
+          "address": "התחייה 16, תל אביב-יפו, ישראל",
+          "country_code": "IL",
+          "name": "The Milk & Honey Distillery"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-01-09T07:19:03Z",
+        "google_maps_url": "http://maps.google.com/?q=48.185728,16.312516",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-12-29T06:41:05Z",
+        "google_maps_url": "http://maps.google.com/?q=48.210599,16.358267",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4203840,
+          50.0842050
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-12-16T15:05:22Z",
+        "google_maps_url": "http://maps.google.com/?cid=10599563745465274084",
+        "location": {
+          "address": "Havelská 1, 110 00 Staré Město, צ׳כיה",
+          "name": "Elixir Mystery (Real Escape Adventure)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4312155,
+          50.0730513
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-12-14T20:18:36Z",
+        "google_maps_url": "http://maps.google.com/?cid=12118227082807591214",
+        "location": {
+          "address": "Tyršova 9, 120 00 Nové Město, צ׳כיה",
+          "name": "מיינד מייז"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.2631811,
+          50.1017910
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-12-14T19:51:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=3435543728786568876",
+        "location": {
+          "address": "Aviatická, 161 00 Praha 6, צ׳כיה",
+          "country_code": "CZ",
+          "name": "נמל התעופה ואצלב האוול"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-12-08T21:55:27Z",
+        "google_maps_url": "http://maps.google.com/?q=Kurbadstra%C3%9Fe+14,+1100+Wien,+%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F&ftid=0x476dabd53c02a977:0x684b4bbaa50db60a",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3615447,
+          48.2039112
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-12-06T19:38:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=6072060520573645866",
+        "location": {
+          "address": "Maria-Theresien-Platz 1, 1010 Wien, אוסטריה",
+          "country_code": "AT",
+          "name": "Café im Kunsthistorischen Museum Wien"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4242760,
+          50.0872307
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-12-06T06:59:37Z",
+        "google_maps_url": "http://maps.google.com/?cid=16567049419362557296",
+        "location": {
+          "address": "Celetná 596/15, 110 00 Staré Město, צ׳כיה",
+          "country_code": "CZ",
+          "name": "Lumia Gallery"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4182994,
+          50.0841654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-12-02T17:44:58Z",
+        "google_maps_url": "http://maps.google.com/?cid=17042887168490056698",
+        "location": {
+          "address": "Husova, 110 00 Staré Město, צ׳כיה",
+          "name": "Man Hanging Out - David Černý's Statue of Sigmund Freud"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4225000,
+          50.0908333
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-12-02T16:43:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=862081189472864776",
+        "location": {
+          "address": "Haštalská 1, 110 00 Staré Město, צ׳כיה",
+          "country_code": "CZ",
+          "name": "Speculum Alchemiae"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4152787,
+          50.0893625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-12-02T16:39:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=13732853103135748406",
+        "location": {
+          "address": "nám. J. Palacha, 110 00 Josefov, צ׳כיה",
+          "name": "Verneus"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4511741,
+          50.0810526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-12-02T09:14:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=11969593978648954899",
+        "location": {
+          "address": "Mahlerovy sady 1, 130 00 Praha 3-Žižkov, צ׳כיה",
+          "country_code": "CZ",
+          "name": "מגדל הטלוויזיה ז'יז'קוב"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4192144,
+          50.0866743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-12-02T08:47:03Z",
+        "google_maps_url": "http://maps.google.com/?cid=8519605458968604086",
+        "location": {
+          "address": "Dům U Rotta, Malé Nám. 3, 110 00 Josefov, צ׳כיה",
+          "country_code": "CZ",
+          "name": "הארד רוק קפה"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4262041,
+          50.0799300
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-12-02T08:30:49Z",
+        "google_maps_url": "http://maps.google.com/?cid=835522215946775730",
+        "location": {
+          "address": "Štěpánská 624/40, 110 00 Nové Město, צ׳כיה",
+          "country_code": "CZ",
+          "name": "Alcron Bar"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4221397,
+          50.0803768
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-30T20:30:14Z",
+        "google_maps_url": "http://maps.google.com/?cid=10170776620065597442",
+        "location": {
+          "address": "Jungmannova 23/11, 110 00 Nové Město, צ׳כיה",
+          "country_code": "CZ",
+          "name": "Anonymous Shrink's Office"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3988675,
+          50.0881438
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-30T20:25:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=18309052465466558765",
+        "location": {
+          "address": "Jánský vršek 312, 118 00 Malá Strana, צ׳כיה",
+          "country_code": "CZ",
+          "name": "Kellyxír - alchemical pub / Alchemical Lab Pub"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.3892515,
+          50.0861478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-30T20:22:56Z",
+        "google_maps_url": "http://maps.google.com/?cid=14930948157833878256",
+        "location": {
+          "address": "Strahovské nádvoří 1/132, 118 00 Praha 1-Strahov, צ׳כיה",
+          "country_code": "CZ",
+          "name": "מנזר סטרהוב (Strahovsky klaster)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4277887,
+          50.0872730
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-30T19:39:41Z",
+        "google_maps_url": "http://maps.google.com/?cid=10613216719000703910",
+        "location": {
+          "address": "Nám. Republiky 5, 110 00 Staré Město, צ׳כיה",
+          "country_code": "CZ",
+          "name": "מגדל אבק השריפה"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4542575,
+          50.0846618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-30T15:08:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=11953320464407210266",
+        "location": {
+          "address": "Úřad městské části, Havlíčkovo nám. 3/700, 130 00 Praha 3-Žižkov, צ׳כיה",
+          "country_code": "CZ",
+          "name": "La Paisanita Žižkov"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4224913,
+          50.0903324
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-30T15:05:14Z",
+        "google_maps_url": "http://maps.google.com/?cid=4255381534977501839",
+        "location": {
+          "address": "Kozí 915/7, 110 00 Staré Město, צ׳כיה",
+          "country_code": "CZ",
+          "name": "Baraqa Georgian Cuisine"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.4207065,
+          50.0870215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-30T14:51:33Z",
+        "google_maps_url": "http://maps.google.com/?cid=17400577118091478678",
+        "location": {
+          "address": "Staroměstské nám. 1, 110 00 Josefov, צ׳כיה",
+          "country_code": "CZ",
+          "name": "השעון האסטרונומי בפראג"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          2.3265614,
+          48.8599614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-27T19:13:21Z",
+        "google_maps_url": "http://maps.google.com/?cid=15019994644224418776",
+        "location": {
+          "address": "Esplanade Valéry Giscard d'Estaing, 75007 Paris, צרפת",
+          "country_code": "FR",
+          "name": "מוזיאון ד'אורסה"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3740015,
+          48.2054899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-25T19:30:20Z",
+        "google_maps_url": "http://maps.google.com/?cid=14003648751010791503",
+        "location": {
+          "address": "Himmelpfortgasse 17, 1010 Wien, אוסטריה",
+          "name": "First Escape"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-25T16:46:44Z",
+        "google_maps_url": "http://maps.google.com/?q=%D0%97%D0%B5%D0%BC%D0%BC%D0%B5%D1%80%D0%B8%D0%BD%D0%B3,+%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F&ftid=0x476ddf75292f8947:0x3a377c59272dd626",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3609674,
+          48.2046208
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-25T15:53:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=16512097571346380664",
+        "location": {
+          "address": "Maria-Theresien-Platz, 1010 Wien, אוסטריה",
+          "name": "כיכר מריה תרזה"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.7651131,
+          47.2196684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-25T15:53:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=8617876506244680763",
+        "location": {
+          "address": "Red Bull Ring Str. 1, 8724 Spielberg, אוסטריה",
+          "country_code": "AT",
+          "name": "רד בול רינג"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-25T15:50:09Z",
+        "google_maps_url": "http://maps.google.com/?q=Stephansplatz,+1010+Wien,+%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F&ftid=0x476d079f3e69c281:0x20563c156aa1fde",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-25T15:45:55Z",
+        "google_maps_url": "http://maps.google.com/?q=48.208402,16.373490999999998",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-25T15:44:57Z",
+        "google_maps_url": "http://maps.google.com/?q=48.191468,16.380916",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-25T15:39:49Z",
+        "google_maps_url": "http://maps.google.com/?q=Karlsplatz,+Wien,+Austria&ftid=0x476d07653fefd931:0xbf63bf6f7ab59e29",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3311580,
+          48.2242581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-21T20:35:00Z",
+        "google_maps_url": "http://maps.google.com/?cid=13344736909984599402",
+        "location": {
+          "address": "Schumanngasse 87, 1170 Wien, אוסטריה",
+          "name": "Original Vienna Snowglobe factory"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3655917,
+          48.2112222
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-21T20:15:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=471180979524660762",
+        "location": {
+          "address": "Freyung 2, 1010 Wien, אוסטריה",
+          "country_code": "AT",
+          "name": "Xocolat"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3749633,
+          48.2081643
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-20T15:27:10Z",
+        "google_maps_url": "http://maps.google.com/?cid=10548703226415677921",
+        "location": {
+          "address": "Mozarthaus, Domgasse 5, 1010 Wien, אוסטריה",
+          "country_code": "AT",
+          "name": "מוזיאון מוצרט בבית מוצרט"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3809322,
+          48.1914751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-20T15:19:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=5360968363265979911",
+        "location": {
+          "address": "1030 Vienna, אוסטריה",
+          "country_code": "AT",
+          "name": "ארמון בלוודר"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3512936,
+          48.1940351
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-19T20:47:56Z",
+        "google_maps_url": "http://maps.google.com/?cid=17280728469387026682",
+        "location": {
+          "address": "Hofmühlgasse 19, 1060 Wien, אוסטריה",
+          "country_code": "AT",
+          "name": "Crazy Khinkali"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3804143,
+          48.1883603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-19T20:43:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=3724250263658786365",
+        "location": {
+          "address": "Wiedner Gürtel 4, 1040 Wien, אוסטריה",
+          "country_code": "AT",
+          "name": "Aufzug Café"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3701081,
+          48.2026877
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-17T08:24:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=8840955908435513105",
+        "location": {
+          "address": "Kärntner Str. 53/55, 1010 Wien, אוסטריה",
+          "country_code": "AT",
+          "name": "Lindt Schweizer Maître Chocolatier"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3025607,
+          48.1861480
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-17T08:23:33Z",
+        "google_maps_url": "http://maps.google.com/?cid=17088284209798755655",
+        "location": {
+          "address": "Hietzinger Hauptstraße 1A, 1130 Wien, אוסטריה",
+          "country_code": "AT",
+          "name": "Lindt Chocolate Boutique"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.3622529,
+          48.1844717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-15T16:13:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=7063704638404689630",
+        "location": {
+          "address": "Wiedner Hauptstraße 111, 1050 Wien, אוסטריה",
+          "country_code": "AT",
+          "name": "Hotline 5 | Smash Burger"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.1525545,
+          48.8342104
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-21T19:54:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=4359595003385706887",
+        "location": {
+          "address": "Porscheplatz 1, 70435 Stuttgart, גרמניה",
+          "country_code": "DE",
+          "name": "פורשה"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-07T21:22:43Z",
+        "google_maps_url": "http://maps.google.com/?q=Hallstatt,+Austria&ftid=0x4771366f6e414663:0x16c165596a26c1ad",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3415547,
+          50.8948787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-29T17:24:23Z",
+        "google_maps_url": "http://maps.google.com/?cid=5950107355577726729",
+        "location": {
+          "address": "Pl. de l'Atomium 1, 1020 Bruxelles, בלגיה",
+          "country_code": "BE",
+          "name": "אטומיום"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3535820,
+          50.8485220
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-29T17:20:07Z",
+        "google_maps_url": "http://maps.google.com/?cid=17545174564705964395",
+        "location": {
+          "address": "Rue de la Fourche 41, 1000 Bruxelles, בלגיה",
+          "country_code": "BE",
+          "name": "Le Roi de la Gaufre"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3536546,
+          50.8413367
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-29T17:18:07Z",
+        "google_maps_url": "http://maps.google.com/?cid=15661770362245375600",
+        "location": {
+          "address": "Rue des Minimes 1, 1000 Bruxelles, בלגיה",
+          "name": "Pierre Marcolini Zavel"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.3543390,
+          50.8409540
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-29T17:17:59Z",
+        "google_maps_url": "http://maps.google.com/?cid=13795153575945564245",
+        "location": {
+          "address": "Place du Grand Sablon 39, 1000 Bruxelles, בלגיה",
+          "name": "Pierre Marcolini I The Biscuit Shop"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-27T12:28:26Z",
+        "google_maps_url": "http://maps.google.com/?q=45.814877,15.970992",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9871630,
+          45.8099757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-26T18:17:53Z",
+        "google_maps_url": "http://maps.google.com/?cid=7368679028090157422",
+        "location": {
+          "address": "Trg Žrtava Fašizma 16, 10000, Zagreb, קרואטיה",
+          "country_code": "HR",
+          "name": "Croatian Association of Fine Artists"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5880932,
+          45.0785295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-26T07:09:22Z",
+        "google_maps_url": "http://maps.google.com/?cid=8097417567734111002",
+        "location": {
+          "address": "Općina, 47240, Slunj, קרואטיה",
+          "country_code": "HR",
+          "name": "River Slunjčica Spring"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0297005,
+          44.0170555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-25T13:07:07Z",
+        "google_maps_url": "http://maps.google.com/?cid=17890845971823039097",
+        "location": {
+          "address": "Krka national park, 22305, Ivoševci, קרואטיה",
+          "country_code": "HR",
+          "name": "Vidikovac Brljan"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0348765,
+          44.0124301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-25T13:06:42Z",
+        "google_maps_url": "http://maps.google.com/?cid=2012253099729352070",
+        "location": {
+          "address": "22305, Puljane, קרואטיה",
+          "country_code": "HR",
+          "name": "Waterfall Brljan"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0684128,
+          44.0130577
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-25T11:54:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=8506177486761053568",
+        "location": {
+          "address": "22300, Krk, קרואטיה",
+          "country_code": "HR",
+          "name": "Bilušića Buk"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0198382,
+          44.0035005
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-25T11:53:59Z",
+        "google_maps_url": "http://maps.google.com/?cid=14158446020938252281",
+        "location": {
+          "address": "22305, Puljane, קרואטיה",
+          "country_code": "HR",
+          "name": "Waterfalls Miljacka"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9749626,
+          43.9037295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-25T11:53:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=12817609757364630042",
+        "location": {
+          "address": "Šetnica Roški Slap - Visovac, 22324, Bogatić, קרואטיה",
+          "country_code": "HR",
+          "name": "Roski waterfall"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.0255979,
+          44.0154986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-25T11:52:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=16640595286808581517",
+        "location": {
+          "address": "22305, Ivoševci, קרואטיה",
+          "country_code": "HR",
+          "name": "Manojlovački slapovi"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2785440,
+          44.0393080
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-25T11:25:09Z",
+        "google_maps_url": "http://maps.google.com/?cid=18085732256049872054",
+        "location": {
+          "address": "Unnamed Road, 22310, Polača, קרואטיה",
+          "country_code": "HR",
+          "name": "Slap za mlin"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2545653,
+          44.0427703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-25T11:25:00Z",
+        "google_maps_url": "http://maps.google.com/?cid=2738763178418031155",
+        "location": {
+          "address": "22300, Kovačić, קרואטיה",
+          "country_code": "HR",
+          "name": "Drugi buk"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2658328,
+          44.0397229
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-25T11:24:43Z",
+        "google_maps_url": "http://maps.google.com/?cid=14120155156878919216",
+        "location": {
+          "address": "Unnamed Road, 22300, Kovačić, קרואטיה",
+          "country_code": "HR",
+          "name": "Third cascade"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.2351624,
+          44.0416520
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-24T21:36:34Z",
+        "google_maps_url": "http://maps.google.com/?cid=4680822151140837602",
+        "location": {
+          "address": "Dalibora Defilipisa, 22300, Kovačić, קרואטיה",
+          "country_code": "HR",
+          "name": "Slap Krčić Knin"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1903252,
+          44.0327868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-24T21:35:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=10721244575401592647",
+        "location": {
+          "address": "Drniška ul. 2, 22300, Ljubač, קרואטיה",
+          "country_code": "HR",
+          "name": "Krka River Bridge"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.1933680,
+          44.0342952
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-24T21:35:02Z",
+        "google_maps_url": "http://maps.google.com/?cid=1833184143151826032",
+        "location": {
+          "address": "Tvrđava 3, 22300, Knin, קרואטיה",
+          "country_code": "HR",
+          "name": "Knin Fortress"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-24T06:37:07Z",
+        "google_maps_url": "http://maps.google.com/?q=Dinara,+22310,+Kijevo,+Croatia&ftid=0x47601477a7aa4a39:0x247c9d09501620ee",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-24T06:36:37Z",
+        "google_maps_url": "http://maps.google.com/?q=43.965553,16.412434",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4325975,
+          43.5070461
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-26T15:17:44Z",
+        "google_maps_url": "http://maps.google.com/?cid=12587645468638511921",
+        "location": {
+          "address": "Trumbićeva obala 16, 21000, Split, קרואטיה",
+          "country_code": "HR",
+          "name": "BOKAMORRA HAUTE COUTURE PIZZA & COCKTAILS"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.4326603,
+          43.5063378
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-26T15:17:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=9923043725098427207",
+        "location": {
+          "address": "Obala kneza Branimira 1a, 21000, Split, קרואטיה",
+          "country_code": "HR",
+          "name": "Gourmet Bar Basta"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2198229,
+          44.1175922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-19T17:39:56Z",
+        "google_maps_url": "http://maps.google.com/?cid=13336879238238292918",
+        "location": {
+          "address": "Istarska obala, 23000, Zadar, קרואטיה",
+          "country_code": "HR",
+          "name": "The Greeting to the Sun"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-19T16:46:59Z",
+        "google_maps_url": "http://maps.google.com/?q=Ul.+Stjepana+Ivi%C4%8Devi%C4%87a+22,+21300,+Makarska,+%D0%A5%D0%BE%D1%80%D0%B2%D0%B0%D1%82%D0%B8%D1%8F&ftid=0x134aee6ea3675ce7:0xded70b0fc678569f",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-19T14:15:07Z",
+        "google_maps_url": "http://maps.google.com/?q=Od+Gaja+54,+20000,+Dubrovnik,+Croatia&ftid=0x134c75264dde72d7:0x4a1e6e08de227a9d",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-19T14:14:46Z",
+        "google_maps_url": "http://maps.google.com/?q=Od+Gaja+19,+20000,+Dubrovnik,+Croatia&ftid=0x134c75264612051f:0x867be7cc285b2029",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9232550,
+          43.8176375
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-18T18:49:35Z",
+        "google_maps_url": "http://maps.google.com/?cid=18291294198162022316",
+        "location": {
+          "address": "Put svetog jere, 22222, Skradin, קרואטיה",
+          "country_code": "HR",
+          "name": "Skradinski Buk waterfall"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.9724838,
+          43.8666017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-18T18:49:27Z",
+        "google_maps_url": "http://maps.google.com/?cid=1360602577226447160",
+        "location": {
+          "address": "קרואטיה",
+          "country_code": "HR",
+          "name": "Krka National Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.1091649,
+          42.6395767
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-12T15:18:36Z",
+        "google_maps_url": "http://maps.google.com/?cid=13789876511782074518",
+        "location": {
+          "address": "Poljana Ruđera Boškovića 7, 20000, Dubrovnik, קרואטיה",
+          "country_code": "HR",
+          "name": "Church of St. Ignatius"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.1093696,
+          42.6396116
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-12T15:18:33Z",
+        "google_maps_url": "http://maps.google.com/?cid=5382211934115492595",
+        "location": {
+          "address": "Ul. Josipa Jurja Strossmayera 2, 20000, Dubrovnik, קרואטיה",
+          "country_code": "HR",
+          "name": "Jesuit Stairs"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.2199087,
+          44.1172200
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-12T12:39:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=13150488992529175466",
+        "location": {
+          "address": "Obala kralja Petra Krešimira IV, 23000, Zadar, קרואטיה",
+          "country_code": "HR",
+          "name": "Sea Organ"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-12T12:23:00Z",
+        "google_maps_url": "http://maps.google.com/?q=42.641481,18.111448",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-12T05:25:17Z",
+        "google_maps_url": "http://maps.google.com/?q=Sr%C4%91,+20000,+%D0%94%D1%83%D0%B1%D1%80%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA,+%D0%A5%D0%BE%D1%80%D0%B2%D0%B0%D1%82%D0%B8%D1%8F&ftid=0x134c74ce54f3d091:0xda9769209a7265b7",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          3.7252779,
+          51.0565719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-07T10:02:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=4029422743128906269",
+        "location": {
+          "address": "Vrijdagmarkt 50, 9000 Gent, בלגיה",
+          "country_code": "BE",
+          "name": "Dulle Griet"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-27T12:02:57Z",
+        "google_maps_url": "http://maps.google.com/?q=43.976883,16.429928",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          4.9012760,
+          52.3843480
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-19T07:55:13Z",
+        "google_maps_url": "http://maps.google.com/?cid=12908095405107003065",
+        "location": {
+          "address": "IJpromenade 1, 1031 KT Amsterdam, הולנד",
+          "country_code": "NL",
+          "name": "Eye Film Museum"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.0847386,
+          43.2854126
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-15T06:36:33Z",
+        "google_maps_url": "http://maps.google.com/?cid=8287484663571940621",
+        "location": {
+          "address": "Biokovska cesta, 21325, Tučepi, קרואטיה",
+          "country_code": "HR",
+          "name": "Skywalk Biokovo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7976279,
+          44.8922050
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-10T12:47:22Z",
+        "google_maps_url": "http://maps.google.com/?cid=3186797450245534203",
+        "location": {
+          "address": "Štinjan bb, 52100, Pula, קרואטיה",
+          "country_code": "HR",
+          "name": "Fort Punta Christo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-10T12:41:50Z",
+        "google_maps_url": "http://maps.google.com/?q=47240,+Rastoke,+Croatia&ftid=0x4763ff73f2e4daeb:0x2600ad5153365d72",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-10T12:40:44Z",
+        "google_maps_url": "http://maps.google.com/?q=Stiniva,+21480,+Marinje+Zemlje,+Croatia&ftid=0x13359608cbde422d:0xa99242f02de7b4c0",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6924770,
+          43.4454154
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T17:13:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=15312906861426892006",
+        "location": {
+          "address": "Ul. Josipa Pupačića 4, 21310, Omiš, קרואטיה",
+          "country_code": "HR",
+          "name": "Zipline Croatia"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T17:12:39Z",
+        "google_maps_url": "http://maps.google.com/?q=Omi%C5%A1,+Croatia&ftid=0x134a98152ce46845:0x46516efef6fd3fc2",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.5007449,
+          43.1868072
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T16:29:25Z",
+        "google_maps_url": "http://maps.google.com/?cid=2043077391944216624",
+        "location": {
+          "address": "5GP2+P7, 21454, Brusje, קרואטיה",
+          "country_code": "HR",
+          "name": "Hvar Lavender Fields"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T15:37:47Z",
+        "google_maps_url": "http://maps.google.com/?q=4280+%D0%9A%D1%80%D0%B0%D0%BD%D1%8C%D1%81%D0%BA%D0%B0-%D0%93%D0%BE%D1%80%D0%B0,+%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F&ftid=0x477a7ce5980f8af5:0xdc10e282bbdf9dde",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7990434,
+          46.3424727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T15:37:14Z",
+        "google_maps_url": "http://maps.google.com/?cid=14481090786027974296",
+        "location": {
+          "address": "4265 Bohinjsko jezero, סלובניה",
+          "country_code": "SI",
+          "name": "הפארק הלאומי טריגלב"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.6200864,
+          46.3831161
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T15:35:20Z",
+        "google_maps_url": "http://maps.google.com/?cid=2237108341194816476",
+        "location": {
+          "address": "Logarska Dolina 9, 3335 Solčava, סלובניה",
+          "country_code": "SI",
+          "name": "Logar Valley"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          17.6081011,
+          43.1560200
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T15:04:19Z",
+        "google_maps_url": "http://maps.google.com/?cid=17779517597692586133",
+        "location": {
+          "address": "Zvirići 88320, בוסניה והרצגובינה",
+          "country_code": "BA",
+          "name": "Kravica Waterfall"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.8937770,
+          46.4391857
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T11:13:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=3514961209664406345",
+        "location": {
+          "address": "4281 Mojstrana, סלובניה",
+          "country_code": "SI",
+          "name": "Slap Peričnik"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.1006225,
+          46.3699146
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T11:12:51Z",
+        "google_maps_url": "http://maps.google.com/?cid=990976632077902768",
+        "location": {
+          "address": "Grajska cesta 61, 4260 Bled, סלובניה",
+          "country_code": "SI",
+          "name": "Bled Castle"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.7990434,
+          46.3424727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T11:12:38Z",
+        "google_maps_url": "http://maps.google.com/?cid=1081136715368919280",
+        "location": {
+          "address": "4265 Bohinjsko jezero, סלובניה",
+          "country_code": "SI",
+          "name": "הפארק הלאומי טריגלב"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.0856595,
+          46.3935926
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T11:12:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=2503374199684783594",
+        "location": {
+          "address": "Turistično društvo Gorje, Podhom 80, 4247 Zgornje Gorje, סלובניה",
+          "country_code": "SI",
+          "name": "קניון וינטגאר"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T11:11:49Z",
+        "google_maps_url": "http://maps.google.com/?q=%D0%AE%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5+%D0%90%D0%BB%D1%8C%D0%BF%D1%8B,+5232+Bohinjsko+jezero,+%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F&ftid=0x477a60380828a19b:0x5415362912f4f82f",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T11:10:47Z",
+        "google_maps_url": "http://maps.google.com/?q=%D0%91%D0%BE%D1%85%D0%B8%D0%BD%D1%8C%D1%81%D0%BA%D0%BE,+4265+Bohinjsko+jezero,+%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F&ftid=0x477af35779d240f3:0x3fb08f3272bb08cd",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T11:09:57Z",
+        "google_maps_url": "http://maps.google.com/?q=4260+%D0%91%D0%BB%D0%B5%D0%B4,+%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F&ftid=0x477a8e1dd7139961:0x400f81c823fec50",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          14.9440741,
+          44.7656747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T11:00:14Z",
+        "google_maps_url": "http://maps.google.com/?cid=13373934447344820850",
+        "location": {
+          "address": "Krasno 96, 53274, Krasno, קרואטיה",
+          "country_code": "HR",
+          "name": "Northern Velebit National Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T10:58:41Z",
+        "google_maps_url": "http://maps.google.com/?q=%D0%A0%D0%BE%D0%B2%D0%B8%D0%BD%D1%8C,+%D0%A5%D0%BE%D1%80%D0%B2%D0%B0%D1%82%D0%B8%D1%8F&ftid=0x477cbf634d5c86ff:0xffc69f61c598ae53",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6342783,
+          43.2575474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T10:57:27Z",
+        "google_maps_url": "http://maps.google.com/?cid=14977118235190972064",
+        "location": {
+          "address": "21420, Bol, קרואטיה",
+          "name": "Golden Horn Beach"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          16.6482314,
+          43.5622166
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T10:57:04Z",
+        "google_maps_url": "http://maps.google.com/?cid=5447023042848855965",
+        "location": {
+          "address": "Unnamed Road,, 21204, Kotlenice, קרואטיה",
+          "country_code": "HR",
+          "name": "Vranjaca Cave"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.1055170,
+          42.6470693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T08:08:10Z",
+        "google_maps_url": "http://maps.google.com/?cid=7080352092781789107",
+        "location": {
+          "address": "Jadranska cesta, 20000, Dubrovnik, קרואטיה",
+          "country_code": "HR",
+          "name": "Mount Srdj hiking tours"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T08:01:08Z",
+        "google_maps_url": "http://maps.google.com/?q=%D0%91%D0%BB%D0%B5%D0%B4%D1%81%D0%BA%D0%BE%D0%B5+%D0%BE%D0%B7.,+4260+Bled,+%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F&ftid=0x477a9139b9d9e421:0x83cd8331dd0107ac",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-07T06:52:41Z",
+        "google_maps_url": "http://maps.google.com/?q=Dubrovnik,+Croatia&ftid=0x134b8ba20835e87d:0x400ad50862bd500",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-06T20:16:37Z",
+        "google_maps_url": "http://maps.google.com/?q=Bi%C5%A1evo,+Croatia&ftid=0x1335b87b4c8a655d:0x1e2d602a4ade81ae",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          15.5820119,
+          44.8653966
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-06T10:02:10Z",
+        "google_maps_url": "http://maps.google.com/?cid=367764615831641712",
+        "location": {
+          "address": "קרואטיה",
+          "country_code": "HR",
+          "name": "אגמי פליטביצה"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-06-13T07:18:25Z",
+        "google_maps_url": "http://maps.google.com/?q=San+Marco,+30100+Venice,+Metropolitan+City+of+Venice,+Italy&ftid=0x477eb1d094386ca5:0x18526446127edbff",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.3337524,
+          45.4396574
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-06-13T07:05:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=3540078105342841897",
+        "location": {
+          "address": "Calle Prima de la Donzella, 306, 30125 Venezia VE, איטליה",
+          "country_code": "IT",
+          "name": "Rialto Market"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.3449371,
+          45.4340611
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-06-04T15:08:41Z",
+        "google_maps_url": "http://maps.google.com/?cid=15348996005781860060",
+        "location": {
+          "address": "Riva degli Schiavoni, 30122 Venezia VE, איטליה",
+          "country_code": "IT",
+          "name": "Chiesa della Pietà - Santa Maria della Visitazione"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-06-03T11:49:50Z",
+        "google_maps_url": "http://maps.google.com/?q=Fondaco+dei+Tedeschi,+Calle+del+Fontego+dei+Tedeschi,+30100+Venezia+VE,+Italy&ftid=0x477eb1dbc41d43f1:0xa6b4ace23437a36c",
+        "Comment": "אין מיקום זמין למקום השמור הזה"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.3338144,
+          45.4394615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-06-03T10:48:26Z",
+        "google_maps_url": "http://maps.google.com/?cid=4978923253142027279",
+        "location": {
+          "address": "Calle de le Beccarie o Panateria, 319, 30125 Venezia VE, איטליה",
+          "country_code": "IT",
+          "name": "WEnice Streetfood"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.3284489,
+          45.4366295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-06-03T10:19:28Z",
+        "google_maps_url": "http://maps.google.com/?cid=2213504872902063636",
+        "location": {
+          "address": "Calle dei Saoneri, 2720 f, 30125 Venezia VE, איטליה",
+          "country_code": "IT",
+          "name": "La Bottega Dei Mascareri"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.3382230,
+          45.4336094
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-06-03T09:49:22Z",
+        "google_maps_url": "http://maps.google.com/?cid=2984251328638419091",
+        "location": {
+          "address": "P.za San Marco, 57, 30124 Venezia VE, איטליה",
+          "country_code": "IT",
+          "name": "קפה פלוריאן"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.3466295,
+          45.5046844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-06-03T08:12:23Z",
+        "google_maps_url": "http://maps.google.com/?cid=2589906724184017049",
+        "location": {
+          "address": "Viale Galileo Galilei, 30, 30173 Venezia VE, איטליה",
+          "country_code": "IT",
+          "name": "נמל התעופה הבינלאומי ונציה מרקו פולו"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.2389804,
+          45.4814965
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-05-20T14:45:55Z",
+        "google_maps_url": "http://maps.google.com/?cid=2559267828695871316",
+        "location": {
+          "address": "Via Ca' Marcello, 15, 30172 Venezia VE, איטליה",
+          "country_code": "IT",
+          "name": "AO Hotel Venice Mestre"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.3348376,
+          45.4386629
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-05-13T16:39:25Z",
+        "google_maps_url": "http://maps.google.com/?cid=3250123625675676351",
+        "location": {
+          "address": "Ruga dei Oresi, 57, 30125 Venezia VE, איטליה",
+          "country_code": "IT",
+          "name": "L' Bacaro de' Bischeri"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.3365754,
+          45.4382733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-05-13T16:21:42Z",
+        "google_maps_url": "http://maps.google.com/?cid=3132879262492274582",
+        "location": {
+          "address": "San Marco, 5541, 30124 Venezia VE, איטליה",
+          "country_code": "IT",
+          "name": "T Fondaco Rooftop Terrace"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          12.3372030,
+          45.4324341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-05-13T15:49:55Z",
+        "google_maps_url": "http://maps.google.com/?cid=5821160107486921993",
+        "location": {
+          "address": "Calle Vallaresso, 1323, 30124 Venezia VE, איטליה",
+          "country_code": "IT",
+          "name": "הארי'ז בר"
+        }
+      },
+      "type": "Feature"
+    }
+  ]
+}
