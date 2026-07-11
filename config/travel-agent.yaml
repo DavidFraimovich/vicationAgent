@@ -1,0 +1,90 @@
+project:
+  name: Codex Travel Agent Local
+  default_trip_id: dolomites-2026
+  locale: he-IL
+  user_timezone: Asia/Jerusalem
+
+storage:
+  database_path: data/travel-agent.sqlite
+  backup_directory: data/backups
+  export_directory: data/exports
+
+dashboard:
+  host: 127.0.0.1
+  port: 4177
+
+maps:
+  provider: google_maps_grounding_lite
+  remote_mcp_url: https://mapstools.googleapis.com/mcp
+  search_tools:
+    - search_places
+    - compute_routes
+    - lookup_weather
+  saved_lists_write_provider: chrome
+  attribution_required: true
+  store_google_content_policy:
+    store_place_ids: true
+    store_user_exported_content: true
+    cache_grounding_response_bodies: false
+
+calendar:
+  provider: local_google_calendar_connector
+  calendar_name: "חו״ל"
+  calendar_id: "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com"
+  trip_timezone: Europe/Rome
+  dry_run_default: true
+  require_confirmation_for_write: true
+  require_confirmation_for_delete: true
+  oauth_client_path: secrets/google-oauth-client.json
+  oauth_token_path: secrets/google-oauth-token.json
+  protected_events:
+    - title_contains: "LY 289"
+      date: "2026-09-09"
+    - title_contains: "LY 290"
+      date: "2026-09-25"
+
+browser:
+  primary: codex_chrome_extension
+  fallback: chrome_devtools_mcp
+  dedicated_profile: true
+  profile_account_email: david04031997@gmail.com
+  full_site_access_on_allowlist: true
+  allowed_domains:
+    - maps.google.com
+    - google.com
+    - airbnb.com
+    - booking.com
+    - dolomiti.org
+    - suedtirol.info
+    - cortina.dolomiti.org
+    - seceda.it
+    - alpedisiusi.bz.it
+  blocked_actions:
+    - reveal_saved_passwords
+    - export_payment_card_numbers
+    - copy_auth_cookies_to_files
+  confirmation_required_actions:
+    - final_purchase
+    - final_booking
+    - send_message_to_host
+    - cancel_booking
+    - delete_calendar_event
+
+lodging:
+  providers:
+    - airbnb_chrome
+    - booking_plugin_or_chrome
+  default_adults: 2
+  ranking_weights:
+    route_fit: 0.35
+    total_price: 0.20
+    rating: 0.15
+    parking: 0.10
+    cancellation: 0.10
+    preference_fit: 0.10
+
+audit:
+  log_reads: false
+  log_writes: true
+  log_external_actions: true
+  redact_secrets: true

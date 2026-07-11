@@ -1,0 +1,38 @@
+# Project-scoped Codex configuration.
+# Codex only loads this file after the project is trusted.
+#
+# Required before first run:
+#   1. npm run setup
+#   2. export GOOGLE_MAPS_GROUNDING_API_KEY="..."
+#   3. Restart Codex and run /mcp
+
+[mcp_servers.travel_local]
+command = "npm"
+args = ["run", "mcp"]
+cwd = "."
+enabled = true
+required = true
+startup_timeout_sec = 20
+tool_timeout_sec = 120
+default_tools_approval_mode = "auto"
+
+[mcp_servers.google_maps]
+url = "https://mapstools.googleapis.com/mcp"
+env_http_headers = { "X-Goog-Api-Key" = "GOOGLE_MAPS_GROUNDING_API_KEY" }
+enabled = true
+required = false
+enabled_tools = ["search_places", "compute_routes", "lookup_weather"]
+default_tools_approval_mode = "auto"
+tool_timeout_sec = 60
+
+# Optional fallback for Codex CLI / IDE.
+# In the Codex desktop app, prefer the official @Chrome plugin because it
+# manages signed-in browser permissions and website approvals.
+[mcp_servers.chrome_devtools]
+command = "npx"
+args = ["-y", "chrome-devtools-mcp@latest", "--autoConnect", "--no-usage-statistics"]
+enabled = false
+required = false
+startup_timeout_sec = 30
+tool_timeout_sec = 120
+default_tools_approval_mode = "auto"

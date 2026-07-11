@@ -1,0 +1,27 @@
+"name","latitude","longitude","address","category","priority","planning_status","google_maps_url","notes"
+"5 Torri chairlift – Bai de Dones",,,,"lift|mountain|east-dolomites","A","calendar_anchor","https://www.google.com/maps/search/5%20Torri%20chairlift%20Bai%20de%20Dones","5 Torri chairlift currently published through 11 Oct 2026, 09:00–17:00, weather dependent."
+"Chiesa di Santa Maddalena – Val di Funes",,,,"scenic|west-dolomites","A","calendar_anchor","https://www.google.com/maps/search/Santa%20Maddalena%20Val%20di%20Funes",
+"Cortina d'Ampezzo",,,,"base|east-dolomites","A","calendar_anchor","https://www.google.com/maps/search/Cortina%20d'Ampezzo",
+"La Palafitta – Lago di Braies boathouse",,,,"lake|boat|east-dolomites","A","calendar_anchor","https://www.google.com/maps/search/La%20Palafitta%20Lago%20di%20Braies","7–27 Sep 2026: 09:00–17:30; shared boat ride shown as €20 / 45 min."
+"Mont Sëuc / Alpe di Siusi cable car – Ortisei",,,,"lift|mountain|west-dolomites","A","calendar_anchor","https://www.google.com/maps/search/Ortisei%20Alpe%20di%20Siusi%20cable%20car%20Mont%20Seuc","Published summer 2026 operation through 2 Nov; verify daily hours shortly before travel."
+"Ortisei",,,,"base|west-dolomites","A","calendar_anchor","https://www.google.com/maps/search/Ortisei",
+"P1 – Parcheggio Lago di Braies",,,,"parking|east-dolomites|reservation","A","calendar_anchor","https://www.google.com/maps/search/P1%20Lago%20di%20Braies%20parking","Road regulation and reserved limited parking apply during the September 2026 visit."
+"Passo Giau",,,,"scenic-drive|east-dolomites","A","calendar_anchor","https://www.google.com/maps/search/Passo%20Giau",
+"Piazza San Marco","45.4341668","12.3384717","P.za San Marco, 30100 Venezia VE, Italy","city|venice|landmark","A","calendar_anchor","https://www.google.com/maps/place/%D7%9B%D7%99%D7%9B%D7%A8+%D7%A1%D7%9F+%D7%9E%D7%A8%D7%A7%D7%95%E2%80%AD/@45.4341668,12.3384717,17z",
+"Rialto Bridge",,,,"city|venice|landmark","A","calendar_anchor","https://www.google.com/maps/search/Rialto%20Bridge%20Venice",
+"Rifugio Auronzo / Tre Cime parking",,,,"parking|east-dolomites|reservation","A","calendar_anchor","https://www.google.com/maps/search/Rifugio%20Auronzo%20parking%20Tre%20Cime","2026 car parking €40, mandatory online reservation, 12-hour ticket; booking expected to open around end of April."
+"Seceda cable car – Ortisei",,,,"lift|mountain|west-dolomites","A","calendar_anchor","https://www.google.com/maps/search/Seceda%20cable%20car%20Ortisei","Published 2026 operation: 22 May–2 Nov, 08:30–18:00."
+"Tre Cime di Lavaredo loop",,,,"hike|mountain|east-dolomites","A","calendar_anchor","https://www.google.com/maps/search/Tre%20Cime%20di%20Lavaredo","Plan 10 km / 4–5 h. Arrive 07:30–08:00. Carry sandwiches; do not rely on rifugi."
+"VCE car-rental center",,,,"transport|car","A","calendar_anchor","https://www.google.com/maps/search/Venice%20Marco%20Polo%20Airport%20car%20rental","Specific supplier desk depends on the final car booking."
+"Venezia Mestre railway station",,,,"transport|venice","A","calendar_anchor","https://www.google.com/maps/search/Venezia%20Mestre%20railway%20station",
+"Venice Marco Polo Airport (VCE)",,,"Viale Galileo Galilei 30, 30173 Venezia VE, Italy","transport|flight","A","calendar_anchor","https://www.google.com/maps/search/Venice%20Marco%20Polo%20Airport","Arrival 9 Sep; car pickup 11 Sep; car return 24 Sep; departure 25 Sep."
+"a&o Venezia Mestre","45.4814965","12.2389804","Via Ca Marcello, 15, 30172 Venezia VE, Italy","lodging|logistics|venice","A","calendar_anchor","https://maps.google.com/?cid=2559267828695871316","לינה מאושרת לשני לילות; לעדכן מראש על הגעה מאוחרת."
+"Affordable Venetian mask shop — verify exact shop",,,,"shopping|venice","B","candidate","https://www.google.com/maps/search/affordable%20Venetian%20mask%20shop%20Venice","Do not substitute an expensive artisan workshop. Resolve one specific well-reviewed budget shop in Chrome before the day."
+"Funivia Lagazuoi",,,,"lift|mountain|east-dolomites","B","calendar_anchor","https://www.google.com/maps/search/Funivia%20Lagazuoi","Published 2026 operation: 6 Jun–18 Oct; first lift 09:00, last uphill 16:40, last descent 17:00."
+"Lago di Centro Cadore (Pieve di Cadore)",,,"Pieve di Cadore, Belluno, Italy","lake|nature|transition-stop|east-dolomites","B","calendar_anchor","https://www.google.com/maps/search/?api=1&query=Lago%20di%20Centro%20Cadore%20Pieve%20di%20Cadore","עצירה קצרה בלבד; לצאת עד 17:15 כדי להגיע לקורטינה באור."
+"Lago di Misurina",,,,"lake|east-dolomites|fallback","B","candidate","https://www.google.com/maps/search/Lago%20di%20Misurina",
+"Murano Faro",,,,"city|venice|island","B","calendar_anchor","https://www.google.com/maps/search/Murano%20Faro%20Venice",
+"Parcheggio Malga Zannes (P1)",,,,"parking|hike|west-dolomites","B","calendar_anchor","https://www.google.com/maps/search/Parcheggio%20Zannes%20Val%20di%20Funes","Verify and reserve parking online when the 2026 date is released."
+"Passo Gardena",,,,"scenic-drive|west-dolomites","B","candidate","https://www.google.com/maps/search/Passo%20Gardena",
+"Rifugio Averau",,,,"food|mountain|east-dolomites","B","calendar_anchor","https://www.google.com/maps/search/Rifugio%20Averau",
+"Conegliano historic centre",,,,"city|transfer|fallback","C","candidate","https://www.google.com/maps/search/Conegliano%20historic%20centre",

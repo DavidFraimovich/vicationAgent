@@ -1,0 +1,33 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          35.2044999,
+          31.7588102
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "חוות הנוער הציוני, שי עגנון 1, ירושלים, ישראל",
+        "name": "בית"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.647096,
+          31.811631499999997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "ז'בוטינסקי 16, אשדוד, ישראל",
+        "name": "My Home"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Codex Travel Agent</title>
+  <style>
+    :root { font-family: Inter, system-ui, sans-serif; color-scheme: light dark; }
+    body { margin: 0; background: #111318; color: #f2f4f8; }
+    header { padding: 22px 28px; border-bottom: 1px solid #30343c; position: sticky; top: 0; background: #111318ee; backdrop-filter: blur(12px); z-index: 2; }
+    h1 { margin: 0 0 6px; font-size: 24px; }
+    .sub { color: #aeb6c2; }
+    main { padding: 22px 28px 60px; max-width: 1500px; margin: auto; }
+    nav { display: flex; gap: 8px; flex-wrap: wrap; margin: 0 0 20px; }
+    button, select, input, textarea { font: inherit; }
+    button { background: #2c6bed; color: white; border: 0; border-radius: 8px; padding: 9px 13px; cursor: pointer; }
+    button.secondary { background: #2a2e36; }
+    .panel { display: none; }
+    .panel.active { display: block; }
+    .toolbar { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; }
+    input, select, textarea { background: #191d24; color: #f2f4f8; border: 1px solid #3a414d; border-radius: 7px; padding: 8px; }
+    input[type=search] { min-width: 320px; }
+    table { width: 100%; border-collapse: collapse; font-size: 14px; }
+    th, td { border-bottom: 1px solid #2b3038; padding: 9px; vertical-align: top; text-align: right; }
+    th { color: #b9c2ce; position: sticky; top: 94px; background: #111318; }
+    tr:hover { background: #171b22; }
+    a { color: #78a7ff; }
+    .muted { color: #8f99a6; }
+    .badge { display: inline-block; border: 1px solid #404956; border-radius: 999px; padding: 2px 7px; margin: 1px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit,minmax(320px,1fr)); gap: 12px; }
+    .card { background: #181c23; border: 1px solid #2c323c; border-radius: 12px; padding: 14px; }
+    pre { white-space: pre-wrap; word-break: break-word; }
+    dialog { width: min(700px, 92vw); border: 1px solid #3a414d; border-radius: 12px; background: #171b22; color: inherit; }
+    dialog form { display: grid; gap: 10px; }
+  </style>
+</head>
+<body>
+<header>
+  <h1>סוכן נסיעות מקומי ל־Codex</h1>
+  <div class="sub">כל המידע, הסטטוסים והפעולות ניתנים לצפייה ולעריכה מקומית.</div>
+</header>
+<main>
+  <nav>
+    <button data-tab="places">מקומות</button>
+    <button data-tab="itinerary">מסלול</button>
+    <button data-tab="lodging">לינה</button>
+    <button data-tab="validation">בדיקות</button>
+    <button data-tab="audit">יומן פעולות</button>
+  </nav>
+
+  <section id="places" class="panel active">
+    <div class="toolbar">
+      <input id="placeQuery" type="search" placeholder="חיפוש מקום">
+      <select id="placePriority"><option value="">כל העדיפויות</option><option>A</option><option>B</option><option>C</option><option>Conditional</option><option>Reject-default</option></select>
+      <select id="placeStatus"><option value="">כל הסטטוסים</option><option>discovered</option><option>resolved</option><option>map_only</option><option>candidate_for_day</option><option>calendar_anchor</option><option>scheduled</option><option>conditional</option><option>rejected_default</option></select>
+      <button id="refreshPlaces">רענן</button>
+    </div>
+    <div id="placesCount" class="muted"></div>
+    <div style="overflow:auto"><table><thead><tr><th>שם</th><th>קטגוריות</th><th>עדיפות</th><th>סטטוס</th><th>כתובת / מפה</th><th>הערות</th><th>שמירה</th></tr></thead><tbody id="placesBody"></tbody></table></div>
+  </section>
+
+  <section id="itinerary" class="panel">
+    <div class="toolbar"><button id="addItinerary">הוסף פריט מסלול</button><button id="refreshItinerary" class="secondary">רענן</button></div>
+    <div id="itineraryGrid" class="grid"></div>
+  </section>
+
+  <section id="lodging" class="panel">
+    <div class="toolbar"><button id="addLodging">הוסף מועמד לינה</button><button id="refreshLodging" class="secondary">רענן</button></div>
+    <div id="lodgingGrid" class="grid"></div>
+  </section>
+
+  <section id="validation" class="panel">
+    <div class="toolbar"><button id="refreshValidation">הרץ בדיקות</button></div>
+    <pre id="validationOutput"></pre>
+  </section>
+
+  <section id="audit" class="panel">
+    <div class="toolbar"><button id="refreshAudit">רענן</button></div>
+    <div id="auditGrid" class="grid"></div>
+  </section>
+</main>
+
+<dialog id="editDialog">
+  <form method="dialog" id="editForm">
+    <h3 id="dialogTitle"></h3>
+    <div id="dialogFields"></div>
+    <div style="display:flex;gap:8px"><button value="cancel" class="secondary">ביטול</button><button id="dialogSave" value="default">שמירה</button></div>
+  </form>
+</dialog>
+
+<script>
+const tripId = "dolomites-2026";
+const $ = (q) => document.querySelector(q);
+const esc = (v="") => String(v ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
+
+async function api(url, options) {
+  const res = await fetch(url, options);
+  const data = await res.json();
+  if (!res.ok) throw new Error(data.error || res.statusText);
+  return data;
+}
+
+document.querySelectorAll("nav button").forEach(btn => btn.onclick = () => {
+  document.querySelectorAll(".panel").forEach(p => p.classList.remove("active"));
+  $("#" + btn.dataset.tab).classList.add("active");
+});
+
+async function loadPlaces() {
+  const q = encodeURIComponent($("#placeQuery").value);
+  const p = encodeURIComponent($("#placePriority").value);
+  const s = encodeURIComponent($("#placeStatus").value);
+  const rows = await api(`/api/places?tripId=${tripId}&query=${q}&priority=${p}&status=${s}`);
+  $("#placesCount").textContent = `${rows.length} מקומות`;
+  $("#placesBody").innerHTML = rows.map(place => `
+    <tr>
+      <td><strong>${esc(place.name)}</strong><br><span class="muted">${esc(place.countryCode || "")}</span></td>
+      <td>${(place.categories || []).map(x => `<span class="badge">${esc(x)}</span>`).join("")}</td>
+      <td><select data-id="${place.id}" data-field="priority">${["A","B","C","Conditional","Reject-default"].map(x => `<option ${place.priority===x?"selected":""}>${x}</option>`).join("")}</select></td>
+      <td><select data-id="${place.id}" data-field="planningStatus">${["discovered","resolved","map_only","candidate_for_day","calendar_anchor","scheduled","conditional","rejected_default"].map(x => `<option ${place.planningStatus===x?"selected":""}>${x}</option>`).join("")}</select></td>
+      <td>${esc(place.address || "")}<br>${place.googleMapsUrl ? `<a target="_blank" href="${esc(place.googleMapsUrl)}">Google Maps</a>` : `<span class="muted">לא פתור</span>`}</td>
+      <td><textarea data-id="${place.id}" data-field="notes" rows="3">${esc(place.notes || "")}</textarea></td>
+      <td><button data-save-place="${place.id}">שמור</button></td>
+    </tr>`).join("");
+
+  document.querySelectorAll("[data-save-place]").forEach(btn => btn.onclick = async () => {
+    const id = btn.dataset.savePlace;
+    const row = btn.closest("tr");
+    const payload = { placeId: id, tripId };
+    row.querySelectorAll("[data-field]").forEach(el => payload[el.dataset.field] = el.value);
+    await api("/api/place/status", { method:"POST", headers:{"content-type":"application/json"}, body:JSON.stringify(payload) });
+    btn.textContent = "נשמר";
+    setTimeout(() => btn.textContent = "שמור", 900);
+  });
+}
+
+async function loadItinerary() {
+  const rows = await api(`/api/itinerary?tripId=${tripId}`);
+  const groups = {};
+  rows.forEach(x => (groups[x.dayDate] ||= []).push(x));
+  $("#itineraryGrid").innerHTML = Object.entries(groups).map(([day, items]) => `
+    <div class="card"><h3>${esc(day)}</h3>${items.map(x => `
+      <div style="border-top:1px solid #303640;padding:9px 0">
+        <strong>${esc(x.startTime || "")} ${esc(x.title)}</strong>
+        <div class="muted">${esc(x.itemType)} · ${esc(x.status)}</div>
+        <div>${esc(x.description || "")}</div>
+      </div>`).join("")}</div>`).join("") || `<div class="muted">אין עדיין פריטי מסלול.</div>`;
+}
+
+async function loadLodging() {
+  const rows = await api(`/api/lodging?tripId=${tripId}`);
+  $("#lodgingGrid").innerHTML = rows.map(x => `
+    <div class="card">
+      <h3>${esc(x.title)}</h3>
+      <div>${esc(x.baseName || "")} · ${esc(x.checkIn || "")}–${esc(x.checkOut || "")}</div>
+      <div>${esc(x.provider)} · ${esc(x.status)}</div>
+      <div>${x.totalPrice ?? ""} ${esc(x.currency || "")} · דירוג ${x.rating ?? ""}</div>
+      ${x.url ? `<a target="_blank" href="${esc(x.url)}">פתיחה</a>` : ""}
+      <p>${esc(x.notes || "")}</p>
+    </div>`).join("") || `<div class="muted">אין עדיין מועמדי לינה.</div>`;
+}
+
+async function loadValidation() {
+  $("#validationOutput").textContent = JSON.stringify(await api(`/api/validation?tripId=${tripId}`), null, 2);
+}
+
+async function loadAudit() {
+  const rows = await api(`/api/audit?tripId=${tripId}`);
+  $("#auditGrid").innerHTML = rows.map(x => `
+    <div class="card">
+      <strong>${esc(x.provider)} — ${esc(x.action)}</strong>
+      <div>${esc(x.status)} · ${x.dryRun ? "dry-run" : "applied"}</div>
+      <div class="muted">${esc(x.createdAt)}</div>
+      <details><summary>payload/result</summary><pre>${esc(JSON.stringify({payload:x.payload,result:x.result}, null, 2))}</pre></details>
+    </div>`).join("") || `<div class="muted">אין פעולות חיצוניות.</div>`;
+}
+
+$("#refreshPlaces").onclick = loadPlaces;
+$("#placeQuery").oninput = () => { clearTimeout(window.t); window.t=setTimeout(loadPlaces,250); };
+$("#placePriority").onchange = loadPlaces;
+$("#placeStatus").onchange = loadPlaces;
+$("#refreshItinerary").onclick = loadItinerary;
+$("#refreshLodging").onclick = loadLodging;
+$("#refreshValidation").onclick = loadValidation;
+$("#refreshAudit").onclick = loadAudit;
+
+function openForm(title, fields, save) {
+  $("#dialogTitle").textContent = title;
+  $("#dialogFields").innerHTML = fields.map(f => `<label>${esc(f.label)}<br>${f.type==="textarea" ? `<textarea name="${f.name}" rows="5">${esc(f.value||"")}</textarea>` : `<input name="${f.name}" value="${esc(f.value||"")}" ${f.required?"required":""}>`}</label>`).join("<br>");
+  $("#editDialog").showModal();
+  $("#editForm").onsubmit = async e => {
+    e.preventDefault();
+    const data = Object.fromEntries(new FormData(e.target).entries());
+    await save(data);
+    $("#editDialog").close();
+  };
+}
+
+$("#addItinerary").onclick = () => openForm("פריט מסלול חדש", [
+  {label:"תאריך",name:"dayDate",required:true},
+  {label:"שעת התחלה",name:"startTime"},
+  {label:"שעת סיום",name:"endTime"},
+  {label:"כותרת",name:"title",required:true},
+  {label:"סוג",name:"itemType",value:"activity"},
+  {label:"תיאור",name:"description",type:"textarea"},
+], async data => {
+  await api("/api/itinerary", {method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({...data,tripId,status:"draft"})});
+  loadItinerary();
+});
+
+$("#addLodging").onclick = () => openForm("מועמד לינה חדש", [
+  {label:"בסיס / אזור",name:"baseName"},
+  {label:"Check-in",name:"checkIn"},
+  {label:"Check-out",name:"checkOut"},
+  {label:"ספק",name:"provider",value:"airbnb"},
+  {label:"כותרת",name:"title",required:true},
+  {label:"URL",name:"url"},
+  {label:"מחיר כולל",name:"totalPrice"},
+  {label:"מטבע",name:"currency",value:"EUR"},
+  {label:"דירוג",name:"rating"},
+  {label:"הערות",name:"notes",type:"textarea"},
+], async data => {
+  for (const key of ["totalPrice","rating"]) if (data[key]) data[key]=Number(data[key]);
+  await api("/api/lodging", {method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({...data,tripId,status:"candidate"})});
+  loadLodging();
+});
+
+loadPlaces(); loadItinerary(); loadLodging();
+</script>
+</body>
+</html>

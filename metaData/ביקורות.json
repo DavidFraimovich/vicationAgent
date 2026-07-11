@@ -1,0 +1,614 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          35.0817938,
+          31.4062525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-04-13T16:02:52.170592Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6208fd943992c7cb",
+        "location": {
+          "country_code": "IL",
+          "name": "Beata Gamer Makeup artist & hair stylist"
+        },
+        "review_text_published": "אלופה אמיתית!\nאיפור מושלם, עמיד ומדויק, ויחס אישי מדהים. הרגשתי הכי יפה שיש – ממליצה בחום ❣️"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.1276150,
+          31.7754723
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-03-17T05:59:52.686484Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe4942cfe8396e195",
+        "location": {
+          "address": "שביל ישראל, ירושלים, ישראל",
+          "country_code": "IL",
+          "name": "סטף בלונז'רי"
+        },
+        "questions": [
+          {
+            "question": "מזון",
+            "rating": 5
+          },
+          {
+            "question": "שירות",
+            "rating": 5
+          },
+          {
+            "question": "אווירה",
+            "rating": 5
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          23.4772373,
+          41.8288451
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2025-12-28T03:43:24.631565Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbdf3b96e187ea8b1",
+        "location": {
+          "address": "Noviyat Grad, ul. \"Nayden Gerov\" 1, 2770 Bansko, בולגריה",
+          "country_code": "BG",
+          "name": "Ski School Alps Bansko"
+        },
+        "review_text_published": "אחלה מדריכים, אנשים טובים, ציוד חדש ומאוד איכותי. יחס מכבד וסבלנות:)\nהשכרנו ציוד ל3 ימים ו2 שיעורים, הבנות התקדמו יפה מאוד:)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.6582231,
+          31.8132447
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-03T16:25:36.292984Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2c5c182e39d777e2",
+        "location": {
+          "address": "הבנאים 3, אשדוד, ישראל",
+          "country_code": "IL",
+          "name": "סמוקאיט"
+        },
+        "questions": [
+          {
+            "question": "מזון",
+            "rating": 5
+          },
+          {
+            "question": "שירות",
+            "rating": 5
+          },
+          {
+            "question": "אווירה",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "מגיעים במיוחד מירושלים!\nאחלה המבורגר ואחלה בשרים!\nהבשרים מעושנים כמו שצריך במעשנת, רטבים מדהימים!\nמוגש באהבה אמיתית על ידי צוות מקצועי ושירותי!\nבאמת אין על המקום המדהים הזה.\nאוכל ושירות 10/10!!!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.2156368,
+          31.7690082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-09-03T20:28:42.120955Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7c3f368e3e417efd",
+        "location": {
+          "address": "דוד מרכוס 20, ירושלים, ישראל",
+          "country_code": "IL",
+          "name": "תיאטרון ירושלים"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.2180867,
+          31.7798555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-09-03T17:26:28.837572Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7d4d60abe0132b0d",
+        "location": {
+          "address": "4 94582, רבי עקיבא, ירושלים, ישראל",
+          "country_code": "IL",
+          "name": "פוקצ'ה בר"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.0604416,
+          47.4973462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-07-25T18:31:10.081848Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa34d61585d63d748",
+        "location": {
+          "address": "Budapest, Dob u. 11, 1074 הונגריה",
+          "country_code": "HU",
+          "name": "COFFEE STAND DOB st. specialty coffeeshop"
+        },
+        "questions": [
+          {
+            "question": "סוג ההזמנה",
+            "selected_option": "אכילה במקום"
+          },
+          {
+            "question": "סוג הארוחה",
+            "selected_option": "ארוחת בוקר"
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          18.4124914,
+          47.1868659
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-07-25T18:30:46.879165Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xae25d946716a18e3",
+        "location": {
+          "address": "Székesfehérvár, Vörösmarty tér 1, 8000 הונגריה",
+          "country_code": "HU",
+          "name": "bEAT"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.0479192,
+          47.5034835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-07-25T18:30:35.010460Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2356a71b716602c5",
+        "location": {
+          "address": "Budapest, Steindl Imre u. 13, 1051 הונגריה",
+          "country_code": "HU",
+          "name": "Hungarikum Bisztró"
+        },
+        "questions": [
+          {
+            "question": "סוג ההזמנה",
+            "selected_option": "אכילה במקום"
+          },
+          {
+            "question": "סוג הארוחה",
+            "selected_option": "ארוחת צהריים"
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.0831081,
+          47.5088683
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-07-25T18:30:06.725728Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc51a5b54efc2fce1",
+        "location": {
+          "address": "Budapest, Dózsa György út 72, 1071 הונגריה",
+          "country_code": "HU",
+          "name": "Paprika Vendéglő"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.0586486,
+          47.4977215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-07-25T18:29:56.457330Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xee6817f97d1c6b26",
+        "location": {
+          "address": "Budapest, Rumbach Sebestyén u. 13, 1074 הונגריה",
+          "country_code": "HU",
+          "name": "בית הכנסת רומבך"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.0341617,
+          47.5019537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-07-25T18:29:28.317054Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x62d0728c6f694ad5",
+        "location": {
+          "address": "Budapest, Szentháromság tér 2, 1014 הונגריה",
+          "country_code": "HU",
+          "name": "כנסיית מתיאש"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.0349960,
+          47.4994240
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-07-25T18:29:22.361446Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xef78c7d678a21d3e",
+        "location": {
+          "address": "Budapest, Dísz tér 11, 1014 הונגריה",
+          "country_code": "HU",
+          "name": "ביתו של הודיני"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.0347812,
+          47.5021827
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-07-25T18:29:18.090765Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2f263ca844235e46",
+        "location": {
+          "address": "Budapest, 1014 הונגריה",
+          "country_code": "HU",
+          "name": "באסטיון הדייגים"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.0247838,
+          47.5084985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-07-24T16:14:32.891245Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb62ac3100bd2af2e",
+        "location": {
+          "address": "Budapest, Lövőház u. 2-6, 1024 הונגריה",
+          "country_code": "HU",
+          "name": "Koala Autorent - Autóbérlés"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.0793991,
+          47.6720045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-07-23T15:57:00.699128Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x73886c23a2f257b6",
+        "location": {
+          "address": "Szentendre, Rév u. 4, 2000 הונגריה",
+          "country_code": "HU",
+          "name": "Retro Design Center"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          19.0630210,
+          47.4955721
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-07-21T11:24:55.583203Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7093535ec5f24adb",
+        "location": {
+          "address": "Budapest, Dohány u. 22-24, 1074 הונגריה",
+          "name": "Neverland Bar • Escape Room • Pizzeria"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.2134733,
+          31.7802246
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-07-05T17:35:34.693953Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x75e58cd43dc9800a",
+        "location": {
+          "address": "יוסף טרומפלדור 1, ירושלים, 9459001, ישראל",
+          "country_code": "IL",
+          "name": "סושיה"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.2130043,
+          31.7534878
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-06-26T19:29:01.560942Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xecc37abbbba3eb37",
+        "location": {
+          "address": "קניון בית הדר, הרכבים 8, ירושלים, ישראל",
+          "country_code": "IL",
+          "name": "אושר עד - תלפיות, ירושלים"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.2195234,
+          31.7799751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-06-24T21:04:06.903477Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe0111639ec72e68e",
+        "location": {
+          "address": "הלל 33, ירושלים, ישראל",
+          "country_code": "IL",
+          "name": "Barrel & The tap"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.2208906,
+          31.7814399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-05-31T20:10:34.251481Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9aded8796773a443",
+        "location": {
+          "address": "יפו 34, ירושלים, ישראל",
+          "country_code": "IL",
+          "name": "קופי בין"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          35.6145661,
+          33.1773153
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-05-13T19:27:16.960064Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xee5654a6441373cb",
+        "location": {
+          "address": "Klor Center, כפר בלום, ישראל",
+          "country_code": "IL",
+          "name": "בלום וילג'"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.6370576,
+          31.8072060
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-04-16T18:57:48.230981Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf91c2d6d396019a4",
+        "location": {
+          "address": "הטיילת 1, אשדוד, 77221, ישראל",
+          "country_code": "IL",
+          "name": "גלידה באר שבע אשדוד"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          34.6216667,
+          31.7802778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-04-15T17:44:17.383591Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x74e15370d95370a5",
+        "location": {
+          "address": "אשדוד, ישראל",
+          "country_code": "IL",
+          "name": "מצודת אשדוד-ים"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.9646437,
+          41.6695391
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-09-30T16:17:17.467974Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xccb68c40c8eecbc1",
+        "location": {
+          "address": "MX97+RV6, Tbilisi, גאורגיה",
+          "country_code": "GE",
+          "name": "נמל התעופה הבינלאומי של טביליסי"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          42.7054386,
+          42.2708140
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-07-26T18:24:41.831341Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x204f9506c9618ab",
+        "location": {
+          "address": "Kutaisi, גאורגיה",
+          "country_code": "GE",
+          "name": "El Paso"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          42.7059127,
+          42.2706758
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-07-16T19:12:37.148934Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7e94b8fc82a4988a",
+        "location": {
+          "address": "7 Tamar Mepe St, Kutaisi, גאורגיה",
+          "country_code": "GE",
+          "name": "Baraqa"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          42.7137793,
+          42.2026350
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-07-12T18:31:24.866977Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x60351cc6ea4ada9f",
+        "location": {
+          "address": "6P37+3G2, Chognari, גאורגיה",
+          "name": "KIU Dormitory | Building F |"
+        },
+        "review_text_published": "The beat dormitory I have ever seen"
+      },
+      "type": "Feature"
+    }
+  ]
+}

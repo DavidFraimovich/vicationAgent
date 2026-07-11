@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+secrets/*
+!secrets/README.md
+!secrets/.gitkeep
+data/travel-agent.sqlite
+data/travel-agent.sqlite-*
+data/backups/*.sqlite
+.DS_Store
+*.log
