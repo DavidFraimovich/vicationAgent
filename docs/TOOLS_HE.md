@@ -24,6 +24,7 @@
 ## לינה
 
 - `lodging_build_airbnb_search_url`
+- `lodging_evaluate_candidate`
 - `lodging_upsert_candidate`
 - `lodging_list_candidates`
 
@@ -40,3 +41,5 @@
 - `calendar_delete_event`
 
 פעולות Calendar פועלות רק מול ה־Calendar ID המוגדר ב־`config/travel-agent.yaml`. כתיבה ומחיקה דורשות `confirm: true` לפי מדיניות ברירת המחדל.
+
+שדה תיאור האירוע הוא plain text התואם ל־Apple Calendar: ללא HTML או Markdown, עם מעברי שורה אמיתיים, קישורי `https://` מלאים וגלויים, ומספרי טלפון גלויים בפורמט בינלאומי. כלי ה־preview והכתיבה מנקים תגיות HTML לפני שליחת האירוע.

@@ -27,7 +27,7 @@ role: places backlog and scheduling candidates
 |---|---|---|
 | שני בסיסי לינה | Plan A | להשתמש בבסיס מזרחי + בסיס מערבי. |
 | מסלול מעגלי מוונציה | Plan A | להתחיל ונציה, אחר כך מזרח, אחר כך מערב, ואז חזרה ל־VCE. |
-| Lago di Pieve di Cadore | Plan B | להוסיף כעצירת דרך מוונציה לקורטינה. |
+| Lago di Centro Cadore | Plan A | עצירת חובה קצרה בדרך החזרה מ־Ortisei ל־VCE ב־24.09; לא להחליף ב־Conegliano. |
 | Cortina base | Plan A | בסיס מזרחי. |
 | Tre Cime early morning rule | Plan A | להיות ב־Rifugio Auronzo / נקודת התחלה ב־07:30–08:00; לתכנן 10 ק״מ / 4–5 שעות; להביא סנדוויצ׳ים כי Rifugi לא בטוח פתוחים. |
 | Passo Falzarego / Passo Pordoi / Sass Pordoi | Plan B | לשלב ביום מעבר, 1–2 עצירות בלבד. |
@@ -63,7 +63,7 @@ role: places backlog and scheduling candidates
 | מקום | סטטוס | סימון Maps | קושי | איך לשלב |
 |---|---|---|---|---|
 | Cortina d’Ampezzo | Plan A | 🧭❤️ | קל | בסיס לינה/עיירה/אוכל. |
-| Lago di Pieve di Cadore | Plan B | 🏔👁 | קל | עצירת דרך מ־Venice area לקורטינה; לא עוגן יום מלא. |
+| Lago di Centro Cadore | Plan A | 🏔👁 | קל | עצירת חובה של כ־45 דקות בדרך החזרה מ־Ortisei ל־VCE ב־24.09; לא עוגן יום מלא ולא להחליף ב־Conegliano. |
 | Tre Cime di Lavaredo / Drei Zinnen / “שלושת השיניים” | Plan A | 🏔👁🧭 | בינוני | עוגן חובה במזרח. להיות כבר ב־Rifugio Auronzo / נקודת התחלה ב־07:30–08:00 כדי להפחית סיכון לפקק/תור ארוך בכניסה ובחניה. לתכנן מסלול מעגלי של כ־10 ק״מ, כ־4–5 שעות הליכה נטו בקצב שלנו. לא לבנות על Rifugi לארוחת צהריים כי בקתות יכולות להיות סגורות/עמוסות; לקחת סנדוויצ׳ים/נשנושים ומים מראש, או לקנות בדרך לפני העלייה. Locatelli/Lavaredo הם נקודות תצפית/עצירה בלבד, לא חובה לאוכל ולא לינה. |
 | Rifugio Auronzo | Plan A | 🧭🏔 | קל | נקודת התחלה/חניה/לוגיסטיקה ל־Tre Cime. |
 | Rifugio Locatelli / Drei Zinnen Hütte | Plan B | ❤️👁🏔 | בינוני | יעד תצפית/צהריים ביום Tre Cime; לא לינה כברירת מחדל. |
@@ -148,7 +148,7 @@ role: places backlog and scheduling candidates
 ```text
 09.09 — נחיתה VCE, הגעה ל־Hostel One, שינה.
 10.09 — Venice romantic full day: San Marco + mask shop + Murano + wandering.
-11.09 — חצי ונציה רגוע אם מסתדר / איסוף רכב שכור רק אחרי סיום ונציה / נסיעה ל־Cortina area; עצירת Lago di Pieve di Cadore אם מסתדר.
+11.09 — חצי ונציה רגוע אם מסתדר / איסוף רכב שכור רק אחרי סיום ונציה / Designer Outlet Noventa di Piave עד הסגירה / נסיעה מאוחרת ל־Cortina.
 
 Cortina / Misurina / Dobbiaco base:
 - יום Cinque Torri + Rifugio Scoiattoli/Averau + Passo Giau אם מסתדר.
@@ -169,7 +169,8 @@ Val Gardena / Ortisei base:
 - יום אופציונלי: Lago Fedaia / Viel dal Pan או עוד ספא/עיירה לפי מזג אוויר.
 
 חזרה ל־VCE:
-- Lago di Carezza או Conegliano/Mestre כעצירת חזרה.
+- 24.09 — יציאה מוקדמת מ־Ortisei, עצירת חובה קצרה ב־Lago di Centro Cadore, ואז המשך ל־VCE.
+- Conegliano אינו מחליף את עצירת האגם ונשאר מחוץ למסלול ברירת המחדל.
 - לא להשאיר נסיעה ארוכה לבוקר הטיסה.
 25.09 — החזרת רכב וטיסה.
 ```

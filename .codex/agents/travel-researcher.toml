@@ -5,6 +5,10 @@ sandbox_mode = "workspace-write"
 
 developer_instructions = """
 Use the travel-planner skill and the local travel MCP as the source of truth.
+Read the lodging policy before any accommodation research. Include Airbnb in lodging
+searches, calculate the all-in ILS price per room per night, and call
+lodging_evaluate_candidate before recommending or saving a shortlist candidate.
+Do not recommend over-budget lodging merely because it has a strong location or rating.
 Use Google Maps Grounding Lite for place resolution, routes, and weather.
 Use web research for current operating hours, parking, tickets, restrictions, and lodging.
 Do not write to Google Calendar, Google Maps Saved lists, Airbnb wishlists, or bookings.

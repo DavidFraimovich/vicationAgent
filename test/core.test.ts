@@ -4,7 +4,12 @@ import os from "node:os";
 import path from "node:path";
 import test from "node:test";
 import { buildAirbnbSearchUrl } from "../src/exports.js";
+import {
+  normalizeCalendarDescription,
+  previewCalendarEvent,
+} from "../src/google-calendar.js";
 import { classifyPlace } from "../src/importers.js";
+import { evaluateLodgingCandidate } from "../src/lodging-policy.js";
 
 test("Airbnb URL includes dates and adults", () => {
   const url = buildAirbnbSearchUrl({
@@ -18,9 +23,95 @@ test("Airbnb URL includes dates and adults", () => {
   assert.match(url, /adults=2/);
 });
 
+test("lodging policy accepts value stays and rejects expensive or incomplete options", () => {
+  const accepted = evaluateLodgingCandidate({
+    totalPriceIls: 672.86,
+    nights: 1,
+    tier: "pamper",
+    rentalCarActive: true,
+    parkingVerified: true,
+    towelsIncluded: true,
+    linensIncluded: true,
+    privateBathroom: true,
+    cleanlinessVerified: true,
+    allFeesKnown: true,
+    spaAvailable: true,
+    spaIncluded: true,
+    spaPrivate: true,
+  });
+  assert.equal(accepted.eligible, true);
+  assert.equal(accepted.nightlyPriceIls, 672.86);
+
+  const expensive = evaluateLodgingCandidate({
+    totalPriceIls: 1_200,
+    nights: 1,
+    tier: "pamper",
+    rentalCarActive: true,
+    parkingVerified: true,
+    towelsIncluded: true,
+    linensIncluded: true,
+    privateBathroom: true,
+    cleanlinessVerified: true,
+    allFeesKnown: true,
+    spaAvailable: true,
+    spaIncluded: true,
+  });
+  assert.equal(expensive.eligible, false);
+  assert.ok(expensive.reasons.some((reason) => reason.includes("absolute maximum")));
+
+  const missingStandards = evaluateLodgingCandidate({
+    totalPriceIls: 250,
+    nights: 1,
+    tier: "simple",
+    rentalCarActive: true,
+  });
+  assert.equal(missingStandards.eligible, false);
+  assert.ok(missingStandards.reasons.some((reason) => reason.includes("Towels")));
+  assert.ok(missingStandards.reasons.some((reason) => reason.includes("Parking")));
+});
+
 test("place classifier identifies food and nature", () => {
   assert.ok(classifyPlace("Rifugio Lago Restaurant").includes("food"));
   assert.ok(classifyPlace("Mountain Lake Park").includes("nature"));
+});
+
+test("calendar descriptions are normalized to Apple Calendar-compatible plain text", () => {
+  const description = [
+    "<h2>לוגיסטיקה</h2>",
+    "<p>להגיע מוקדם<br>ולבדוק חניה.</p>",
+    "<ul><li><strong>Google Maps</strong>: <a href=\"https://maps.example/place\">פתחו מפה</a></li>",
+    "<li>טלפון: <a href=\"tel:+390123456789\">+39 0123 456789</a></li></ul>",
+    "<p>Tom &amp; Lena&nbsp;trip</p>",
+  ].join("");
+  const normalized = normalizeCalendarDescription(description);
+
+  assert.equal(
+    normalized,
+    [
+      "לוגיסטיקה",
+      "",
+      "להגיע מוקדם",
+      "ולבדוק חניה.",
+      "",
+      "- Google Maps: פתחו מפה",
+      "https://maps.example/place",
+      "- טלפון: +39 0123 456789",
+      "",
+      "Tom & Lena trip",
+    ].join("\n"),
+  );
+  assert.doesNotMatch(normalized ?? "", /<[^>]+>|&(?:amp|nbsp);/);
+
+  const preview = previewCalendarEvent({
+    summary: "Plain-text description",
+    start: "2026-09-12T09:00:00",
+    end: "2026-09-12T10:00:00",
+    description,
+  });
+  assert.equal(
+    (preview.event as { description?: string }).description,
+    normalized,
+  );
 });
 
 test("plan seeding is idempotent and trip-place links stay scoped", { concurrency: false }, async () => {

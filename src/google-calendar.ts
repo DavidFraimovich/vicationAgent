@@ -79,6 +79,72 @@ export type CalendarEventInput = {
   eventId?: string;
 };
 
+function decodeHtmlEntities(value: string): string {
+  const named: Record<string, string> = {
+    amp: "&",
+    apos: "'",
+    gt: ">",
+    lt: "<",
+    nbsp: " ",
+    quot: "\"",
+  };
+  return value.replace(
+    /&(#x[0-9a-f]+|#[0-9]+|amp|apos|gt|lt|nbsp|quot);/gi,
+    (entity, key: string) => {
+      if (key.startsWith("#x") || key.startsWith("#X")) {
+        const codePoint = Number.parseInt(key.slice(2), 16);
+        return codePoint <= 0x10ffff ? String.fromCodePoint(codePoint) : entity;
+      }
+      if (key.startsWith("#")) {
+        const codePoint = Number.parseInt(key.slice(1), 10);
+        return codePoint <= 0x10ffff ? String.fromCodePoint(codePoint) : entity;
+      }
+      return named[key.toLowerCase()] ?? entity;
+    },
+  );
+}
+
+function anchorAsPlainText(_match: string, attributes: string, content: string): string {
+  const hrefMatch = attributes.match(/\bhref\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>]+))/i);
+  const href = decodeHtmlEntities(hrefMatch?.[1] ?? hrefMatch?.[2] ?? hrefMatch?.[3] ?? "").trim();
+  const label = decodeHtmlEntities(content.replace(/<[^>]+>/g, "")).trim();
+  const isTelephone = /^tel:/i.test(href);
+  const visibleTarget = isTelephone
+    ? href.slice(4)
+    : /^mailto:/i.test(href)
+      ? href.slice(7)
+      : /^https?:\/\//i.test(href)
+        ? href
+        : "";
+
+  if (!visibleTarget) return label;
+  if (!label || label === visibleTarget) return visibleTarget;
+  if (isTelephone && label.replace(/\D/g, "") === visibleTarget.replace(/\D/g, "")) return label;
+  return `${label}\n${visibleTarget}`;
+}
+
+export function normalizeCalendarDescription(description?: string): string | undefined {
+  if (description === undefined) return undefined;
+
+  return decodeHtmlEntities(
+    description
+      .replace(/\r\n?/g, "\n")
+      .replace(/<!--[\s\S]*?-->/g, "")
+      .replace(/<(script|style)\b[^>]*>[\s\S]*?<\/\1\s*>/gi, "")
+      .replace(/<a\b([^>]*)>([\s\S]*?)<\/a\s*>/gi, anchorAsPlainText)
+      .replace(/<br\b[^>]*\/?>/gi, "\n")
+      .replace(/<li\b[^>]*>/gi, "- ")
+      .replace(/<\/(?:li|tr)\s*>/gi, "\n")
+      .replace(/<\/(?:div|h[1-6]|ol|p|table|ul)\s*>/gi, "\n\n")
+      .replace(/<[^>]+>/g, ""),
+  )
+    .split("\n")
+    .map((line) => line.replace(/[ \t]+$/g, ""))
+    .join("\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
 export function previewCalendarEvent(input: CalendarEventInput): Record<string, unknown> {
   const config = loadConfig();
   return {
@@ -89,7 +155,7 @@ export function previewCalendarEvent(input: CalendarEventInput): Record<string, 
       summary: input.summary,
       start: { dateTime: input.start, timeZone: input.timezone ?? config.calendar.trip_timezone },
       end: { dateTime: input.end, timeZone: input.timezone ?? config.calendar.trip_timezone },
-      description: input.description,
+      description: normalizeCalendarDescription(input.description),
       location: input.location,
       extendedProperties: {
         private: {

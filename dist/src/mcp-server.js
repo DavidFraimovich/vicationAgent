@@ -4,6 +4,7 @@ import { z } from "zod";
 import { loadConfig } from "./config.js";
 import { getPlace, getTrip, listActions, listItinerary, listLodging, listPlaces, listTrips, recordAction, setPlaceStatus, upsertItineraryItem, upsertLodging, upsertPlace, upsertTrip, } from "./db.js";
 import { buildAirbnbSearchUrl, exportMyMapsCsv } from "./exports.js";
+import { evaluateLodgingCandidate } from "./lodging-policy.js";
 import { applyCalendarEvent, calendarAuthConfigured, deleteCalendarEvent, listCalendarEvents, previewCalendarEvent, } from "./google-calendar.js";
 import { validateTrip } from "./validate.js";
 function result(value) {
@@ -111,6 +112,23 @@ server.tool("lodging_build_airbnb_search_url", "Build an Airbnb search URL for u
     checkOut: z.string(),
     adults: z.number().int().positive().optional(),
 }, async (input) => result({ url: buildAirbnbSearchUrl(input) }));
+server.tool("lodging_evaluate_candidate", "Apply the personal all-in ILS lodging budget and amenity gate before shortlisting.", {
+    totalPriceIls: z.number().nonnegative(),
+    nights: z.number().int().positive(),
+    tier: z.enum(["simple", "standard", "pamper"]),
+    rentalCarActive: z.boolean(),
+    parkingVerified: z.boolean().optional(),
+    parkingCostIls: z.number().nonnegative().optional(),
+    towelsIncluded: z.boolean().optional(),
+    linensIncluded: z.boolean().optional(),
+    privateBathroom: z.boolean().optional(),
+    cleanlinessVerified: z.boolean().optional(),
+    allFeesKnown: z.boolean().optional(),
+    spaAvailable: z.boolean().optional(),
+    spaIncluded: z.boolean().optional(),
+    spaExtraCostIls: z.number().nonnegative().optional(),
+    spaPrivate: z.boolean().optional(),
+}, async (input) => result(evaluateLodgingCandidate(input)));
 server.tool("lodging_upsert_candidate", "Create or update a lodging candidate in the local shortlist.", {
     id: z.string().optional(),
     tripId: z.string(),
@@ -149,22 +167,22 @@ server.tool("calendar_list_events", "List events from the allowlisted Google Cal
     timeMax: z.string(),
     query: z.string().optional(),
 }, async (input) => result(await listCalendarEvents(input)));
-server.tool("calendar_preview_event", "Preview a Google Calendar create/update payload without writing.", {
+server.tool("calendar_preview_event", "Preview a Google Calendar create/update payload without writing. Descriptions are normalized to Apple Calendar-compatible plain text.", {
     summary: z.string(),
     start: z.string(),
     end: z.string(),
     timezone: z.string().optional(),
-    description: z.string().optional(),
+    description: z.string().optional().describe("Plain text only: use real line breaks, visible full URLs, and visible phone numbers; do not use HTML or Markdown."),
     location: z.string().optional(),
     itineraryItemId: z.string().optional(),
     eventId: z.string().optional(),
 }, async (input) => result(previewCalendarEvent(input)));
-server.tool("calendar_apply_event", "Create or update an event in the allowlisted calendar. confirm=true is required by policy.", {
+server.tool("calendar_apply_event", "Create or update an event in the allowlisted calendar. Descriptions are normalized to Apple Calendar-compatible plain text. confirm=true is required by policy.", {
     summary: z.string(),
     start: z.string(),
     end: z.string(),
     timezone: z.string().optional(),
-    description: z.string().optional(),
+    description: z.string().optional().describe("Plain text only: use real line breaks, visible full URLs, and visible phone numbers; do not use HTML or Markdown."),
     location: z.string().optional(),
     itineraryItemId: z.string().optional(),
     eventId: z.string().optional(),

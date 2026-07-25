@@ -50,7 +50,7 @@ role: primary planning policy
 - **בסיס מזרחי באזור Cortina / Misurina / Dobbiaco** — טוב ל־Tre Cime, Braies, Cinque Torri, Passo Giau, Misurina.
 - **בסיס מערבי באזור Val Gardena / Ortisei** — טוב ל־Seceda, Alpe di Siusi, Val di Funes, Resciesa.
 - **יום מעבר נופי בין הבסיסים** דרך מעברי הרים — רעיון טוב, אבל לא להעמיס אותו ביותר מדי עצירות.
-- **Pieve di Cadore / Lago di Pieve di Cadore** — עצירת דרך טובה מוונציה לקורטינה.
+- **Pieve di Cadore / Lago di Centro Cadore** — עצירת חובה קצרה בדרך החזרה מ־Ortisei ל־VCE ב־24.09; לא להחליף אותה ב־Conegliano.
 - **Rifugio Averau** — תוספת טובה ליום Cinque Torri.
 - **Passo Pordoi / Sass Pordoi** — תוספת טובה ביום מעבר או יום נוף, אם הרכבל פתוח ומזג האוויר טוב.
 - **Lago Fedaia / Viel dal Pan** — תוספת טובה כ־Plan B/Conditional, לא חובה.
@@ -72,11 +72,11 @@ role: primary planning policy
 ```text
 09.09 — נחיתה VCE, לינה Hostel One מחוץ לוונציה.
 10.09 — Venice romantic day.
-11.09 — חצי ונציה רגוע / איסוף רכב שכור רק אחרי סיום ונציה / נסיעה רגועה לקורטינה, עם עצירת Pieve di Cadore אם מסתדר.
+11.09 — חצי ונציה רגוע / איסוף רכב שכור רק אחרי סיום ונציה / Designer Outlet Noventa di Piave עד הסגירה / נסיעה מאוחרת לקורטינה.
 12–16.09 — בסיס מזרחי: Cortina / Misurina / Dobbiaco.
 17.09 — מעבר נופי מערבה דרך Passo Falzarego / Passo Giau / Passo Pordoi / Passo Sella — לבחור 1–2 עצירות בלבד.
 18–23.09 — בסיס מערבי: Val Gardena / Ortisei.
-24.09 — חזרה רגועה לכיוון Venice area / Mestre / Conegliano / VCE, אפשר דרך Lago di Carezza אם מתאים.
+24.09 — חזרה מוקדמת מ־Ortisei דרך Lago di Centro Cadore כעצירת חובה קצרה, ואז VCE והחזרת הרכב.
 25.09 — טיסה חזרה. רק לוגיסטיקה.
 ```
 
@@ -133,7 +133,7 @@ Lena ובן הזוג אוהבים טיול עם **וואו גבוה אבל עו�
 - Murano.
 - Cheap mask shop in Venice.
 - Cortina d’Ampezzo / Misurina / Dobbiaco base.
-- Pieve di Cadore / Lago di Pieve di Cadore as transition stop from Venice to Cortina.
+- Pieve di Cadore / Lago di Centro Cadore as a mandatory short return stop on 24 September.
 - Tre Cime di Lavaredo — גרסה בינונית, לא hut-to-hut.
 - Rifugio Auronzo as access/parking point.
 - Lago di Braies / Pragser Wildsee — Plan A מפורט: פתוח 24/7 כאגם/אזור פתוח, להגיע מוקדם בבוקר, חניה קרובה אם זמינה/מוזמנת, סירה לכ־2 שעות לפי מחיר עבודה 50€, מסלול מעגלי סביב האגם שמתוכנן לשעתיים בקצב שלנו, סך בלוק 4–5 שעות. לבדוק סמוך לטיול זמינות/מחיר סירות, חניה והגבלות גישה.

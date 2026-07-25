@@ -75,13 +75,56 @@ lodging:
     - airbnb_chrome
     - booking_plugin_or_chrome
   default_adults: 2
+  price_currency: ILS
+  price_basis: all_in_per_room_per_night
+  budgets_ils_per_room_night:
+    simple:
+      target: 250
+      maximum: 350
+    standard:
+      target_minimum: 250
+      target_maximum: 500
+      maximum: 550
+    pamper:
+      target_minimum: 500
+      maximum: 800
+      nights_per_trip_minimum: 1
+      nights_per_trip_maximum: 2
+    absolute_maximum: 800
+  hard_requirements:
+    towels_included: true
+    linens_included: true
+    private_bathroom: true
+    cleanliness_verified: true
+    all_fees_known: true
+    parking_verified_when_car_active: true
+  parking:
+    preferred: free_on_premises
+    add_paid_parking_to_all_in_price: true
+    reject_unknown_when_car_active: true
+  spa:
+    preferred: private_in_unit
+    allow_shared: true
+    require_availability_details: true
+    require_extra_cost_details: true
+    include_extra_cost_in_all_in_price: true
+  rating_preferences:
+    airbnb_minimum: 4.7
+    booking_minimum: 8.5
+  historical_price_profile:
+    source: airbnb_completed_stays_review
+    reviewed_at: "2026-07-25"
+    priced_stays: 29
+    median_ils_per_night: 342.25
+    maximum_ils_per_night: 694.14
+    spa_reference_ils_per_night: 672.86
   ranking_weights:
-    route_fit: 0.35
-    total_price: 0.20
-    rating: 0.15
-    parking: 0.10
-    cancellation: 0.10
-    preference_fit: 0.10
+    route_fit: 0.15
+    total_price: 0.35
+    rating: 0.10
+    parking: 0.15
+    cancellation: 0.05
+    preference_fit: 0.20
 
 audit:
   log_reads: false

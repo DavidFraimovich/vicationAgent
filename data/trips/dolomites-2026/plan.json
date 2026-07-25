@@ -7,12 +7,14 @@
     "timezone": "Europe/Rome",
     "status": "planning",
     "routeStrategy": "east-first",
-    "summary": "Venice 1.5 days → Cortina east base → scenic transfer → Ortisei west base → Mestre/VCE",
+    "summary": "Venice 1.5 days → Target Rent pickup near VCE at noon → Noventa di Piave outlet through dinner and closing → late arrival in Cortina → east Dolomites → scenic transfer → Ortisei west base through the final night → early direct drive to Target Rent and VCE on flight day",
     "travelers": 2,
     "metadata": {
-      "planVersion": "plan-a-2026-07-20-v2",
-      "difficulty": "light-medium",
+      "planVersion": "plan-a-2026-07-25-v8",
+      "lodgingPolicyVersion": 1,
+      "difficulty": "light-medium with one conditional easy via ferrata",
       "majorMountainAnchorsPerDay": 1,
+      "viaFerrataPolicy": "Ra Bujela only with suitable prior experience or a guide, full EN 958 equipment, dry conditions and confirmed lift operation",
       "browserAccount": "david04031997@gmail.com"
     }
   },
@@ -28,8 +30,8 @@
       "priority": "A",
       "planningStatus": "calendar_anchor",
       "source": "google_maps_chrome",
-      "lastVerifiedAt": "2026-07-20",
-      "notes": "Arrival 9 Sep; car pickup 11 Sep; car return 24 Sep; departure 25 Sep."
+      "lastVerifiedAt": "2026-07-25",
+      "notes": "Arrival 9 Sep; Target Rent shuttle meeting point on 11 Sep; airport arrival after car return and departure on 25 Sep."
     },
     {
       "id": "dolomites-2026:mestre-station",
@@ -110,14 +112,32 @@
     {
       "id": "dolomites-2026:car-rental-vce",
       "tripId": "dolomites-2026",
-      "name": "VCE car-rental center",
-      "googleMapsUrl": "https://www.google.com/maps/search/Venice%20Marco%20Polo%20Airport%20car%20rental",
+      "name": "Target Rent — Venice Airport",
+      "address": "Via Orlanda 216, 30173 Tessera VE, Italy",
+      "countryCode": "IT",
+      "googleMapsUrl": "https://maps.app.goo.gl/UiD6XeqskFK6cjYS7",
       "categories": ["transport", "car"],
       "priority": "A",
       "planningStatus": "calendar_anchor",
-      "source": "google_maps_chrome",
-      "lastVerifiedAt": "2026-07-20",
-      "notes": "Specific supplier desk depends on the final car booking."
+      "source": "https://targetrent.it/en/punti-di-ritiro/",
+      "lastVerifiedAt": "2026-07-25",
+      "notes": "Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. Keep the booked 11 Sep pickup at 12:00. For return, arrive around 08:45 for the booked 09:00 slot, then use the shuttle back to the terminal."
+    },
+    {
+      "id": "dolomites-2026:noventa-outlet",
+      "tripId": "dolomites-2026",
+      "name": "Designer Outlet Noventa di Piave",
+      "address": "Via Marco Polo, 1, 30020 Noventa di Piave VE, Italy",
+      "countryCode": "IT",
+      "latitude": 45.6714459,
+      "longitude": 12.5354406,
+      "googleMapsUrl": "https://www.google.com/maps/place/Designer+Outlet+Noventa+di+Piave/@45.6714459,12.5354406,17z",
+      "categories": ["shopping", "outlet", "food", "transition-stop"],
+      "priority": "A",
+      "planningStatus": "calendar_anchor",
+      "source": "https://www.mcarthurglen.com/en/outlets/it/designer-outlet-noventa-di-piave/",
+      "lastVerifiedAt": "2026-07-25",
+      "notes": "Friday opening hours 10:00–20:00. On 11 Sep arrive after the 12:00 car pickup, have lunch, shop, complete tax-free paperwork and eat dinner before leaving at closing for Cortina. A4/E70 and A27 route includes tolls."
     },
     {
       "id": "dolomites-2026:cortina",
@@ -128,7 +148,46 @@
       "priority": "A",
       "planningStatus": "calendar_anchor",
       "source": "google_maps_chrome",
-      "lastVerifiedAt": "2026-07-20"
+      "lastVerifiedAt": "2026-07-25",
+      "notes": "East-Dolomites base. Official forecast: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf . Live Tofana/Duca d'Aosta webcams: https://www.impianticortina.it/en/web-cams-weather/"
+    },
+    {
+      "id": "dolomites-2026:snow-service-cortina",
+      "tripId": "dolomites-2026",
+      "name": "Snow Service Cortina",
+      "address": "Via Guglielmo Marconi 12/C, 32043 Cortina d'Ampezzo BL, Italy",
+      "countryCode": "IT",
+      "googleMapsUrl": "https://www.google.com/maps/search/Snow%20Service%20Cortina%20Via%20Marconi%2012%2FC",
+      "categories": ["equipment-rental", "via-ferrata", "logistics", "east-dolomites"],
+      "priority": "A",
+      "planningStatus": "calendar_anchor",
+      "source": "https://www.snowservice.it/contatti/",
+      "lastVerifiedAt": "2026-07-25",
+      "notes": "1–17 Sep opening hours: 08:30–12:30 and 14:30–19:00. Call ahead to reserve two complete EN 958 via-ferrata sets for fitting at opening on 12 Sep; confirm the cancellation/payment policy and whether the sets may be retained for the 13 Sep weather backup."
+    },
+    {
+      "id": "dolomites-2026:pie-tofana-duca",
+      "tripId": "dolomites-2026",
+      "name": "Piè Tofana – Duca d'Aosta chairlift",
+      "googleMapsUrl": "https://www.google.com/maps/search/Pi%C3%A8%20Tofana%20Duca%20d%27Aosta%20chairlift",
+      "categories": ["lift", "via-ferrata", "mountain", "east-dolomites"],
+      "priority": "A",
+      "planningStatus": "calendar_anchor",
+      "source": "https://www.impianticortina.it/en/lift-facilities-and-tickets-summer/",
+      "lastVerifiedAt": "2026-07-25",
+      "notes": "Summer 2026 operation ends 13 Sep. Daily hours 08:30–17:00. Adult return €18. This is the time-critical access lift for Ra Bujela. Live webcam/weather: https://www.impianticortina.it/en/web-cams-weather/ . Official Dolomites bulletin: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf"
+    },
+    {
+      "id": "dolomites-2026:rifugio-duca-aosta",
+      "tripId": "dolomites-2026",
+      "name": "Rifugio Duca d'Aosta",
+      "googleMapsUrl": "https://www.google.com/maps/search/Rifugio%20Duca%20d%27Aosta%20Cortina",
+      "categories": ["rifugio", "food", "via-ferrata", "mountain", "east-dolomites"],
+      "priority": "A",
+      "planningStatus": "calendar_anchor",
+      "source": "https://www.rifugioducadaosta.com/en/prices/",
+      "lastVerifiedAt": "2026-07-25",
+      "notes": "Start/finish and support point for Ra Bujela. The official 1h45 route time is hut-to-hut; reserve 3h for a calm beginner-paced outing including approach, instruction/checks, waiting and descent back to the hut. Confirm meal service shortly before the day and carry a packed fallback."
     },
     {
       "id": "dolomites-2026:lago-centro-cadore",
@@ -138,9 +197,9 @@
       "countryCode": "IT",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lago%20di%20Centro%20Cadore%20Pieve%20di%20Cadore",
       "categories": ["lake", "nature", "transition-stop", "east-dolomites"],
-      "priority": "B",
-      "planningStatus": "calendar_anchor",
-      "notes": "עצירה קצרה בלבד; לצאת עד 17:15 כדי להגיע לקורטינה באור.",
+      "priority": "C",
+      "planningStatus": "map_only",
+      "notes": "הוסר ממסלול החזרה כדי להשאיר את הלילה האחרון ב-Ortisei ולהחזיר את הרכב ביום הטיסה. נשמר כרעיון במפה בלבד.",
       "source": "https://www.dolomiti.org/en/cadore/centro-cadore/pieve-di-cadore",
       "lastVerifiedAt": "2026-07-20",
       "metadata": {"officialSource":"dolomiti.org"}
@@ -178,7 +237,20 @@
       "priority": "B",
       "planningStatus": "candidate",
       "source": "google_maps_chrome",
-      "lastVerifiedAt": "2026-07-20"
+      "lastVerifiedAt": "2026-07-25",
+      "notes": "Easy lake stop. Use the official ARPAV Dolomites bulletin: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf"
+    },
+    {
+      "id": "dolomites-2026:lago-pianozes",
+      "tripId": "dolomites-2026",
+      "name": "Lago Pianozes",
+      "googleMapsUrl": "https://www.google.com/maps/search/Lago%20Pianozes%20Cortina",
+      "categories": ["lake", "scenic-stop", "east-dolomites", "recovery"],
+      "priority": "B",
+      "planningStatus": "calendar_anchor",
+      "source": "https://cortina.dolomiti.org/en/trail-running/lago-pianozes-en-trail-running/",
+      "lastVerifiedAt": "2026-07-25",
+      "notes": "Short, no-ascent lakeside viewpoint after Ra Bujela; do not turn it into the longer walking loop. Official regional forecast: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf"
     },
     {
       "id": "dolomites-2026:braies-p1",
@@ -190,7 +262,7 @@
       "planningStatus": "calendar_anchor",
       "source": "https://www.prags.bz/en/agb",
       "lastVerifiedAt": "2026-07-20",
-      "notes": "Road regulation and reserved limited parking apply during the September 2026 visit."
+      "notes": "Road regulation and reserved limited parking apply during the September 2026 visit. Official local weather: https://weather.province.bz.it/en/home (select Braies/Prags)."
     },
     {
       "id": "dolomites-2026:braies-boathouse",
@@ -212,9 +284,9 @@
       "categories": ["lift", "mountain", "east-dolomites"],
       "priority": "A",
       "planningStatus": "calendar_anchor",
-      "source": "https://cortinadampezzo.it/en/news-en/summer-lift-openings/",
-      "lastVerifiedAt": "2026-07-20",
-      "notes": "5 Torri chairlift currently published through 11 Oct 2026, 09:00–17:00, weather dependent."
+      "source": "https://5torri.it/IT/p38-Impianti-di-risalita-Estate",
+      "lastVerifiedAt": "2026-07-25",
+      "notes": "5 Torri chairlift currently published through 11 Oct 2026, 09:00–17:00, weather dependent. Official webcam: https://5torri.it/EN/p34-Webcam . Official regional forecast: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf"
     },
     {
       "id": "dolomites-2026:averau",
@@ -247,8 +319,8 @@
       "priority": "B",
       "planningStatus": "calendar_anchor",
       "source": "https://lagazuoi.it/EN/Information-Prices-and-useful-information-page20-Betriebszeiten-Fahrzeiten-und-Preise-der-Seilbahn-Lagazuoi",
-      "lastVerifiedAt": "2026-07-20",
-      "notes": "Published 2026 operation: 6 Jun–18 Oct; first lift 09:00, last uphill 16:40, last descent 17:00."
+      "lastVerifiedAt": "2026-07-25",
+      "notes": "Published 2026 operation: 6 Jun–18 Oct; first lift 09:00, last uphill 16:40, last descent 17:00. Official regional forecast: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf"
     },
     {
       "id": "dolomites-2026:ortisei",
@@ -259,7 +331,8 @@
       "priority": "A",
       "planningStatus": "calendar_anchor",
       "source": "google_maps_chrome",
-      "lastVerifiedAt": "2026-07-20"
+      "lastVerifiedAt": "2026-07-25",
+      "notes": "West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf"
     },
     {
       "id": "dolomites-2026:seceda",
@@ -270,8 +343,8 @@
       "priority": "A",
       "planningStatus": "calendar_anchor",
       "source": "https://www.seceda.it/en/summer",
-      "lastVerifiedAt": "2026-07-20",
-      "notes": "Published 2026 operation: 22 May–2 Nov, 08:30–18:00."
+      "lastVerifiedAt": "2026-07-25",
+      "notes": "Published 2026 operation: 22 May–2 Nov. On 18 Sep the Ortisei–Furnes and Furnes–Seceda lifts run 08:30–17:30. The optional Fermeda chairlift runs only through 20 Sep, 09:30–16:30. Official mountain weather: https://weather.province.bz.it/en/forecasts"
     },
     {
       "id": "dolomites-2026:mont-seuc",
@@ -281,9 +354,9 @@
       "categories": ["lift", "mountain", "west-dolomites"],
       "priority": "A",
       "planningStatus": "calendar_anchor",
-      "source": "https://www.seiseralm.it/en/info-service/mobility/seiser-alm-aerial-cableway-summer.html",
-      "lastVerifiedAt": "2026-07-20",
-      "notes": "Published summer 2026 operation through 2 Nov; verify daily hours shortly before travel."
+      "source": "https://www.valgardena.it/en/summer-holidays-dolomites/lifts/",
+      "lastVerifiedAt": "2026-07-25",
+      "notes": "Ortisei–Alpe di Siusi gondola operates 1 May–2 Nov 2026; on 19 Sep the published hours are 08:30–18:00. Verify live status the evening before. Official mountain weather: https://weather.province.bz.it/en/forecasts"
     },
     {
       "id": "dolomites-2026:santa-maddalena",
@@ -341,32 +414,45 @@
     {"id":"dolomites-2026:2026-09-10-mask","tripId":"dolomites-2026","dayDate":"2026-09-10","startTime":"14:00","endTime":"14:45","title":"Affordable Venetian mask shop","itemType":"shopping","placeId":"dolomites-2026:mask-shop","description":"Buy only after confirming the exact budget shop in Chrome; avoid an unplanned premium artisan purchase.","status":"draft","source":"user_requirement","sortOrder":30},
     {"id":"dolomites-2026:2026-09-10-murano","tripId":"dolomites-2026","dayDate":"2026-09-10","startTime":"15:15","endTime":"19:00","title":"Murano afternoon","itemType":"city","placeId":"dolomites-2026:murano-faro","description":"Vaporetto to Murano, short island walk and return before a late dinner. Drop if transit or weather is poor.","status":"planned","source":"plan-a","sortOrder":40,"metadata":{"fallback":"Stay in Cannaregio and return to Mestre early."}},
 
-    {"id":"dolomites-2026:2026-09-11-rialto","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"08:30","endTime":"11:15","title":"Rialto and final Venice walk","itemType":"city","placeId":"dolomites-2026:rialto","description":"Early Rialto area walk, coffee and return to Mestre for luggage.","status":"planned","source":"plan-a","sortOrder":10},
-    {"id":"dolomites-2026:2026-09-11-lunch","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"12:30","endTime":"13:15","title":"Lunch before car pickup","itemType":"lunch","description":"Quick lunch near Mestre/VCE; leave margin for rental paperwork.","status":"planned","source":"plan-a","sortOrder":20},
-    {"id":"dolomites-2026:2026-09-11-car","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"13:45","endTime":"14:45","title":"Pick up rental car at VCE","itemType":"transport","placeId":"dolomites-2026:car-rental-vce","description":"Inspect the car, photograph existing damage, confirm toll/fuel rules and load offline maps.","status":"planned","source":"plan-a","sortOrder":30},
-    {"id":"dolomites-2026:2026-09-11-drive-to-cadore","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"15:00","endTime":"16:45","title":"Drive — VCE → Lago di Centro Cadore","itemType":"transfer","placeId":"dolomites-2026:lago-centro-cadore","description":"Leave immediately after collecting the car and use the direct route to Pieve di Cadore; skip the stop if traffic removes the daylight margin.","status":"planned","source":"plan-a-v2","sortOrder":40,"metadata":{"fallback":"Drive directly to Cortina and stop only at a service area."}},
-    {"id":"dolomites-2026:2026-09-11-lago-centro-cadore","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"16:45","endTime":"17:15","title":"Lago di Centro Cadore — first Dolomites stop","itemType":"lake","placeId":"dolomites-2026:lago-centro-cadore","description":"Short easy lakeside viewpoint, restroom and snack break. Keep it to 30 minutes so the final mountain drive remains in daylight.","status":"planned","source":"plan-a-v2","sortOrder":50},
-    {"id":"dolomites-2026:2026-09-11-drive-cortina","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"17:15","endTime":"18:00","title":"Drive — Lago di Centro Cadore → Cortina east base","itemType":"transfer","placeId":"dolomites-2026:cortina","description":"Continue to the east base, check in, buy groceries and prepare water and sandwiches for the next morning.","status":"planned","source":"plan-a-v2","sortOrder":60},
+    {"id":"dolomites-2026:2026-09-11-rialto","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"08:00","endTime":"09:45","title":"Rialto and final Venice walk","itemType":"city","placeId":"dolomites-2026:rialto","description":"Early Rialto area walk and coffee. Keep the original Venice anchor, then return promptly to Mestre for luggage and checkout.","status":"planned","source":"plan-a-v8-restored-v6","sortOrder":10},
+    {"id":"dolomites-2026:2026-09-11-lunch","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"09:45","endTime":"11:15","title":"Return to Mestre, checkout and transfer to VCE","itemType":"transport","placeId":"dolomites-2026:ao-venezia-mestre","description":"Return from Venice, collect luggage, check out and travel to VCE. Lunch is moved to the outlet so the 12:00 Target Rent pickup remains realistic.","status":"planned","source":"plan-a-v8-restored-v6","sortOrder":20},
+    {"id":"dolomites-2026:2026-09-11-target-shuttle","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"11:15","endTime":"12:00","title":"VCE arrivals → Target Rent by shuttle","itemType":"transfer","placeId":"dolomites-2026:car-rental-vce","description":"Reach the P5 shuttle area and request the free Park Gold shuttle to the off-airport Target Rent office.","status":"planned","source":"plan-a-v8-restored-v6","sortOrder":30},
+    {"id":"dolomites-2026:2026-09-11-car","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"12:00","endTime":"13:00","title":"Rental-car pickup — Target Rent","itemType":"transport","placeId":"dolomites-2026:car-rental-vce","description":"Keep the booked noon pickup. Inspect and photograph the car, confirm fuel/deposit/toll rules and load offline maps.","status":"planned","source":"plan-a-v8-restored-v6","sortOrder":40},
+    {"id":"dolomites-2026:2026-09-11-drive-to-cadore","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"13:00","endTime":"13:35","title":"Target Rent → Designer Outlet Noventa di Piave","itemType":"transfer","placeId":"dolomites-2026:noventa-outlet","description":"Allow about 35 minutes plus the A4/E70 toll and parking.","status":"planned","source":"plan-a-v8-restored-v6","sortOrder":50},
+    {"id":"dolomites-2026:2026-09-11-lago-centro-cadore","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"13:35","endTime":"20:00","title":"Designer Outlet Noventa di Piave — lunch, shopping and dinner","itemType":"shopping","placeId":"dolomites-2026:noventa-outlet","description":"13:35 lunch; about 14:20–18:30 shopping and tax-free paperwork; 18:30–19:45 dinner. The outlet closes at 20:00, which is the planned departure time.","status":"planned","source":"plan-a-v8-restored-v6","sortOrder":60},
+    {"id":"dolomites-2026:2026-09-11-drive-cortina","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"20:00","endTime":"22:30","title":"Designer Outlet Noventa di Piave → Cortina","itemType":"transfer","placeId":"dolomites-2026:cortina","description":"The normal drive is about 2h11 for roughly 161 km; allow 2h30 via A27/SS51. Arrange late or self check-in before the trip.","status":"planned","source":"plan-a-v8-restored-v6","sortOrder":70},
 
-    {"id":"dolomites-2026:2026-09-12-tre-cime","tripId":"dolomites-2026","dayDate":"2026-09-12","startTime":"07:30","endTime":"13:15","title":"Tre Cime di Lavaredo loop","itemType":"hike","placeId":"dolomites-2026:tre-cime","description":"Arrive at Rifugio Auronzo parking by 07:30–08:00. Light-medium 10 km loop, 4–5 hours; carry layers, water and sandwiches.","status":"planned","source":"plan-a","sortOrder":10,"metadata":{"reservation":"Tre Cime parking","fallback":"Lago di Misurina lakeside walk"}},
-    {"id":"dolomites-2026:2026-09-12-lunch","tripId":"dolomites-2026","dayDate":"2026-09-12","startTime":"12:30","endTime":"13:15","title":"Packed lunch on the Tre Cime route","itemType":"lunch","description":"Eat the packed lunch when the route and weather allow; do not rely on rifugi service.","status":"planned","source":"plan-a","sortOrder":20},
-    {"id":"dolomites-2026:2026-09-12-misurina","tripId":"dolomites-2026","dayDate":"2026-09-12","startTime":"15:00","endTime":"16:30","title":"Lago di Misurina recovery stop","itemType":"lake","placeId":"dolomites-2026:misurina","description":"Optional easy lakeside recovery stop; skip if the hike runs late or weather worsens.","status":"planned","source":"plan-a","sortOrder":30},
+    {"id":"dolomites-2026:2026-09-12-weather","tripId":"dolomites-2026","dayDate":"2026-09-12","startTime":"07:45","endTime":"08:20","title":"Breakfast and preliminary Ra Bujela go/no-go","itemType":"safety","placeId":"dolomites-2026:cortina","description":"Check the official ARPAV Dolomites bulletin, Duca d'Aosta webcam, thunderstorm timing, wind and live lift status. If clearly unsafe, do not rent the equipment; use 13 Sep as the final lift-supported backup.","status":"planned","source":"plan-a-v8","sortOrder":10,"metadata":{"weather":"https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf","webcam":"https://www.impianticortina.it/en/web-cams-weather/"}},
+    {"id":"dolomites-2026:2026-09-12-equipment","tripId":"dolomites-2026","dayDate":"2026-09-12","startTime":"08:30","endTime":"09:30","title":"Snow Service fitting and final go/no-go","itemType":"equipment-rental","placeId":"dolomites-2026:snow-service-cortina","description":"At opening, fit two pre-reserved complete sets: helmet, harness and EN 958 energy-absorbing lanyard. Make the final go/no-go only after the current webcam/lift check and the shop fitting; if no-go, confirm whether to retain or re-rent for 13 Sep.","status":"planned","source":"plan-a-v8","sortOrder":20},
+    {"id":"dolomites-2026:2026-09-12-drive-pie","tripId":"dolomites-2026","dayDate":"2026-09-12","startTime":"09:30","endTime":"09:55","title":"Drive to Piè Tofana","itemType":"transfer","placeId":"dolomites-2026:pie-tofana-duca","description":"Park at the Piè Tofana–Duca d'Aosta chairlift. The later start is deliberate because the equipment is collected that morning.","status":"planned","source":"plan-a-v8","sortOrder":30},
+    {"id":"dolomites-2026:2026-09-12-lift-up","tripId":"dolomites-2026","dayDate":"2026-09-12","startTime":"09:55","endTime":"10:15","title":"Piè Tofana → Rifugio Duca d'Aosta","itemType":"lift","placeId":"dolomites-2026:pie-tofana-duca","description":"Published summer 2026 hours are 08:30–17:00; adult return fare €18.","status":"planned","source":"plan-a-v8","sortOrder":40},
+    {"id":"dolomites-2026:2026-09-12-ra-bujela","tripId":"dolomites-2026","dayDate":"2026-09-12","startTime":"10:15","endTime":"13:15","title":"Via ferrata Ra Bujela — conservative 3-hour block","itemType":"via-ferrata","placeId":"dolomites-2026:rifugio-duca-aosta","description":"The official hut-to-hut route time is 1h45. Reserve 3h from Duca d'Aosta back to Duca d'Aosta for mutual checks, the short approach, instruction/hesitation, queues, a calm pace and the descent. Do not combine with Ra Pegna. The first vertical section and the exposed corner after the two bridges require particular care.","status":"conditional","source":"user_requested_plan_v8","sortOrder":50,"metadata":{"officialTime":"1h45, start and finish at Rifugio Duca d'Aosta","planningTime":"3h conservative hut-to-hut block","difficulty":"Officially easy, but exposed and vertical in places.","requirements":"Suitable prior via-ferrata experience or a guide; full EN 958 kit; dry cable; no rain, thunderstorm or strong wind."}},
+    {"id":"dolomites-2026:2026-09-12-lunch-duca","tripId":"dolomites-2026","dayDate":"2026-09-12","startTime":"13:15","endTime":"14:00","title":"Lunch and recovery — Rifugio Duca d'Aosta","itemType":"lunch","placeId":"dolomites-2026:rifugio-duca-aosta","description":"Confirm kitchen service shortly before the day and carry a packed backup. If the route runs beyond 13:15, shorten the lake stop rather than the safety margin.","status":"planned","source":"plan-a-v8","sortOrder":60},
+    {"id":"dolomites-2026:2026-09-12-lift-down","tripId":"dolomites-2026","dayDate":"2026-09-12","startTime":"14:00","endTime":"14:25","title":"Chairlift descent and return to the car","itemType":"lift","placeId":"dolomites-2026:pie-tofana-duca","description":"Descend with more than two hours of margin before the published 17:00 final service.","status":"planned","source":"plan-a-v8","sortOrder":70},
+    {"id":"dolomites-2026:2026-09-12-drive-pianozes","tripId":"dolomites-2026","dayDate":"2026-09-12","startTime":"14:25","endTime":"14:50","title":"Drive — Piè Tofana → Lago Pianozes","itemType":"transfer","placeId":"dolomites-2026:lago-pianozes","description":"Use the nearby lake instead of duplicating the longer Misurina stop planned for 14 Sep. Go only if the route finished on time and both travelers feel good.","status":"conditional","source":"plan-a-v8","sortOrder":80},
+    {"id":"dolomites-2026:2026-09-12-pianozes","tripId":"dolomites-2026","dayDate":"2026-09-12","startTime":"14:50","endTime":"15:35","title":"Lago Pianozes — short no-ascent viewpoint","itemType":"scenic-stop","placeId":"dolomites-2026:lago-pianozes","description":"Drive close to the lake and take only a short lakeside pause; do not follow the longer walking loop. If weather or energy is poor, replace this with a Corso Italia walk in Cortina.","status":"conditional","source":"user_requested_plan_v8","sortOrder":90},
+    {"id":"dolomites-2026:2026-09-12-return","tripId":"dolomites-2026","dayDate":"2026-09-12","startTime":"15:35","endTime":"16:00","title":"Return to Cortina","itemType":"transfer","placeId":"dolomites-2026:cortina","description":"Return directly for the equipment hand-back. If the ferrata ran late, skip Pianozes and use this time for an easy town walk instead.","status":"planned","source":"plan-a-v8","sortOrder":100},
+    {"id":"dolomites-2026:2026-09-12-equipment-return","tripId":"dolomites-2026","dayDate":"2026-09-12","startTime":"16:00","endTime":"18:30","title":"Return equipment and easy Corso Italia walk","itemType":"recovery","placeId":"dolomites-2026:snow-service-cortina","description":"Return the equipment after a successful outing, then take an easy central Cortina walk. If 12 Sep was a no-go, retain the equipment only under the shop's agreed 13 Sep backup terms.","status":"planned","source":"plan-a-v8","sortOrder":110},
 
-    {"id":"dolomites-2026:2026-09-13-braies","tripId":"dolomites-2026","dayDate":"2026-09-13","startTime":"07:30","endTime":"12:15","title":"Lago di Braies: boat and loop","itemType":"nature","placeId":"dolomites-2026:braies-boathouse","description":"Use reserved parking, arrive early, take a 45-minute shared boat if operating, then complete the easy lake loop.","status":"planned","source":"plan-a","sortOrder":10,"metadata":{"reservation":"Braies parking","fallback":"Dobbiaco and San Candido easy town day"}},
-    {"id":"dolomites-2026:2026-09-13-lunch","tripId":"dolomites-2026","dayDate":"2026-09-13","startTime":"12:30","endTime":"13:45","title":"Lunch near Braies/Dobbiaco","itemType":"lunch","description":"Choose a reserved or low-friction lunch after leaving the lakeshore crowd.","status":"planned","source":"plan-a","sortOrder":20},
-    {"id":"dolomites-2026:2026-09-13-rest","tripId":"dolomites-2026","dayDate":"2026-09-13","startTime":"15:00","endTime":"18:00","title":"Dobbiaco or Cortina rest afternoon","itemType":"recovery","description":"Easy café/town time, laundry and weather check for the next two mountain days.","status":"planned","source":"plan-a","sortOrder":30},
+    {"id":"dolomites-2026:2026-09-13-hard-buffer","tripId":"dolomites-2026","dayDate":"2026-09-13","startTime":"07:30","endTime":"12:30","title":"Hard Ra Bujela weather buffer / Lagazuoi if complete","itemType":"buffer","placeId":"dolomites-2026:pie-tofana-duca","description":"If Ra Bujela did not run on 12 Sep and conditions are safe, repeat the Ra Bujela morning now; this is the final lift-supported chance because Piè Tofana closes after today. If Ra Bujela is complete, use the morning for Lagazuoi instead. If conditions are unsafe again, cancel the via ferrata.","status":"planned","source":"plan-a-v7","sortOrder":10,"metadata":{"finalDeadline":"Piè Tofana summer operation ends after 13 Sep 2026.","fallback":"Cortina, Passo Falzarego or another low-risk valley activity."}},
+    {"id":"dolomites-2026:2026-09-13-lunch","tripId":"dolomites-2026","dayDate":"2026-09-13","startTime":"12:30","endTime":"13:45","title":"Flexible lunch after the weather decision","itemType":"lunch","description":"Eat near Duca d'Aosta/Falzarego/Cortina according to the chosen morning and carry a packed fallback.","status":"planned","source":"plan-a-v7","sortOrder":20},
+    {"id":"dolomites-2026:2026-09-13-equipment-return","tripId":"dolomites-2026","dayDate":"2026-09-13","startTime":"15:00","endTime":"17:00","title":"Equipment return and recovery","itemType":"recovery","placeId":"dolomites-2026:snow-service-cortina","description":"Return the via-ferrata equipment if it was retained for the backup. Keep the remainder of the afternoon easy before Tre Cime.","status":"planned","source":"plan-a-v7","sortOrder":30},
 
-    {"id":"dolomites-2026:2026-09-14-cinque-torri","tripId":"dolomites-2026","dayDate":"2026-09-14","startTime":"09:00","endTime":"12:20","title":"Cinque Torri by chairlift","itemType":"mountain","placeId":"dolomites-2026:bai-de-dones","description":"Take the 5 Torri chairlift and do a light loop among the towers and open-air WWI sites.","status":"planned","source":"plan-a","sortOrder":10,"metadata":{"fallback":"Cortina town and Olympic heritage"}},
-    {"id":"dolomites-2026:2026-09-14-lunch","tripId":"dolomites-2026","dayDate":"2026-09-14","startTime":"12:30","endTime":"13:45","title":"Lunch at Rifugio Averau","itemType":"lunch","placeId":"dolomites-2026:averau","description":"Target a booked table or carry a backup snack if access or service changes.","status":"planned","source":"plan-a","sortOrder":20},
-    {"id":"dolomites-2026:2026-09-14-giau","tripId":"dolomites-2026","dayDate":"2026-09-14","startTime":"15:15","endTime":"16:30","title":"Passo Giau scenic stop","itemType":"scenic-drive","placeId":"dolomites-2026:passo-giau","description":"Short viewpoint stop on the return drive; no second major hike.","status":"planned","source":"plan-a","sortOrder":30},
+    {"id":"dolomites-2026:2026-09-14-tre-cime","tripId":"dolomites-2026","dayDate":"2026-09-14","startTime":"07:30","endTime":"13:15","title":"Tre Cime di Lavaredo loop","itemType":"hike","placeId":"dolomites-2026:tre-cime","description":"Arrive at Rifugio Auronzo parking by 07:30–08:00. Light-medium 10 km loop, 4–5 hours; carry layers, water and sandwiches.","status":"planned","source":"plan-a-v7","sortOrder":10,"metadata":{"reservation":"Tre Cime parking for 14 Sep","fallback":"Lago di Misurina lakeside walk"}},
+    {"id":"dolomites-2026:2026-09-14-lunch","tripId":"dolomites-2026","dayDate":"2026-09-14","startTime":"12:30","endTime":"13:15","title":"Packed lunch on the Tre Cime route","itemType":"lunch","description":"Eat the packed lunch when the route and weather allow; do not rely on rifugi service.","status":"planned","source":"plan-a-v7","sortOrder":20},
+    {"id":"dolomites-2026:2026-09-14-misurina","tripId":"dolomites-2026","dayDate":"2026-09-14","startTime":"15:00","endTime":"16:30","title":"Lago di Misurina recovery stop","itemType":"lake","placeId":"dolomites-2026:misurina","description":"Optional easy lakeside recovery stop; skip if the hike runs late or weather worsens.","status":"planned","source":"plan-a-v7","sortOrder":30},
 
-    {"id":"dolomites-2026:2026-09-15-lagazuoi","tripId":"dolomites-2026","dayDate":"2026-09-15","startTime":"09:00","endTime":"12:15","title":"Lagazuoi cable car and viewpoints","itemType":"mountain","placeId":"dolomites-2026:lagazuoi","description":"First cable car, easy summit viewpoints and optional short tunnel section only if conditions are comfortable.","status":"planned","source":"plan-a","sortOrder":10,"metadata":{"fallback":"Passo Falzarego viewpoints and Cortina"}},
-    {"id":"dolomites-2026:2026-09-15-lunch","tripId":"dolomites-2026","dayDate":"2026-09-15","startTime":"12:30","endTime":"13:45","title":"Lunch near Falzarego","itemType":"lunch","description":"Warm lunch after descending; keep the afternoon intentionally light.","status":"planned","source":"plan-a","sortOrder":20},
-    {"id":"dolomites-2026:2026-09-15-cortina","tripId":"dolomites-2026","dayDate":"2026-09-15","startTime":"15:15","endTime":"18:00","title":"Cortina rest and supplies","itemType":"recovery","placeId":"dolomites-2026:cortina","description":"Rest, groceries and recheck forecasts, lift notices and road conditions.","status":"planned","source":"plan-a","sortOrder":30},
+    {"id":"dolomites-2026:2026-09-15-braies","tripId":"dolomites-2026","dayDate":"2026-09-15","startTime":"07:30","endTime":"12:15","title":"Lago di Braies: boat and loop","itemType":"nature","placeId":"dolomites-2026:braies-boathouse","description":"Use reserved parking, arrive early, take a 45-minute shared boat if operating, then complete the easy lake loop.","status":"planned","source":"plan-a-v7","sortOrder":10,"metadata":{"reservation":"Braies parking for 15 Sep","fallback":"Dobbiaco and San Candido easy town day"}},
+    {"id":"dolomites-2026:2026-09-15-lunch","tripId":"dolomites-2026","dayDate":"2026-09-15","startTime":"12:30","endTime":"13:45","title":"Lunch near Braies/Dobbiaco","itemType":"lunch","description":"Choose a reserved or low-friction lunch after leaving the lakeshore crowd.","status":"planned","source":"plan-a-v7","sortOrder":20},
+    {"id":"dolomites-2026:2026-09-15-rest","tripId":"dolomites-2026","dayDate":"2026-09-15","startTime":"15:00","endTime":"18:00","title":"Dobbiaco or Cortina recovery afternoon","itemType":"recovery","description":"Easy café/town time, laundry and a weather check for the final east-base flex day.","status":"planned","source":"plan-a-v7","sortOrder":30},
 
-    {"id":"dolomites-2026:2026-09-16-buffer","tripId":"dolomites-2026","dayDate":"2026-09-16","startTime":"09:00","endTime":"12:15","title":"East-base weather buffer","itemType":"buffer","placeId":"dolomites-2026:cortina","description":"Use for the highest-priority missed east anchor; if all completed, take a slow Cortina/Misurina morning.","status":"planned","source":"plan-a","sortOrder":10},
-    {"id":"dolomites-2026:2026-09-16-lunch","tripId":"dolomites-2026","dayDate":"2026-09-16","startTime":"12:30","endTime":"13:45","title":"Lunch in Cortina","itemType":"lunch","description":"Unhurried lunch and recovery before changing bases.","status":"planned","source":"plan-a","sortOrder":20},
-    {"id":"dolomites-2026:2026-09-16-pack","tripId":"dolomites-2026","dayDate":"2026-09-16","startTime":"15:00","endTime":"18:00","title":"Laundry, fuel and pack for transfer","itemType":"logistics","description":"Refuel, organize the car and download the next day’s scenic route offline.","status":"planned","source":"plan-a","sortOrder":30},
+    {"id":"dolomites-2026:2026-09-16-buffer","tripId":"dolomites-2026","dayDate":"2026-09-16","startTime":"07:45","endTime":"08:15","title":"Cinque Torri weather and lift check","itemType":"safety","placeId":"dolomites-2026:cortina","description":"Check ARPAV, the 5 Torri webcam and current lift status. Cinque Torri is the fixed Plan A anchor for today, not a leftover from 12 Sep.","status":"planned","source":"plan-a-v8","sortOrder":10,"metadata":{"weather":"https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf","webcam":"https://5torri.it/EN/p34-Webcam"}},
+    {"id":"dolomites-2026:2026-09-16-drive-bai","tripId":"dolomites-2026","dayDate":"2026-09-16","startTime":"08:15","endTime":"09:00","title":"Drive — Cortina → Bai de Dones","itemType":"transfer","placeId":"dolomites-2026:bai-de-dones","description":"Park and be ready for the 09:00 opening of the 5 Torri chairlift.","status":"planned","source":"plan-a-v8","sortOrder":20},
+    {"id":"dolomites-2026:2026-09-16-east-anchor","tripId":"dolomites-2026","dayDate":"2026-09-16","startTime":"09:00","endTime":"12:00","title":"Cinque Torri — lift, trenches and viewpoints","itemType":"mountain","placeId":"dolomites-2026:bai-de-dones","description":"Take the chairlift, follow the easy M5a/M5b First World War museum paths and viewpoints near Rifugio Scoiattoli, and keep the total walking block to about 2h30. The chairlift is published to operate 09:00–17:00 on this date.","status":"planned","source":"user_requested_plan_v8","sortOrder":30},
+    {"id":"dolomites-2026:2026-09-16-lunch","tripId":"dolomites-2026","dayDate":"2026-09-16","startTime":"12:00","endTime":"13:15","title":"Lunch near Cinque Torri","itemType":"lunch","placeId":"dolomites-2026:averau","description":"Prefer Rifugio Scoiattoli if operating, or use the existing Averau option; confirm service and carry a snack fallback.","status":"planned","source":"plan-a-v8","sortOrder":40},
+    {"id":"dolomites-2026:2026-09-16-lift-down","tripId":"dolomites-2026","dayDate":"2026-09-16","startTime":"13:15","endTime":"13:40","title":"5 Torri chairlift descent","itemType":"lift","placeId":"dolomites-2026:bai-de-dones","description":"Descend early, with a wide margin before the final 17:00 service.","status":"planned","source":"plan-a-v8","sortOrder":50},
+    {"id":"dolomites-2026:2026-09-16-giau","tripId":"dolomites-2026","dayDate":"2026-09-16","startTime":"14:00","endTime":"15:00","title":"Passo Giau or Cortina recovery stop","itemType":"scenic-drive","placeId":"dolomites-2026:passo-giau","description":"Short viewpoint stop only in clear conditions; otherwise return directly to Cortina.","status":"conditional","source":"plan-a-v8","sortOrder":60},
+    {"id":"dolomites-2026:2026-09-16-pack","tripId":"dolomites-2026","dayDate":"2026-09-16","startTime":"15:00","endTime":"18:00","title":"Laundry, fuel and pack for transfer","itemType":"logistics","description":"Refuel, organize the car and download the next day’s scenic route offline.","status":"planned","source":"plan-a-v8","sortOrder":70},
 
     {"id":"dolomites-2026:2026-09-17-transfer","tripId":"dolomites-2026","dayDate":"2026-09-17","startTime":"08:45","endTime":"12:20","title":"Scenic transfer Cortina → Ortisei","itemType":"transfer","placeId":"dolomites-2026:ortisei","description":"Drive the scenic pass route only if weather and roads are good; otherwise use the safer direct route.","status":"planned","source":"plan-a","sortOrder":10},
     {"id":"dolomites-2026:2026-09-17-lunch","tripId":"dolomites-2026","dayDate":"2026-09-17","startTime":"12:30","endTime":"13:45","title":"Transfer-day lunch","itemType":"lunch","description":"Stop where parking is simple; avoid a fixed mountain reservation that could pressure the drive.","status":"planned","source":"plan-a","sortOrder":20},
@@ -394,25 +480,29 @@
 
     {"id":"dolomites-2026:2026-09-23-flex","tripId":"dolomites-2026","dayDate":"2026-09-23","startTime":"09:00","endTime":"12:15","title":"Final Dolomites flex morning","itemType":"buffer","placeId":"dolomites-2026:ortisei","description":"Use for a missed Plan A anchor or keep as a relaxed Ortisei morning; no forced checklist completion.","status":"planned","source":"plan-a","sortOrder":10},
     {"id":"dolomites-2026:2026-09-23-lunch","tripId":"dolomites-2026","dayDate":"2026-09-23","startTime":"12:30","endTime":"13:45","title":"Farewell lunch in Ortisei","itemType":"lunch","description":"Book a pleasant but cancellable final-base lunch.","status":"planned","source":"plan-a","sortOrder":20},
-    {"id":"dolomites-2026:2026-09-23-pack","tripId":"dolomites-2026","dayDate":"2026-09-23","startTime":"15:00","endTime":"18:00","title":"Pack, fuel and car check","itemType":"logistics","description":"Prepare for the long transfer, confirm VCE return instructions and download the route.","status":"planned","source":"plan-a","sortOrder":30},
+    {"id":"dolomites-2026:2026-09-23-pack","tripId":"dolomites-2026","dayDate":"2026-09-23","startTime":"15:00","endTime":"18:00","title":"Free afternoon and light organization","itemType":"recovery","description":"Laundry, café or rest. Keep the main packing and flight-day preparation for the following afternoon; there is no checkout on 24 September.","status":"planned","source":"plan-a-v5","sortOrder":30},
 
-    {"id":"dolomites-2026:2026-09-24-drive","tripId":"dolomites-2026","dayDate":"2026-09-24","startTime":"08:45","endTime":"12:15","title":"Drive Ortisei → Veneto","itemType":"transfer","placeId":"dolomites-2026:conegliano","description":"Use the direct route; Conegliano is an optional lunch stop only if traffic and timing are comfortable.","status":"planned","source":"plan-a","sortOrder":10},
-    {"id":"dolomites-2026:2026-09-24-lunch","tripId":"dolomites-2026","dayDate":"2026-09-24","startTime":"12:30","endTime":"13:45","title":"Lunch near Conegliano/Veneto","itemType":"lunch","description":"Flexible transfer lunch with easy parking; skip the old town if arrival margin shrinks.","status":"planned","source":"plan-a","sortOrder":20},
-    {"id":"dolomites-2026:2026-09-24-car-return","tripId":"dolomites-2026","dayDate":"2026-09-24","startTime":"15:30","endTime":"16:30","title":"Return rental car at VCE","itemType":"transport","placeId":"dolomites-2026:car-rental-vce","description":"Refuel according to contract, photograph the car and keep the return receipt.","status":"planned","source":"plan-a","sortOrder":30},
-    {"id":"dolomites-2026:2026-09-24-mestre","tripId":"dolomites-2026","dayDate":"2026-09-24","startTime":"17:00","endTime":"19:00","title":"Final night in Mestre","itemType":"base","placeId":"dolomites-2026:mestre-station","description":"Check in near transport, repack for flight and keep the evening simple.","status":"planned","source":"plan-a","sortOrder":40},
+    {"id":"dolomites-2026:2026-09-24-local","tripId":"dolomites-2026","dayDate":"2026-09-24","startTime":"08:30","endTime":"12:15","title":"Final relaxed Dolomites morning","itemType":"buffer","placeId":"dolomites-2026:ortisei","description":"Stay in the Ortisei/Val Gardena touring area for a relaxed local walk, a missed easy anchor or café time. Do not start a long or exposed hike.","status":"planned","source":"plan-a-v5","sortOrder":10,"metadata":{"fallback":"Rest in Ortisei and keep the day light."}},
+    {"id":"dolomites-2026:2026-09-24-lunch","tripId":"dolomites-2026","dayDate":"2026-09-24","startTime":"12:30","endTime":"13:45","title":"Final lunch in Ortisei","itemType":"lunch","placeId":"dolomites-2026:ortisei","description":"Choose a pleasant local lunch near the lodging and keep the afternoon free for flight-day preparation.","status":"planned","source":"plan-a-v5","sortOrder":20},
+    {"id":"dolomites-2026:2026-09-24-pack","tripId":"dolomites-2026","dayDate":"2026-09-24","startTime":"14:30","endTime":"17:30","title":"Pack, fuel and prepare the early route","itemType":"logistics","placeId":"dolomites-2026:ortisei","description":"Pack completely, refuel, check the Target Rent return instructions and shuttle process, download the direct route and arrange an early checkout.","status":"planned","source":"plan-a-v5","sortOrder":30},
+    {"id":"dolomites-2026:2026-09-24-final-night","tripId":"dolomites-2026","dayDate":"2026-09-24","startTime":"18:00","endTime":"20:30","title":"Early dinner and final night in Ortisei","itemType":"base","placeId":"dolomites-2026:ortisei","description":"Remain at the west-base lodging for the final night, eat early and sleep early before the 04:30 wake-up. No Mestre overnight and no return-lake detour.","status":"planned","source":"plan-a-v5","sortOrder":40},
 
-    {"id":"dolomites-2026:2026-09-25-airport","tripId":"dolomites-2026","dayDate":"2026-09-25","startTime":"08:45","endTime":"09:30","title":"Mestre → VCE","itemType":"transfer","placeId":"dolomites-2026:vce","description":"Leave with at least 2.5 hours at the airport for the 12:05 local departure.","status":"planned","source":"plan-a","sortOrder":10},
-    {"id":"dolomites-2026:2026-09-25-flight","tripId":"dolomites-2026","dayDate":"2026-09-25","startTime":"12:05","endTime":"15:25","title":"Departure from VCE — LY 290","itemType":"flight","placeId":"dolomites-2026:vce","description":"Use the existing protected calendar flight. Times here are Europe/Rome local time; do not recreate or modify the flight event.","status":"planned","source":"protected_calendar_event","sortOrder":20,"metadata":{"calendarSync":false,"protected":true}}
+    {"id":"dolomites-2026:2026-09-25-wake","tripId":"dolomites-2026","dayDate":"2026-09-25","startTime":"04:30","endTime":"05:00","title":"Early wake-up and checkout","itemType":"logistics","placeId":"dolomites-2026:ortisei","description":"Wake at 04:30, complete the pre-arranged early checkout, load the car and leave no later than 05:00.","status":"planned","source":"plan-a-v5","sortOrder":10},
+    {"id":"dolomites-2026:2026-09-25-drive-target","tripId":"dolomites-2026","dayDate":"2026-09-25","startTime":"05:00","endTime":"08:15","title":"Direct drive — Ortisei → Target Rent","itemType":"transfer","placeId":"dolomites-2026:car-rental-vce","description":"Drive directly toward Target Rent at Via Orlanda 216. The working route is about 200 km and published estimates vary from roughly 2h45 to 3h20; this block uses the conservative end of that range.","status":"planned","source":"plan-a-v5","sortOrder":20,"metadata":{"route":"Ortisei → Target Rent, Via Orlanda 216","verifiedAt":"2026-07-25"}},
+    {"id":"dolomites-2026:2026-09-25-return-buffer","tripId":"dolomites-2026","dayDate":"2026-09-25","startTime":"08:15","endTime":"08:45","title":"Final fuel and return buffer","itemType":"logistics","placeId":"dolomites-2026:car-rental-vce","description":"Top up fuel if the contract requires it, inspect the car and aim to reach Target Rent at about 08:45 for the 09:00 return.","status":"planned","source":"plan-a-v5","sortOrder":30},
+    {"id":"dolomites-2026:2026-09-25-car-return","tripId":"dolomites-2026","dayDate":"2026-09-25","startTime":"08:45","endTime":"09:10","title":"Return rental car — Target Rent","itemType":"transport","placeId":"dolomites-2026:car-rental-vce","description":"Booked return is 09:00. Photograph the car, record fuel level and mileage, obtain the return receipt and move promptly to the free airport shuttle.","status":"planned","source":"plan-a-v5","sortOrder":40},
+    {"id":"dolomites-2026:2026-09-25-shuttle-vce","tripId":"dolomites-2026","dayDate":"2026-09-25","startTime":"09:10","endTime":"09:30","title":"Target Rent shuttle → VCE","itemType":"transfer","placeId":"dolomites-2026:vce","description":"Use the free Target Rent/Park Gold shuttle and plan to reach the airport between 09:15 and 09:30, leaving about 2h35–2h50 before departure.","status":"planned","source":"plan-a-v5","sortOrder":50},
+    {"id":"dolomites-2026:2026-09-25-flight","tripId":"dolomites-2026","dayDate":"2026-09-25","startTime":"12:05","endTime":"15:25","title":"Departure from VCE — LY 290","itemType":"flight","placeId":"dolomites-2026:vce","description":"Use the existing protected calendar flight. Times here are Europe/Rome local time; do not recreate or modify the flight event.","status":"planned","source":"protected_calendar_event","sortOrder":60,"metadata":{"calendarSync":false,"protected":true}}
   ],
   "lodgingCandidates": [
     {"id":"dolomites-2026:stay-mestre-arrival-ao-venezia-mestre","tripId":"dolomites-2026","baseName":"Mestre arrival","checkIn":"2026-09-09","checkOut":"2026-09-11","provider":"aohostels.com","title":"a&o Venezia Mestre","latitude":45.4814965,"longitude":12.2389804,"status":"confirmed","notes":"Confirmed for 2 adults and 2 nights. Expected arrival is late after the flight; verify late-arrival procedure.","metadata":{"adults":2,"nights":2,"confirmedAt":"2026-07-20"}},
     {"id":"dolomites-2026:stay-mestre-arrival-campanile","tripId":"dolomites-2026","baseName":"Mestre arrival","checkIn":"2026-09-09","checkOut":"2026-09-11","provider":"booking.com","title":"Campanile Venice Mestre","url":"https://www.booking.com/hotel/it/7-days-premium-venedig-mestre.html?checkin=2026-09-09&checkout=2026-09-11&no_rooms=1&group_adults=2&selected_currency=EUR","totalPrice":394.6,"currency":"EUR","rating":8.5,"latitude":45.48158,"longitude":12.23794,"parking":true,"status":"superseded","notes":"Research candidate retained for audit; the arrival stay is confirmed at a&o Venezia Mestre.","metadata":{"bookingId":5136584,"reviewCount":6865,"retrievedAt":"2026-07-20"}},
-    {"id":"dolomites-2026:stay-east-chalet-stadio","tripId":"dolomites-2026","baseName":"Cortina east base","checkIn":"2026-09-11","checkOut":"2026-09-17","provider":"booking.com","title":"Chalet Stadio","url":"https://www.booking.com/hotel/it/chalet-stadio.html?checkin=2026-09-11&checkout=2026-09-17&no_rooms=1&group_adults=2&selected_currency=EUR","totalPrice":1529.82,"currency":"EUR","rating":8.8,"latitude":46.542687,"longitude":12.132642,"parking":true,"status":"shortlist","notes":"Best balance of price, review volume and central Cortina route fit among returned options.","metadata":{"bookingId":13245924,"reviewCount":227,"retrievedAt":"2026-07-20"}},
-    {"id":"dolomites-2026:stay-east-bellaria","tripId":"dolomites-2026","baseName":"Cortina east base","checkIn":"2026-09-11","checkOut":"2026-09-17","provider":"booking.com","title":"Hotel Bellaria – Cortina d'Ampezzo – parking","url":"https://www.booking.com/hotel/it/bellaria-cortina.html?checkin=2026-09-11&checkout=2026-09-17&no_rooms=1&group_adults=2&selected_currency=EUR","totalPrice":1993.5,"currency":"EUR","rating":8.9,"latitude":46.542118,"longitude":12.136408,"parking":true,"status":"candidate","notes":"Central option with parking and a larger review base.","metadata":{"bookingId":1368369,"reviewCount":370,"retrievedAt":"2026-07-20"}},
-    {"id":"dolomites-2026:stay-east-barisetti","tripId":"dolomites-2026","baseName":"Cortina east base","checkIn":"2026-09-11","checkOut":"2026-09-17","provider":"booking.com","title":"Barisetti Sport Hotel","url":"https://www.booking.com/hotel/it/barisetti-sport.html?checkin=2026-09-11&checkout=2026-09-17&no_rooms=1&group_adults=2&selected_currency=EUR","totalPrice":2345,"currency":"EUR","rating":8.9,"latitude":46.54365,"longitude":12.132286,"parking":true,"status":"candidate","notes":"Higher-priced backup with 459 reviews and good Cortina location.","metadata":{"bookingId":24911,"reviewCount":459,"retrievedAt":"2026-07-20"}},
-    {"id":"dolomites-2026:stay-west-garni-kostner","tripId":"dolomites-2026","baseName":"Ortisei west base","checkIn":"2026-09-17","checkOut":"2026-09-24","provider":"booking.com","title":"Garni Kostner","url":"https://www.booking.com/hotel/it/garni-kostner.html?checkin=2026-09-17&checkout=2026-09-24&no_rooms=1&group_adults=2&selected_currency=EUR","totalPrice":1316,"currency":"EUR","rating":9.1,"latitude":46.56426,"longitude":11.635637,"parking":true,"status":"shortlist","notes":"Best value with a meaningful review base; confirm exact lift/center access before booking.","metadata":{"bookingId":545949,"reviewCount":80,"retrievedAt":"2026-07-20"}},
-    {"id":"dolomites-2026:stay-west-mirabel","tripId":"dolomites-2026","baseName":"Ortisei west base","checkIn":"2026-09-17","checkOut":"2026-09-24","provider":"booking.com","title":"B&B Hotel Mirabel","url":"https://www.booking.com/hotel/it/garni-mirabel.html?checkin=2026-09-17&checkout=2026-09-24&no_rooms=1&group_adults=2&selected_currency=EUR","totalPrice":2055,"currency":"EUR","rating":9.7,"latitude":46.564793,"longitude":11.695535,"parking":true,"status":"candidate","notes":"Strong 9.7 rating from 489 reviews; pricier than Garni Kostner.","metadata":{"bookingId":453971,"reviewCount":489,"retrievedAt":"2026-07-20"}},
-    {"id":"dolomites-2026:stay-west-genziana","tripId":"dolomites-2026","baseName":"Ortisei west base","checkIn":"2026-09-17","checkOut":"2026-09-24","provider":"booking.com","title":"Hotel Genziana","url":"https://www.booking.com/hotel/it/genziana-ortisei.html?checkin=2026-09-17&checkout=2026-09-24&no_rooms=1&group_adults=2&selected_currency=EUR","totalPrice":2409,"currency":"EUR","rating":9,"latitude":46.573432,"longitude":11.674476,"parking":true,"status":"candidate","notes":"Most central route fit of the three; higher cost.","metadata":{"bookingId":368264,"reviewCount":153,"retrievedAt":"2026-07-20"}},
-    {"id":"dolomites-2026:stay-mestre-final-campanile","tripId":"dolomites-2026","baseName":"Mestre final night","checkIn":"2026-09-24","checkOut":"2026-09-25","provider":"booking.com","title":"Campanile Venice Mestre","url":"https://www.booking.com/hotel/it/7-days-premium-venedig-mestre.html?checkin=2026-09-24&checkout=2026-09-25&no_rooms=1&group_adults=2&selected_currency=EUR","totalPrice":196.8,"currency":"EUR","rating":8.5,"latitude":45.48158,"longitude":12.23794,"parking":true,"status":"shortlist","notes":"One-night transport-focused candidate; confirm early VCE transfer before booking.","metadata":{"bookingId":5136584,"reviewCount":6865,"retrievedAt":"2026-07-20"}}
+    {"id":"dolomites-2026:stay-east-chalet-stadio","tripId":"dolomites-2026","baseName":"Cortina east base","checkIn":"2026-09-11","checkOut":"2026-09-17","provider":"booking.com","title":"Chalet Stadio","url":"https://www.booking.com/hotel/it/chalet-stadio.html?checkin=2026-09-11&checkout=2026-09-17&no_rooms=1&group_adults=2&selected_currency=EUR","totalPrice":1529.82,"currency":"EUR","rating":8.8,"latitude":46.542687,"longitude":12.132642,"parking":true,"status":"superseded_by_value_policy","notes":"Removed from the shortlist after the Airbnb-history review: the quote does not fit the new all-in nightly value policy. Retained for audit only.","metadata":{"bookingId":13245924,"reviewCount":227,"retrievedAt":"2026-07-20","policyReviewedAt":"2026-07-25"}},
+    {"id":"dolomites-2026:stay-east-bellaria","tripId":"dolomites-2026","baseName":"Cortina east base","checkIn":"2026-09-11","checkOut":"2026-09-17","provider":"booking.com","title":"Hotel Bellaria – Cortina d'Ampezzo – parking","url":"https://www.booking.com/hotel/it/bellaria-cortina.html?checkin=2026-09-11&checkout=2026-09-17&no_rooms=1&group_adults=2&selected_currency=EUR","totalPrice":1993.5,"currency":"EUR","rating":8.9,"latitude":46.542118,"longitude":12.136408,"parking":true,"status":"superseded_by_value_policy","notes":"Removed from the candidate list after the Airbnb-history review: the quote does not fit the new all-in nightly value policy. Retained for audit only.","metadata":{"bookingId":1368369,"reviewCount":370,"retrievedAt":"2026-07-20","policyReviewedAt":"2026-07-25"}},
+    {"id":"dolomites-2026:stay-east-barisetti","tripId":"dolomites-2026","baseName":"Cortina east base","checkIn":"2026-09-11","checkOut":"2026-09-17","provider":"booking.com","title":"Barisetti Sport Hotel","url":"https://www.booking.com/hotel/it/barisetti-sport.html?checkin=2026-09-11&checkout=2026-09-17&no_rooms=1&group_adults=2&selected_currency=EUR","totalPrice":2345,"currency":"EUR","rating":8.9,"latitude":46.54365,"longitude":12.132286,"parking":true,"status":"superseded_by_value_policy","notes":"Removed from the candidate list after the Airbnb-history review: the quote does not fit the new all-in nightly value policy. Retained for audit only.","metadata":{"bookingId":24911,"reviewCount":459,"retrievedAt":"2026-07-20","policyReviewedAt":"2026-07-25"}},
+    {"id":"dolomites-2026:stay-west-garni-kostner","tripId":"dolomites-2026","baseName":"Ortisei west base","checkIn":"2026-09-17","checkOut":"2026-09-25","provider":"booking.com","title":"Garni Kostner","url":"https://www.booking.com/hotel/it/garni-kostner.html?checkin=2026-09-17&checkout=2026-09-25&no_rooms=1&group_adults=2&selected_currency=EUR","rating":9.1,"latitude":46.56426,"longitude":11.635637,"parking":true,"status":"superseded_by_value_policy","notes":"Removed from the shortlist after the Airbnb-history review. A new Airbnb plus Booking value search is required for the eight-night stay.","metadata":{"bookingId":545949,"reviewCount":80,"retrievedAt":"2026-07-20","policyReviewedAt":"2026-07-25","priorQuote":{"checkIn":"2026-09-17","checkOut":"2026-09-24","totalPrice":1316,"currency":"EUR"}}},
+    {"id":"dolomites-2026:stay-west-mirabel","tripId":"dolomites-2026","baseName":"Ortisei west base","checkIn":"2026-09-17","checkOut":"2026-09-25","provider":"booking.com","title":"B&B Hotel Mirabel","url":"https://www.booking.com/hotel/it/garni-mirabel.html?checkin=2026-09-17&checkout=2026-09-25&no_rooms=1&group_adults=2&selected_currency=EUR","rating":9.7,"latitude":46.564793,"longitude":11.695535,"parking":true,"status":"superseded_by_value_policy","notes":"Removed from the candidate list after the Airbnb-history review. A high rating alone no longer outweighs poor value; retained for audit only.","metadata":{"bookingId":453971,"reviewCount":489,"retrievedAt":"2026-07-20","policyReviewedAt":"2026-07-25","priorQuote":{"checkIn":"2026-09-17","checkOut":"2026-09-24","totalPrice":2055,"currency":"EUR"}}},
+    {"id":"dolomites-2026:stay-west-genziana","tripId":"dolomites-2026","baseName":"Ortisei west base","checkIn":"2026-09-17","checkOut":"2026-09-25","provider":"booking.com","title":"Hotel Genziana","url":"https://www.booking.com/hotel/it/genziana-ortisei.html?checkin=2026-09-17&checkout=2026-09-25&no_rooms=1&group_adults=2&selected_currency=EUR","rating":9,"latitude":46.573432,"longitude":11.674476,"parking":true,"status":"superseded_by_value_policy","notes":"Removed from the candidate list after the Airbnb-history review. A high rating and central location do not justify poor value; retained for audit only.","metadata":{"bookingId":368264,"reviewCount":153,"retrievedAt":"2026-07-20","policyReviewedAt":"2026-07-25","priorQuote":{"checkIn":"2026-09-17","checkOut":"2026-09-24","totalPrice":2409,"currency":"EUR"}}},
+    {"id":"dolomites-2026:stay-mestre-final-campanile","tripId":"dolomites-2026","baseName":"Mestre final night","checkIn":"2026-09-24","checkOut":"2026-09-25","provider":"booking.com","title":"Campanile Venice Mestre","url":"https://www.booking.com/hotel/it/7-days-premium-venedig-mestre.html?checkin=2026-09-24&checkout=2026-09-25&no_rooms=1&group_adults=2&selected_currency=EUR","totalPrice":196.8,"currency":"EUR","rating":8.5,"latitude":45.48158,"longitude":12.23794,"parking":true,"status":"superseded","notes":"Retained only as a superseded research record. The user chose to remain in the Ortisei touring area for the final night.","metadata":{"bookingId":5136584,"reviewCount":6865,"retrievedAt":"2026-07-20"}}
   ]
 }
