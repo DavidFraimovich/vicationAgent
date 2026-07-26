@@ -339,6 +339,9 @@ server.tool(
     location: z.string().optional(),
     itineraryItemId: z.string().optional(),
     eventId: z.string().optional(),
+    allowLodgingWriteAfterDedupe: z.boolean().optional().describe(
+      "Use only after the user explicitly requests a manual lodging event and the matching confirmation email and Calendar range have been checked for duplicates.",
+    ),
     tripId: z.string().optional(),
     confirm: z.boolean(),
   },

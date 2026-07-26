@@ -8,6 +8,7 @@ import {
   recordAction,
   type JsonObject,
 } from "./db.js";
+import { isProviderManagedLodgingItem } from "./calendar-policy.js";
 import { previewCalendarEvent, type CalendarEventInput } from "./google-calendar.js";
 
 function mapsSearch(query: string): string {
@@ -71,6 +72,7 @@ export function buildCalendarPreview(tripId: string, outputFile?: string): {
   count: number;
   excludedProtectedFlights: number;
   excludedDraftItems: number;
+  excludedProviderManagedLodging: number;
 } {
   const trip = getTrip(tripId);
   if (!trip) throw new Error(`Trip not found: ${tripId}`);
@@ -80,7 +82,10 @@ export function buildCalendarPreview(tripId: string, outputFile?: string): {
     item.itemType === "flight" || (item.metadata as JsonObject | undefined)?.calendarSync === false
   );
   const draftItems = allItems.filter((item) => item.status === "draft");
-  const excludedIds = new Set([...protectedItems, ...draftItems].map((item) => item.id));
+  const providerManagedLodging = allItems.filter(isProviderManagedLodgingItem);
+  const excludedIds = new Set(
+    [...protectedItems, ...draftItems, ...providerManagedLodging].map((item) => item.id),
+  );
   const items = allItems.filter((item) => !excludedIds.has(item.id));
 
   const events = items.map((item) => {
@@ -116,6 +121,12 @@ export function buildCalendarPreview(tripId: string, outputFile?: string): {
       items: draftItems.map((item) => ({ id: item.id, title: item.title })),
       policy: "Draft items without a verified exact place are not published.",
     },
+    providerManagedLodging: {
+      excluded: providerManagedLodging.length,
+      items: providerManagedLodging.map((item) => ({ id: item.id, title: item.title })),
+      policy:
+        "Airbnb lodging is kept locally but not proactively published. Prefer the event created from the confirmation email and deduplicate before any explicitly requested manual write.",
+    },
     events,
   };
   const file = outputFile
@@ -136,6 +147,7 @@ export function buildCalendarPreview(tripId: string, outputFile?: string): {
       eventCount: events.length,
       excludedProtectedFlights: protectedItems.length,
       excludedDraftItems: draftItems.length,
+      excludedProviderManagedLodging: providerManagedLodging.length,
     },
   });
   return {
@@ -143,5 +155,6 @@ export function buildCalendarPreview(tripId: string, outputFile?: string): {
     count: events.length,
     excludedProtectedFlights: protectedItems.length,
     excludedDraftItems: draftItems.length,
+    excludedProviderManagedLodging: providerManagedLodging.length,
   };
 }

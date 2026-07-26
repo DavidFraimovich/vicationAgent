@@ -42,7 +42,12 @@ description: Plan and operate Lena's local-first travel workflow across Google M
   `lodging_evaluate_candidate` before saving or recommending a candidate. A
   candidate must have verified full-refund cancellation through 24 hours before
   local check-in; unknown, partial, credit-only, or earlier deadlines fail the gate.
-- Calendar read/write: local `travel_local` Calendar tools.
+- Calendar read/write: local `travel_local` Calendar tools. Airbnb lodging
+  confirmations in `david04031997@gmail.com` are provider-managed Calendar
+  sources: keep the stay locally, prefer the event created from the email, and
+  suppress proactive lodging-event writes. A manual lodging event is allowed
+  only after checking the matching email and Calendar range for duplicates and
+  receiving an explicit user request.
 - Local state and audit: `travel_local`.
 
 ## Browser execution policy

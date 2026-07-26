@@ -2,7 +2,7 @@
 project: Dolomites 2026 Travel Agent for Lena
 source_file: vacation_planning_guidelines_dolomites_2026.md
 language: he
-version: Codex split v6 — Venice 1.5 days, rental car, Braies + Tre Cime early morning Plan A
+version: Codex split v7 — Airbnb email-managed lodging events and duplicate prevention
 role: google calendar workflow
 ---
 
@@ -19,6 +19,24 @@ role: google calendar workflow
 ```
 
 אין ליצור אירועים ביומן אחר אלא אם המשתמש מבקש במפורש.
+
+## 2א. לינות Airbnb — מקור מהמייל ומניעת כפילויות
+
+- תיבת המקור להזמנות Airbnb היא `david04031997@gmail.com`.
+- מייל אישור ההזמנה של Airbnb הוא מקור האמת לזיהוי הלינה. יש להעדיף אירוע
+  ש־Airbnb או Google יצרו ממנו אוטומטית ביומן.
+- שומרים את הלינה במסלול המקומי ובמאגר הלינות, אך לא יוצרים ביומן באופן יזום
+  אירועי שהייה, צ׳ק־אין או צ׳ק־אאוט עבור Airbnb.
+- לפני כל חריגה ידנית יש לבדוק גם את מייל האישור המתאים וגם את טווח התאריכים
+  ביומן `חו״ל`. ההתאמה לכפילות נעשית לפי ספק, מקום/הזמנה, תאריך צ׳ק־אין
+  ותאריך צ׳ק־אאוט — גם אם כותרת האירוע שונה.
+- אם קיים אירוע שנוצר מהמייל או מהספק, לא יוצרים אירוע נוסף ולא עורכים אותו
+  רק כדי להתאים אותו לתוכנית המקומית.
+- אם מייל האישור קיים אך לא נמצא אירוע ביומן, ממשיכים לשמור את הלינה מקומית
+  בלבד. יצירה ידנית מותרת רק לאחר בקשה מפורשת של המשתמש ואימות נוסף שאין
+  כפילות.
+- לא מוחקים אירוע שנראה כפול בלי אישור מפורש; מציגים את שני האירועים ואת
+  פרטי ההתאמה לפני מחיקה.
 
 ## 3. טיסות קיימות — לא לערוך בלי אישור
 
@@ -108,11 +126,11 @@ Fallback:
 
 ### לינה
 ```text
-Check-in — Hostel One / Venice area
-Check-out — Hostel One / Venice area
-Check-in — Cortina area base
-Check-in — Ortisei / Val Gardena base
-Last night near VCE — Mestre/Conegliano/Venice area
+Airbnb lodging events are normally provider-managed from the confirmation email.
+The titles below are permitted only after an explicit manual-write request and a
+completed inbox-and-calendar duplicate check:
+Check-in — [property / area]
+Check-out — [property / area]
 ```
 
 ### נסיעות
@@ -243,6 +261,9 @@ Weather fallback — town/spa/cafe
 6. לוודא שהתיאור הוא plain text בלבד, ללא HTML או Markdown, ושהקישורים ומספרי הטלפון גלויים.
 7. להוסיף fallback.
 8. לא ליצור אירוע Conditional אם אין החלטה שמתאימה לאותו יום.
+9. אם זה אירוע לינה, לעצור כברירת מחדל: לבדוק את מייל האישור בחשבון
+   `david04031997@gmail.com` ואת טווח הלינה ביומן. ליצור ידנית רק אם אין
+   אירוע ספק והמשתמש ביקש זאת במפורש.
 
 ## 11. עדכון אירוע — פרוטוקול
 כאשר מעדכנים אירוע:

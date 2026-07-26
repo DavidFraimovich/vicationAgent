@@ -46,6 +46,17 @@ Do not report a Dolomites itinerary change as complete while the human-readable 
 ## Google Calendar
 
 - Only use the configured calendar ID for `חו״ל`.
+- Airbnb lodging confirmations sent to `david04031997@gmail.com` are the primary
+  source for lodging calendar entries. Prefer the event created by Airbnb or
+  Google from that confirmation email.
+- Do not proactively create check-in, check-out, or stay events for Airbnb
+  lodging. Before any exceptional manual lodging write, inspect the matching
+  confirmation email and the relevant calendar date range, match provider,
+  property/reservation, check-in, and check-out, and proceed only if no event
+  exists and the user explicitly requested the manual write.
+- Keep planned lodging in the local itinerary and lodging store even when its
+  Calendar publication is suppressed. Never delete a suspected duplicate
+  lodging event without explicit confirmation.
 - Flights LY 289 on 2026-09-09 and LY 290 on 2026-09-25 are protected.
 - Calendar writes are previewed first.
 - Keep lunch around 12:30–13:45, with 14:30 as a practical latest time unless explicitly justified.

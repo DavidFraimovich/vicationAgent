@@ -42,6 +42,18 @@ calendar:
       date: "2026-09-09"
     - title_contains: "LY 290"
       date: "2026-09-25"
+  lodging_sync:
+    source_of_truth: airbnb_confirmation_email
+    mailbox_account: david04031997@gmail.com
+    prefer_provider_created_calendar_event: true
+    suppress_proactive_lodging_event_creation: true
+    require_inbox_and_calendar_duplicate_check_before_manual_write: true
+    manual_write_requires_explicit_user_request: true
+    duplicate_match_fields:
+      - provider
+      - reservation_or_listing
+      - check_in
+      - check_out
 
 browser:
   primary: codex_chrome_extension
@@ -52,6 +64,7 @@ browser:
   allowed_domains:
     - maps.google.com
     - google.com
+    - mail.google.com
     - airbnb.com
     - booking.com
     - dolomiti.org
