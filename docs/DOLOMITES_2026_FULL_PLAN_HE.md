@@ -4,7 +4,7 @@
 >
 > תאריכים: **9–25 בספטמבר 2026** | נוסעים: **2** | אזור זמן בתוכנית: **Europe/Rome**
 >
-> גרסת מקור: `plan-a-2026-07-25-v8` | המסמך עודכן: **25.07.2026**
+> גרסת מקור: `plan-a-2026-07-26-v15` | המסמך עודכן: **26.07.2026**
 
 ## איך להשתמש במסמך
 
@@ -34,14 +34,14 @@
 
 ## תקציר הטיול
 
-המסלול נשאר **East-first** ואין צורך להעביר את ונציה ל־22–25.9. יום 11.9 הוחזר לתכנון v6: Rialto בבוקר, איסוף הרכב המוזמן ב־12:00, אאוטלט עד ארוחת ערב ושעת הסגירה, ונסיעה מאוחרת לקורטינה. את ציוד ה־Via Ferrata שוכרים עם פתיחת Snow Service בבוקר 12.9 ורק לאחר בדיקת go/no-go. Ra Bujela מקבל חלון שמרני של שלוש שעות, Cinque Torri נקבע מראש ל־16.9, ו־13.9 נשמר כגיבוי האחרון לפני סגירת רכבל Piè Tofana.
+המסלול נשאר **East-first** ואין צורך להעביר את ונציה ל־22–25.9. יום 11.9 הוחזר לתכנון v6: Rialto בבוקר, איסוף הרכב המוזמן ב־12:00, אאוטלט עד ארוחת ערב ושעת הסגירה, ונסיעה מאוחרת לקורטינה. את ציוד ה־Via Ferrata שוכרים עם פתיחת Snow Service בבוקר 12.9 ורק לאחר בדיקת go/no-go. Ra Bujela מקבל חלון שמרני של שלוש שעות, Cinque Torri נקבע מראש ל־16.9, ו־13.9 נשמר כגיבוי האחרון לפני סגירת רכבל Piè Tofana. ב־15.9 נוספה עצירת צילום קצרה ב־Lago di Landro על ציר החזרה מ־Braies; ביום המעבר 17.9 נשארת הדרך הגדולה של הדולומיטים דרך Passo Pordoi ו־Lago di Carezza; ב־18.9 משולבים הליכת Seceda וטיסת טנדם לעמק; ב־19.9 משולבות Alpe di Siusi ורכיבת סוסים מודרכת של שעה; ב־20.9 Passo delle Erbe הוא הארכה קלה מותנית במקום לופ Zannes; ב־22.9 מופיעה הליכת Vallunga הרשמית הקצרה; וב־23.9 מתקיים טיול e-bike של 3–4 שעות. שום עוגן טבע קיים לא הוסר.
 
 | תאריכים | בסיס / אזור | אופי הימים | סטטוס לינה |
 |---|---|---|---|
 | 9–11.9 | Mestre + Venice | הגעה, ונציה רומנטית, Murano | ✅ a&o Venezia Mestre מאושר |
-| 11.9 | Venice, VCE, Target Rent, Noventa di Piave, Cortina | Rialto, איסוף רכב ב־12:00, אאוטלט עד הסגירה ונסיעה מאוחרת | 🟠 לינה בקורטינה טרם הוזמנה |
-| 12–17.9 | Cortina / מזרח הדולומיטים | Ra Bujela, Cinque Torri, Tre Cime, Braies, Lagazuoi וגיבוי | 🟠 טרם הוזמן |
-| 17–25.9 | Ortisei / Val Gardena | Seceda, Alpe di Siusi, Val di Funes, מעברי הרים ולילה אחרון באזור הטיולים | 🟠 טרם הוזמן |
+| 11.9 | Venice, VCE, Target Rent, Noventa di Piave, בסיס מזרחי | Rialto, איסוף רכב ב־12:00, אאוטלט עד הסגירה ונסיעה מאוחרת | 🟠 רשימה קצרה מוכנה; טרם הוזמן |
+| 12–17.9 | Auronzo / Cortina / מזרח הדולומיטים | Ra Bujela, Cinque Torri, Tre Cime, Braies, Lagazuoi וגיבוי | 🟠 ההמלצה היא Auronzo; טרם הוזמן |
+| 17–25.9 | טבעת Val Gardena / Ortisei | הדרך הגדולה של הדולומיטים, Seceda + מצנח, Alpe di Siusi + סוסים, Val di Funes, מעברי הרים, e-bike ולילה אחרון באזור | 🟠 רשימה קצרה מוכנה; טרם הוזמן |
 | 25.9 | Ortisei, Target Rent, VCE | השכמה מוקדמת, נסיעה ישירה, החזרת רכב וטיסה | הטיסה קיימת ביומן |
 
 ### עקרונות התכנון
@@ -51,6 +51,7 @@
 - לא מתכננים Via Ferrata, טרקי בקתות או מסלול חשוף כברירת מחדל. החריג היחיד הוא Ra Bujela כפעילות Conditional מפורשת, ורק עם ניסיון מתאים או מדריך, ציוד EN 958 מלא ותנאים יבשים.
 - יש שני ימי גיבוי למזג האוויר ועוד בוקר גמיש בסוף הדולומיטים.
 - בכל מקום שנשמר ב־Google Maps נוספה הערה תפעולית קצרה.
+- הרשימה במפה כוללת כעת גם את עצירות הדרך, חנות האופניים, יעד הרכיבה והמקומות המתאימים משני סרטוני TikTok — מסווגים כ־Plan A, Plan B, Conditional או Map only.
 - שתי הטיסות כבר קיימות ביומן ומוגנות משינוי.
 - עדכון זה הוא לתוכנית המקומית בלבד; לא בוצע שום שינוי ביומן.
 
@@ -107,7 +108,7 @@
 |---|---|---|
 | 08:30–12:15 | San Marco ומרכז ונציה | להגיע מוקדם לפני שיא העומס, לשוטט בכיכר ובסמטאות הסמוכות. |
 | 12:30–13:45 | ארוחת צהריים בוונציה | לבחור bacaro או מסעדה פשוטה מעט הרחק מהחזית התיירותית. |
-| 14:00–14:45 | חנות מסכות זולה | 🟠 החנות המדויקת עדיין לא נבחרה. לא להחליף בסדנת אומן יקרה בלי החלטה. |
+| 14:00–14:45 | [La Bauta — קניית מסכה](https://www.google.com/maps/place/La+Bauta/@45.4359844,12.3273012,17z/data=!3m1!4b1!4m6!3m5!1s0x477eb1c5cb01003b:0xb3f00e3ca4c90999!8m2!3d45.4359844!4d12.3273012!16s%2Fg%2F11c60kg_lk) | 🟢 ההמלצה הראשית: 4.8/5 מתוך 334 ביקורות Google. להתחיל בדגמי נייר בעבודת יד סביב €15–€25; Ca’ Macana ו־Kartaruga שמורות במפה כגיבוי. |
 | 15:15–19:00 | Murano | ואפורטו, שיטוט קצר באי וחזרה לארוחת ערב מאוחרת. |
 
 **Plan B:** אם התחבורה מתעכבת או מזג האוויר לא מתאים, מוותרים על Murano, נשארים ב־Cannaregio וחוזרים מוקדם ל־Mestre.
@@ -199,11 +200,11 @@
 |---|---|---|
 | 07:30–13:15 | לופ Tre Cime | כ־10 ק״מ וכ־4–5 שעות הליכה. להיות בחניית Rifugio Auronzo בין 07:30 ל־08:00. |
 | 12:30–13:15 | צהריים ארוזים במסלול | להביא מראש כריכים, מים ונשנושים; לא להסתמך על בקתות פתוחות או פנויות. |
-| 15:00–16:30 | Lago di Misurina | 🟡 עצירת התאוששות קלה בלבד; לדלג אם המסלול מתארך. |
+| 15:00–16:30 | Lago di Misurina | 🟡 עצירת התאוששות קלה בלבד; לדלג אם המסלול מתארך. Cadini הוא תחליף מותנה מ־Rifugio Auronzo, לא תוספת אחרי לופ Tre Cime מלא. |
 
 **הזמנה נדרשת:** חניית Tre Cime ל־**14.9**. מחיר העבודה המאומת הוא €40 לרכב ל־12 שעות; ההזמנה צפויה להיפתח סביב סוף אפריל 2026.
 
-**Plan B:** אם מזג האוויר או הגישה אינם מתאימים — Misurina, Cortina, Prato Piazza או יום ספא.
+**Plan B:** אם מזג האוויר או הגישה אינם מתאימים — Misurina, Cortina, Prato Piazza או יום ספא. Cadini נשאר Conditional בלבד: תנאים יבשים, רוח חלשה ונוחות של שניכם עם חשיפה.
 
 > הערה שלי:
 
@@ -217,11 +218,12 @@
 |---|---|---|
 | 07:30–12:15 | Braies — סירה ולולאת האגם | להגיע עם חניה מוזמנת. סירה משותפת של כ־45 דקות אם פועלת, ואז הליכה רגועה סביב האגם. |
 | 12:30–13:45 | צהריים באזור Braies/Dobbiaco | לצאת מאזור החוף העמוס ולבחור מקום עם גישה פשוטה. |
-| 15:00–18:00 | Dobbiaco או מנוחה בקורטינה | קפה, כביסה, מנוחה ובדיקת מזג האוויר. |
+| 14:15–14:45 | Lago di Landro | 🟢 עצירת צילום טבעית של 15–30 דקות בדרך חזרה: כ־32 דקות מ־Braies וכ־28 דקות לקורטינה לפי בדיקת Google Maps. בלי מסלול נוסף. |
+| 15:15–18:00 | מנוחה בקורטינה | קפה, כביסה, מנוחה ובדיקת מזג האוויר. |
 
 **הזמנות נדרשות:** חניה קרובה לאגם ל־**15.9**. מחיר הסירה שפורסם ל־7–27.9.2026 הוא €20 לשייט משותף של 45 דקות; שעות הפעילות שפורסמו הן 09:00–17:30.
 
-**Plan B:** יום קל ב־Dobbiaco וב־San Candido.
+**Plan B:** Val Fiscalina כחלופת חצי יום עם הליכה קלה של כשעה הלוך־חזור מ־Piano Fiscalina ל־Rifugio Fondo Valle, או יום קל ב־Dobbiaco וב־San Candido. לא מוסיפים את Val Fiscalina אחרי יום Braies מלא.
 
 > הערה שלי:
 
@@ -241,59 +243,78 @@
 | 14:00–15:00 | Passo Giau או מנוחה בקורטינה | תצפית קצרה רק בראות טובה; לא מוסיפים מסלול. |
 | 15:00–18:00 | כביסה, דלק ואריזה | להכין את הרכב ואת המסלול האופליין ליום המעבר. |
 
-**Plan B:** תצפיות נגישות ושיטוט בקורטינה. Lago Federa, Sorapis ו־Cadini נשארים Conditional בלבד.
+**Plan B:** תצפיות נגישות ושיטוט בקורטינה. Lago Federa, Sorapis ו־Cadini נשארים Conditional בלבד. Passo Rolle + Baita Segantini + Val Venegia הם חלופת יום מלא שצריך לבחור מראש, לא השלמה ל־Cinque Torri: הנסיעה לבדה ארוכה, ולכן לא משלבים אותם עם עוגן אחר.
 
 > הערה שלי:
 
 ---
 
-## יום חמישי, 17.9 — מעבר נופי מקורטינה ל־Ortisei
+## יום חמישי, 17.9 — הדרך הגדולה של הדולומיטים מקורטינה ל־Ortisei
 
-**מטרת היום:** מעבר בין הבסיסים עם נוף, לא יום טרק.
+**מטרת היום:** לנצל את יום המעבר הקל כדי לנסוע את מקטע Cortina–Bolzano של הדרך הגדולה של הדולומיטים בכיוון ההפוך, ולהמשיך משם ל־Ortisei — בלי להוריד פעילות אחרת.
 
 | שעה | תוכנית | פרטים |
 |---|---|---|
-| 08:45–12:20 | נסיעה נופית ל־Ortisei | לבחור 1–2 עצירות בלבד מתוך Falzarego, Pordoi/Sass Pordoi, Sella או Canazei. |
-| 12:30–13:45 | צהריים ביום המעבר | לעצור במקום עם חניה פשוטה; לא לקבע הזמנה הררית שתלחיץ את הנסיעה. |
+| 08:00–09:30 | Cortina → Passo Pordoi | להתחיל מוקדם, לנסוע עם ניווט אופליין ולעצור רק אם הראות, מזג האוויר ומצב הכביש מתאימים. |
+| 09:30–10:10 | Passo Pordoi | עצירת צילום וקפה קצרה; בלי רכבל או הליכה ארוכה ביום המעבר. Belvedere di Canazei הוא חלופת רכבל של 2–3 שעות ורק אם מחליפים באמצעותו את Pordoi או Carezza. |
+| 10:10–11:15 | Passo Pordoi → Lago di Carezza | להמשיך מערבה לאורך סדר העצירות המתואר בדרך הקלאסית. |
+| 11:15–12:00 | Lago di Carezza | תצפית והליכה קצרה ליד האגם; לצאת בזמן כדי לא לדחות את הצהריים. |
+| 12:00–12:45 | Lago di Carezza → Bolzano | לסיים את מקטע הדרך הקלאסי ולחנות פעם אחת. |
+| 12:45–14:00 | צהריים והפסקה קצרה ב־Bolzano | מקום עם חניה פשוטה; לא לקבע הזמנה הררית שתלחיץ את הנסיעה. |
+| 14:00–15:00 | Bolzano → Ortisei | המשך ישיר לבסיס המערבי. |
 | 15:00–18:00 | צ׳ק־אין והתארגנות ב־Ortisei | להכיר את תחנות הרכבל, לקנות אוכל ולבדוק הטבות תחבורה של מקום הלינה. |
 
-**Plan B:** אם הכבישים או מזג האוויר לא מתאימים, לבחור את המסלול הישיר והבטוח יותר בלי מעברי נוף.
+המסלול תואם את התיאור בכתבה: Cortina/Bolzano עם עצירות ב־[Passo Pordoi](https://www.italia.it/en/trentino/passo-pordoi) וב־Lago di Carezza. המקורות הרשמיים מתארים את [Bolzano–Cortina](https://cortinadampezzo.it/en/bolzano-cortina/) כדרך הגדולה של הדולומיטים; גם [Lagazuoi](https://lagazuoi.it/EN/Discover-History-page36-The-Great-Dolomites-Road) מתעד את החיבור ההיסטורי בין Bolzano, Val di Fassa, Livinallongo ו־Cortina.
+
+**Plan B:** אם הכבישים או מזג האוויר לא מתאימים, לבחור את המסלול הישיר והבטוח יותר בלי מעברי נוף. במקרה של עיכוב, מקצרים את העצירות — לא דוחים את הצ׳ק־אין ולא מוסיפים נסיעת לילה.
 
 > הערה שלי:
 
 ---
 
-## יום שישי, 18.9 — Seceda
+## יום שישי, 18.9 — Seceda ומצנח רחיפה
 
-**מטרת היום:** רכבל, רכס ותצפית אייקונית בגרסה קל־בינונית.
+**מטרת היום:** לשמור את תצפית הרכס וההליכה האייקונית, ואז לרדת מ־Seceda ל־Ortisei בטיסת טנדם במקום בירידה רגילה ברכבל.
 
 | שעה | תוכנית | פרטים |
 |---|---|---|
-| 08:30–12:20 | בוקר ב־Seceda | לעלות ברכבל הראשון המעשי, ללכת לאורך הרכס ולחזור מוקדם אם מתפתחת עננות. |
-| 12:30–13:45 | צהריים על/מתחת ל־Seceda | לבחור בקתה שפתוחה בפועל או לרדת לצהריים ב־Ortisei. |
-| 15:00–18:00 | אחר צהריים התאוששות | לא להוסיף עוגן הררי שני. |
+| 08:30–10:20 | רכבל והליכת רכס קומפקטית ב־Seceda | לעלות עם הפתיחה ולשמור 75–90 דקות הליכה נטו באזור התצפית האייקוני. חוזרים לנקודת ההמראה שסוכמה עד 10:20. |
+| 10:30–12:00 | GARDENAFLY — טנדם Seceda → Ortisei | שתי טיסות במקביל: כ־15–20 דקות באוויר וכ־1:30 שעות לכל החוויה. נחיתה ליד Annatal. חובה לאשר מראש שני טייסים ומפגש על ההר. |
+| 12:15–13:30 | צהריים ב־Annatal או Ortisei | ארוחה ליד אזור הנחיתה. אם הטיסה מתבטלת, ממשיכים את ההליכה המקורית עד 12:20 ויורדים ברכבל. |
+| 14:30–18:00 | אחר צהריים התאוששות | מנוחה אחרי ההליכה והטיסה. |
 
 **לשים לב:** פעילות 2026 שפורסמה היא 22.5–2.11. ב־18.9 המקטעים Ortisei–Furnes ו־Furnes–Seceda פועלים 08:30–17:30. רכבל הכיסאות Fermeda האופציונלי פועל רק עד 20.9, בשעות 09:30–16:30.
 
-**Plan B:** Ortisei ומוזיאון Val Gardena.
+**מחיר עבודה:** [GARDENAFLY](https://www.paragliding-flights-dolomites.com/summer) מפרסמת €190 לאדם לטיסת Seceda panoramic; לשניים €380. [צילום ווידאו](https://www.paragliding-flights-dolomites.com/foto-video) עולים €25 לאדם, ולכן המקסימום המתוכנן הוא €430 לזוג ועוד כרטיסי העלייה לרכבל. החבילה כוללת העברת החומר לטלפון לאחר הטיסה.
+
+**למה זו הבחירה הראשית:** 5.0/5 מתוך 856 ביקורות Google, מחיר ושעות מפורסמים, צוות גדול ונקודת נחיתה ב־Ortisei. [Fly 2 Dolomites](https://www.fly2.info/en/faq.asp) הוא גיבוי לוגיסטי מצוין באותו מחיר של €190, משום שהוא מציין במפורש שאפשר להיפגש על ההר בתיאום; [Tandem-Paragliding.com](https://www.tandem-paragliding.com/en) הוא גיבוי נוסף ב־€190 מ־Seceda או €150 מ־Alpe di Siusi.
+
+**Plan B:** אם Gardenafly אינה מאשרת שני טייסים ומפגש על ההר, עוברים ל־Fly2. אם אין תנאי טיסה ב־18.9, ממשיכים את יום Seceda המקורי ומעבירים את הטיסה לבוקר 24.9. אם גם אז אין תנאים — הטיסה מתבטלת, לא מנסים לטוס בניגוד להחלטת הטייס.
 
 > הערה שלי:
 
 ---
 
-## יום שבת, 19.9 — Alpe di Siusi
+## יום שבת, 19.9 — Alpe di Siusi ורכיבה על סוסים
 
-**מטרת היום:** אחו אלפיני רחב, הליכה קלה ונוף — יום רגוע יותר.
+**מטרת היום:** לשמור את יום האחו וההליכה הקלה, ולאחר הצהריים להוסיף רכיבה מודרכת של שעה במחיר נמוך יחסית.
 
 | שעה | תוכנית | פרטים |
 |---|---|---|
 | 08:30–12:20 | Alpe di Siusi מ־Ortisei | רכבל Mont Sëuc, הליכת אחו עם נקודת חזרה קלה וקצב תלוי מזג אוויר. |
 | 12:30–13:45 | צהריים על הרמה | לבחור בקתה אחת מראש ולהחזיק אוכל גיבוי. |
-| 15:00–18:00 | חזרה ומנוחה | לא להוסיף עוד מסלול. |
+| 14:45–15:15 | נסיעה ל־Maneggio Unterlanzin | Google Maps מציג כרגע 22 דקות ו־12.8 ק״מ; התוכנית שומרת חצי שעה כולל חניה. |
+| 15:15–15:30 | קסדה, התאמת סוס ותדריך | קסדה כלולה. מגבלת המשקל המפורסמת היא 90 ק״ג לרוכב. |
+| 15:30–16:30 | רכיבה מודרכת של שעה | מתאים למתחילים ולמנוסים; הספק מציין שאין דהירה מטעמי בטיחות וביטוח. |
+| 16:30–17:15 | חזרה ל־Ortisei ומנוחה | לא מוסיפים מסלול רגלי נוסף. |
 
 **לשים לב:** Mont Sëuc פועל עד 2.11.2026; ב־19.9 השעות שפורסמו הן 08:30–18:00. לבדוק סטטוס חי בערב שלפני.
 
-**Plan B:** Castelrotto או יום עיירה ב־Ortisei.
+**מחיר ובחירה:** [Unterlanzin](https://www.unterlanzin.it/en/program.asp) מפרסמת רכיבה של שעה למתחילים ולמנוסים; [מחירון 2026](https://www.unterlanzin.it/de/preise.asp) הוא €33 לאדם, כלומר €66 לזוג, כולל קסדה. זהו המחיר הטוב ביותר שמצאתי לחוויה מלאה של שעה.
+
+**חלופות:** Maneggio Ortisei קרובה יותר לבסיס ופתוחה לפי לשכת התיירות 08:00–19:00, אבל אינה מפרסמת מחיר לשעה; פעילות Val Gardena Active שלה היא רק 45 דקות על הסוס ועולה €60 במחיר רגיל. Pozzamanigoni מדורגת 4.8/5 אך מחיר עבודה עדכני דרך משווק הוא כ־€80 לאדם ל־1:30 שעות. לכן שתיהן נשמרו במפה כ־Plan B.
+
+**Plan B:** אם Unterlanzin אינה זמינה, בודקים קודם את Maneggio Ortisei ורק אחר כך את Pozzamanigoni. בגשם משמעותי שומרים את יום Alpe di Siusi/Ortisei לפי התנאים ומבטלים את הרכיבה החיצונית.
 
 > הערה שלי:
 
@@ -307,11 +328,11 @@
 |---|---|---|
 | 08:45–12:15 | Val di Funes ו־Santa Maddalena | הליכה נופית בכפר ונקודות צילום; לכבד שבילים ושטחים פרטיים. |
 | 12:30–13:45 | צהריים בעמק | לבחור מסעדה עם חניה פשוטה. |
-| 14:30–16:30 | לופ קל מ־Zannes | 🟡 רק אם הבוקר לא התארך והחניה הוזמנה. |
+| 14:15–17:30 | Passo delle Erbe — או Zannes | 🟡 ההמלצה אם הראות והכביש טובים: כ־42 דקות מ־Santa Maddalena, 30–50 דקות תצפית/הליכה קלה לכיוון אחו Sass de Putia, וכ־1:12 שעות חזרה ל־Ortisei. זה מחליף את לופ Zannes; לא עושים את שניהם. |
 
-**הזמנה נדרשת:** חניית Malga Zannes כאשר תאריכי 2026 ייפתחו.
+**חניה וגישה:** הטענה שהחניה ב־Passo delle Erbe חינם אחרי 14:00 מופיעה במקורות מטיילים עדכניים, אך לא מצאתי אותה בדף הרשמי. לבדוק את השילוט במקום. המקור הרשמי מזהיר ש־SP29 צרה ובחלקה חד־נתיבית ושמספר מקומות החניה מוגבל.
 
-**Plan B:** העיר העתיקה Chiusa.
+**Plan B:** לופ Zannes הקצר במקום Passo delle Erbe, או העיר העתיקה Chiusa. אם רוצים את מסלול Adolf Munkel/Geisleralm מהסרטון, הוא מחליף את כל יום הכפרים ודורש יציאה מוקדמת; לא דוחסים אותו אחר הצהריים.
 
 > הערה שלי:
 
@@ -339,7 +360,7 @@
 |---|---|---|
 | 09:00–12:15 | Passo Gardena | נסיעה נופית ועצירות צילום קצרות, רק בראות טובה. |
 | 12:30–13:45 | צהריים ב־Val Gardena | Selva או Santa Cristina, במקום עם חניה פשוטה. |
-| 14:30–16:30 | Vallunga | 🟡 הליכת התאוששות שטוחה רק אם יש כוח ומזג האוויר טוב. |
+| 14:30–16:30 | Vallunga | 🟢 שביל 14 מהכניסה לעמק לכיוון קפלת San Silvestro והאחו. המסלול הרשמי קל: 7.5 ק״מ, כשעתיים ו־201 מ׳ עלייה; אפשר להסתובב מוקדם לגרסה קצרה יותר. |
 
 **Plan B:** לוותר על המעבר ולעשות רק את Vallunga מ־Selva.
 
@@ -347,15 +368,25 @@
 
 ---
 
-## יום רביעי, 23.9 — בוקר גמיש אחרון בדולומיטים
+## יום רביעי, 23.9 — בוקר e-bike ב־Val Gardena
 
-**מטרת היום:** הזדמנות אחרונה לעוגן שהתפספס, בלי להעמיס לפני הנסיעה הארוכה.
+**מטרת היום:** טיול אופניים חשמליים יפה, לא טכני וזול יחסית, במשך 3–4 שעות — בלי להעמיס לפני הנסיעה הארוכה.
 
 | שעה | תוכנית | פרטים |
 |---|---|---|
-| 09:00–12:15 | בלוק גמיש | להשלים Plan A חשוב או לבלות בוקר רגוע ב־Ortisei. |
-| 12:30–13:45 | ארוחת פרידה | מסעדה נעימה עם הזמנה שניתן לבטל. |
+| 08:30–09:00 | איסוף והתאמה ב־On the Rocks | שתי electric hardtail, קסדות ומנעולים. לבקש מהחנות לאשר ולהטעין ל־GPS את המסלול הקל ביותר ל־Rodaval/Vallunga בהתאם למצב השבילים. |
+| 09:00–12:30 | Ortisei → Santa Cristina → Selva → Vallunga וחזרה | רכיבה עצמאית על התוואי הקל שהחנות אישרה; Vallunga היא יעד צילום/סיבוב, לא חובה להגיע לקצה. מסתובבים לפי הזמן, הסוללה והתנאים ונמנעים משבילי MTB טכניים. |
+| 12:30–13:00 | החזרת האופניים | לחזור בתוך חלון ארבע השעות. |
+| 13:00–14:15 | ארוחת פרידה | מסעדה נעימה וקרובה לחנות, עם הזמנה שניתן לבטל. |
 | 15:00–18:00 | אחר צהריים חופשי והתארגנות קלה | כביסה, קפה או מנוחה. אין צ׳ק־אאוט ב־24.9; את האריזה המלאה והכנת מסלול הבוקר עושים למחרת. |
+
+**עלות עבודה:** לפי המחירון הרשמי של [On the Rocks](https://www.onrocks.it/en/rental.asp), electric hardtail עולה €55 לארבע שעות; קסדה כ־€3. לשני אנשים: כ־€116 בסך הכול, לפני כל שינוי מחיר. החנות נמצאת ב־Strada Rezia 275/A, Ortisei, טלפון ‎+39 0471 1430500. טרם בוצעה הזמנה.
+
+**למה זה עדיף:** [MTB School Ortisei](https://www.mtbschool.it/en/prices.asp) מפרסמת €54 לארבע שעות ועוד €5 לקסדה, ו־[Sport Gardena](https://www.sportgardena.com/en/c/rental-price-e-bike-mountain-bike-road-bike/) מפרסמת €54 לחצי יום. On the Rocks יקרה באירו אחד בלבד מהאופניים הזולים שמצאתי, אך מתאימה בדיוק לחלון ארבע השעות, מרכזית ב־Ortisei ומציעה גם סיוע במסלול/הדרכה.
+
+**לא בחרתי ב־Sellaronda המלא:** [המסלול הרשמי](https://www.sellaronda-mtb.com/en/sellaronda-mtb-track-tour.php) הוא יום MTB שלם. הסיור המודרך שמופעל דרך On the Rocks מתואר ככ־8 שעות, 65 ק״מ וקושי 5/5, עם מדריך וכרטיסי רכבל בנוסף להשכרת האופניים — לא מתאים לבקשה של 3–4 שעות במחיר זול יחסית. את [Rodaval](https://www.valgardena.it/en/outdoor/base/outdoor/cycle-route-rodaval/805523070/) משתמשים כציר המקומי, ורק אחרי אישור החנות שהמקטע שנבחר מתאים לרמתכם ולתנאי אותו יום.
+
+**Plan B:** בגשם, בוץ או סגירת מקטעים מחזירים את הבוקר למתכונת הגמישה המקורית — השלמת עוגן קל שהתפספס או בוקר רגוע ב־Ortisei.
 
 > הערה שלי:
 
@@ -401,13 +432,53 @@
 
 # לינות
 
-המועמדים הישנים נבדקו ב־**20.07.2026**, אך ב־**25.07.2026** הם הוסרו
-מהרשימה הקצרה לאחר בדיקת היסטוריית Airbnb והעדפות המחיר. החיפוש הבא חייב
-לכלול Airbnb וגם Booking, ולהציג מחיר כולל לחדר ללילה בש״ח.
+החיפוש בוצע מחדש ב־**25.07.2026** עבור שני מבוגרים ובתאריכים המדויקים.
+בתוכנית יש שלושה עוגני לינה בפועל: Mestre שכבר מאושר, בסיס מזרחי ובסיס
+מערבי. ארבע רשימות Airbnb נוצרו כדי להפריד בין טבעות גאוגרפיות חלופיות;
+הן אינן מוסיפות מעבר מלון רביעי.
 
-כללי הסף החדשים: כ־250 ₪ ללינה פשוטה (עד 350 ₪), עד 550 ₪ ללינה רגילה,
-ועד 800 ₪ ללינת פינוק עם ג׳קוזי או ספא פעם–פעמיים בטיול. כשיש רכב נדרשת
-חניה מאומתת; בכל לינה נדרשים מגבות, מצעים, חדר רחצה פרטי ואימות ניקיון.
+כללי הסף: כ־250 ₪ ללינה פשוטה (עד 350 ₪), עד 550 ₪ ללינה רגילה, ועד
+800 ₪ ללינת פינוק עם ג׳קוזי או ספא פעם–פעמיים בטיול. בכל מועמד Airbnb
+שנשמר אומתו חניה, מגבות, מצעים, חדר רחצה פרטי, Wi‑Fi, חימום ודירוג
+ניקיון. המחירים הם המחירים הכוללים שהוצגו בזמן החיפוש; יש לרענן מחיר,
+מיסים וביטול לפני תשלום.
+
+**מדיניות ביטול מחייבת:** בגלל מלחמות, שיבושי טיסות וביטולים בלתי צפויים,
+מועמד רשאי להיכנס ל־shortlist רק אם התעריף שנבחר מאפשר ביטול בהחזר מלא
+עד 24 שעות לפני שעת הצ׳ק־אין המקומית. ההחזר חייב לכלול את כל סכומי הלינה
+ששולמו מראש, דמי ניקיון ודמי שירות, ולחזור לאמצעי התשלום המקורי. החזר חלקי,
+זיכוי עתידי, תנאים לא ידועים או מועד ביטול מוקדם יותר אינם מספיקים.
+
+### מצב ההמלצה לאחר החלת מדיניות הביטול
+
+אין כרגע מועמד פעיל שעבר את שער הביטול החדש. כל ההמלצות הקודמות הן
+זמניות בלבד עד אימות התעריף המדויק במסך ההזמנה:
+
+1. **מזרח — Auronzo נשאר מוביל ערך זמני:** המועמד
+   [Apartment Dolomiti - Facing the Ski Slopes](https://www.airbnb.com/rooms/1102821092308476479?adults=2&check_in=2026-09-11&check_out=2026-09-17).
+   היא עומדת במדיניות המחיר, קיבלה 5.0, ונותנת מיקום הגיוני ל־Misurina
+   ול־Tre Cime, אך תנאי הביטול שלה עדיין לא אומתו ולכן היא מחוץ ל־shortlist.
+2. **מערב — Laion נפסל:** המועמד
+   [Apartment for 4-5 guests centrally located with garage](https://www.airbnb.com/rooms/639850583348047428?adults=2&check_in=2026-09-17&check_out=2026-09-25)
+   מאפשר ביטול חינם רק עד 12.9 עבור צ׳ק־אין ב־17.9—חמישה ימים מראש במקום
+   יום אחד—ולכן הוסר מהרשימה הקצרה.
+3. **בדיקת ספק לפני החלטת המערב:** [Garni Cir](https://www.booking.com/hotel/it/garni-cir.html?aid=2438770&checkin=2026-09-17&checkout=2026-09-25&no_rooms=1&group_adults=2&selected_currency=ILS)
+   ב־Santa Cristina מבטיח יותר מבחינת מיקום ודירוג, במחיר שנמצא של
+   4,102.53 ₪. לפני שמעדיפים אותו על Laion צריך לאמת חדר מדויק, מחיר
+   סופי, מגבות, מצעים, חדר רחצה, ביטול מלא עד 24 שעות וצ׳ק־אאוט מוקדם.
+4. **Val di Fassa היא גיבוי מסלולי בלבד:** המחירים והדירוגים טובים, אך
+   בחירה שם מחייבת לבנות מחדש את ימי Seceda, Alpe di Siusi ו־Val di Funes.
+
+### רשימות Airbnb שנוצרו בחשבון
+
+| רשימה | תאריכים | מספר מקומות | שימוש |
+|---|---:|---:|---|
+| `Dolomites 2026 — Auronzo (11–17.9)` | 11–17.9 | 5 | Auronzo + חלופות Comelico ו־Brunico/Braies |
+| `Dolomites 2026 — Cadore (11–17.9)` | 11–17.9 | 5 | Pieve, Cibiana ו־Valle מרחיבים את טבעת הגיבוי |
+| `Dolomites 2026 — Val Gardena ring (17–25.9)` | 17–25.9 | 4 | Val Gardena + שתי חלופות Bressanone/Val di Funes |
+| `Dolomites 2026 — Val di Fassa (17–25.9)` | 17–25.9 | 6 | Fassa + חלופות Marmolada, Giau/Civetta ו־Bellunesi |
+
+לכל **20 המקומות** נשמרה הערת `Add note` בתוך Airbnb עם מחיר ללילה, יתרון מסלולי, חיסרון מרכזי ושער הביטול. ההערה האישית שכבר הייתה ב־Waldegg נשמרה והורחבה.
 
 ## Mestre בתחילת הטיול — מאושר
 
@@ -416,23 +487,59 @@
 | [a&o Venezia Mestre](https://maps.google.com/?cid=2559267828695871316) | 9–11.9, שני לילות | ✅ מאושר | שני מבוגרים; לבדוק נוהל הגעה מאוחרת. |
 | Campanile Venice Mestre | 9–11.9 | הוחלף | מועמד מחקר שנשמר לתיעוד בלבד. |
 
-## בסיס מזרחי — Cortina, שישה לילות
+## בסיס מזרחי — 11–17.9, שישה לילות
 
-| מועמד | מחיר שנמצא | דירוג | חניה | סטטוס והערה |
-|---|---:|---:|---|---|
-| [Chalet Stadio](https://www.booking.com/hotel/it/chalet-stadio.html?checkin=2026-09-11&checkout=2026-09-17&no_rooms=1&group_adults=2&selected_currency=EUR) | €1,529.82 | 8.8 / 227 ביקורות | כן | ⛔ הוסר מהרשימה הקצרה — המחיר אינו תואם את מדיניות התמורה החדשה. |
-| [Hotel Bellaria](https://www.booking.com/hotel/it/bellaria-cortina.html?checkin=2026-09-11&checkout=2026-09-17&no_rooms=1&group_adults=2&selected_currency=EUR) | €1,993.50 | 8.9 / 370 ביקורות | כן | ⛔ הוסר — יקר מדי ביחס לערך; נשמר לתיעוד בלבד. |
-| [Barisetti Sport Hotel](https://www.booking.com/hotel/it/barisetti-sport.html?checkin=2026-09-11&checkout=2026-09-17&no_rooms=1&group_adults=2&selected_currency=EUR) | €2,345 | 8.9 / 459 ביקורות | כן | ⛔ הוסר — יקר מדי ביחס לערך; נשמר לתיעוד בלבד. |
+### רשימת Auronzo — ההמלצה
 
-## בסיס מערבי — Ortisei, שמונה לילות
+| מועמד | מחיר כולל / ללילה | דירוג | ניקיון | החלטה |
+|---|---:|---:|---:|---|
+| [Apartment Dolomiti - Facing the Ski Slopes](https://www.airbnb.com/rooms/1102821092308476479?adults=2&check_in=2026-09-11&check_out=2026-09-17) | 2,774 ₪ / 462.33 ₪ | 5.0 / 6 | 5.0 | 🟠 מוביל ערך זמני; מחוץ ל־shortlist עד אימות החזר מלא עד 24 שעות. |
+| [Dolomites Unesco Tre Cime di Lavaredo Auronzo -S](https://www.airbnb.com/rooms/1325405928254987008?adults=2&check_in=2026-09-11&check_out=2026-09-17) | 2,640 ₪ / 440 ₪ | 4.93 / 15 | 4.9 | 🟠 מחוץ ל־shortlist עד אימות החזר מלא עד 24 שעות. |
+| [Gigio Auronzo Apartment](https://www.airbnb.com/rooms/1096273655979015956?adults=2&check_in=2026-09-11&check_out=2026-09-17) | 3,180 ₪ / 530 ₪ | 4.89 / 28 | 4.9 | 🟠 מחוץ ל־shortlist עד אימות החזר מלא עד 24 שעות. |
+| [View-of-Plan-de-Corones — Brunico](https://www.airbnb.com/rooms/902892160346728925?adults=2&check_in=2026-09-11&check_out=2026-09-17) | 2,912 ₪ / 485.33 ₪ | 5.0 / 40 | 5.0 | 🟠 נוף וקרבה ל־Braies/Kronplatz; ביטול עד 10.9 מופיע, אך היקף ההחזר והעמלות דורשים אימות במסך התשלום. |
+| [Ceda ai Tabiés — Dosoledo/Comelico](https://www.airbnb.com/rooms/605727397229698440?adults=2&check_in=2026-09-11&check_out=2026-09-17) | 2,427 ₪ / 404.50 ₪ | 4.93 / 41 | 5.0 | ⛔ זול ושקט, אבל רחוק יותר וללא Wi‑Fi; ביטול מלא רק עד 12.8 ולכן נפסל לפי המדיניות. |
 
-השהייה עודכנה ל־**17–25.9** כדי שהלילה האחרון יישאר באזור הטיולים. המחירים הקודמים היו לשבעה לילות בלבד ולכן אינם תקפים לתאריכים החדשים; צריך לבצע בדיקת מחיר וזמינות חדשה לפני הזמנה.
+### רשימת Cadore — גיבוי ערך
 
-| מועמד | מחיר ל־8 לילות | דירוג | חניה | סטטוס והערה |
-|---|---:|---:|---|---|
-| [Garni Kostner](https://www.booking.com/hotel/it/garni-kostner.html?checkin=2026-09-17&checkout=2026-09-25&no_rooms=1&group_adults=2&selected_currency=EUR) | לא פעיל | 9.1 / 80 ביקורות | כן | ⛔ הוסר מהרשימה הקצרה; נדרש חיפוש ערך חדש ל־8 לילות. |
-| [B&B Hotel Mirabel](https://www.booking.com/hotel/it/garni-mirabel.html?checkin=2026-09-17&checkout=2026-09-25&no_rooms=1&group_adults=2&selected_currency=EUR) | לא פעיל | 9.7 / 489 ביקורות | כן | ⛔ הוסר — דירוג גבוה לבדו אינו מצדיק מחיר לא משתלם. |
-| [Hotel Genziana](https://www.booking.com/hotel/it/genziana-ortisei.html?checkin=2026-09-17&checkout=2026-09-25&no_rooms=1&group_adults=2&selected_currency=EUR) | לא פעיל | 9.0 / 153 ביקורות | כן | ⛔ הוסר — מיקום מרכזי לבדו אינו מצדיק מחיר לא משתלם. |
+| מועמד | מחיר כולל / ללילה | דירוג | ניקיון | החלטה |
+|---|---:|---:|---:|---|
+| [Casa Heidi](https://www.airbnb.com/rooms/43697574?adults=2&check_in=2026-09-11&check_out=2026-09-17) | 3,100 ₪ / 516.67 ₪ | 4.92 / 85 | 5.0 | 🟠 מחוץ ל־shortlist עד אימות החזר מלא עד 24 שעות. |
+| [Casa Sagui located in heart of Dolomites](https://www.airbnb.com/rooms/18444397?adults=2&check_in=2026-09-11&check_out=2026-09-17) | 2,213 ₪ / 368.83 ₪ | 4.86 / 83 | 5.0 | 🟠 המחיר הטוב במזרח, אך מחוץ ל־shortlist עד אימות ביטול. |
+| [Ciasa Maria — Cibiana](https://www.airbnb.com/rooms/26914153?adults=2&check_in=2026-09-11&check_out=2026-09-17) | 2,346 ₪ / 391 ₪ | 4.87 / 84 | 4.7 | 🟠 חלופה זולה ונופית בציר הדרומי; חסר אימות חניה וביטול. |
+| [Apartment 2 Sottocastello — Pieve di Cadore](https://www.airbnb.com/rooms/1213902174942102609?adults=2&check_in=2026-09-11&check_out=2026-09-17) | 2,509 ₪ / 418.17 ₪ | 4.94 / 68 | 5.0 | 🟠 נקי ובעל הרבה ביקורות, טוב לאגם ולציר החזרה; חסר אימות חניה וביטול. |
+| [Rite — Valle di Cadore](https://www.airbnb.com/rooms/1576884669172098996?adults=2&check_in=2026-09-11&check_out=2026-09-17) | 2,799 ₪ / 466.50 ₪ | 5.0 / 14 | 5.0 | ⛔ נוף, חניה ושביל אופניים; ביטול מלא רק עד 12.8 ולכן נפסל לפי המדיניות. |
+
+### בדיקת Booking למזרח
+
+| מועמד | מחיר כולל / ללילה | דירוג | סטטוס |
+|---|---:|---:|---|
+| [The Post Mountain Residence](https://www.booking.com/hotel/it/the-post-mountain-residence.html?aid=2438770&checkin=2026-09-11&checkout=2026-09-17&no_rooms=1&group_adults=2&selected_currency=ILS) | 3,242.67 ₪ / 540.45 ₪ | 9.1 / 115 | 🟠 חסר אימות מלא, כולל החזר מלא עד 24 שעות לפני הצ׳ק־אין. |
+
+## בסיס מערבי — 17–25.9, שמונה לילות
+
+### רשימת טבעת Val Gardena — ההמלצה למסלול הקיים
+
+| מועמד | מחיר כולל / ללילה | דירוג | ניקיון | החלטה |
+|---|---:|---:|---:|---|
+| [Apartment for 4-5 guests centrally located with garage](https://www.airbnb.com/rooms/639850583348047428?adults=2&check_in=2026-09-17&check_out=2026-09-25) | 4,205 ₪ / 525.63 ₪ | 4.84 / 25 | 4.9 | ⛔ נפסל: ביטול חינם רק עד 12.9, חמישה ימים לפני הצ׳ק־אין. |
+| [Apt. Nandl incl MobilCard free \| Waldegg](https://www.airbnb.com/rooms/744913701506196483?adults=2&check_in=2026-09-17&check_out=2026-09-25) | כ־3,647 ₪ / 455.88 ₪ | 5.0 / 33 | 5.0 | 🟠 מועמד ערך זמני; מחוץ ל־shortlist עד אימות החזר מלא עד 24 שעות. |
+| [First floor apartment in city villa — Bressanone](https://www.airbnb.com/rooms/29448640?adults=2&check_in=2026-09-17&check_out=2026-09-25) | 2,985 ₪ / 373.13 ₪ | 4.75 / 149 | 4.8 | 🟠 הזולה ברשימה וטובה ל־Bressanone/Val di Funes; רחוקה יותר מ־Ortisei, והיקף ההחזר דורש אימות. |
+| [BrixenRiversideLiving](https://www.airbnb.com/rooms/44318604?adults=2&check_in=2026-09-17&check_out=2026-09-25) | 4,028 ₪ / 503.50 ₪ | 4.88 / 152 | 4.8 | ⛔ איכות מוכחת ומיקום טוב ל־Funes, אך ביטול מלא רק עד 18.8 ולכן נפסל לפי המדיניות. |
+
+| בדיקת ספק | מחיר כולל / ללילה | דירוג | סטטוס |
+|---|---:|---:|---|
+| [Garni Cir](https://www.booking.com/hotel/it/garni-cir.html?aid=2438770&checkin=2026-09-17&checkout=2026-09-25&no_rooms=1&group_adults=2&selected_currency=ILS) | 4,102.53 ₪ / 512.82 ₪ | 9.2 / 202 | 🟠 דורש שער אימות מלא, כולל החזר מלא עד 24 שעות וצ׳ק־אאוט סביב 05:00. |
+
+### רשימת Val di Fassa — גיבוי שמחייב בניית מסלול מחדש
+
+| מועמד | מחיר כולל / ללילה | דירוג | ניקיון | החלטה |
+|---|---:|---:|---:|---|
+| [Balcony overlooking the stars](https://www.airbnb.com/rooms/1261562273828946855?adults=2&check_in=2026-09-17&check_out=2026-09-25) | 3,084 ₪ / 385.50 ₪ | 4.93 / 14 | 4.9 | 🟠 גיבוי מסלולי שממתין גם לאימות ביטול מלא עד 24 שעות. |
+| [Dolomites ValdiFassa Ciasa Dona](https://www.airbnb.com/rooms/14754566?adults=2&check_in=2026-09-17&check_out=2026-09-25) | 3,102 ₪ / 387.75 ₪ | 4.78 / 69 | 4.8 | 🟠 גיבוי מסלולי שממתין גם לאימות ביטול מלא עד 24 שעות. |
+| [Mariagrazia Apartment](https://www.airbnb.com/rooms/44058189?adults=2&check_in=2026-09-17&check_out=2026-09-25) | 2,621 ₪ / 327.63 ₪ | 4.83 / 12 | 4.9 | 🟠 גיבוי מסלולי שממתין גם לאימות ביטול מלא עד 24 שעות. |
+| [Apartments Dolomites 1 — Pralongo](https://www.airbnb.com/rooms/38818464?adults=2&check_in=2026-09-17&check_out=2026-09-25) | 2,085 ₪ / 260.63 ₪ | 4.84 / 43 | 4.8 | 🟠 הזולה ביותר, חניה ושקט; רחוקה מ־Canazei/Sella וללא Wi‑Fi. הביטול מופיע עד 16.9, אך היקף ההחזר דורש אימות. |
+| [Apartment in the Dolomites — Rocca Pietore](https://www.airbnb.com/rooms/7157943?adults=2&check_in=2026-09-17&check_out=2026-09-25) | 3,802 ₪ / 475.25 ₪ | 4.84 / 255 | 4.9 | ⛔ מצוינת ל־Marmolada/Fedaia ובעלת 255 ביקורות; ביטול מלא רק עד 18.8 ולכן נפסלה. |
+| [Dolomia in the Heart of Dolomites — Colle Santa Lucia](https://www.airbnb.com/rooms/762354407421613333?adults=2&check_in=2026-09-17&check_out=2026-09-25) | 3,972 ₪ / 496.50 ₪ | 4.85 / 59 | 4.9 | 🟠 נוף וגישה טובה ל־Giau/Civetta/Cortina; רחוקה מליבת Fassa. הביטול מופיע עד 16.9, אך היקף ההחזר דורש אימות. |
 
 ## Mestre בלילה האחרון — בוטל מהמסלול
 
@@ -442,17 +549,40 @@
 
 ### החלטות לינה נדרשות
 
-- [ ] לבצע חיפוש חדש ב־Airbnb וב־Booking לבסיס מזרחי ל־11–17.9 לפי תקרת המחיר והחניה.
-- [ ] לבצע חיפוש חדש ב־Airbnb וב־Booking לבסיס מערבי ל־17–25.9 לפי תקרת המחיר והחניה.
-- [ ] לשלב לינת פינוק אחת או שתיים בלבד, עם ג׳קוזי/ספא במחיר כולל עד 800 ₪ ללילה.
+- [x] לבצע חיפוש חדש ב־Airbnb וב־Booking לבסיס מזרחי ל־11–17.9 לפי תקרת המחיר והחניה.
+- [x] לבצע חיפוש חדש ב־Airbnb וב־Booking לבסיס מערבי ל־17–25.9 לפי תקרת המחיר והחניה.
+- [x] ליצור ארבע רשימות Airbnb לפי טבעות הלינה ולשמור 20 אפשרויות מחקר.
+- [x] להוסיף `Add note` לכל 20 הכרטיסים עם מחיר, התאמה למסלול, יתרון/חיסרון ושער ביטול.
+- [ ] לאמת לכל מועמד את מועד הביטול המדויק, אזור הזמן, היקף ההחזר ואמצעי ההחזר.
+- [ ] לבחור בסיס מזרחי רק מבין מועמדים שעברו החזר מלא עד 24 שעות.
+- [ ] למצוא בסיס מערבי חלופי ל־Laion או לאמת מועמד אחר שעומד בתנאי הביטול.
+- [ ] לינת פינוק אינה נדרשת במסלול הנוכחי; אם מוסיפים אחת, לשמור על תקרה כוללת של 800 ₪ ללילה.
 - [ ] לוודא שהלינה מאפשרת צ׳ק־אאוט מוקדם מאוד ב־25.9.
-- [ ] לבדוק מחיר כולל, מיסים, ביטול, חניה, מגבות, מצעים, חדר רחצה וסוג הספא לפני כל תשלום.
+- [ ] לבדוק שוב במסך התשלום החזר מלא עד 24 שעות, מחיר כולל, מיסים, חניה, מגבות, מצעים, חדר רחצה וסוג הספא.
 
 ---
 
 # מקומות בתוכנית ובמפה
 
-ב־Google Maps קיימת רשימה פרטית בשם **„דולומיטים 2026 — Plan A”** עם הערות תפעוליות למקומות הרלוונטיים. חברת ההשכרה ונקודת האיסוף זוהו כ־Target Rent; חנות המסכות עדיין אינה מקום סופי. Snow Service, Piè Tofana ו־Rifugio Duca d’Aosta נוספו לתוכנית המקומית עם קישורי חיפוש מדויקים, אך לא בוצעה כתיבה חדשה לרשימת Google Maps.
+ב־Google Maps קיימת רשימה פרטית בשם **„דולומיטים 2026 — Plan A”** עם הערות תפעוליות למקומות הרלוונטיים. חברת ההשכרה ונקודת האיסוף זוהו כ־Target Rent. שלוש חנויות המסכות שנבחרו נשמרו ברשימה עם הערות עדיפות: La Bauta כ־Plan A, ו־Ca’ Macana Original ו־Kartaruga כגיבויי Plan B. Snow Service, Piè Tofana ו־Rifugio Duca d’Aosta קיימים בתוכנית המקומית עם קישורי חיפוש מדויקים.
+
+במעבר על [כתבת Cat’s Nine Lives](https://www.catsninelives.com/best-things-to-do-in-the-dolomites/) נמצא שרוב עוגני הטבע המרכזיים כבר היו בתוכנית: Tre Cime, Braies, Cinque Torri/Averau, Passo Giau, Lagazuoi, Seceda, Alpe di Siusi, Val di Funes ו־Passo Gardena; Sorapis כבר נשמר כ־Conditional. נוספו למפה 12 מקומות רלוונטיים:
+
+- **Plan A:** Lago di Carezza, Passo Pordoi, Bolzano, On the Rocks ו־Vallunga.
+- **Plan B / Map only:** Pasticceria Alverà, Fermeda-Hütte ו־MMM Corones.
+- **Plan A פעילויות:** GARDENAFLY ו־Maneggio Unterlanzin.
+- **Map only יקר:** SanBrite ו־Ristorante Tivoli — נשמרו כרעיונות, אך אינם חלק מברירת המחדל החסכונית.
+
+בנוסף נשמרו ארבע חלופות ספקים חדשות עם הערות השוואה: Fly 2 Dolomites ו־Tandem-Paragliding.com למצנח; Maneggio Ortisei ו־Pozzamanigoni לרכיבה.
+
+בבדיקת שני סרטוני TikTok וברשימת המקומות הנוספת של המשתמש, Vallunga ו־Passo Gardena כבר היו שמורים. נוספו בפועל לרשימת **„דולומיטים 2026 — Plan A”** עשרה מקומות עם הערת עדיפות:
+
+- **Plan A / משולב:** Lago di Landro.
+- **Plan B / Conditional:** Val Fiscalina, Cadini di Misurina viewpoint, Prato Piazza, Passo delle Erbe ו־Belvedere di Canazei.
+- **חלופת יום דרומית מהסרטונים:** Passo Rolle, Val Venegia ו־Baita Segantini.
+- **Map only:** Lago Welsperg — רק אם נבחר יום Passo Rolle.
+
+יתר המקומות בסרטונים — Lago di Tovel, Lago Nambino, Saent, Ragaiolo, San Giuliano, Lago Garzonè, San Romedio, Valle di San Lucano, Lago di Anterselva ו־Lago delle Stellune — נשארו מחוץ לרשימת Plan A: הם יפים, אך אינם משתלבים גאוגרפית במסלול East-first בלי להוסיף יום נפרד או שעות נסיעה רבות.
 
 ## ונציה ולוגיסטיקה
 
@@ -464,7 +594,9 @@
 | A | [Piazza San Marco](https://www.google.com/maps/search/Piazza%20San%20Marco%20Venice) | להגיע לפני 09:00 כדי להפחית עומס. |
 | A | [Rialto Bridge](https://www.google.com/maps/search/Rialto%20Bridge%20Venice) | להגיע לפני 09:00; אחר כך צפוף מאוד. |
 | B | [Murano Faro](https://www.google.com/maps/search/Murano%20Faro%20Venice) | לבדוק זמני ואפורטו חזרה; לדלג אם היום מתארך. |
-| B | חנות מסכות זולה | 🟠 צריך לזהות חנות מדויקת; לא לבחור סדנת אומן יקרה כברירת מחדל. |
+| A | [La Bauta](https://www.google.com/maps/place/La+Bauta/@45.4359844,12.3273012,17z/data=!3m1!4b1!4m6!3m5!1s0x477eb1c5cb01003b:0xb3f00e3ca4c90999!8m2!3d45.4359844!4d12.3273012!16s%2Fg%2F11c60kg_lk) | ההמלצה הראשית לקנייה: 4.8/5 מתוך 334 ביקורות; מסכות נייר בעבודת יד, עם דגמים פשוטים סביב €15–€25 לפי הקטלוג הרשמי. |
+| B | [Ca’ Macana Original](https://www.google.com/maps/place/Ca'+Macana+Original/@45.433924,12.3255665,17z/data=!3m1!4b1!4m6!3m5!1s0x477eb1cee60d89f1:0x1de820c5de535d05!8m2!3d45.433924!4d12.3255665!16s%2Fg%2F1tf306y7) | גיבוי חזק בדורסודורו: 4.7/5 מתוך 913 ביקורות; ייצור ידני בוונציה ומבחר רחב. |
+| B | [Kartaruga Atelier](https://www.google.com/maps/place/Kartaruga/@45.43643,12.339494,17z/data=!4m6!3m5!1s0x477eb1d76e3a8a71:0x68e1105947b0ee60!8m2!3d45.43643!4d12.339494!16s%2Fg%2F1tcw2fwt) | גיבוי ליד San Marco/Castello: 4.7/5 מתוך 124 ביקורות; עבודת יד ודגמי חיות ייחודיים. האתר הרשמי היה בתחזוקה בעת הבדיקה. |
 | A | [Target Rent — Venice Airport](https://maps.app.goo.gl/UiD6XeqskFK6cjYS7) | Via Orlanda 216; סניף מחוץ לטרמינל. שאטל חינמי מ־P5 לאיסוף ב־11.9 ושאטל חזרה ל־VCE אחרי ההחזרה ב־25.9. |
 | A | [Designer Outlet Noventa di Piave](https://www.google.com/maps/place/Designer+Outlet+Noventa+di+Piave/@45.6714459,12.5354406,17z) | 11.9 אחרי איסוף הרכב; צהריים, קניות וערב עד הסגירה ב־20:00. |
 
@@ -473,6 +605,9 @@
 | עדיפות | מקום | תפקיד / הערה קצרה |
 |---|---|---|
 | A | [Cortina d’Ampezzo](https://www.google.com/maps/search/Cortina%20d'Ampezzo) | בסיס מזרחי; לבדוק תחזית ורכבלים בכל ערב. |
+| B | [Pasticceria Panificio Alverà](https://www.google.com/maps/place/Pasticceria+Panificio+Alver%C3%A0/@46.5397484,12.1346734,17z) | מאפייה/קונדיטוריה מהכתבה; נשמרה במפה לעצירה גמישה בקורטינה. |
+| C | [SanBrite](https://www.google.com/maps/search/?api=1&query=SanBrite%20Cortina%20d%27Ampezzo) | מסעדת שף מהכתבה; Map only ולא ברירת מחדל תקציבית. |
+| C | [Ristorante Tivoli Cortina](https://www.google.com/maps/place/Ristorante+Tivoli+Cortina/@46.5335809,12.1216331,17z) | מסעדת שף נוספת מהכתבה; Map only ולא משובצת לארוחה. |
 | A | [Snow Service Cortina](https://www.google.com/maps/search/Snow%20Service%20Cortina%20Via%20Marconi%2012%2FC) | התאמת ציוד עם הפתיחה ב־08:30 ב־12.9; להזמין שתי מידות מראש ולאשר תנאי ביטול/גיבוי. |
 | A | [Piè Tofana–Duca d’Aosta](https://www.google.com/maps/search/Pi%C3%A8%20Tofana%20Duca%20d%27Aosta%20chairlift) | גישה ל־Ra Bujela; פועל עד 13.9 בלבד, 08:30–17:00. |
 | A | [Rifugio Duca d’Aosta](https://www.google.com/maps/search/Rifugio%20Duca%20d%27Aosta%20Cortina) | התחלה/סיום וצהריים ל־Ra Bujela; לבדוק שירות מטבח. |
@@ -480,6 +615,10 @@
 | A | [Rifugio Auronzo / Tre Cime parking](https://www.google.com/maps/search/Rifugio%20Auronzo%20parking%20Tre%20Cime) | חניה €40 ל־12 שעות ובהזמנה אונליין. |
 | A | [Tre Cime di Lavaredo](https://www.google.com/maps/search/Tre%20Cime%20di%20Lavaredo) | להגיע 07:30–08:00; 10 ק״מ, 4–5 שעות; להביא אוכל. |
 | B | [Lago di Misurina](https://www.google.com/maps/search/Lago%20di%20Misurina) | עצירת התאוששות בלבד אחרי Tre Cime. |
+| A | [Lago di Landro](https://www.google.com/maps/search/?api=1&query=Lago%20di%20Landro) | עצירת צילום של 15–30 דקות ב־15.9 על ציר Braies–Cortina. |
+| B | [Val Fiscalina](https://www.google.com/maps/search/?api=1&query=Val%20Fiscalina) | חלופת חצי יום קלה; לא אחרי Tre Cime או Braies מלאים. |
+| Conditional | [Cadini di Misurina viewpoint](https://www.google.com/maps/search/?api=1&query=Cadini%20di%20Misurina%20viewpoint) | רק יבש, רוח חלשה ונוחות בחשיפה; תחליף ולא תוספת ללופ Tre Cime. |
+| B | [Prato Piazza](https://www.google.com/maps/search/?api=1&query=Prato%20Piazza%20Pl%C3%A4tzwiese) | חלופת חצי יום רגועה; גישה בתשלום ובהגבלת תנועה בעונת 2026. |
 | B | [Lago Pianozes](https://www.google.com/maps/search/Lago%20Pianozes%20Cortina) | עצירת אגם קצרה ללא עלייה אחרי Ra Bujela; לא לבצע את הלופ הארוך. |
 | A | [P1 Lago di Braies](https://www.google.com/maps/search/P1%20Lago%20di%20Braies%20parking) | חניה מוגבלת ובהזמנה; לא להגיע בלי אישור. |
 | A | [La Palafitta — Braies](https://www.google.com/maps/search/La%20Palafitta%20Lago%20di%20Braies) | להגיע מוקדם; סירות מ־09:00 והתורים גדלים מהר. |
@@ -487,17 +626,36 @@
 | B | [Rifugio Averau](https://www.google.com/maps/search/Rifugio%20Averau) | להזמין שולחן או להביא נשנוש גיבוי. |
 | A | [Passo Giau](https://www.google.com/maps/search/Passo%20Giau) | עצירת תצפית קצרה; לא להוסיף טרק נוסף. |
 | B | [Funivia Lagazuoi](https://www.google.com/maps/search/Funivia%20Lagazuoi) | רכבל ראשון 09:00; להביא שכבה חמה ולבדוק רוח. |
+| B | [Messner Mountain Museum Corones](https://www.google.com/maps/place/Messner+Mountain+Museum+Corones/@46.7374234,11.9546676,17z) | Plan B ליום מזג אוויר חלקי; לבדוק גישה ורכבלים לפני היציאה. |
 
 ## מערב הדולומיטים והחזרה
 
 | עדיפות | מקום | תפקיד / הערה קצרה |
 |---|---|---|
 | A | [Ortisei](https://www.google.com/maps/search/Ortisei) | בסיס מערבי; לבחור לינה עם חניה וגישה לרכבלים. |
+| A | [Passo Pordoi](https://www.google.com/maps/place/Passo+Pordoi/@46.4888128,11.8117568,15z) | עצירת הבוקר הראשונה בדרך הגדולה של הדולומיטים ב־17.9. |
+| A | [Lago di Carezza](https://www.google.com/maps/place/Lago+di+Carezza/@46.4092273,11.5750645,17z) | עצירת אגם קצרה בדרך הגדולה של הדולומיטים ב־17.9. |
+| B | [Bolzano](https://www.google.com/maps/place/Bolzano/@46.4949259,11.3402543,13z) | סוף המקטע הקלאסי, צהריים, ואז המשך ל־Ortisei. |
+| A | [On the Rocks](https://www.google.com/maps/place/On+the+Rocks+Bike+Rental,+Shop,+Service+%26+Guiding/@46.5719275,11.6775441,17z) | Plan A להשכרת שתי electric hardtail לארבע שעות ב־23.9. |
+| A | [Vallunga](https://www.google.com/maps/place/Vallunga/@46.5646978,11.7775044,17z) | הליכה קלה רשמית של כשעתיים ב־22.9 וגם יעד הסיבוב הנופי של רכיבת ה־e-bike ב־23.9. |
 | A | [Seceda cable car](https://www.google.com/maps/search/Seceda%20cable%20car%20Ortisei) | רכבל ראשון 08:30; לחזור אם עננות מתפתחת. |
+| B | [Fermeda-Hütte](https://www.google.com/maps/place/Fermeda-H%C3%BCtte/@46.5910859,11.7368404,17z) | אפשרות בקתה ביום Seceda; לבדוק פתיחה ולא לשנות את המסלול רק בשבילה. |
 | A | [Mont Sëuc / Alpe di Siusi](https://www.google.com/maps/search/Ortisei%20Alpe%20di%20Siusi%20cable%20car%20Mont%20Seuc) | לעלות מוקדם ולבדוק שעות ביום הקודם. |
+| A | [Maneggio Unterlanzin](https://www.google.com/maps/place/Maneggio+Unterlanzin/@46.557003,11.5517492,17z) | Plan A ל־19.9: שעה מודרכת ב־15:30, €33 לאדם וקסדה כלולה. |
+| B | [Maneggio Ortisei](https://www.google.com/maps/search/?api=1&query=Maneggio%20Ortisei%20Strada%20Passua%205) | הגיבוי הקרוב ביותר לבסיס; טיולי טבע ושעות 08:00–19:00, אך מחיר שעה אינו מפורסם. |
+| B | [Pozzamanigoni](https://www.google.com/maps/search/?api=1&query=Scuola%20d%27equitazione%20Pozzamanigoni%20Selva%20Val%20Gardena) | גיבוי נופי ב־Selva, אך יקר יותר: מחיר עבודה כ־€80 לאדם ל־1:30 שעות. |
 | A | [Santa Maddalena](https://www.google.com/maps/search/Santa%20Maddalena%20Val%20di%20Funes) | להגיע מוקדם לצילום ולשמור על שבילים פרטיים. |
 | B | [Malga Zannes P1](https://www.google.com/maps/search/Parcheggio%20Zannes%20Val%20di%20Funes) | להזמין חניה ל־2026 לפני היציאה. |
-| B | [Passo Gardena](https://www.google.com/maps/search/Passo%20Gardena) | לנסוע רק בראות טובה; בלי טרק גדול נוסף. |
+| B / Conditional | [Passo delle Erbe](https://www.google.com/maps/search/?api=1&query=Passo%20delle%20Erbe) | הארכה קלה אחרי Funes במקום Zannes; לאמת שילוט חניה וגישה בפועל. |
+| B / Conditional | [Belvedere di Canazei](https://www.google.com/maps/search/?api=1&query=Belvedere%20di%20Canazei) | רכבל של 2–3 שעות; רק כתחליף לעצירת מעבר אחרת. |
+| A | [Passo Gardena](https://www.google.com/maps/search/Passo%20Gardena) | לנסוע רק בראות טובה; בלי טרק גדול נוסף. |
+| C / Conditional | [Passo Rolle](https://www.google.com/maps/search/?api=1&query=Passo%20Rolle) | חלופת יום דרומית נפרדת; כ־1:56 שעות לכל כיוון מ־Ortisei. |
+| C / Conditional | [Val Venegia](https://www.google.com/maps/search/?api=1&query=Val%20Venegia) | מסלול יפה מהסרטון, רק במסגרת יום Passo Rolle ייעודי. |
+| C / Conditional | [Baita Segantini](https://www.google.com/maps/search/?api=1&query=Baita%20Segantini) | 40–60 דקות הליכה לכל כיוון מ־Passo Rolle; לא לשלב עם יום עמוס אחר. |
+| C | [Lago Welsperg](https://www.google.com/maps/search/?api=1&query=Lago%20Welsperg%20Primiero) | Map only; עצירת צילום רק אם נבחר יום Passo Rolle/Val Venegia. |
+| A | [GARDENAFLY](https://www.google.com/maps/place/GARDENAFLY+-+Paragliding+Tandemflights+in+the+Dolomites/@46.5746364,11.6804252,17z) | Plan A ל־18.9: Seceda→Ortisei, €190 לאדם; צילום/וידאו €25. |
+| B | [Fly 2 Dolomites](https://www.google.com/maps/place/Fly+2+Dolomites+-+Tandem+Flights/data=!4m7!3m6!1s0x47781533bba96d37:0x4a139552292c35cb!8m2!3d46.5763334!4d11.6751388!16s%2Fg%2F11f6543794) | גיבוי ראשון למצנח: €190 מ־Seceda ומפגש על ההר אפשרי בתיאום. |
+| B | [Tandem-Paragliding.com](https://www.google.com/maps/place/Tandem-Paragliding.com/data=!4m7!3m6!1s0x47780d5ea8476fef:0x8b5a471b53e1ae7b!8m2!3d46.5651495!4d11.5608254!16s%2Fg%2F11w_fnmc5x) | גיבוי מאזור Castelrotto: €190 מ־Seceda או €150 מ־Alpe di Siusi. |
 | C | [Conegliano](https://www.google.com/maps/search/Conegliano%20historic%20centre) | נשאר במפה בלבד; אינו חלק ממסלול החזרה ואינו מחליף את עצירת האגם. |
 
 ---
@@ -512,6 +670,9 @@
 - [ ] חניית Tre Cime / Rifugio Auronzo ל־14.9.
 - [ ] חניית Lago di Braies ל־15.9.
 - [ ] חניית Malga Zannes אם עושים את הלופ.
+- [ ] GARDENAFLY: לבקש שתי טיסות Seceda panoramic במקביל ל־18.9 סביב 10:30, מפגש על ההר, תנאי דחייה ל־24.9, מחיר סופי, עלות צילום/וידאו והאם נדרש כרטיס רכבל מסוים.
+- [ ] Unterlanzin: להזמין שני מקומות לרכיבה של שעה ב־19.9 בשעה 15:30, לאשר קסדות, מגבלת משקל, ביטול מזג־אוויר והגעה 15 דקות מראש.
+- [ ] On the Rocks: לשמור שתי electric hardtail לארבע שעות ב־23.9, לאשר קסדות, ביטול במקרה מזג אוויר, מסלול Rodaval/Vallunga קל והחזרה עד 13:00.
 - [ ] Target Rent: לבדוק בשובר את שעת ההחזרה 09:00, תנאי הדלק, הוראות הסניף והשאטל מ־P5/אל VCE.
 - [ ] לוודא שירות צהריים ב־Rifugio Duca d’Aosta או להכין אוכל ארוז.
 - [ ] בסיס מזרחי ובסיס מערבי עד 25.9, כולל אפשרות לצ׳ק־אאוט מוקדם מאוד ביום הטיסה.
@@ -565,11 +726,11 @@
 
 # מצב פרסום וסנכרון
 
-- Google Maps: ✅ רשימה פרטית קיימת עם 24 מקומות והערות קצרות.
+- Google Maps: ✅ רשימה פרטית קיימת עם 29 מקומות; שלוש חנויות המסכות נשמרו עם הערות עדיפות.
 - תוכנית מקומית: ✅ 17 מתוך 17 ימים מתוכננים וללא שגיאות ולידציה.
-- Google Calendar: 🟠 קיימת תצוגה מקדימה מעודכנת של 69 אירועים; טרם פורסמה.
+- Google Calendar: 🟠 קיימת תצוגה מקדימה מעודכנת של 70 אירועים; טרם פורסמה.
 - טיסות: ✅ קיימות ביומן ומוגנות משינוי.
-- חנות מסכות: 🟠 הוחרגה מהיומן עד זיהוי מקום מדויק.
+- חנות מסכות: ✅ La Bauta זוהתה ונקבעה כעוגן המקומי ל־10.9; Ca’ Macana ו־Kartaruga שמורות כגיבוי. טרם פורסם שינוי חדש ל־Google Calendar.
 
 ---
 

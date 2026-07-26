@@ -14,6 +14,10 @@ export type LodgingAssessmentInput = {
   privateBathroom?: boolean;
   cleanlinessVerified?: boolean;
   allFeesKnown?: boolean;
+  cancellationTermsVerified?: boolean;
+  fullRefundCancellationHoursBeforeCheckIn?: number;
+  fullRefundIncludesFees?: boolean;
+  refundToOriginalPaymentMethod?: boolean;
   spaAvailable?: boolean;
   spaIncluded?: boolean;
   spaExtraCostIls?: number;
@@ -26,6 +30,9 @@ type LodgingPolicy = {
     standard: { target_minimum: number; target_maximum: number; maximum: number };
     pamper: { target_minimum: number; maximum: number };
     absolute_maximum: number;
+  };
+  cancellation: {
+    maximum_hours_before_check_in_for_full_refund: number;
   };
 };
 
@@ -42,6 +49,15 @@ export function evaluateLodgingCandidate(input: LodgingAssessmentInput): {
   }
   if (!Number.isInteger(input.nights) || input.nights <= 0) {
     throw new Error("nights must be a positive integer");
+  }
+  if (
+    input.fullRefundCancellationHoursBeforeCheckIn !== undefined
+    && (
+      !Number.isFinite(input.fullRefundCancellationHoursBeforeCheckIn)
+      || input.fullRefundCancellationHoursBeforeCheckIn < 0
+    )
+  ) {
+    throw new Error("fullRefundCancellationHoursBeforeCheckIn must be non-negative");
   }
 
   const lodging = loadConfig().lodging as unknown as LodgingPolicy;
@@ -70,6 +86,26 @@ export function evaluateLodgingCandidate(input: LodgingAssessmentInput): {
     reasons.push("Cleanliness is not verified by current listing details or recent reviews.");
   }
   if (input.allFeesKnown !== true) reasons.push("The all-in price and fees are not verified.");
+
+  if (input.cancellationTermsVerified !== true) {
+    reasons.push("The cancellation terms are not verified for the selected dates and rate.");
+  }
+  if (input.fullRefundCancellationHoursBeforeCheckIn === undefined) {
+    reasons.push("The full-refund cancellation deadline is unknown.");
+  } else if (
+    input.fullRefundCancellationHoursBeforeCheckIn
+    > lodging.cancellation.maximum_hours_before_check_in_for_full_refund
+  ) {
+    reasons.push(
+      "Full-refund cancellation is required through 24 hours before local check-in.",
+    );
+  }
+  if (input.fullRefundIncludesFees !== true) {
+    reasons.push("Full refund does not include all prepaid lodging, cleaning, and service fees.");
+  }
+  if (input.refundToOriginalPaymentMethod !== true) {
+    reasons.push("Refund to the original payment method is not verified.");
+  }
 
   if (input.rentalCarActive && input.parkingVerified !== true) {
     reasons.push("Parking is not verified for dates when the rental car is active.");

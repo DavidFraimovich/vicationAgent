@@ -135,7 +135,9 @@ airport, hostel, hotel, parking, station, terminal, lockers, rental car, cable c
 [A][🧭] Hostel One — לינה מחוץ לוונציה, להשתמש במקום שכבר מסומן במפה.
 [A][👁] Piazza San Marco / San Marco Square — עוגן רומנטי.
 [A][🎟👁] Murano — 2 שעות באי עצמו + זמן שיט.
-[A/B][❤️🎟] Cheap mask shop — חנות מסכות זולה לקנייה, לא בהכרח הכי יוקרתית.
+[A][🎟] La Bauta — החנות הראשית לקניית מסכה; 4.8/5 מתוך 334 ביקורות Google, עבודת יד ודגמים פשוטים סביב €15–€25 לפי הקטלוג הרשמי.
+[B][🎟] Ca’ Macana Original — גיבוי בדורסודורו; 4.7/5 מתוך 913 ביקורות, עבודת יד ומבחר רחב.
+[B][🎟] Kartaruga Atelier — גיבוי ליד San Marco/Castello; 4.7/5 מתוך 124 ביקורות ודגמים ייחודיים. לבדוק שעות סמוך לביקור.
 [B][👁❤️] Romantic wandering spots in Venice — 4 שעות שיטוט בין המקומות שכבר מסומנים.
 [A][🧭] Rental car pickup point — נקודת איסוף רכב אחרי סיום ונציה בלבד.
 ```

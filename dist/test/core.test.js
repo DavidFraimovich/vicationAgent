@@ -30,6 +30,10 @@ test("lodging policy accepts value stays and rejects expensive or incomplete opt
         privateBathroom: true,
         cleanlinessVerified: true,
         allFeesKnown: true,
+        cancellationTermsVerified: true,
+        fullRefundCancellationHoursBeforeCheckIn: 24,
+        fullRefundIncludesFees: true,
+        refundToOriginalPaymentMethod: true,
         spaAvailable: true,
         spaIncluded: true,
         spaPrivate: true,
@@ -47,6 +51,10 @@ test("lodging policy accepts value stays and rejects expensive or incomplete opt
         privateBathroom: true,
         cleanlinessVerified: true,
         allFeesKnown: true,
+        cancellationTermsVerified: true,
+        fullRefundCancellationHoursBeforeCheckIn: 24,
+        fullRefundIncludesFees: true,
+        refundToOriginalPaymentMethod: true,
         spaAvailable: true,
         spaIncluded: true,
     });
@@ -61,6 +69,25 @@ test("lodging policy accepts value stays and rejects expensive or incomplete opt
     assert.equal(missingStandards.eligible, false);
     assert.ok(missingStandards.reasons.some((reason) => reason.includes("Towels")));
     assert.ok(missingStandards.reasons.some((reason) => reason.includes("Parking")));
+});
+test("lodging policy rejects cancellation deadlines earlier than one day", () => {
+    const fiveDaysBefore = evaluateLodgingCandidate({
+        totalPriceIls: 500,
+        nights: 1,
+        tier: "standard",
+        rentalCarActive: false,
+        towelsIncluded: true,
+        linensIncluded: true,
+        privateBathroom: true,
+        cleanlinessVerified: true,
+        allFeesKnown: true,
+        cancellationTermsVerified: true,
+        fullRefundCancellationHoursBeforeCheckIn: 120,
+        fullRefundIncludesFees: true,
+        refundToOriginalPaymentMethod: true,
+    });
+    assert.equal(fiveDaysBefore.eligible, false);
+    assert.ok(fiveDaysBefore.reasons.some((reason) => reason.includes("24 hours")));
 });
 test("place classifier identifies food and nature", () => {
     assert.ok(classifyPlace("Rifugio Lago Restaurant").includes("food"));

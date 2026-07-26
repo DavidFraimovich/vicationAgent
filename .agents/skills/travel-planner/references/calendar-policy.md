@@ -160,7 +160,7 @@ Weather fallback — town/spa/cafe
 
 1. שיטוט בוקר רומנטי / קפה.
 2. **Piazza San Marco / San Marco Square**.
-3. **חנות מסכות זולה**.
+3. **La Bauta — קניית מסכה**; Ca’ Macana Original ו־Kartaruga נשארות כגיבויי Map only.
 4. **Murano — 2 שעות באי עצמו**.
 5. בלוק שיטוט חופשי של כ־4 שעות בין מקומות שכבר שמורים במפה.
 6. ערב רומנטי / אוכל קרוב למסלול.

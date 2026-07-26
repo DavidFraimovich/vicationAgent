@@ -95,7 +95,7 @@ role: primary planning policy
 - חובה לכלול:
   - **Piazza San Marco / San Marco Square**.
   - **Murano** — כ־2 שעות באי עצמו, בנוסף לזמן שיט.
-  - **חנות מסכות זולה** לקניית מסכה, מתוך המקומות שכבר מסומנים במפה או חיפוש ממוקד ליד המסלול.
+  - **La Bauta** לקניית מסכה כ־Plan A; **Ca’ Macana Original** ו־**Kartaruga Atelier** שמורות כגיבויי Plan B במפה.
   - עוד כ־4 שעות מפוזרות ביום לשיטוט ממקום למקום בין המקומות שכבר מסומנים במפה.
 - אחרי סיום ונציה: איסוף רכב שכור ויציאה לדולומיטים. אירוע איסוף הרכב חייב להופיע ביומן לפני נסיעת Venice area → Cortina.
 
@@ -131,7 +131,7 @@ Lena ובן הזוג אוהבים טיול עם **וואו גבוה אבל עו�
 - Hostel One.
 - San Marco Square.
 - Murano.
-- Cheap mask shop in Venice.
+- La Bauta as the primary Venice mask shop; Ca’ Macana Original and Kartaruga Atelier as map-only backups.
 - Cortina d’Ampezzo / Misurina / Dobbiaco base.
 - Pieve di Cadore / Lago di Centro Cadore as a mandatory short return stop on 24 September.
 - Tre Cime di Lavaredo — גרסה בינונית, לא hut-to-hut.

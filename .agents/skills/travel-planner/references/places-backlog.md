@@ -54,7 +54,9 @@ role: places backlog and scheduling candidates
 | Hostel One | Plan A | 🧭 | לינה | אירוע לינה/check-in/check-out. להשתמש במקום המדויק שכבר מסומן במפה. |
 | Piazza San Marco / San Marco Square | Plan A | 👁 | 45–90 דק׳ | עוגן רומנטי מרכזי. עדיף בוקר/ערב כדי להפחית עומס. |
 | Murano | Plan A | 🎟👁 | 2 שעות באי + שיט | לשלב כבלוק עצמאי, לא יום שלם. |
-| Cheap mask shop | Plan A/B | ❤️🎟 | 30–45 דק׳ | לקנות מסכה זולה. לבחור מתוך המקומות המסומנים או חנות זולה על המסלול. |
+| La Bauta | Plan A | 🎟 | 30–45 דק׳ | החנות הראשית לקנייה: 4.8/5 מתוך 334 ביקורות Google; מסכות נייר בעבודת יד ודגמים פשוטים סביב €15–€25. נשמרה ברשימת Maps עם הערת A. |
+| Ca’ Macana Original | Plan B / Map only | 🎟 | 30–45 דק׳ | גיבוי בדורסודורו: 4.7/5 מתוך 913 ביקורות, עבודת יד ומבחר רחב. |
+| Kartaruga Atelier | Plan B / Map only | 🎟 | 30–45 דק׳ | גיבוי ליד San Marco/Castello: 4.7/5 מתוך 124 ביקורות; מסכות עבודת יד ודגמי חיות ייחודיים. |
 | Romantic wandering in Venice | Plan A/B | 👁❤️ | כ־4 שעות מפוזרות | שיטוט בין מקומות שכבר שמורים, בלי עומס מוזיאונים. |
 | Rental car pickup after Venice | Plan A | 🧭 | 45–90 דק׳ | לאסוף רכב שכור רק אחרי שסיימנו את ונציה; להכניס ביומן לפני Drive — Venice area → Cortina. |
 

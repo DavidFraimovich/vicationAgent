@@ -98,6 +98,10 @@ lodging:
     cleanliness_verified: true
     all_fees_known: true
     parking_verified_when_car_active: true
+    cancellation_terms_verified: true
+    full_refund_until_24_hours_before_check_in: true
+    full_refund_includes_all_prepaid_lodging_fees: true
+    refund_to_original_payment_method: true
   parking:
     preferred: free_on_premises
     add_paid_parking_to_all_in_price: true
@@ -108,6 +112,15 @@ lodging:
     require_availability_details: true
     require_extra_cost_details: true
     include_extra_cost_in_all_in_price: true
+  cancellation:
+    required_for_shortlist: true
+    maximum_hours_before_check_in_for_full_refund: 24
+    refund_scope: all_prepaid_lodging_charges_including_cleaning_and_service_fees
+    refund_method: original_payment_method
+    reject_partial_refund: true
+    reject_travel_credit_only: true
+    reject_unknown_terms: true
+    reverify_at_checkout_before_booking: true
   rating_preferences:
     airbnb_minimum: 4.7
     booking_minimum: 8.5

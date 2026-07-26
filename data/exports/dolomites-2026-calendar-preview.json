@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T19:51:23.897Z",
+  "generatedAt": "2026-07-26T14:47:43.229Z",
   "tripId": "dolomites-2026",
   "calendarName": "חו״ל",
   "timezone": "Europe/Rome",
@@ -9,13 +9,8 @@
     "policy": "Existing flight events are protected and are not recreated or modified."
   },
   "unresolvedDrafts": {
-    "excluded": 1,
-    "items": [
-      {
-        "id": "dolomites-2026:2026-09-10-mask",
-        "title": "Affordable Venetian mask shop"
-      }
-    ],
+    "excluded": 0,
+    "items": [],
     "policy": "Draft items without a verified exact place are not published."
   },
   "events": [
@@ -107,6 +102,29 @@
           "private": {
             "travelAgent": "codex-travel-agent-local",
             "itineraryItemId": "dolomites-2026:2026-09-10-lunch"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Buy a Venetian mask — La Bauta",
+        "start": {
+          "dateTime": "2026-09-10T14:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-10T14:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/La+Bauta/@45.4359844,12.3273012,17z/data=!3m1!4b1!4m6!3m5!1s0x477eb1c5cb01003b:0xb3f00e3ca4c90999!8m2!3d45.4359844!4d12.3273012!16s%2Fg%2F11c60kg_lk\n\nמה זה המקום:\nPrimary shop: La Bauta, San Polo 2867. Google Maps: https://www.google.com/maps/place/La+Bauta/@45.4359844,12.3273012,17z/data=!3m1!4b1!4m6!3m5!1s0x477eb1c5cb01003b:0xb3f00e3ca4c90999!8m2!3d45.4359844!4d12.3273012!16s%2Fg%2F11c60kg_lk\n\nWhat to do:\n- Start with the simple handmade papier-mâché masks around €15–€25.\n- Compare fit and workmanship before buying.\n- Keep Ca’ Macana Original and Kartaruga as map-only backups if the preferred style is unavailable.\n\nWhy it fits: 4.8/5 from 334 Google reviews, handmade masks, and a useful budget range without defaulting to imported plastic souvenirs.\n\nPhone:\n+39 041 740095\n\nמה לראות / לעשות:\n- לבצע את בלוק Buy a Venetian mask — La Bauta בקצב רגוע.\n- לשים לב: Primary recommendation. Google Maps 4.8/5 from 334 reviews. Handmade papier-mâché masks; the official catalog includes simple masks around €15–€25. Saved to Google Maps list דולומיטים 2026 — Plan A with an A-priority note.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:00–14:45.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "San Polo 2867, 30125 Venezia VE, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-10-mask"
           }
         }
       }
@@ -676,7 +694,7 @@
           "dateTime": "2026-09-14T16:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Lago%20di%20Misurina\n\nמה זה המקום:\nOptional easy lakeside recovery stop; skip if the hike runs late or weather worsens.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lago di Misurina recovery stop בקצב רגוע.\n- לשים לב: Easy lake stop. Use the official ARPAV Dolomites bulletin: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:00–16:30.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Lago%20di%20Misurina\n\nמה זה המקום:\nOptional easy lakeside recovery stop; skip if the hike runs late or weather worsens. Cadini is a conditional replacement from Rifugio Auronzo only in dry, low-wind conditions and must not be stacked after the full Tre Cime loop.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lago di Misurina recovery stop בקצב רגוע.\n- לשים לב: Easy lake stop. Use the official ARPAV Dolomites bulletin: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:00–16:30.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Lago di Misurina",
         "extendedProperties": {
           "private": {
@@ -736,17 +754,40 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Dobbiaco or Cortina recovery afternoon",
+        "summary": "Lago di Landro roadside photo stop",
         "start": {
-          "dateTime": "2026-09-15T15:00:00",
+          "dateTime": "2026-09-15T14:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-15T14:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Lago%20di%20Landro\n\nמה זה המקום:\nNatural short stop on the return toward Cortina: 15–30 minutes by the lake, with no separate hike. Skip only if Braies or lunch ran late.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lago di Landro roadside photo stop בקצב רגוע.\n- לשים לב: Natural 15–30 minute photo stop on the 15 Sep return from Braies to Cortina. Google Maps currently estimates about 32 minutes from Braies and 28 minutes onward to Cortina.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:15–14:45.\n- משך ביקור מתוכנן: 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Lago di Landro / Dürrensee",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-15-landro"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Cortina recovery afternoon",
+        "start": {
+          "dateTime": "2026-09-15T15:15:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
           "dateTime": "2026-09-15T18:00:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Dobbiaco%20or%20Cortina%20recovery%20afternoon\n\nמה זה המקום:\nEasy café/town time, laundry and a weather check for the final east-base flex day.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dobbiaco or Cortina recovery afternoon בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:00–18:00.\n- משך ביקור מתוכנן: 3 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Dobbiaco or Cortina recovery afternoon",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Cortina%20recovery%20afternoon\n\nמה זה המקום:\nEasy café/town time, laundry and a weather check for the final east-base flex day. Val Fiscalina is a separate half-day Plan B, not an addition to this Braies day.\n\nמה לראות / לעשות:\n- לבצע את בלוק Cortina recovery afternoon בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:15–18:00.\n- משך ביקור מתוכנן: 2 ש׳ 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Cortina recovery afternoon",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
@@ -920,17 +961,17 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Scenic transfer Cortina → Ortisei",
+        "summary": "Great Dolomites Road — Cortina → Passo Pordoi",
         "start": {
-          "dateTime": "2026-09-17T08:45:00",
+          "dateTime": "2026-09-17T08:00:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-17T12:20:00",
+          "dateTime": "2026-09-17T09:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nDrive the scenic pass route only if weather and roads are good; otherwise use the safer direct route.\n\nמה לראות / לעשות:\n- לבצע את בלוק Scenic transfer Cortina → Ortisei בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:45–12:20.\n- משך ביקור מתוכנן: 3 ש׳ 35 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Ortisei",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Passo+Pordoi/@46.4888128,11.8117568,15z\n\nמה זה המקום:\nDrive the classic Bolzano–Cortina road in reverse, beginning with the Cortina-to-Pordoi segment. Download the route offline and use it only if weather, visibility and road conditions are suitable.\n\nמה לראות / לעשות:\n- לבצע את בלוק Great Dolomites Road — Cortina → Passo Pordoi בקצב רגוע.\n- לשים לב: Plan A photo stop on the Great Dolomites Road transfer on 17 Sep; drive only with suitable weather and road conditions.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:00–09:30.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nUse the safer direct Cortina–Ortisei route if passes or weather are unsuitable.",
+        "location": "38032 Canazei, Trento, Italy",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
@@ -943,21 +984,113 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Transfer-day lunch",
+        "summary": "Passo Pordoi viewpoint stop",
         "start": {
-          "dateTime": "2026-09-17T12:30:00",
+          "dateTime": "2026-09-17T09:30:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-17T13:45:00",
+          "dateTime": "2026-09-17T10:10:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Transfer-day%20lunch\n\nמה זה המקום:\nStop where parking is simple; avoid a fixed mountain reservation that could pressure the drive.\n\nמה לראות / לעשות:\n- לבצע את בלוק Transfer-day lunch בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:30–13:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Transfer-day lunch",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Passo+Pordoi/@46.4888128,11.8117568,15z\n\nמה זה המקום:\nShort photo and coffee stop; no long walk or lift commitment on the transfer day. Belvedere di Canazei is a 2–3 hour lift alternative only if it replaces this stop or Lago di Carezza and the day is still on schedule.\n\nמה לראות / לעשות:\n- לבצע את בלוק Passo Pordoi viewpoint stop בקצב רגוע.\n- לשים לב: Plan A photo stop on the Great Dolomites Road transfer on 17 Sep; drive only with suitable weather and road conditions.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 09:30–10:10.\n- משך ביקור מתוכנן: 40 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "38032 Canazei, Trento, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-17-pordoi"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Passo Pordoi → Lago di Carezza",
+        "start": {
+          "dateTime": "2026-09-17T10:10:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-17T11:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Lago+di+Carezza/@46.4092273,11.5750645,17z\n\nמה זה המקום:\nContinue west along the planned Great Dolomites Road sequence, allowing extra time for slow pass traffic.\n\nמה לראות / לעשות:\n- לבצע את בלוק Passo Pordoi → Lago di Carezza בקצב רגוע.\n- לשים לב: Plan A stop on the Great Dolomites Road transfer on 17 Sep. Saved in the private Google Maps list with an operational note.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 10:10–11:15.\n- משך ביקור מתוכנן: 1 ש׳ 5 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "39056 Welschnofen / Nova Levante, Bolzano, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-17-carezza-drive"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Lago di Carezza short lakeside stop",
+        "start": {
+          "dateTime": "2026-09-17T11:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-17T12:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Lago+di+Carezza/@46.4092273,11.5750645,17z\n\nמה זה המקום:\nUse the managed viewpoint/lakeside path for a short stop; keep the departure time so lunch remains practical.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lago di Carezza short lakeside stop בקצב רגוע.\n- לשים לב: Plan A stop on the Great Dolomites Road transfer on 17 Sep. Saved in the private Google Maps list with an operational note.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 11:15–12:00.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "39056 Welschnofen / Nova Levante, Bolzano, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-17-carezza"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Lunch and short old-town pause in Bolzano",
+        "start": {
+          "dateTime": "2026-09-17T12:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-17T14:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Bolzano/@46.4949259,11.3402543,13z\n\nמה זה המקום:\nComplete the classic Cortina–Bolzano segment, park once and take an unhurried but time-boxed lunch. Avoid a fixed mountain reservation that could pressure the drive.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lunch and short old-town pause in Bolzano בקצב רגוע.\n- לשים לב: End point of the classic Cortina–Bolzano road segment and practical transfer-day lunch stop before continuing to Ortisei.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:45–14:00.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "39100 Bolzano, South Tyrol, Italy",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
             "itineraryItemId": "dolomites-2026:2026-09-17-lunch"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Bolzano → Ortisei",
+        "start": {
+          "dateTime": "2026-09-17T14:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-17T15:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nContinue from the historic road endpoint to the west base; allow normal traffic margin and go directly to the lodging.\n\nמה לראות / לעשות:\n- לבצע את בלוק Bolzano → Ortisei בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:00–15:00.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Ortisei",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-17-bolzano-ortisei"
           }
         }
       }
@@ -989,16 +1122,16 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Seceda ridge morning",
+        "summary": "Seceda lift and compact ridge walk",
         "start": {
           "dateTime": "2026-09-18T08:30:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-18T12:20:00",
+          "dateTime": "2026-09-18T10:20:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Seceda%20cable%20car%20Ortisei\n\nמה זה המקום:\nTake the first practical lift from Ortisei and follow a light-medium ridge walk, turning back early if cloud builds.\n\nמה לראות / לעשות:\n- לבצע את בלוק Seceda ridge morning בקצב רגוע.\n- לשים לב: Published 2026 operation: 22 May–2 Nov. On 18 Sep the Ortisei–Furnes and Furnes–Seceda lifts run 08:30–17:30. The optional Fermeda chairlift runs only through 20 Sep, 09:30–16:30. Official mountain weather: https://weather.province.bz.it/en/forecasts\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:30–12:20.\n- משך ביקור מתוכנן: 3 ש׳ 50 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nOrtisei village and Val Gardena museum",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Seceda%20cable%20car%20Ortisei\n\nמה זה המקום:\nTake the first practical lift from Ortisei and keep the iconic ridge walk to about 75–90 minutes, returning to the agreed take-off point by 10:20. Do not rush if footing or visibility is poor.\n\nמה לראות / לעשות:\n- לבצע את בלוק Seceda lift and compact ridge walk בקצב רגוע.\n- לשים לב: Published 2026 operation: 22 May–2 Nov. On 18 Sep the Ortisei–Furnes and Furnes–Seceda lifts run 08:30–17:30. The optional Fermeda chairlift runs only through 20 Sep, 09:30–16:30. Official mountain weather: https://weather.province.bz.it/en/forecasts\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:30–10:20.\n- משך ביקור מתוכנן: 1 ש׳ 50 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nIf the flight is cancelled, continue the original Seceda ridge morning until 12:20 and descend by lift.",
         "location": "Seceda cable car – Ortisei",
         "extendedProperties": {
           "private": {
@@ -1012,17 +1145,40 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Lunch on/under Seceda",
+        "summary": "GARDENAFLY tandem paragliding — Seceda → Ortisei",
         "start": {
-          "dateTime": "2026-09-18T12:30:00",
+          "dateTime": "2026-09-18T10:30:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-18T13:45:00",
+          "dateTime": "2026-09-18T12:00:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Lunch%20on%2Funder%20Seceda\n\nמה זה המקום:\nChoose a hut with confirmed service or descend for lunch in Ortisei.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lunch on/under Seceda בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:30–13:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Lunch on/under Seceda",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/GARDENAFLY+-+Paragliding+Tandemflights+in+the+Dolomites/@46.5746364,11.6804252,17z\n\nמה זה המקום:\nTwo simultaneous panoramic tandem flights, about 15–20 minutes airborne and 1.5 hours total, landing near Annatal/Ortisei. Confirm two pilots and a mountain rendezvous before booking; if Gardenafly requires a valley meeting, use Fly2's published mountain-meeting option or move the flight to the 24 Sep weather buffer.\n\nמה לראות / לעשות:\n- לבצע את בלוק GARDENAFLY tandem paragliding — Seceda → Ortisei בקצב רגוע.\n- לשים לב: Plan A for 18 Sep after a shortened Seceda ridge walk: panoramic Seceda-to-Ortisei tandem flight, about 15–20 minutes airborne and 1.5 hours total. Published price €190 per person; optional GoPro photo/video package €25 per person; lift ticket excluded. Confirm two pilots and a mountain rendezvous. Weather fallback: 24 Sep morning.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 10:30–12:00.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Streda Sacun 39, 39046 Ortisei, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-18-paragliding"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Lunch in Annatal or Ortisei after landing",
+        "start": {
+          "dateTime": "2026-09-18T12:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-18T13:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Lunch%20in%20Annatal%20or%20Ortisei%20after%20landing\n\nמה זה המקום:\nEat close to the landing area after the flight. If the flight is cancelled, retain the original hut/Ortisei lunch after descending from Seceda.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lunch in Annatal or Ortisei after landing בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:15–13:30.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Lunch in Annatal or Ortisei after landing",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
@@ -1037,14 +1193,14 @@
       "event": {
         "summary": "Ortisei recovery afternoon",
         "start": {
-          "dateTime": "2026-09-18T15:00:00",
+          "dateTime": "2026-09-18T14:30:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
           "dateTime": "2026-09-18T18:00:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nNo second mountain anchor; rest and review the next day’s operating notice.\n\nמה לראות / לעשות:\n- לבצע את בלוק Ortisei recovery afternoon בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:00–18:00.\n- משך ביקור מתוכנן: 3 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nRest after the ridge walk and flight; review the next day’s Alpe di Siusi and horse-riding conditions.\n\nמה לראות / לעשות:\n- לבצע את בלוק Ortisei recovery afternoon בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:30–18:00.\n- משך ביקור מתוכנן: 3 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Ortisei",
         "extendedProperties": {
           "private": {
@@ -1104,17 +1260,86 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Easy return and rest",
+        "summary": "Ortisei → Maneggio Unterlanzin",
         "start": {
-          "dateTime": "2026-09-19T15:00:00",
+          "dateTime": "2026-09-19T14:45:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-19T18:00:00",
+          "dateTime": "2026-09-19T15:15:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Easy%20return%20and%20rest\n\nמה זה המקום:\nReturn without adding another hike; use the afternoon for recovery.\n\nמה לראות / לעשות:\n- לבצע את בלוק Easy return and rest בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:00–18:00.\n- משך ביקור מתוכנן: 3 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Easy return and rest",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Maneggio+Unterlanzin/@46.557003,11.5517492,17z\n\nמה זה המקום:\nAllow 30 minutes for the current 22-minute / 12.8 km Google Maps drive and parking. Arrive early for assignment, helmet and briefing.\n\nמה לראות / לעשות:\n- לבצע את בלוק Ortisei → Maneggio Unterlanzin בקצב רגוע.\n- לשים לב: Plan A for 19 Sep after the Alpe di Siusi walk and lunch. One-hour accompanied ride for beginners or advanced riders, €33 per person, helmet included, no gallop, maximum 90 kg. Current Google Maps driving estimate from Ortisei: 22 minutes / 12.8 km.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:45–15:15.\n- משך ביקור מתוכנן: 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Maneggio Unterlanzin",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-19-horse-drive"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Horse assignment, helmet and briefing",
+        "start": {
+          "dateTime": "2026-09-19T15:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-19T15:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Maneggio+Unterlanzin/@46.557003,11.5517492,17z\n\nמה זה המקום:\nConfirm each rider is within the published 90 kg limit, disclose experience accurately and follow the guide’s instructions. Helmets are included.\n\nמה לראות / לעשות:\n- לבצע את בלוק Horse assignment, helmet and briefing בקצב רגוע.\n- לשים לב: Plan A for 19 Sep after the Alpe di Siusi walk and lunch. One-hour accompanied ride for beginners or advanced riders, €33 per person, helmet included, no gallop, maximum 90 kg. Current Google Maps driving estimate from Ortisei: 22 minutes / 12.8 km.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:15–15:30.\n- משך ביקור מתוכנן: 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Maneggio Unterlanzin",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-19-horse-briefing"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "One-hour guided horse ride — Unterlanzin",
+        "start": {
+          "dateTime": "2026-09-19T15:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-19T16:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Maneggio+Unterlanzin/@46.557003,11.5517492,17z\n\nמה זה המקום:\nOne-hour accompanied outing for beginners or experienced riders. The provider specifies no gallop for safety and insurance reasons. Contact the stable if weather is poor.\n\nמה לראות / לעשות:\n- לבצע את בלוק One-hour guided horse ride — Unterlanzin בקצב רגוע.\n- לשים לב: Plan A for 19 Sep after the Alpe di Siusi walk and lunch. One-hour accompanied ride for beginners or advanced riders, €33 per person, helmet included, no gallop, maximum 90 kg. Current Google Maps driving estimate from Ortisei: 22 minutes / 12.8 km.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:30–16:30.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Maneggio Unterlanzin",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-19-horse-ride"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Return to Ortisei and rest",
+        "start": {
+          "dateTime": "2026-09-19T16:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-19T17:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nDrive back to the west base and keep the evening free. No second hike is added.\n\nמה לראות / לעשות:\n- לבצע את בלוק Return to Ortisei and rest בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 16:30–17:15.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Ortisei",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
@@ -1173,17 +1398,17 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Zannes easy loop (optional)",
+        "summary": "Passo delle Erbe short walk — or Zannes fallback",
         "start": {
-          "dateTime": "2026-09-20T14:30:00",
+          "dateTime": "2026-09-20T14:15:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-20T16:30:00",
+          "dateTime": "2026-09-20T17:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Parcheggio%20Zannes%20Val%20di%20Funes\n\nמה זה המקום:\nOnly a short easy loop; skip if the morning was long or parking is unavailable.\n\nמה לראות / לעשות:\n- לבצע את בלוק Zannes easy loop (optional) בקצב רגוע.\n- לשים לב: Verify and reserve parking online when the 2026 date is released.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:30–16:30.\n- משך ביקור מתוכנן: 2 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Parcheggio Malga Zannes (P1)",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Passo%20delle%20Erbe\n\nמה זה המקום:\nPreferred light extension: drive about 42 minutes from Santa Maddalena, take a 30–50 minute viewpoint walk toward the Sass de Putia meadows, then allow about 1h12 back to Ortisei. This replaces the Zannes loop; never do both. Use Zannes instead if SP29, parking, timing or visibility are poor. Verify the on-site parking signs rather than relying on the unconfirmed after-14:00 free-parking claim.\n\nמה לראות / לעשות:\n- לבצע את בלוק Passo delle Erbe short walk — or Zannes fallback בקצב רגוע.\n- לשים לב: Conditional light extension after Val di Funes on 20 Sep, replacing the Zannes afternoon loop. Google Maps currently estimates about 42 minutes from Santa Maddalena and 1h12 onward to Ortisei. The after-14:00 free-parking claim is supported by recent travel sources but not stated on the official tourism page, so verify the signs on arrival. The official page warns that SP29 is narrow and partly single-lane.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:15–17:30.\n- משך ביקור מתוכנן: 3 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Passo delle Erbe / Würzjoch",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
@@ -1274,7 +1499,7 @@
           "dateTime": "2026-09-22T12:15:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Passo%20Gardena\n\nמה זה המקום:\nWeather-dependent scenic drive with short viewpoints, not a major exposed hike.\n\nמה לראות / לעשות:\n- לבצע את בלוק Passo Gardena scenic morning בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 09:00–12:15.\n- משך ביקור מתוכנן: 3 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nVallunga easy walk from Selva",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Passo%20Gardena\n\nמה זה המקום:\nWeather-dependent scenic drive with short viewpoints, not a major exposed hike.\n\nמה לראות / לעשות:\n- לבצע את בלוק Passo Gardena scenic morning בקצב רגוע.\n- לשים לב: Plan A scenic morning on 22 Sep. Saved in the private Google Maps list; use only with good visibility and keep the stops short.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 09:00–12:15.\n- משך ביקור מתוכנן: 3 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nVallunga easy walk from Selva",
         "location": "Passo Gardena",
         "extendedProperties": {
           "private": {
@@ -1311,7 +1536,7 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Optional Vallunga easy walk",
+        "summary": "Vallunga easy out-and-back",
         "start": {
           "dateTime": "2026-09-22T14:30:00",
           "timeZone": "Europe/Rome"
@@ -1320,8 +1545,8 @@
           "dateTime": "2026-09-22T16:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Optional%20Vallunga%20easy%20walk\n\nמה זה המקום:\nFlat recovery walk only if energy and weather are good.\n\nמה לראות / לעשות:\n- לבצע את בלוק Optional Vallunga easy walk בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:30–16:30.\n- משך ביקור מתוכנן: 2 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Optional Vallunga easy walk",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Vallunga/@46.5646978,11.7775044,17z\n\nמה זה המקום:\nFollow official path 14 from the valley entrance toward San Silvestro chapel and the meadows. The full official route is an easy 7.5 km / about 2 hours / 201 m ascent; turn around earlier for a shorter recovery version.\n\nמה לראות / לעשות:\n- לבצע את בלוק Vallunga easy out-and-back בקצב רגוע.\n- לשים לב: Plan A easy walk on 22 Sep and scenic turnaround for the 23 Sep e-bike ride. The official out-and-back on path 14 is easy, 7.5 km, about 2 hours and 201 m ascent; turn around earlier at San Silvestro chapel if a shorter recovery walk is preferred.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:30–16:30.\n- משך ביקור מתוכנן: 2 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Vallunga",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
@@ -1334,17 +1559,17 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Final Dolomites flex morning",
+        "summary": "E-bike pickup and fitting — On the Rocks",
         "start": {
-          "dateTime": "2026-09-23T09:00:00",
+          "dateTime": "2026-09-23T08:30:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-23T12:15:00",
+          "dateTime": "2026-09-23T09:00:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nUse for a missed Plan A anchor or keep as a relaxed Ortisei morning; no forced checklist completion.\n\nמה לראות / לעשות:\n- לבצע את בלוק Final Dolomites flex morning בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 09:00–12:15.\n- משך ביקור מתוכנן: 3 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Ortisei",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/On+the+Rocks+Bike+Rental,+Shop,+Service+%26+Guiding/@46.5719275,11.6775441,17z\n\nמה זה המקום:\nCollect two electric hardtails, helmets and locks. Ask the shop to confirm and preload the easiest suitable Rodaval–Vallunga out-and-back route and current trail conditions.\n\nמה לראות / לעשות:\n- לבצע את בלוק E-bike pickup and fitting — On the Rocks בקצב רגוע.\n- לשים לב: Preferred rental for the 23 Sep self-guided e-bike morning. Published hardtail rate: €55 for 4 hours; helmet about €3. Ask the shop to confirm and preload an easy Rodaval–Vallunga route.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:30–09:00.\n- משך ביקור מתוכנן: 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nRetain the original relaxed flex morning if weather or route conditions are poor.",
+        "location": "Strada Rezia 275/A, 39046 Ortisei, Italy",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
@@ -1357,16 +1582,62 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Farewell lunch in Ortisei",
+        "summary": "Self-guided e-bike — Ortisei, Rodaval and Vallunga",
+        "start": {
+          "dateTime": "2026-09-23T09:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-23T12:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Vallunga/@46.5646978,11.7775044,17z\n\nמה זה המקום:\nRide from Ortisei toward Santa Cristina and Selva on the easiest shop-confirmed Rodaval/Val Gardena cycle route, using Vallunga as the scenic turnaround objective. Turn back according to battery, conditions and the four-hour rental deadline; avoid technical MTB trails.\n\nמה לראות / לעשות:\n- לבצע את בלוק Self-guided e-bike — Ortisei, Rodaval and Vallunga בקצב רגוע.\n- לשים לב: Plan A easy walk on 22 Sep and scenic turnaround for the 23 Sep e-bike ride. The official out-and-back on path 14 is easy, 7.5 km, about 2 hours and 201 m ascent; turn around earlier at San Silvestro chapel if a shorter recovery walk is preferred.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 09:00–12:30.\n- משך ביקור מתוכנן: 3 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Vallunga",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-23-ebike"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Return e-bikes",
         "start": {
           "dateTime": "2026-09-23T12:30:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-23T13:45:00",
+          "dateTime": "2026-09-23T13:00:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Farewell%20lunch%20in%20Ortisei\n\nמה זה המקום:\nBook a pleasant but cancellable final-base lunch.\n\nמה לראות / לעשות:\n- לבצע את בלוק Farewell lunch in Ortisei בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:30–13:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/On+the+Rocks+Bike+Rental,+Shop,+Service+%26+Guiding/@46.5719275,11.6775441,17z\n\nמה זה המקום:\nReturn the bikes within the four-hour window and report any mechanical issue to the shop.\n\nמה לראות / לעשות:\n- לבצע את בלוק Return e-bikes בקצב רגוע.\n- לשים לב: Preferred rental for the 23 Sep self-guided e-bike morning. Published hardtail rate: €55 for 4 hours; helmet about €3. Ask the shop to confirm and preload an easy Rodaval–Vallunga route.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:30–13:00.\n- משך ביקור מתוכנן: 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Strada Rezia 275/A, 39046 Ortisei, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-23-bike-return"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Farewell lunch in Ortisei",
+        "start": {
+          "dateTime": "2026-09-23T13:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-23T14:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Farewell%20lunch%20in%20Ortisei\n\nמה זה המקום:\nBook a pleasant but cancellable final-base lunch close to the rental shop.\n\nמה לראות / לעשות:\n- לבצע את בלוק Farewell lunch in Ortisei בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:00–14:15.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Farewell lunch in Ortisei",
         "extendedProperties": {
           "private": {
@@ -1403,7 +1674,7 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Final relaxed Dolomites morning",
+        "summary": "Paragliding weather fallback / final relaxed morning",
         "start": {
           "dateTime": "2026-09-24T08:30:00",
           "timeZone": "Europe/Rome"
@@ -1412,7 +1683,7 @@
           "dateTime": "2026-09-24T12:15:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nStay in the Ortisei/Val Gardena touring area for a relaxed local walk, a missed easy anchor or café time. Do not start a long or exposed hike.\n\nמה לראות / לעשות:\n- לבצע את בלוק Final relaxed Dolomites morning בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:30–12:15.\n- משך ביקור מתוכנן: 3 ש׳ 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nRest in Ortisei and keep the day light.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nFirst use this block for the Gardenafly/Fly2 tandem flight if 18 Sep was cancelled by weather. If the flight is complete, keep the original relaxed local walk, missed easy anchor or café time; do not start a long or exposed hike.\n\nמה לראות / לעשות:\n- לבצע את בלוק Paragliding weather fallback / final relaxed morning בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:30–12:15.\n- משך ביקור מתוכנן: 3 ש׳ 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nRest in Ortisei and keep the day light.",
         "location": "Ortisei",
         "extendedProperties": {
           "private": {

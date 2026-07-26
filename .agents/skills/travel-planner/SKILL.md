@@ -39,7 +39,9 @@ description: Plan and operate Lena's local-first travel workflow across Google M
 - Save to personal Google Maps lists: `@Chrome` or Chrome DevTools MCP.
 - Airbnb/Booking search and account state: `@Chrome`, plus local lodging tools.
 - Lodging shortlist gate: convert the all-in stay cost to ILS and call
-  `lodging_evaluate_candidate` before saving or recommending a candidate.
+  `lodging_evaluate_candidate` before saving or recommending a candidate. A
+  candidate must have verified full-refund cancellation through 24 hours before
+  local check-in; unknown, partial, credit-only, or earlier deadlines fail the gate.
 - Calendar read/write: local `travel_local` Calendar tools.
 - Local state and audit: `travel_local`.
 

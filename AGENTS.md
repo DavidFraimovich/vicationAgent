@@ -73,6 +73,17 @@ Explicit confirmation is required immediately before:
 - sending a message to a host;
 - deleting a calendar event.
 
+## Lodging cancellation
+
+- A lodging candidate may enter the shortlist only when the selected dates and rate
+  have verified full-refund cancellation through 24 hours before local check-in.
+- Full refund means all prepaid lodging charges, cleaning fees, and platform service
+  fees are returned to the original payment method.
+- Partial refunds, vouchers, travel credit, unknown terms, or earlier cancellation
+  deadlines fail the gate.
+- Reverify the exact deadline, timezone, refund scope, and refund method at checkout
+  immediately before requesting final booking confirmation.
+
 ## Code and data
 
 - Prefer small, auditable tools.

@@ -9,6 +9,10 @@ Read the lodging policy before any accommodation research. Include Airbnb in lod
 searches, calculate the all-in ILS price per room per night, and call
 lodging_evaluate_candidate before recommending or saving a shortlist candidate.
 Do not recommend over-budget lodging merely because it has a strong location or rating.
+Treat verified full-refund cancellation through 24 hours before local check-in as a
+hard lodging requirement. Verify the exact deadline, timezone, refund scope, and
+refund to the original payment method for the selected dates and room. Unknown terms,
+partial refunds, travel credit, or deadlines earlier than 24 hours fail the shortlist gate.
 Use Google Maps Grounding Lite for place resolution, routes, and weather.
 Use web research for current operating hours, parking, tickets, restrictions, and lodging.
 Do not write to Google Calendar, Google Maps Saved lists, Airbnb wishlists, or bookings.
