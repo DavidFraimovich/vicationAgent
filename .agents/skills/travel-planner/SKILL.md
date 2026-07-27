@@ -20,17 +20,37 @@ description: Plan and operate Lena's local-first travel workflow across Google M
 2. Resolve every candidate to a stable place entity.
 3. Set category, priority, and planning status separately.
 4. Check geography and routes.
-5. Build a realistic day:
+5. Verify date-specific opening hours for every scheduled business, lift,
+   attraction, rental shop, restaurant, paid parking facility, or other
+   time-bounded destination. Store the hours, source, and verification date on
+   the place and repeat the relevant hours in the itinerary description. For
+   open-access natural places, state that access is open and identify the real
+   constraint (weather, road, parking, daylight, or reservation). If current
+   hours cannot be verified, label them unverified and do not build a
+   time-critical sequence that depends on them.
+6. Build a realistic day:
    - one main mountain/nature anchor;
    - lunch as a real anchor;
-   - one lighter second activity or rest;
+   - a dedicated dinner window;
+   - one lighter second activity, town/lakeside walk, café, or on-route break;
+   - on an active sightseeing or sports day, route continuously from the
+     morning departure through the final outing or dinner; never return to the
+     lodging between activities for rest, sitting, clothing changes, showers,
+     charging, or an idle buffer;
+   - return to the lodging only after the day's final scheduled activity or
+     meal, unless the user explicitly asks for an earlier return or a genuine
+     safety, medical, severe-weather, or unavoidable logistics constraint
+     requires it;
+   - schedule personal showers only at night, after the final planned outing or
+     meal; never use an afternoon return-home block as a shower stop before the
+     day's last activity;
    - fallback for weather/energy.
-6. Store the draft locally.
-7. For `dolomites-2026`, synchronize the same change in `data/trips/dolomites-2026/plan.json`, `data/travel-agent.sqlite`, and `docs/DOLOMITES_2026_FULL_PLAN_HE.md`; update the human document's version and date.
-8. Validate the trip.
-9. Preview external changes.
-10. Apply changes only under the configured permissions.
-11. Record the action.
+7. Store the draft locally.
+8. For `dolomites-2026`, synchronize the same change in `data/trips/dolomites-2026/plan.json`, `data/travel-agent.sqlite`, and `docs/DOLOMITES_2026_FULL_PLAN_HE.md`; update the human document's version and date.
+9. Validate the trip.
+10. Preview external changes.
+11. Apply changes only under the configured permissions.
+12. Record the action.
 
 ## Tool routing
 
@@ -73,7 +93,9 @@ A place is not "done" merely because it was found. It should have:
 - planning status;
 - source;
 - relevant verification date;
+- date-specific opening hours and the operational constraint for every
+  time-bounded scheduled destination;
 - route/day relationship;
 - external sync state if applicable.
 
-An itinerary change for `dolomites-2026` is not done until the machine-readable plan, SQLite state, and `DOLOMITES_2026_FULL_PLAN_HE.md` all describe the same schedule.
+An itinerary change for `dolomites-2026` is not done until the machine-readable plan, SQLite state, and `DOLOMITES_2026_FULL_PLAN_HE.md` all describe the same schedule, including continuous out-of-home routing on active days, dedicated dinner windows, night-only showers after the final activity, and the opening hours used to justify time-critical visits.

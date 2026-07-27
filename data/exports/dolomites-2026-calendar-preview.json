@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T14:47:43.229Z",
+  "generatedAt": "2026-07-27T17:51:50.123Z",
   "tripId": "dolomites-2026",
   "calendarName": "חו״ל",
   "timezone": "Europe/Rome",
@@ -12,6 +12,24 @@
     "excluded": 0,
     "items": [],
     "policy": "Draft items without a verified exact place are not published."
+  },
+  "providerManagedLodging": {
+    "excluded": 3,
+    "items": [
+      {
+        "id": "dolomites-2026:2026-09-09-ao-checkin",
+        "title": "Check-in — a&o Venezia Mestre"
+      },
+      {
+        "id": "dolomites-2026:2026-09-11-auronzo-arrival",
+        "title": "Arrival and late check-in — Bella casa vacanze"
+      },
+      {
+        "id": "dolomites-2026:2026-09-17-checkin",
+        "title": "Ortisei check-in and the trip's single laundry load"
+      }
+    ],
+    "policy": "Airbnb lodging is kept locally but not proactively published. Prefer the event created from the confirmation email and deduplicate before any explicitly requested manual write."
   },
   "events": [
     {
@@ -33,29 +51,6 @@
           "private": {
             "travelAgent": "codex-travel-agent-local",
             "itineraryItemId": "dolomites-2026:2026-09-09-transfer"
-          }
-        }
-      }
-    },
-    {
-      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
-      "event": {
-        "summary": "Check-in — a&o Venezia Mestre",
-        "start": {
-          "dateTime": "2026-09-09T22:30:00",
-          "timeZone": "Europe/Rome"
-        },
-        "end": {
-          "dateTime": "2026-09-09T23:00:00",
-          "timeZone": "Europe/Rome"
-        },
-        "description": "Google Maps:\nhttps://maps.google.com/?cid=2559267828695871316\n\nמה זה המקום:\nConfirmed two-night stay for two adults. Expected arrival is after the flight and airport transfer; notify the property about late arrival if required.\n\nמה לראות / לעשות:\n- לבצע את בלוק Check-in — a&o Venezia Mestre בקצב רגוע.\n- לשים לב: לינה מאושרת לשני לילות; לעדכן מראש על הגעה מאוחרת.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 22:30–23:00.\n- משך ביקור מתוכנן: 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Via Ca Marcello, 15, 30172 Venezia VE, Italy",
-        "extendedProperties": {
-          "private": {
-            "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-09-ao-checkin"
           }
         }
       }
@@ -148,6 +143,29 @@
           "private": {
             "travelAgent": "codex-travel-agent-local",
             "itineraryItemId": "dolomites-2026:2026-09-10-murano"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Dinner — Venice or Mestre",
+        "start": {
+          "dateTime": "2026-09-10T19:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-10T21:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Dinner%20%E2%80%94%20Venice%20or%20Mestre\n\nמה זה המקום:\nDedicated unhurried dinner after Murano. Select the restaurant after confirming its Thursday service hours and keep the location close to the return route.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Venice or Mestre בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:30–21:00.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Dinner — Venice or Mestre",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-10-dinner"
           }
         }
       }
@@ -257,7 +275,7 @@
           "dateTime": "2026-09-11T13:35:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/place/Designer+Outlet+Noventa+di+Piave/@45.6714459,12.5354406,17z\n\nמה זה המקום:\nAllow about 35 minutes plus the A4/E70 toll and parking.\n\nמה לראות / לעשות:\n- לבצע את בלוק Target Rent → Designer Outlet Noventa di Piave בקצב רגוע.\n- לשים לב: Friday opening hours 10:00–20:00. On 11 Sep arrive after the 12:00 car pickup, have lunch, shop, complete tax-free paperwork and eat dinner before leaving at closing for Cortina. A4/E70 and A27 route includes tolls.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:00–13:35.\n- משך ביקור מתוכנן: 35 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Designer+Outlet+Noventa+di+Piave/@45.6714459,12.5354406,17z\n\nמה זה המקום:\nAllow about 35 minutes plus the A4/E70 toll and parking.\n\nמה לראות / לעשות:\n- לבצע את בלוק Target Rent → Designer Outlet Noventa di Piave בקצב רגוע.\n- לשים לב: Friday opening hours 10:00–20:00. On 11 Sep arrive after the 12:00 car pickup, have lunch, shop, complete tax-free paperwork and use a dedicated 18:30–19:30 dinner block before leaving for the nearby supermarket. A4/E70 and A27 route includes tolls.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:00–13:35.\n- משך ביקור מתוכנן: 35 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Marco Polo, 1, 30020 Noventa di Piave VE, Italy",
         "extendedProperties": {
           "private": {
@@ -271,16 +289,16 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Designer Outlet Noventa di Piave — lunch, shopping and dinner",
+        "summary": "Designer Outlet Noventa di Piave — lunch, shopping and tax free",
         "start": {
           "dateTime": "2026-09-11T13:35:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-11T20:00:00",
+          "dateTime": "2026-09-11T18:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/place/Designer+Outlet+Noventa+di+Piave/@45.6714459,12.5354406,17z\n\nמה זה המקום:\n13:35 lunch; about 14:20–18:30 shopping and tax-free paperwork; 18:30–19:45 dinner. The outlet closes at 20:00, which is the planned departure time.\n\nמה לראות / לעשות:\n- לבצע את בלוק Designer Outlet Noventa di Piave — lunch, shopping and dinner בקצב רגוע.\n- לשים לב: Friday opening hours 10:00–20:00. On 11 Sep arrive after the 12:00 car pickup, have lunch, shop, complete tax-free paperwork and eat dinner before leaving at closing for Cortina. A4/E70 and A27 route includes tolls.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:35–20:00.\n- משך ביקור מתוכנן: 6 ש׳ 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Designer+Outlet+Noventa+di+Piave/@45.6714459,12.5354406,17z\n\nמה זה המקום:\n13:35–14:20 lunch, then shopping and tax-free paperwork. Official Friday opening hours are 10:00–20:00; finish the main shopping block before the dedicated dinner.\n\nמה לראות / לעשות:\n- לבצע את בלוק Designer Outlet Noventa di Piave — lunch, shopping and tax free בקצב רגוע.\n- לשים לב: Friday opening hours 10:00–20:00. On 11 Sep arrive after the 12:00 car pickup, have lunch, shop, complete tax-free paperwork and use a dedicated 18:30–19:30 dinner block before leaving for the nearby supermarket. A4/E70 and A27 route includes tolls.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:35–18:30.\n- משך ביקור מתוכנן: 4 ש׳ 55 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Marco Polo, 1, 30020 Noventa di Piave VE, Italy",
         "extendedProperties": {
           "private": {
@@ -294,21 +312,67 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Designer Outlet Noventa di Piave → Cortina",
+        "summary": "Dinner — Noventa outlet",
         "start": {
-          "dateTime": "2026-09-11T20:00:00",
+          "dateTime": "2026-09-11T18:30:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-11T22:30:00",
+          "dateTime": "2026-09-11T19:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Cortina%20d'Ampezzo\n\nמה זה המקום:\nThe normal drive is about 2h11 for roughly 161 km; allow 2h30 via A27/SS51. Arrange late or self check-in before the trip.\n\nמה לראות / לעשות:\n- לבצע את בלוק Designer Outlet Noventa di Piave → Cortina בקצב רגוע.\n- לשים לב: East-Dolomites base. Official forecast: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf . Live Tofana/Duca d'Aosta webcams: https://www.impianticortina.it/en/web-cams-weather/\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 20:00–22:30.\n- משך ביקור מתוכנן: 2 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Cortina d'Ampezzo",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Designer+Outlet+Noventa+di+Piave/@45.6714459,12.5354406,17z\n\nמה זה המקום:\nDedicated dinner inside the outlet while it is open 10:00–20:00. Leave by 19:30 so the supermarket stop is protected.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Noventa outlet בקצב רגוע.\n- לשים לב: Friday opening hours 10:00–20:00. On 11 Sep arrive after the 12:00 car pickup, have lunch, shop, complete tax-free paperwork and use a dedicated 18:30–19:30 dinner block before leaving for the nearby supermarket. A4/E70 and A27 route includes tolls.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:30–19:30.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Via Marco Polo, 1, 30020 Noventa di Piave VE, Italy",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-11-drive-cortina"
+            "itineraryItemId": "dolomites-2026:2026-09-11-dinner"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Supermarket — breakfast and sandwiches for 12 Sep",
+        "start": {
+          "dateTime": "2026-09-11T19:40:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-11T20:20:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Eurospar%20Via%20Calnova%20Noventa%20di%20Piave\n\nמה זה המקום:\nBuy breakfast, water, trail snacks and lunch sandwiches for 12 Sep. Official Friday hours are 08:30–20:30; aim to reach the checkout by 20:15.\n\nמה לראות / לעשות:\n- לבצע את בלוק Supermarket — breakfast and sandwiches for 12 Sep בקצב רגוע.\n- לשים לב: Official Friday opening hours are 08:30–20:30. Scheduled for a focused 19:40–20:20 stop after the outlet to buy breakfast, water and lunch sandwiches for 12 Sep; leave the outlet dinner by 19:30 so the closing time is not tight.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:40–20:20.\n- משך ביקור מתוכנן: 40 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Via Calnova, 30020 Noventa di Piave VE, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-11-supermarket"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Eurospar Noventa di Piave → confirmed Auronzo lodging",
+        "start": {
+          "dateTime": "2026-09-11T20:20:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-11T22:35:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nContinue via A27 after the supermarket. The block keeps the prior Google Maps estimate plus a small night-driving margin; late or self check-in is still awaiting Piero's confirmation.\n\nמה לראות / לעשות:\n- לבצע את בלוק Eurospar Noventa di Piave → confirmed Auronzo lodging בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 20:20–22:35.\n- משך ביקור מתוכנן: 2 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-11-drive-auronzo"
           }
         }
       }
@@ -319,19 +383,42 @@
       "event": {
         "summary": "Breakfast and preliminary Ra Bujela go/no-go",
         "start": {
-          "dateTime": "2026-09-12T07:45:00",
+          "dateTime": "2026-09-12T06:50:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-12T08:20:00",
+          "dateTime": "2026-09-12T07:10:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Cortina%20d'Ampezzo\n\nמה זה המקום:\nCheck the official ARPAV Dolomites bulletin, Duca d'Aosta webcam, thunderstorm timing, wind and live lift status. If clearly unsafe, do not rent the equipment; use 13 Sep as the final lift-supported backup.\n\nמה לראות / לעשות:\n- לבצע את בלוק Breakfast and preliminary Ra Bujela go/no-go בקצב רגוע.\n- לשים לב: East-Dolomites base. Official forecast: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf . Live Tofana/Duca d'Aosta webcams: https://www.impianticortina.it/en/web-cams-weather/\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 07:45–08:20.\n- משך ביקור מתוכנן: 35 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Cortina d'Ampezzo",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nCheck the official ARPAV Dolomites bulletin, Duca d'Aosta webcam, thunderstorm timing, wind and live lift status before leaving Auronzo. If clearly unsafe, do not rent the equipment; keep the dedicated 13 Sep Ponte Tibetano and Val Cimoliana day and cancel Ra Bujela rather than chasing the final lift day.\n\nמה לראות / לעשות:\n- לבצע את בלוק Breakfast and preliminary Ra Bujela go/no-go בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 06:50–07:10.\n- משך ביקור מתוכנן: 20 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
             "itineraryItemId": "dolomites-2026:2026-09-12-weather"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Auronzo anchor → Snow Service Cortina",
+        "start": {
+          "dateTime": "2026-09-12T07:10:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-12T08:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Snow%20Service%20Cortina%20Via%20Marconi%2012%2FC\n\nמה זה המקום:\nGoogle Maps currently estimates about 51 minutes for 36 km. The block includes parking and a 15-minute margin before the shop opens.\n\nמה לראות / לעשות:\n- לבצע את בלוק Auronzo anchor → Snow Service Cortina בקצב רגוע.\n- לשים לב: 1–17 Sep opening hours: 08:30–12:30 and 14:30–19:00. Call ahead to reserve two complete EN 958 via-ferrata sets for fitting at opening on 12 Sep and confirm the cancellation/payment policy. Return the equipment on 12 Sep; the revised 13 Sep is dedicated to Ponte Tibetano and Val Cimoliana.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 07:10–08:15.\n- משך ביקור מתוכנן: 1 ש׳ 5 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Via Guglielmo Marconi 12/C, 32043 Cortina d'Ampezzo BL, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-12-drive-snow-service"
           }
         }
       }
@@ -349,7 +436,7 @@
           "dateTime": "2026-09-12T09:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Snow%20Service%20Cortina%20Via%20Marconi%2012%2FC\n\nמה זה המקום:\nAt opening, fit two pre-reserved complete sets: helmet, harness and EN 958 energy-absorbing lanyard. Make the final go/no-go only after the current webcam/lift check and the shop fitting; if no-go, confirm whether to retain or re-rent for 13 Sep.\n\nמה לראות / לעשות:\n- לבצע את בלוק Snow Service fitting and final go/no-go בקצב רגוע.\n- לשים לב: 1–17 Sep opening hours: 08:30–12:30 and 14:30–19:00. Call ahead to reserve two complete EN 958 via-ferrata sets for fitting at opening on 12 Sep; confirm the cancellation/payment policy and whether the sets may be retained for the 13 Sep weather backup.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:30–09:30.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Snow%20Service%20Cortina%20Via%20Marconi%2012%2FC\n\nמה זה המקום:\nAt opening, fit two pre-reserved complete sets: helmet, harness and EN 958 energy-absorbing lanyard. Make the final go/no-go only after the current webcam/lift check and the shop fitting. If no-go, cancel the ferrata and continue with a safe Cortina fallback; 13 Sep is now reserved for Ponte Tibetano and Val Cimoliana.\n\nמה לראות / לעשות:\n- לבצע את בלוק Snow Service fitting and final go/no-go בקצב רגוע.\n- לשים לב: 1–17 Sep opening hours: 08:30–12:30 and 14:30–19:00. Call ahead to reserve two complete EN 958 via-ferrata sets for fitting at opening on 12 Sep and confirm the cancellation/payment policy. Return the equipment on 12 Sep; the revised 13 Sep is dedicated to Ponte Tibetano and Val Cimoliana.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:30–09:30.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Guglielmo Marconi 12/C, 32043 Cortina d'Ampezzo BL, Italy",
         "extendedProperties": {
           "private": {
@@ -432,7 +519,7 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Lunch and recovery — Rifugio Duca d'Aosta",
+        "summary": "Packed lunch and recovery — Rifugio Duca d'Aosta",
         "start": {
           "dateTime": "2026-09-12T13:15:00",
           "timeZone": "Europe/Rome"
@@ -441,7 +528,7 @@
           "dateTime": "2026-09-12T14:00:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Rifugio%20Duca%20d%27Aosta%20Cortina\n\nמה זה המקום:\nConfirm kitchen service shortly before the day and carry a packed backup. If the route runs beyond 13:15, shorten the lake stop rather than the safety margin.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lunch and recovery — Rifugio Duca d'Aosta בקצב רגוע.\n- לשים לב: Start/finish and support point for Ra Bujela. The official 1h45 route time is hut-to-hut; reserve 3h for a calm beginner-paced outing including approach, instruction/checks, waiting and descent back to the hut. Confirm meal service shortly before the day and carry a packed fallback.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:15–14:00.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Rifugio%20Duca%20d%27Aosta%20Cortina\n\nמה זה המקום:\nUse the sandwiches bought on 11 Sep and carry water/snacks. Hut service is not required for the plan; if the kitchen is open, it is optional.\n\nמה לראות / לעשות:\n- לבצע את בלוק Packed lunch and recovery — Rifugio Duca d'Aosta בקצב רגוע.\n- לשים לב: Start/finish and support point for Ra Bujela. The official 1h45 route time is hut-to-hut; reserve 3h for a calm beginner-paced outing including approach, instruction/checks, waiting and descent back to the hut. Confirm meal service shortly before the day and carry a packed fallback.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:15–14:00.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Rifugio Duca d'Aosta",
         "extendedProperties": {
           "private": {
@@ -478,63 +565,17 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Drive — Piè Tofana → Lago Pianozes",
+        "summary": "Piè Tofana → Snow Service Cortina",
         "start": {
           "dateTime": "2026-09-12T14:25:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-12T14:50:00",
+          "dateTime": "2026-09-12T14:45:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Lago%20Pianozes%20Cortina\n\nמה זה המקום:\nUse the nearby lake instead of duplicating the longer Misurina stop planned for 14 Sep. Go only if the route finished on time and both travelers feel good.\n\nמה לראות / לעשות:\n- לבצע את בלוק Drive — Piè Tofana → Lago Pianozes בקצב רגוע.\n- לשים לב: Short, no-ascent lakeside viewpoint after Ra Bujela; do not turn it into the longer walking loop. Official regional forecast: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:25–14:50.\n- משך ביקור מתוכנן: 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Lago Pianozes",
-        "extendedProperties": {
-          "private": {
-            "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-12-drive-pianozes"
-          }
-        }
-      }
-    },
-    {
-      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
-      "event": {
-        "summary": "Lago Pianozes — short no-ascent viewpoint",
-        "start": {
-          "dateTime": "2026-09-12T14:50:00",
-          "timeZone": "Europe/Rome"
-        },
-        "end": {
-          "dateTime": "2026-09-12T15:35:00",
-          "timeZone": "Europe/Rome"
-        },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Lago%20Pianozes%20Cortina\n\nמה זה המקום:\nDrive close to the lake and take only a short lakeside pause; do not follow the longer walking loop. If weather or energy is poor, replace this with a Corso Italia walk in Cortina.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lago Pianozes — short no-ascent viewpoint בקצב רגוע.\n- לשים לב: Short, no-ascent lakeside viewpoint after Ra Bujela; do not turn it into the longer walking loop. Official regional forecast: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:50–15:35.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Lago Pianozes",
-        "extendedProperties": {
-          "private": {
-            "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-12-pianozes"
-          }
-        }
-      }
-    },
-    {
-      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
-      "event": {
-        "summary": "Return to Cortina",
-        "start": {
-          "dateTime": "2026-09-12T15:35:00",
-          "timeZone": "Europe/Rome"
-        },
-        "end": {
-          "dateTime": "2026-09-12T16:00:00",
-          "timeZone": "Europe/Rome"
-        },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Cortina%20d'Ampezzo\n\nמה זה המקום:\nReturn directly for the equipment hand-back. If the ferrata ran late, skip Pianozes and use this time for an easy town walk instead.\n\nמה לראות / לעשות:\n- לבצע את בלוק Return to Cortina בקצב רגוע.\n- לשים לב: East-Dolomites base. Official forecast: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf . Live Tofana/Duca d'Aosta webcams: https://www.impianticortina.it/en/web-cams-weather/\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:35–16:00.\n- משך ביקור מתוכנן: 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Cortina d'Ampezzo",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Snow%20Service%20Cortina%20Via%20Marconi%2012%2FC\n\nמה זה המקום:\nReturn directly to the shop; Lago Pianozes is removed so the equipment hand-back and Fun Bob closing time stay protected.\n\nמה לראות / לעשות:\n- לבצע את בלוק Piè Tofana → Snow Service Cortina בקצב רגוע.\n- לשים לב: 1–17 Sep opening hours: 08:30–12:30 and 14:30–19:00. Call ahead to reserve two complete EN 958 via-ferrata sets for fitting at opening on 12 Sep and confirm the cancellation/payment policy. Return the equipment on 12 Sep; the revised 13 Sep is dedicated to Ponte Tibetano and Val Cimoliana.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:25–14:45.\n- משך ביקור מתוכנן: 20 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Via Guglielmo Marconi 12/C, 32043 Cortina d'Ampezzo BL, Italy",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
@@ -547,16 +588,16 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Return equipment and easy Corso Italia walk",
+        "summary": "Return via-ferrata equipment",
         "start": {
-          "dateTime": "2026-09-12T16:00:00",
+          "dateTime": "2026-09-12T14:45:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-12T18:30:00",
+          "dateTime": "2026-09-12T15:15:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Snow%20Service%20Cortina%20Via%20Marconi%2012%2FC\n\nמה זה המקום:\nReturn the equipment after a successful outing, then take an easy central Cortina walk. If 12 Sep was a no-go, retain the equipment only under the shop's agreed 13 Sep backup terms.\n\nמה לראות / לעשות:\n- לבצע את בלוק Return equipment and easy Corso Italia walk בקצב רגוע.\n- לשים לב: 1–17 Sep opening hours: 08:30–12:30 and 14:30–19:00. Call ahead to reserve two complete EN 958 via-ferrata sets for fitting at opening on 12 Sep; confirm the cancellation/payment policy and whether the sets may be retained for the 13 Sep weather backup.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 16:00–18:30.\n- משך ביקור מתוכנן: 2 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Snow%20Service%20Cortina%20Via%20Marconi%2012%2FC\n\nמה זה המקום:\nReturn the equipment the same day whether the ferrata ran or was cancelled. Snow Service afternoon opening hours are 14:30–19:00, so this hand-back is within published service hours; there is no 13 Sep equipment hold.\n\nמה לראות / לעשות:\n- לבצע את בלוק Return via-ferrata equipment בקצב רגוע.\n- לשים לב: 1–17 Sep opening hours: 08:30–12:30 and 14:30–19:00. Call ahead to reserve two complete EN 958 via-ferrata sets for fitting at opening on 12 Sep and confirm the cancellation/payment policy. Return the equipment on 12 Sep; the revised 13 Sep is dedicated to Ponte Tibetano and Val Cimoliana.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:45–15:15.\n- משך ביקור מתוכנן: 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Guglielmo Marconi 12/C, 32043 Cortina d'Ampezzo BL, Italy",
         "extendedProperties": {
           "private": {
@@ -570,21 +611,21 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Hard Ra Bujela weather buffer / Lagazuoi if complete",
+        "summary": "Snow Service Cortina → Fun Bob Monte Agudo",
         "start": {
-          "dateTime": "2026-09-13T07:30:00",
+          "dateTime": "2026-09-12T15:15:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-13T12:30:00",
+          "dateTime": "2026-09-12T16:10:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Pi%C3%A8%20Tofana%20Duca%20d%27Aosta%20chairlift\n\nמה זה המקום:\nIf Ra Bujela did not run on 12 Sep and conditions are safe, repeat the Ra Bujela morning now; this is the final lift-supported chance because Piè Tofana closes after today. If Ra Bujela is complete, use the morning for Lagazuoi instead. If conditions are unsafe again, cancel the via ferrata.\n\nמה לראות / לעשות:\n- לבצע את בלוק Hard Ra Bujela weather buffer / Lagazuoi if complete בקצב רגוע.\n- לשים לב: Summer 2026 operation ends 13 Sep. Daily hours 08:30–17:00. Adult return €18. This is the time-critical access lift for Ra Bujela. Live webcam/weather: https://www.impianticortina.it/en/web-cams-weather/ . Official Dolomites bulletin: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 07:30–12:30.\n- משך ביקור מתוכנן: 5 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nCortina, Passo Falzarego or another low-risk valley activity.",
-        "location": "Piè Tofana – Duca d'Aosta chairlift",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Fun%20Bob%20Auronzo%20Monte%20Agudo\n\nמה זה המקום:\nDrive directly from the equipment-return shop to Fun Bob. Do not route through or stop at the lodging: the active day stays continuous outside the accommodation until after dinner. The 55-minute block is based on the existing Cortina–Auronzo route estimate plus arrival and parking margin.\n\nמה לראות / לעשות:\n- לבצע את בלוק Snow Service Cortina → Fun Bob Monte Agudo בקצב רגוע.\n- לשים לב: Official 2026 Fun Bob hours are 10:00–13:00 and 14:00–18:00; Taiarezze–Malon chairlift 09:00–18:00. Continuous daily operation ends Sunday 13 Sep, then resumes only on the 19–20 and 26–27 Sep weekends, so the requested 15 or 16 Sep evening is impossible. Scheduled instead on Saturday 12 Sep, 16:10–17:30, after a direct drive from Snow Service without returning to the lodging. Operation is suspended in rain.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:15–16:10.\n- משך ביקור מתוכנן: 55 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Via Pause, 32041 Auronzo di Cadore BL, Italy",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-13-hard-buffer"
+            "itineraryItemId": "dolomites-2026:2026-09-12-return-auronzo"
           }
         }
       }
@@ -593,7 +634,168 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Flexible lunch after the weather decision",
+        "summary": "Fun Bob Auronzo — earlier afternoon block",
+        "start": {
+          "dateTime": "2026-09-12T16:10:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-12T17:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Fun%20Bob%20Auronzo%20Monte%20Agudo\n\nמה זה המקום:\nGo straight into ticketing and rides after arriving from Cortina. Official hours are 10:00–13:00 and 14:00–18:00; daily 2026 operation runs through 13 Sep only and service is suspended in rain. The 16:10–17:30 block brings the activity forward while retaining 30 minutes before closing.\n\nמה לראות / לעשות:\n- לבצע את בלוק Fun Bob Auronzo — earlier afternoon block בקצב רגוע.\n- לשים לב: Official 2026 Fun Bob hours are 10:00–13:00 and 14:00–18:00; Taiarezze–Malon chairlift 09:00–18:00. Continuous daily operation ends Sunday 13 Sep, then resumes only on the 19–20 and 26–27 Sep weekends, so the requested 15 or 16 Sep evening is impossible. Scheduled instead on Saturday 12 Sep, 16:10–17:30, after a direct drive from Snow Service without returning to the lodging. Operation is suspended in rain.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 16:10–17:30.\n- משך ביקור מתוכנן: 1 ש׳ 20 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nIf rain suspends Fun Bob, extend the Lago di Auronzo and town walk before an earlier dinner.",
+        "location": "Via Pause, 32041 Auronzo di Cadore BL, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-12-funbob"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Lago di Auronzo and short town walk",
+        "start": {
+          "dateTime": "2026-09-12T17:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-12T18:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Lago%20di%20Auronzo\n\nמה זה המקום:\nOpen-access easy lakeside and town stroll after Fun Bob, before dinner. No lodging stop. Shorten only if Fun Bob queues extend; weather and daylight are the practical constraints.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lago di Auronzo and short town walk בקצב רגוע.\n- לשים לב: Open-access lakeside and town walk scheduled on 12 Sep after Fun Bob and before dinner. It replaces the rejected mid-day lodging return and keeps the active day continuous outside the accommodation. Weather and daylight are the only operational constraints.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 17:30–18:15.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "32041 Auronzo di Cadore BL, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-12-funbob-drive"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Dinner — Auronzo",
+        "start": {
+          "dateTime": "2026-09-12T18:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-12T19:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nDedicated dinner after Fun Bob and the lakeside/town walk. Preferred nearby shortlist: Pizzeria La Pineta, Ristorante La Stadiera or casual Bucintoro. Reconfirm Saturday 12 Sep service and reserve where needed. Return to the lodging and shower only after dinner, when the day is finished.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Auronzo בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:30–19:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-12-dinner"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Auronzo anchor → Ponte Tibetano",
+        "start": {
+          "dateTime": "2026-09-13T07:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-13T08:05:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Ponte%20Tibetano%20Passerella%20Sospesa%20Perarolo%20di%20Cadore\n\nמה זה המקום:\nGoogle Maps currently estimates about 35 minutes for 26.8 km. Park near the Ansogne access and keep valuables out of sight.\n\nמה לראות / לעשות:\n- לבצע את בלוק Auronzo anchor → Ponte Tibetano בקצב רגוע.\n- לשים לב: Scheduled on 13 Sep as a short bridge crossing, photos and onward drive. The official tourism pages describe a 103 m suspension bridge about 90 m above the valley and an easy roughly 10-minute approach from the Ansogne industrial-area parking.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 07:30–08:05.\n- משך ביקור מתוכנן: 35 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "32010 Perarolo di Cadore BL, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-13-drive-ponte"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Ponte Tibetano — bridge walk and photos",
+        "start": {
+          "dateTime": "2026-09-13T08:05:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-13T09:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Ponte%20Tibetano%20Passerella%20Sospesa%20Perarolo%20di%20Cadore\n\nמה זה המקום:\nUse the easy roughly 10-minute approach, cross the 103 m suspension bridge, take photos and return to the car. This is a short stop followed by onward travel, not a separate long hike.\n\nמה לראות / לעשות:\n- לבצע את בלוק Ponte Tibetano — bridge walk and photos בקצב רגוע.\n- לשים לב: Scheduled on 13 Sep as a short bridge crossing, photos and onward drive. The official tourism pages describe a 103 m suspension bridge about 90 m above the valley and an easy roughly 10-minute approach from the Ansogne industrial-area parking.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:05–09:00.\n- משך ביקור מתוכנן: 55 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "32010 Perarolo di Cadore BL, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-13-ponte"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Ponte Tibetano → Rifugio Pordenone / Val Cimoliana",
+        "start": {
+          "dateTime": "2026-09-13T09:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-13T10:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Rifugio%20Pordenone%20Cimolais\n\nמה זה המקום:\nGoogle Maps estimates roughly 1h02 to Rifugio Pordenone; the 1h15 block covers the summer toll and cautious driving on the partly unpaved upper-valley road. After heavy rain, stop in the lower valley and use the fallback route.\n\nמה לראות / לעשות:\n- לבצע את בלוק Ponte Tibetano → Rifugio Pordenone / Val Cimoliana בקצב רגוע.\n- לשים לב: Trailhead and lunch support for the easy Belvederi del Campanile di Val Montanaia route: about 3 km, 2 hours and 330 m ascent. The hut is normally open from mid-May to mid-October; confirm service and road access shortly before the day.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 09:00–10:15.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Località Pian Meluzzo, 33080 Cimolais PN, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-13-drive-cimoliana"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Val Cimoliana — Campanile di Val Montanaia belvederes",
+        "start": {
+          "dateTime": "2026-09-13T10:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-13T12:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Val%20Cimoliana%20Cimolais\n\nמה זה המקום:\nFollow the official easy belvedere route from Rifugio Pordenone: about 3 km, 2 hours and 330 m ascent, with a small time margin. Turn around if the trail is wet, damaged or visibility deteriorates.\n\nמה לראות / לעשות:\n- לבצע את בלוק Val Cimoliana — Campanile di Val Montanaia belvederes בקצב רגוע.\n- לשים לב: Dedicated 13 Sep valley day reached after Ponte Tibetano. The upper access road is about 13 km, partly paved and partly unpaved, with a summer toll; verify access after heavy rain and use the lower-valley fallback if it is unavailable.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 10:15–12:30.\n- משך ביקור מתוכנן: 2 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Strada della Val Cimoliana, 33080 Cimolais PN, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-13-val-cimoliana-hike"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Lunch at Rifugio Pordenone",
         "start": {
           "dateTime": "2026-09-13T12:30:00",
           "timeZone": "Europe/Rome"
@@ -602,12 +804,12 @@
           "dateTime": "2026-09-13T13:45:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Flexible%20lunch%20after%20the%20weather%20decision\n\nמה זה המקום:\nEat near Duca d'Aosta/Falzarego/Cortina according to the chosen morning and carry a packed fallback.\n\nמה לראות / לעשות:\n- לבצע את בלוק Flexible lunch after the weather decision בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:30–13:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Flexible lunch after the weather decision",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Rifugio%20Pordenone%20Cimolais\n\nמה זה המקום:\nConfirm opening and kitchen service shortly before the day and carry a packed lunch as backup.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lunch at Rifugio Pordenone בקצב רגוע.\n- לשים לב: Trailhead and lunch support for the easy Belvederi del Campanile di Val Montanaia route: about 3 km, 2 hours and 330 m ascent. The hut is normally open from mid-May to mid-October; confirm service and road access shortly before the day.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:30–13:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Località Pian Meluzzo, 33080 Cimolais PN, Italy",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-13-lunch"
+            "itineraryItemId": "dolomites-2026:2026-09-13-lunch-pordenone"
           }
         }
       }
@@ -616,21 +818,21 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Equipment return and recovery",
+        "summary": "Short Pian Meluzzo valley stroll",
         "start": {
-          "dateTime": "2026-09-13T15:00:00",
+          "dateTime": "2026-09-13T13:45:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-13T17:00:00",
+          "dateTime": "2026-09-13T14:00:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Snow%20Service%20Cortina%20Via%20Marconi%2012%2FC\n\nמה זה המקום:\nReturn the via-ferrata equipment if it was retained for the backup. Keep the remainder of the afternoon easy before Tre Cime.\n\nמה לראות / לעשות:\n- לבצע את בלוק Equipment return and recovery בקצב רגוע.\n- לשים לב: 1–17 Sep opening hours: 08:30–12:30 and 14:30–19:00. Call ahead to reserve two complete EN 958 via-ferrata sets for fitting at opening on 12 Sep; confirm the cancellation/payment policy and whether the sets may be retained for the 13 Sep weather backup.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:00–17:00.\n- משך ביקור מתוכנן: 2 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Via Guglielmo Marconi 12/C, 32043 Cortina d'Ampezzo BL, Italy",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Val%20Cimoliana%20Cimolais\n\nמה זה המקום:\nA flat, tightly time-boxed photo and recovery stop near the valley floor; skip if lunch or the main hike ran late so the museum window remains protected.\n\nמה לראות / לעשות:\n- לבצע את בלוק Short Pian Meluzzo valley stroll בקצב רגוע.\n- לשים לב: Dedicated 13 Sep valley day reached after Ponte Tibetano. The upper access road is about 13 km, partly paved and partly unpaved, with a summer toll; verify access after heavy rain and use the lower-valley fallback if it is unavailable.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:45–14:00.\n- משך ביקור מתוכנן: 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Strada della Val Cimoliana, 33080 Cimolais PN, Italy",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-13-equipment-return"
+            "itineraryItemId": "dolomites-2026:2026-09-13-pian-meluzzo"
           }
         }
       }
@@ -639,16 +841,108 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Tre Cime di Lavaredo loop",
+        "summary": "Val Cimoliana → Auronzo lodging",
+        "start": {
+          "dateTime": "2026-09-13T14:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-13T15:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nAllow up to 1h45 for the return, including the slow upper-valley road. Continue to the nearby civic museum after a short arrival buffer.\n\nמה לראות / לעשות:\n- לבצע את בלוק Val Cimoliana → Auronzo lodging בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:00–15:45.\n- משך ביקור מתוכנן: 1 ש׳ 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-13-return-auronzo"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Auronzo Civic Museum — Palazzo Corte Metto",
+        "start": {
+          "dateTime": "2026-09-13T16:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-13T17:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Museo%20Palazzo%20Corte%20Metto%20Auronzo\n\nמה זה המקום:\nNew light Plan A activity close to the lodging after the valley day. The official Auronzo page publishes continuous June–September hours of 10:00–19:00, so the Sunday 16:00–17:30 block fits. Recheck the live notice before the trip; if the valley return runs late, shorten rather than rush.\n\nמה לראות / לעשות:\n- לבצע את בלוק Auronzo Civic Museum — Palazzo Corte Metto בקצב רגוע.\n- לשים לב: Added as the light second activity on Sunday 13 Sep after Val Cimoliana. The official Auronzo page publishes continuous June–September opening of 10:00–19:00; the scheduled 16:00–17:30 block is inside that window. Recheck the live notice shortly before travel.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 16:00–17:30.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Via Dante Alighieri 4, 32041 Auronzo di Cadore BL, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-13-museum"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Dinner — Auronzo",
+        "start": {
+          "dateTime": "2026-09-13T18:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-13T19:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nDedicated early dinner and hydration before the Tre Cime start. Preferred near-base shortlist: Pizzeria La Pineta, Ristorante La Stadiera or Bucintoro; reconfirm Sunday service and reserve where needed. Shower only after dinner.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Auronzo בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:30–19:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-13-dinner"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Auronzo anchor → Rifugio Auronzo parking",
+        "start": {
+          "dateTime": "2026-09-14T06:25:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-14T07:20:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Rifugio%20Auronzo%20parking%20Tre%20Cime\n\nמה זה המקום:\nGoogle Maps currently estimates about 52 minutes for 32.1 km. Use the reserved parking slot and arrive before the planned 07:30 start.\n\nמה לראות / לעשות:\n- לבצע את בלוק Auronzo anchor → Rifugio Auronzo parking בקצב רגוע.\n- לשים לב: 2026 car parking €40, mandatory online reservation, 12-hour ticket; booking expected to open around end of April.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 06:25–07:20.\n- משך ביקור מתוכנן: 55 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Rifugio Auronzo / Tre Cime parking",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-14-drive-tre-cime"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Tre Cime di Lavaredo loop — extended scenic pace",
         "start": {
           "dateTime": "2026-09-14T07:30:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-14T13:15:00",
+          "dateTime": "2026-09-14T13:45:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Tre%20Cime%20di%20Lavaredo\n\nמה זה המקום:\nArrive at Rifugio Auronzo parking by 07:30–08:00. Light-medium 10 km loop, 4–5 hours; carry layers, water and sandwiches.\n\nמה לראות / לעשות:\n- לבצע את בלוק Tre Cime di Lavaredo loop בקצב רגוע.\n- לשים לב: Plan 10 km / 4–5 h. Arrive 07:30–08:00. Carry sandwiches; do not rely on rifugi.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 07:30–13:15.\n- משך ביקור מתוכנן: 5 ש׳ 45 דק׳.\n- חניה / רכבל / כרטיס: Tre Cime parking for 14 Sep\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nLago di Misurina lakeside walk",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Tre%20Cime%20di%20Lavaredo\n\nמה זה המקום:\nArrive at Rifugio Auronzo parking by 07:30. Light-medium 10 km loop, normally 4–5 hours; this block adds photo and recovery time without adding Cadini after the full loop. Carry layers, water and sandwiches. The natural trail itself has no commercial opening hours; the reserved parking window governs access.\n\nמה לראות / לעשות:\n- לבצע את בלוק Tre Cime di Lavaredo loop — extended scenic pace בקצב רגוע.\n- לשים לב: Plan 10 km / 4–5 h. Arrive 07:30–08:00. Carry sandwiches; do not rely on rifugi.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 07:30–13:45.\n- משך ביקור מתוכנן: 6 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: Tre Cime parking for 14 Sep\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nLago di Misurina lakeside walk",
         "location": "Tre Cime di Lavaredo loop",
         "extendedProperties": {
           "private": {
@@ -687,19 +981,88 @@
       "event": {
         "summary": "Lago di Misurina recovery stop",
         "start": {
-          "dateTime": "2026-09-14T15:00:00",
+          "dateTime": "2026-09-14T15:15:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-14T16:30:00",
+          "dateTime": "2026-09-14T17:15:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Lago%20di%20Misurina\n\nמה זה המקום:\nOptional easy lakeside recovery stop; skip if the hike runs late or weather worsens. Cadini is a conditional replacement from Rifugio Auronzo only in dry, low-wind conditions and must not be stacked after the full Tre Cime loop.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lago di Misurina recovery stop בקצב רגוע.\n- לשים לב: Easy lake stop. Use the official ARPAV Dolomites bulletin: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:00–16:30.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Lago%20di%20Misurina\n\nמה זה המקום:\nLonger easy lakeside recovery stop after the extended Tre Cime block; skip if the hike runs late or weather worsens. Cadini remains a replacement, not an addition.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lago di Misurina recovery stop בקצב רגוע.\n- לשים לב: Easy lake stop. Use the official ARPAV Dolomites bulletin: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:15–17:15.\n- משך ביקור מתוכנן: 2 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Lago di Misurina",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
             "itineraryItemId": "dolomites-2026:2026-09-14-misurina"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Misurina → Auronzo anchor",
+        "start": {
+          "dateTime": "2026-09-14T17:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-14T17:50:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nAllow about 35 minutes for the return, then keep a short buffer before dinner.\n\nמה לראות / לעשות:\n- לבצע את בלוק Misurina → Auronzo anchor בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 17:15–17:50.\n- משך ביקור מתוכנן: 35 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-14-return-auronzo"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Dinner — Auronzo",
+        "start": {
+          "dateTime": "2026-09-14T18:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-14T19:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nDedicated recovery dinner after Tre Cime. Preferred near-base shortlist: Pizzeria La Pineta, Ristorante La Stadiera or Bucintoro. Reconfirm Monday 14 Sep service; Al Tabià is an extra option only after direct hours confirmation.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Auronzo בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:30–19:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-14-dinner"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Auronzo anchor → Lago di Braies",
+        "start": {
+          "dateTime": "2026-09-15T06:10:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-15T07:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/P1%20Lago%20di%20Braies%20parking\n\nמה זה המקום:\nGoogle Maps currently estimates about 1h15 for 59.7 km. The block includes a small parking margin; use the reserved parking confirmation.\n\nמה לראות / לעשות:\n- לבצע את בלוק Auronzo anchor → Lago di Braies בקצב רגוע.\n- לשים לב: Road regulation and reserved limited parking apply during the September 2026 visit. Official local weather: https://weather.province.bz.it/en/home (select Braies/Prags).\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 06:10–07:30.\n- משך ביקור מתוכנן: 1 ש׳ 20 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "P1 – Parcheggio Lago di Braies",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-15-drive-braies"
           }
         }
       }
@@ -763,7 +1126,7 @@
           "dateTime": "2026-09-15T14:45:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Lago%20di%20Landro\n\nמה זה המקום:\nNatural short stop on the return toward Cortina: 15–30 minutes by the lake, with no separate hike. Skip only if Braies or lunch ran late.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lago di Landro roadside photo stop בקצב רגוע.\n- לשים לב: Natural 15–30 minute photo stop on the 15 Sep return from Braies to Cortina. Google Maps currently estimates about 32 minutes from Braies and 28 minutes onward to Cortina.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:15–14:45.\n- משך ביקור מתוכנן: 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Lago%20di%20Landro\n\nמה זה המקום:\nNatural short stop on the return toward Auronzo: 15–30 minutes by the lake, with no separate hike. Skip only if Braies or lunch ran late.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lago di Landro roadside photo stop בקצב רגוע.\n- לשים לב: Natural 15–30 minute photo stop on the 15 Sep return from Braies to Cortina. Google Maps currently estimates about 32 minutes from Braies and 28 minutes onward to Cortina.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:15–14:45.\n- משך ביקור מתוכנן: 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Lago di Landro / Dürrensee",
         "extendedProperties": {
           "private": {
@@ -777,17 +1140,40 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Cortina recovery afternoon",
+        "summary": "Lago di Landro → Col de Varda chairlift",
         "start": {
-          "dateTime": "2026-09-15T15:15:00",
+          "dateTime": "2026-09-15T14:45:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-15T18:00:00",
+          "dateTime": "2026-09-15T15:05:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Cortina%20recovery%20afternoon\n\nמה זה המקום:\nEasy café/town time, laundry and a weather check for the final east-base flex day. Val Fiscalina is a separate half-day Plan B, not an addition to this Braies day.\n\nמה לראות / לעשות:\n- לבצע את בלוק Cortina recovery afternoon בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:15–18:00.\n- משך ביקור מתוכנן: 2 ש׳ 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Cortina recovery afternoon",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Seggiovia%20Col%20de%20Varda%20Misurina\n\nמה זה המקום:\nShort continuation toward Misurina instead of returning early to the lodging. Park and buy tickets promptly; skip if Braies or lunch ran late enough to compromise the safe descent margin.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lago di Landro → Col de Varda chairlift בקצב רגוע.\n- לשים לב: Added after the Lago di Landro stop on Tuesday 15 Sep. The official summer page publishes chairlift hours 09:00–16:45 from June through September. The plan ascends around 15:05 and starts descending by 16:20, leaving operating margin; verify the exact 2026 seasonal notice and weather before departure.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:45–15:05.\n- משך ביקור מתוכנן: 20 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Strada Provinciale 49 di Misurina, 32041 Misurina BL, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-15-return-auronzo"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Col de Varda — chairlift, panorama and short walk",
+        "start": {
+          "dateTime": "2026-09-15T15:05:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-15T16:35:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Seggiovia%20Col%20de%20Varda%20Misurina\n\nמה זה המקום:\nNew light second activity: ascend, enjoy the panoramic terrace and a short easy walk near Rifugio Col de Varda, then start the descent by 16:20. The official summer page publishes 09:00–16:45 chairlift hours from June through September; verify exact 15 Sep 2026 operation and do not attempt the longer Rifugio Città di Carpi hike in this late window.\n\nמה לראות / לעשות:\n- לבצע את בלוק Col de Varda — chairlift, panorama and short walk בקצב רגוע.\n- לשים לב: Added after the Lago di Landro stop on Tuesday 15 Sep. The official summer page publishes chairlift hours 09:00–16:45 from June through September. The plan ascends around 15:05 and starts descending by 16:20, leaving operating margin; verify the exact 2026 seasonal notice and weather before departure.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:05–16:35.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Strada Provinciale 49 di Misurina, 32041 Misurina BL, Italy",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
@@ -800,17 +1186,86 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Cinque Torri weather and lift check",
+        "summary": "Col de Varda → Auronzo lodging",
         "start": {
-          "dateTime": "2026-09-16T07:45:00",
+          "dateTime": "2026-09-15T16:35:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-16T08:15:00",
+          "dateTime": "2026-09-15T17:20:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Cortina%20d'Ampezzo\n\nמה זה המקום:\nCheck ARPAV, the 5 Torri webcam and current lift status. Cinque Torri is the fixed Plan A anchor for today, not a leftover from 12 Sep.\n\nמה לראות / לעשות:\n- לבצע את בלוק Cinque Torri weather and lift check בקצב רגוע.\n- לשים לב: East-Dolomites base. Official forecast: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf . Live Tofana/Duca d'Aosta webcams: https://www.impianticortina.it/en/web-cams-weather/\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 07:45–08:15.\n- משך ביקור מתוכנן: 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Cortina d'Ampezzo",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nReturn after the chairlift descent with a small traffic margin. This is not a shower stop; showers are only after the final activity or meal at night.\n\nמה לראות / לעשות:\n- לבצע את בלוק Col de Varda → Auronzo lodging בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 16:35–17:20.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-15-return-col-varda"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Rest and next-day weather check — no shower",
+        "start": {
+          "dateTime": "2026-09-15T17:20:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-15T18:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nSit down, drink, charge devices and check ARPAV, the 5 Torri webcam, Lagazuoi wind/lift status and the Passo Giau sunset forecast. No shower and no laundry before dinner; the single trip laundry block remains on the first evening at the final Ortisei anchor.\n\nמה לראות / לעשות:\n- לבצע את בלוק Rest and next-day weather check — no shower בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 17:20–18:15.\n- משך ביקור מתוכנן: 55 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-15-weather-check"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Dinner — Auronzo",
+        "start": {
+          "dateTime": "2026-09-15T18:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-15T19:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nDedicated dinner, followed by the night shower and an early night. Preferred near-base shortlist: Pizzeria La Pineta, Ristorante La Stadiera or Bucintoro; reconfirm Tuesday 15 Sep service and reserve where needed.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Auronzo בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:30–19:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-15-dinner"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Cinque Torri weather and lift check",
+        "start": {
+          "dateTime": "2026-09-16T07:25:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-16T07:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nCheck ARPAV, the 5 Torri webcam and current lift status before leaving Auronzo. Cinque Torri is the fixed Plan A anchor for today.\n\nמה לראות / לעשות:\n- לבצע את בלוק Cinque Torri weather and lift check בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 07:25–07:45.\n- משך ביקור מתוכנן: 20 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
@@ -823,16 +1278,16 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Drive — Cortina → Bai de Dones",
+        "summary": "Auronzo anchor → Bai de Dones",
         "start": {
-          "dateTime": "2026-09-16T08:15:00",
+          "dateTime": "2026-09-16T07:45:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
           "dateTime": "2026-09-16T09:00:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/5%20Torri%20chairlift%20Bai%20de%20Dones\n\nמה זה המקום:\nPark and be ready for the 09:00 opening of the 5 Torri chairlift.\n\nמה לראות / לעשות:\n- לבצע את בלוק Drive — Cortina → Bai de Dones בקצב רגוע.\n- לשים לב: 5 Torri chairlift currently published through 11 Oct 2026, 09:00–17:00, weather dependent. Official webcam: https://5torri.it/EN/p34-Webcam . Official regional forecast: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:15–09:00.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/5%20Torri%20chairlift%20Bai%20de%20Dones\n\nמה זה המקום:\nGoogle Maps currently estimates about 1h07 for 47.5 km. The block includes parking so you are ready for the 09:00 opening.\n\nמה לראות / לעשות:\n- לבצע את בלוק Auronzo anchor → Bai de Dones בקצב רגוע.\n- לשים לב: 5 Torri chairlift currently published through 11 Oct 2026, 09:00–17:00, weather dependent. Official webcam: https://5torri.it/EN/p34-Webcam . Official regional forecast: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 07:45–09:00.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "5 Torri chairlift – Bai de Dones",
         "extendedProperties": {
           "private": {
@@ -901,7 +1356,7 @@
           "dateTime": "2026-09-16T13:40:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/5%20Torri%20chairlift%20Bai%20de%20Dones\n\nמה זה המקום:\nDescend early, with a wide margin before the final 17:00 service.\n\nמה לראות / לעשות:\n- לבצע את בלוק 5 Torri chairlift descent בקצב רגוע.\n- לשים לב: 5 Torri chairlift currently published through 11 Oct 2026, 09:00–17:00, weather dependent. Official webcam: https://5torri.it/EN/p34-Webcam . Official regional forecast: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:15–13:40.\n- משך ביקור מתוכנן: 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/5%20Torri%20chairlift%20Bai%20de%20Dones\n\nמה זה המקום:\nDescend early, with a wide margin before the final 17:00 service, then continue to the former Plan B anchor at Lagazuoi.\n\nמה לראות / לעשות:\n- לבצע את בלוק 5 Torri chairlift descent בקצב רגוע.\n- לשים לב: 5 Torri chairlift currently published through 11 Oct 2026, 09:00–17:00, weather dependent. Official webcam: https://5torri.it/EN/p34-Webcam . Official regional forecast: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:15–13:40.\n- משך ביקור מתוכנן: 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "5 Torri chairlift – Bai de Dones",
         "extendedProperties": {
           "private": {
@@ -915,16 +1370,62 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Passo Giau or Cortina recovery stop",
+        "summary": "Bai de Dones → Funivia Lagazuoi",
         "start": {
-          "dateTime": "2026-09-16T14:00:00",
+          "dateTime": "2026-09-16T13:40:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-16T15:00:00",
+          "dateTime": "2026-09-16T14:10:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Passo%20Giau\n\nמה זה המקום:\nShort viewpoint stop only in clear conditions; otherwise return directly to Cortina.\n\nמה לראות / לעשות:\n- לבצע את בלוק Passo Giau or Cortina recovery stop בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:00–15:00.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Funivia%20Lagazuoi\n\nמה זה המקום:\nShort transfer to Passo Falzarego with parking and ticket margin.\n\nמה לראות / לעשות:\n- לבצע את בלוק Bai de Dones → Funivia Lagazuoi בקצב רגוע.\n- לשים לב: Published 2026 operation: 6 Jun–18 Oct; first lift 09:00, last uphill 16:40, last descent 17:00. Official regional forecast: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:40–14:10.\n- משך ביקור מתוכנן: 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Funivia Lagazuoi",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-16-lagazuoi-drive"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Lagazuoi — summit viewpoints and history walk",
+        "start": {
+          "dateTime": "2026-09-16T14:10:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-16T16:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Funivia%20Lagazuoi\n\nמה זה המקום:\nAdd this former Plan B anchor after Cinque Torri: cable car, easy summit viewpoints and a short history walk, not a long tunnel route. Official hours: first lift 09:00, last uphill 16:40 and last descent 17:00; be in the descent queue by 16:35.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lagazuoi — summit viewpoints and history walk בקצב רגוע.\n- לשים לב: Published 2026 operation: 6 Jun–18 Oct; first lift 09:00, last uphill 16:40, last descent 17:00. Official regional forecast: https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:10–16:45.\n- משך ביקור מתוכנן: 2 ש׳ 35 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Funivia Lagazuoi",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-16-lagazuoi"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Lagazuoi → Passo Giau",
+        "start": {
+          "dateTime": "2026-09-16T16:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-16T17:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Passo%20Giau\n\nמה זה המקום:\nContinue only with clear weather and open roads. The full Auronzo–Cinque Torri–Lagazuoi–Giau–Auronzo driving circuit is currently about 3 hours in Google Maps.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lagazuoi → Passo Giau בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 16:45–17:30.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Passo Giau",
         "extendedProperties": {
           "private": {
@@ -938,17 +1439,86 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Laundry, fuel and pack for transfer",
+        "summary": "Early packed dinner — Passo Giau",
         "start": {
-          "dateTime": "2026-09-16T15:00:00",
+          "dateTime": "2026-09-16T17:30:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-16T18:00:00",
+          "dateTime": "2026-09-16T18:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Laundry%2C%20fuel%20and%20pack%20for%20transfer\n\nמה זה המקום:\nRefuel, organize the car and download the next day’s scenic route offline.\n\nמה לראות / לעשות:\n- לבצע את בלוק Laundry, fuel and pack for transfer בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:00–18:00.\n- משך ביקור מתוכנן: 3 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Laundry, fuel and pack for transfer",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Passo%20Giau\n\nמה זה המקום:\nDedicated early dinner from packed food/thermos so the sunset window does not depend on unverified restaurant service. Passo Giau is open-access; road and weather conditions govern the visit.\n\nמה לראות / לעשות:\n- לבצע את בלוק Early packed dinner — Passo Giau בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 17:30–18:30.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Passo Giau",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-16-dinner"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Passo Giau golden hour and sunset",
+        "start": {
+          "dateTime": "2026-09-16T18:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-16T19:35:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Passo%20Giau\n\nמה זה המקום:\nStay outside through the 19:21 astronomical sunset near Cortina, then leave promptly. Use only in clear, calm conditions and carry warm layers/headlamps.\n\nמה לראות / לעשות:\n- לבצע את בלוק Passo Giau golden hour and sunset בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:30–19:35.\n- משך ביקור מתוכנן: 1 ש׳ 5 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Passo Giau",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-16-sunset"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Passo Giau → Auronzo lodging",
+        "start": {
+          "dateTime": "2026-09-16T19:35:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-16T21:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nReturn after sunset with a conservative night-driving margin and arrive around the requested 21:00.\n\nמה לראות / לעשות:\n- לבצע את בלוק Passo Giau → Auronzo lodging בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:35–21:00.\n- משך ביקור מתוכנן: 1 ש׳ 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-16-return-auronzo"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Pack, clean the lodging or leave the €40 cleaner fee",
+        "start": {
+          "dateTime": "2026-09-16T21:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-16T22:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nPack, organize the car, download the next day’s route and leave the lodging according to the host's instructions: either clean up after yourselves, including kitchen, rubbish and belongings, or leave/pay the agreed €40 cleaner fee. Confirm the exact payment method in the booking messages. No laundry on 16 Sep; shower only now, after the final outing.\n\nמה לראות / לעשות:\n- לבצע את בלוק Pack, clean the lodging or leave the €40 cleaner fee בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 21:00–22:00.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
@@ -961,16 +1531,16 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Great Dolomites Road — Cortina → Passo Pordoi",
+        "summary": "Great Dolomites Road — Auronzo anchor → Passo Pordoi",
         "start": {
-          "dateTime": "2026-09-17T08:00:00",
+          "dateTime": "2026-09-17T07:30:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
           "dateTime": "2026-09-17T09:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/place/Passo+Pordoi/@46.4888128,11.8117568,15z\n\nמה זה המקום:\nDrive the classic Bolzano–Cortina road in reverse, beginning with the Cortina-to-Pordoi segment. Download the route offline and use it only if weather, visibility and road conditions are suitable.\n\nמה לראות / לעשות:\n- לבצע את בלוק Great Dolomites Road — Cortina → Passo Pordoi בקצב רגוע.\n- לשים לב: Plan A photo stop on the Great Dolomites Road transfer on 17 Sep; drive only with suitable weather and road conditions.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:00–09:30.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nUse the safer direct Cortina–Ortisei route if passes or weather are unsuitable.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Passo+Pordoi/@46.4888128,11.8117568,15z\n\nמה זה המקום:\nGoogle Maps currently estimates about 1h58 for 80.7 km. Join the classic Bolzano–Cortina road sequence at Passo Pordoi, using offline navigation only if weather, visibility and road conditions are suitable.\n\nמה לראות / לעשות:\n- לבצע את בלוק Great Dolomites Road — Auronzo anchor → Passo Pordoi בקצב רגוע.\n- לשים לב: Plan A photo stop on the Great Dolomites Road transfer on 17 Sep; drive only with suitable weather and road conditions.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 07:30–09:30.\n- משך ביקור מתוכנן: 2 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nUse the safer direct Auronzo–Ortisei route if passes or weather are unsuitable.",
         "location": "38032 Canazei, Trento, Italy",
         "extendedProperties": {
           "private": {
@@ -1039,7 +1609,7 @@
           "dateTime": "2026-09-17T12:00:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/place/Lago+di+Carezza/@46.4092273,11.5750645,17z\n\nמה זה המקום:\nUse the managed viewpoint/lakeside path for a short stop; keep the departure time so lunch remains practical.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lago di Carezza short lakeside stop בקצב רגוע.\n- לשים לב: Plan A stop on the Great Dolomites Road transfer on 17 Sep. Saved in the private Google Maps list with an operational note.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 11:15–12:00.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Lago+di+Carezza/@46.4092273,11.5750645,17z\n\nמה זה המקום:\nUse the managed viewpoint/lakeside path for a short stop, then continue toward Predazzo rather than rushing to an early Ortisei check-in.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lago di Carezza short lakeside stop בקצב רגוע.\n- לשים לב: Plan A stop on the Great Dolomites Road transfer on 17 Sep. Saved in the private Google Maps list with an operational note.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 11:15–12:00.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "39056 Welschnofen / Nova Levante, Bolzano, Italy",
         "extendedProperties": {
           "private": {
@@ -1053,7 +1623,30 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Lunch and short old-town pause in Bolzano",
+        "summary": "Lago di Carezza → Predazzo",
+        "start": {
+          "dateTime": "2026-09-17T12:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-17T12:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Alpine%20Coaster%20Gardon%C3%A8%20Predazzo\n\nמה זה המקום:\nContinue toward the Gardonè cable-car base. Google Maps currently estimates about 4h38 total driving for the full Auronzo–Pordoi–Carezza–Predazzo–Ortisei route.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lago di Carezza → Predazzo בקצב רגוע.\n- לשים לב: Official 2026 operation is daily 13 Jun–20 Sep, 10:00–17:00, weather permitting. Access is by the Predazzo–Gardonè cable car, open 08:30–17:45. Scheduled on 17 Sep from 15:35 to 17:00 near site closing, with the descent cable car immediately afterward.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:00–12:45.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Loc. Stalimen, 38037 Predazzo TN, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-17-carezza-predazzo"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Lunch — Predazzo",
         "start": {
           "dateTime": "2026-09-17T12:45:00",
           "timeZone": "Europe/Rome"
@@ -1062,8 +1655,8 @@
           "dateTime": "2026-09-17T14:00:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/place/Bolzano/@46.4949259,11.3402543,13z\n\nמה זה המקום:\nComplete the classic Cortina–Bolzano segment, park once and take an unhurried but time-boxed lunch. Avoid a fixed mountain reservation that could pressure the drive.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lunch and short old-town pause in Bolzano בקצב רגוע.\n- לשים לב: End point of the classic Cortina–Bolzano road segment and practical transfer-day lunch stop before continuing to Ortisei.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:45–14:00.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "39100 Bolzano, South Tyrol, Italy",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Alpine%20Coaster%20Gardon%C3%A8%20Predazzo\n\nמה זה המקום:\nDedicated unhurried lunch before the town walk and final Gardonè operating window. Select a place only after confirming Thursday kitchen hours.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lunch — Predazzo בקצב רגוע.\n- לשים לב: Official 2026 operation is daily 13 Jun–20 Sep, 10:00–17:00, weather permitting. Access is by the Predazzo–Gardonè cable car, open 08:30–17:45. Scheduled on 17 Sep from 15:35 to 17:00 near site closing, with the descent cable car immediately afterward.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:45–14:00.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Loc. Stalimen, 38037 Predazzo TN, Italy",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
@@ -1076,16 +1669,85 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Bolzano → Ortisei",
+        "summary": "Predazzo town walk",
         "start": {
           "dateTime": "2026-09-17T14:00:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-17T15:00:00",
+          "dateTime": "2026-09-17T15:05:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nContinue from the historic road endpoint to the west base; allow normal traffic margin and go directly to the lodging.\n\nמה לראות / לעשות:\n- לבצע את בלוק Bolzano → Ortisei בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:00–15:00.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Alpine%20Coaster%20Gardon%C3%A8%20Predazzo\n\nמה זה המקום:\nUse the flexible transfer day for an easy town walk and coffee before driving to the cable-car parking. There is no early check-in target in Ortisei.\n\nמה לראות / לעשות:\n- לבצע את בלוק Predazzo town walk בקצב רגוע.\n- לשים לב: Official 2026 operation is daily 13 Jun–20 Sep, 10:00–17:00, weather permitting. Access is by the Predazzo–Gardonè cable car, open 08:30–17:45. Scheduled on 17 Sep from 15:35 to 17:00 near site closing, with the descent cable car immediately afterward.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:00–15:05.\n- משך ביקור מתוכנן: 1 ש׳ 5 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Loc. Stalimen, 38037 Predazzo TN, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-17-predazzo-walk"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Predazzo–Gardonè cable car and setup",
+        "start": {
+          "dateTime": "2026-09-17T15:05:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-17T15:35:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Alpine%20Coaster%20Gardon%C3%A8%20Predazzo\n\nמה זה המקום:\nThe cable car operates 08:30–17:45 on 17 Sep. Buy the combined ticket and reach the coaster with enough time for the final operating block.\n\nמה לראות / לעשות:\n- לבצע את בלוק Predazzo–Gardonè cable car and setup בקצב רגוע.\n- לשים לב: Official 2026 operation is daily 13 Jun–20 Sep, 10:00–17:00, weather permitting. Access is by the Predazzo–Gardonè cable car, open 08:30–17:45. Scheduled on 17 Sep from 15:35 to 17:00 near site closing, with the descent cable car immediately afterward.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:05–15:35.\n- משך ביקור מתוכנן: 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Loc. Stalimen, 38037 Predazzo TN, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-17-gardone-up"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Alpine Coaster Gardonè — near closing",
+        "start": {
+          "dateTime": "2026-09-17T15:35:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-17T17:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Alpine%20Coaster%20Gardon%C3%A8%20Predazzo\n\nמה זה המקום:\nUse the requested late slot near site closing. Official 2026 operation is daily 13 Jun–20 Sep, 10:00–17:00, weather permitting; the cable car down remains open until 17:45.\n\nמה לראות / לעשות:\n- לבצע את בלוק Alpine Coaster Gardonè — near closing בקצב רגוע.\n- לשים לב: Official 2026 operation is daily 13 Jun–20 Sep, 10:00–17:00, weather permitting. Access is by the Predazzo–Gardonè cable car, open 08:30–17:45. Scheduled on 17 Sep from 15:35 to 17:00 near site closing, with the descent cable car immediately afterward.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:35–17:00.\n- משך ביקור מתוכנן: 1 ש׳ 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Loc. Stalimen, 38037 Predazzo TN, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-17-gardone"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Gardonè descent and drive to Ortisei",
+        "start": {
+          "dateTime": "2026-09-17T17:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-17T18:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nDescend promptly after the coaster and continue to the final anchor without an early-arrival deadline. Bolzano is removed from Plan A and remains a map-only Plan B city stop.\n\nמה לראות / לעשות:\n- לבצע את בלוק Gardonè descent and drive to Ortisei בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 17:00–18:30.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Ortisei",
         "extendedProperties": {
           "private": {
@@ -1099,21 +1761,44 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Ortisei check-in and orientation",
+        "summary": "Ortisei evening town walk",
         "start": {
-          "dateTime": "2026-09-17T15:00:00",
+          "dateTime": "2026-09-17T19:45:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-17T18:00:00",
+          "dateTime": "2026-09-17T20:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nCheck in, locate both lift stations, buy groceries and verify guest-card transport benefits.\n\nמה לראות / לעשות:\n- לבצע את בלוק Ortisei check-in and orientation בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:00–18:00.\n- משך ביקור מתוכנן: 3 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nEasy first orientation walk through the centre after arrival; the town streets are open-access, while individual shops may already be closing.\n\nמה לראות / לעשות:\n- לבצע את בלוק Ortisei evening town walk בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:45–20:30.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Ortisei",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-17-checkin"
+            "itineraryItemId": "dolomites-2026:2026-09-17-ortisei-walk"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Dinner — Ortisei",
+        "start": {
+          "dateTime": "2026-09-17T20:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-17T21:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nDedicated late dinner after the town walk. Reserve only a restaurant that confirms Thursday kitchen service through this window.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Ortisei בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 20:30–21:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Ortisei",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-17-dinner"
           }
         }
       }
@@ -1206,6 +1891,29 @@
           "private": {
             "travelAgent": "codex-travel-agent-local",
             "itineraryItemId": "dolomites-2026:2026-09-18-rest"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Dinner — Ortisei",
+        "start": {
+          "dateTime": "2026-09-18T19:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-18T20:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nDedicated recovery dinner. No laundry today because the single planned load was completed on the first evening at the final anchor.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Ortisei בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:00–20:30.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Ortisei",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-18-dinner"
           }
         }
       }
@@ -1352,17 +2060,40 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Val di Funes and Santa Maddalena",
+        "summary": "Dinner — Ortisei",
         "start": {
-          "dateTime": "2026-09-20T08:45:00",
+          "dateTime": "2026-09-19T19:00:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-20T12:15:00",
+          "dateTime": "2026-09-19T20:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Santa%20Maddalena%20Val%20di%20Funes\n\nמה זה המקום:\nScenic village walk and church viewpoints; continue to Zannes only if parking is confirmed.\n\nמה לראות / לעשות:\n- לבצע את בלוק Val di Funes and Santa Maddalena בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:45–12:15.\n- משך ביקור מתוכנן: 3 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: Zannes parking if used\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nChiusa old town",
-        "location": "Chiesa di Santa Maddalena – Val di Funes",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nDedicated dinner after the horse ride; confirm Saturday kitchen hours when selecting the restaurant.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Ortisei בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:00–20:30.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Ortisei",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-19-dinner"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Ortisei → Zannes trailhead",
+        "start": {
+          "dateTime": "2026-09-20T07:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-20T08:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Parcheggio%20Zannes%20Val%20di%20Funes\n\nמה זה המקום:\nDrive to the paid Zannes parking and start early. Confirm the 2026 parking reservation/access instructions before the trip.\n\nמה לראות / לעשות:\n- לבצע את בלוק Ortisei → Zannes trailhead בקצב רגוע.\n- לשים לב: Plan A trailhead on 20 Sep for the 9.1 km Adolf Munkel loop, officially about 2h47 with 433 m ascent. The schedule adds time for Cinema delle Odle and lunch. Verify and reserve parking online when the 2026 date is released.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 07:45–08:45.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: Zannes parking for 20 Sep\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nSanta Maddalena village and Chiusa if the trail weather is poor",
+        "location": "Parcheggio Malga Zannes (P1)",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
@@ -1375,17 +2106,40 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Lunch in Val di Funes",
+        "summary": "Adolf Munkel trail to Cinema delle Odle",
         "start": {
-          "dateTime": "2026-09-20T12:30:00",
+          "dateTime": "2026-09-20T08:45:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-20T13:45:00",
+          "dateTime": "2026-09-20T11:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Lunch%20in%20Val%20di%20Funes\n\nמה זה המקום:\nChoose a valley restaurant with parking; retain flexibility around the scenic stops.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lunch in Val di Funes בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:30–13:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Lunch in Val di Funes",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Geislerkino%20Geisleralm%20Val%20di%20Funes\n\nמה זה המקום:\nHike from Zannes on paths 6, 35 and 36A toward Geisleralm and the panoramic terrace. The official direct approach is about 1h40; the full official loop is 9.1 km, about 2h47 and 433 m ascent. The trail is open-access and depends on conditions.\n\nמה לראות / לעשות:\n- לבצע את בלוק Adolf Munkel trail to Cinema delle Odle בקצב רגוע.\n- לשים לב: The panoramic terrace known as Geislerkino/Cinema delle Odle is beside Geisleralm on the Adolf Munkel route from Zannes. On Sunday 20 Sep the hut is officially open 10:00–17:00; summer season runs 14 May–8 Nov with Monday closed. Lunch is scheduled 11:30–12:30, followed by descent to Zannes.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:45–11:30.\n- משך ביקור מתוכנן: 2 ש׳ 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Alm 13 / Zans, 39040 Funes BZ, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-20-zannes"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Cinema delle Odle and lunch — Geisleralm",
+        "start": {
+          "dateTime": "2026-09-20T11:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-20T12:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Geislerkino%20Geisleralm%20Val%20di%20Funes\n\nמה זה המקום:\nEnjoy the Geislerkino/Cinema delle Odle panorama and eat at Geisleralm. Official Sunday hours on 20 Sep are 10:00–17:00; carry a packed backup.\n\nמה לראות / לעשות:\n- לבצע את בלוק Cinema delle Odle and lunch — Geisleralm בקצב רגוע.\n- לשים לב: The panoramic terrace known as Geislerkino/Cinema delle Odle is beside Geisleralm on the Adolf Munkel route from Zannes. On Sunday 20 Sep the hut is officially open 10:00–17:00; summer season runs 14 May–8 Nov with Monday closed. Lunch is scheduled 11:30–12:30, followed by descent to Zannes.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 11:30–12:30.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Alm 13 / Zans, 39040 Funes BZ, Italy",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
@@ -1398,21 +2152,159 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Passo delle Erbe short walk — or Zannes fallback",
+        "summary": "Descend to Zannes",
+        "start": {
+          "dateTime": "2026-09-20T12:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-20T14:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Parcheggio%20Zannes%20Val%20di%20Funes\n\nמה זה המקום:\nReturn via trail 36/Dusler toward the Zannes parking. Keep the time margin so the sunset plan is not compressed.\n\nמה לראות / לעשות:\n- לבצע את בלוק Descend to Zannes בקצב רגוע.\n- לשים לב: Plan A trailhead on 20 Sep for the 9.1 km Adolf Munkel loop, officially about 2h47 with 433 m ascent. The schedule adds time for Cinema delle Odle and lunch. Verify and reserve parking online when the 2026 date is released.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:30–14:15.\n- משך ביקור מתוכנן: 1 ש׳ 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Parcheggio Malga Zannes (P1)",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-20-descent"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Zannes → Santa Maddalena",
         "start": {
           "dateTime": "2026-09-20T14:15:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-20T17:30:00",
+          "dateTime": "2026-09-20T14:45:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Passo%20delle%20Erbe\n\nמה זה המקום:\nPreferred light extension: drive about 42 minutes from Santa Maddalena, take a 30–50 minute viewpoint walk toward the Sass de Putia meadows, then allow about 1h12 back to Ortisei. This replaces the Zannes loop; never do both. Use Zannes instead if SP29, parking, timing or visibility are poor. Verify the on-site parking signs rather than relying on the unconfirmed after-14:00 free-parking claim.\n\nמה לראות / לעשות:\n- לבצע את בלוק Passo delle Erbe short walk — or Zannes fallback בקצב רגוע.\n- לשים לב: Conditional light extension after Val di Funes on 20 Sep, replacing the Zannes afternoon loop. Google Maps currently estimates about 42 minutes from Santa Maddalena and 1h12 onward to Ortisei. The after-14:00 free-parking claim is supported by recent travel sources but not stated on the official tourism page, so verify the signs on arrival. The official page warns that SP29 is narrow and partly single-lane.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:15–17:30.\n- משך ביקור מתוכנן: 3 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Passo delle Erbe / Würzjoch",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Santa%20Maddalena%20Val%20di%20Funes\n\nמה זה המקום:\nDrive down the valley and park only in the signed public areas.\n\nמה לראות / לעשות:\n- לבצע את בלוק Zannes → Santa Maddalena בקצב רגוע.\n- לשים לב: Open-access village and panorama paths. Scheduled for golden hour and sunset on 20 Sep: be at the selected public viewpoint by 17:15, astronomical sunset is 19:15 and civil twilight ends about 19:45. Stay on public paths and respect private fields.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:15–14:45.\n- משך ביקור מתוכנן: 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Chiesa di Santa Maddalena – Val di Funes",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-20-zannes"
+            "itineraryItemId": "dolomites-2026:2026-09-20-santa-drive"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Santa Maddalena and San Giovanni village walk",
+        "start": {
+          "dateTime": "2026-09-20T14:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-20T16:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Santa%20Maddalena%20Val%20di%20Funes\n\nמה זה המקום:\nEasy village and church walk while the light is still high. The villages and public paths are open-access; respect private fields and any local vehicle restrictions.\n\nמה לראות / לעשות:\n- לבצע את בלוק Santa Maddalena and San Giovanni village walk בקצב רגוע.\n- לשים לב: Open-access village and panorama paths. Scheduled for golden hour and sunset on 20 Sep: be at the selected public viewpoint by 17:15, astronomical sunset is 19:15 and civil twilight ends about 19:45. Stay on public paths and respect private fields.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:45–16:30.\n- משך ביקור מתוכנן: 1 ש׳ 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Chiesa di Santa Maddalena – Val di Funes",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-20-village"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Coffee, warm layer and sunset setup",
+        "start": {
+          "dateTime": "2026-09-20T16:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-20T17:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Santa%20Maddalena%20Val%20di%20Funes\n\nמה זה המקום:\nTake a recovery break, eat a substantial snack and walk to the selected public panorama point before golden hour.\n\nמה לראות / לעשות:\n- לבצע את בלוק Coffee, warm layer and sunset setup בקצב רגוע.\n- לשים לב: Open-access village and panorama paths. Scheduled for golden hour and sunset on 20 Sep: be at the selected public viewpoint by 17:15, astronomical sunset is 19:15 and civil twilight ends about 19:45. Stay on public paths and respect private fields.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 16:30–17:15.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Chiesa di Santa Maddalena – Val di Funes",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-20-break"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Santa Maddalena — Odle golden hour and sunset",
+        "start": {
+          "dateTime": "2026-09-20T17:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-20T19:35:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Santa%20Maddalena%20Val%20di%20Funes\n\nמה זה המקום:\nStay at the public panorama point while the Odle peaks catch the evening light. Astronomical sunset is 19:15 and civil twilight ends about 19:45; remain only if weather and footing are safe.\n\nמה לראות / לעשות:\n- לבצע את בלוק Santa Maddalena — Odle golden hour and sunset בקצב רגוע.\n- לשים לב: Open-access village and panorama paths. Scheduled for golden hour and sunset on 20 Sep: be at the selected public viewpoint by 17:15, astronomical sunset is 19:15 and civil twilight ends about 19:45. Stay on public paths and respect private fields.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 17:15–19:35.\n- משך ביקור מתוכנן: 2 ש׳ 20 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Chiesa di Santa Maddalena – Val di Funes",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-20-sunset"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Santa Maddalena → Ortisei",
+        "start": {
+          "dateTime": "2026-09-20T19:35:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-20T20:35:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nReturn after sunset with a conservative night-driving margin.\n\nמה לראות / לעשות:\n- לבצע את בלוק Santa Maddalena → Ortisei בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:35–20:35.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Ortisei",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-20-return"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Late dinner — Ortisei",
+        "start": {
+          "dateTime": "2026-09-20T20:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-20T22:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nDedicated late dinner after the sunset return. Reserve only a restaurant that confirms Sunday kitchen service through this window.\n\nמה לראות / לעשות:\n- לבצע את בלוק Late dinner — Ortisei בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 20:45–22:00.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Ortisei",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-20-dinner"
           }
         }
       }
@@ -1476,12 +2368,35 @@
           "dateTime": "2026-09-21T18:00:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Free%20afternoon\n\nמה זה המקום:\nRest, café, crafts or laundry; intentionally unscheduled for resilience.\n\nמה לראות / לעשות:\n- לבצע את בלוק Free afternoon בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:00–18:00.\n- משך ביקור מתוכנן: 3 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Free%20afternoon\n\nמה זה המקום:\nRest, café, crafts or spa; intentionally unscheduled for resilience. No additional laundry is planned.\n\nמה לראות / לעשות:\n- לבצע את בלוק Free afternoon בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:00–18:00.\n- משך ביקור מתוכנן: 3 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Free afternoon",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
             "itineraryItemId": "dolomites-2026:2026-09-21-free"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Dinner — Ortisei",
+        "start": {
+          "dateTime": "2026-09-21T19:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-21T20:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nDedicated flexible dinner after the weather-buffer day. Confirm Monday restaurant opening hours.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Ortisei בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:00–20:30.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Ortisei",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-21-dinner"
           }
         }
       }
@@ -1551,6 +2466,29 @@
           "private": {
             "travelAgent": "codex-travel-agent-local",
             "itineraryItemId": "dolomites-2026:2026-09-22-vallunga"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Dinner — Val Gardena",
+        "start": {
+          "dateTime": "2026-09-22T18:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-22T20:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nDedicated dinner after Vallunga. Confirm Tuesday kitchen hours when choosing between Selva, Santa Cristina or Ortisei.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Val Gardena בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:30–20:00.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Ortisei",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-22-dinner"
           }
         }
       }
@@ -1660,12 +2598,35 @@
           "dateTime": "2026-09-23T18:00:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Free%20afternoon%20and%20light%20organization\n\nמה זה המקום:\nLaundry, café or rest. Keep the main packing and flight-day preparation for the following afternoon; there is no checkout on 24 September.\n\nמה לראות / לעשות:\n- לבצע את בלוק Free afternoon and light organization בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:00–18:00.\n- משך ביקור מתוכנן: 3 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Free%20afternoon%20and%20light%20organization\n\nמה זה המקום:\nCafé, rest or light organization. No laundry; keep the main packing and flight-day preparation for the following afternoon.\n\nמה לראות / לעשות:\n- לבצע את בלוק Free afternoon and light organization בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:00–18:00.\n- משך ביקור מתוכנן: 3 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Free afternoon and light organization",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
             "itineraryItemId": "dolomites-2026:2026-09-23-pack"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Dinner — Ortisei",
+        "start": {
+          "dateTime": "2026-09-23T19:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-23T20:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nDedicated dinner after the e-bike day; confirm Wednesday kitchen hours.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Ortisei בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:00–20:30.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Ortisei",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-23-dinner"
           }
         }
       }
@@ -1752,7 +2713,7 @@
           "dateTime": "2026-09-24T20:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nRemain at the west-base lodging for the final night, eat early and sleep early before the 04:30 wake-up. No Mestre overnight and no return-lake detour.\n\nמה לראות / לעשות:\n- לבצע את בלוק Early dinner and final night in Ortisei בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:00–20:30.\n- משך ביקור מתוכנן: 2 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nDedicated early dinner, then sleep early before the 04:30 wake-up. Confirm Thursday kitchen hours; no Mestre overnight and no return-lake detour.\n\nמה לראות / לעשות:\n- לבצע את בלוק Early dinner and final night in Ortisei בקצב רגוע.\n- לשים לב: West-Dolomites base. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:00–20:30.\n- משך ביקור מתוכנן: 2 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Ortisei",
         "extendedProperties": {
           "private": {
