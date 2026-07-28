@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T20:50:04.960Z",
+  "generatedAt": "2026-07-28T17:25:36.226Z",
   "tripId": "dolomites-2026",
   "calendarName": "חו״ל",
   "timezone": "Europe/Rome",
@@ -14,7 +14,7 @@
     "policy": "Draft items without a verified exact place are not published."
   },
   "providerManagedLodging": {
-    "excluded": 12,
+    "excluded": 3,
     "items": [
       {
         "id": "dolomites-2026:2026-09-09-ao-checkin",
@@ -27,42 +27,6 @@
       {
         "id": "dolomites-2026:2026-09-17-checkin",
         "title": "Laion check-in and start the trip's single laundry load"
-      },
-      {
-        "id": "dolomites-2026:2026-09-17-return-laion",
-        "title": "Chiusa → Laion lodging"
-      },
-      {
-        "id": "dolomites-2026:2026-09-18-return-laion",
-        "title": "Ortisei → Laion lodging"
-      },
-      {
-        "id": "dolomites-2026:2026-09-19-return-laion",
-        "title": "Castelrotto → Laion lodging"
-      },
-      {
-        "id": "dolomites-2026:2026-09-20-return",
-        "title": "Santa Maddalena → Laion lodging"
-      },
-      {
-        "id": "dolomites-2026:2026-09-20-dinner",
-        "title": "End of day at the Laion lodging"
-      },
-      {
-        "id": "dolomites-2026:2026-09-21-return-laion",
-        "title": "Chiusa → Laion lodging"
-      },
-      {
-        "id": "dolomites-2026:2026-09-22-return-laion",
-        "title": "Vallunga / Selva → Laion lodging"
-      },
-      {
-        "id": "dolomites-2026:2026-09-23-return-laion",
-        "title": "Ortisei → Laion lodging"
-      },
-      {
-        "id": "dolomites-2026:2026-09-25-wake",
-        "title": "Early wake-up and lockbox checkout"
       }
     ],
     "policy": "Airbnb lodging is kept locally but not proactively published. Prefer the event created from the confirmation email and deduplicate before any explicitly requested manual write."
@@ -70,7 +34,8 @@
   "events": [
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "ph5b76enue7acuause9jr105qc",
       "event": {
         "summary": "VCE → Mestre lodging",
         "start": {
@@ -93,7 +58,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "gma51f64q00tkh5spqletv95kc",
       "event": {
         "summary": "San Marco and central Venice",
         "start": {
@@ -116,7 +82,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "kn8h25mbpr8vn5pf7i7ialgb7s",
       "event": {
         "summary": "Lunch in Venice",
         "start": {
@@ -139,7 +106,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "k7g2ukl5qqoc41a890cuqr1v20",
       "event": {
         "summary": "Buy a Venetian mask — La Bauta",
         "start": {
@@ -162,7 +130,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "qf8oad7062aa7r1br5m8ef69ek",
       "event": {
         "summary": "Murano afternoon",
         "start": {
@@ -185,7 +154,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "g83h89hoas0htkpl0reg8cfs3s",
       "event": {
         "summary": "Dinner — Venice or Mestre",
         "start": {
@@ -208,7 +178,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "urs16jdg09fklhc4452rsgni0g",
       "event": {
         "summary": "Rialto and final Venice walk",
         "start": {
@@ -231,7 +202,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "pvfnou6vnimubip0e6pduevac8",
       "event": {
         "summary": "Return to Mestre, checkout and transfer to VCE",
         "start": {
@@ -239,10 +211,10 @@
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-11T11:15:00",
+          "dateTime": "2026-09-11T12:00:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://maps.google.com/?cid=2559267828695871316\n\nמה זה המקום:\nReturn from Venice, collect luggage, check out and travel to VCE. Lunch is moved to the outlet so the 12:00 Target Rent pickup remains realistic.\n\nמה לראות / לעשות:\n- לבצע את בלוק Return to Mestre, checkout and transfer to VCE בקצב רגוע.\n- לשים לב: לינה מאושרת לשני לילות; לעדכן מראש על הגעה מאוחרת.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 09:45–11:15.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://maps.google.com/?cid=2559267828695871316\n\nמה זה המקום:\nReturn from Venice, collect luggage, check out and travel to VCE. The generous block protects the 13:30 Target Rent pickup and reaches the airport in time for lunch before the shuttle.\n\nמה לראות / לעשות:\n- לבצע את בלוק Return to Mestre, checkout and transfer to VCE בקצב רגוע.\n- לשים לב: לינה מאושרת לשני לילות; לעדכן מראש על הגעה מאוחרת.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 09:45–12:00.\n- משך ביקור מתוכנן: 2 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Ca Marcello, 15, 30172 Venezia VE, Italy",
         "extendedProperties": {
           "private": {
@@ -254,18 +226,43 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "lvviqopo6llbgk1lf4j76t1adg",
       "event": {
-        "summary": "VCE arrivals → Target Rent by shuttle",
+        "summary": "Lunch — VCE",
         "start": {
-          "dateTime": "2026-09-11T11:15:00",
-          "timeZone": "Europe/Rome"
-        },
-        "end": {
           "dateTime": "2026-09-11T12:00:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://maps.app.goo.gl/UiD6XeqskFK6cjYS7\n\nמה זה המקום:\nReach the P5 shuttle area and request the free Park Gold shuttle to the off-airport Target Rent office.\n\nמה לראות / לעשות:\n- לבצע את בלוק VCE arrivals → Target Rent by shuttle בקצב רגוע.\n- לשים לב: Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. Keep the booked 11 Sep pickup at 12:00. For return, arrive around 08:45 for the booked 09:00 slot, then use the shuttle back to the terminal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 11:15–12:00.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "end": {
+          "dateTime": "2026-09-11T12:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Venice%20Marco%20Polo%20Airport\n\nמה זה המקום:\nEat before leaving the terminal so lunch is not pushed past 14:30 by the 13:30 car pickup. Keep the meal simple and remain near the arrivals/P5 route.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lunch — VCE בקצב רגוע.\n- לשים לב: Arrival 9 Sep; Target Rent shuttle meeting point on 11 Sep; airport arrival after car return and departure on 25 Sep.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:00–12:45.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Viale Galileo Galilei 30, 30173 Venezia VE, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-11-airport-lunch"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "update",
+      "eventId": "a0ifmhgg30mdu0mbn9sgkl0ips",
+      "event": {
+        "summary": "VCE arrivals → Target Rent by shuttle",
+        "start": {
+          "dateTime": "2026-09-11T12:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-11T13:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://maps.app.goo.gl/UiD6XeqskFK6cjYS7\n\nמה זה המקום:\nReach the P5 shuttle area after lunch and request the free Park Gold shuttle to the off-airport Target Rent office. The 45-minute block matches the prior shuttle allowance before the 13:30 pickup.\n\nמה לראות / לעשות:\n- לבצע את בלוק VCE arrivals → Target Rent by shuttle בקצב רגוע.\n- לשים לב: Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. The replacement rental is planned for pickup on 11 Sep at 13:30 and return on 25 Sep at 09:00; the new booking request is not yet submitted or confirmed. For return, arrive around 08:45, then use the shuttle back to the terminal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:45–13:30.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Orlanda 216, 30173 Tessera VE, Italy",
         "extendedProperties": {
           "private": {
@@ -277,18 +274,19 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "asmr6vg657juueas3q72kolrg4",
       "event": {
         "summary": "Rental-car pickup — Target Rent",
         "start": {
-          "dateTime": "2026-09-11T12:00:00",
+          "dateTime": "2026-09-11T13:30:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-11T13:00:00",
+          "dateTime": "2026-09-11T14:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://maps.app.goo.gl/UiD6XeqskFK6cjYS7\n\nמה זה המקום:\nKeep the booked noon pickup. Inspect and photograph the car, confirm fuel/deposit/toll rules and load offline maps.\n\nמה לראות / לעשות:\n- לבצע את בלוק Rental-car pickup — Target Rent בקצב רגוע.\n- לשים לב: Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. Keep the booked 11 Sep pickup at 12:00. For return, arrive around 08:45 for the booked 09:00 slot, then use the shuttle back to the terminal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:00–13:00.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://maps.app.goo.gl/UiD6XeqskFK6cjYS7\n\nמה זה המקום:\nReplacement rental pickup is planned for 13:30; the booking request is not yet confirmed. Inspect and photograph the car, confirm fuel/deposit/toll rules and load offline maps.\n\nמה לראות / לעשות:\n- לבצע את בלוק Rental-car pickup — Target Rent בקצב רגוע.\n- לשים לב: Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. The replacement rental is planned for pickup on 11 Sep at 13:30 and return on 25 Sep at 09:00; the new booking request is not yet submitted or confirmed. For return, arrive around 08:45, then use the shuttle back to the terminal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:30–14:30.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Orlanda 216, 30173 Tessera VE, Italy",
         "extendedProperties": {
           "private": {
@@ -300,18 +298,19 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "ljb64q8iik4n9vsm10c857lg48",
       "event": {
         "summary": "Target Rent → Designer Outlet Noventa di Piave",
         "start": {
-          "dateTime": "2026-09-11T13:00:00",
+          "dateTime": "2026-09-11T14:30:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-11T13:35:00",
+          "dateTime": "2026-09-11T15:05:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/place/Designer+Outlet+Noventa+di+Piave/@45.6714459,12.5354406,17z\n\nמה זה המקום:\nAllow about 35 minutes plus the A4/E70 toll and parking.\n\nמה לראות / לעשות:\n- לבצע את בלוק Target Rent → Designer Outlet Noventa di Piave בקצב רגוע.\n- לשים לב: Friday opening hours 10:00–20:00. On 11 Sep arrive after the 12:00 car pickup, have lunch, shop, complete tax-free paperwork and use a dedicated 18:30–19:30 dinner block before leaving for the nearby supermarket. A4/E70 and A27 route includes tolls.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:00–13:35.\n- משך ביקור מתוכנן: 35 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Designer+Outlet+Noventa+di+Piave/@45.6714459,12.5354406,17z\n\nמה זה המקום:\nAllow about 35 minutes plus the A4/E70 toll and parking.\n\nמה לראות / לעשות:\n- לבצע את בלוק Target Rent → Designer Outlet Noventa di Piave בקצב רגוע.\n- לשים לב: Friday opening hours 10:00–20:00. On 11 Sep eat an early lunch at VCE before the 13:30 car pickup, arrive at the outlet around 15:05, shop, complete tax-free paperwork and use a dedicated 18:30–19:30 dinner block before leaving for the nearby supermarket. A4/E70 and A27 route includes tolls.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:30–15:05.\n- משך ביקור מתוכנן: 35 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Marco Polo, 1, 30020 Noventa di Piave VE, Italy",
         "extendedProperties": {
           "private": {
@@ -323,18 +322,19 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "egkka45t4jk4evh0vuhtmbjbhs",
       "event": {
-        "summary": "Designer Outlet Noventa di Piave — lunch, shopping and tax free",
+        "summary": "Designer Outlet Noventa di Piave — shopping and tax free",
         "start": {
-          "dateTime": "2026-09-11T13:35:00",
+          "dateTime": "2026-09-11T15:05:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
           "dateTime": "2026-09-11T18:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/place/Designer+Outlet+Noventa+di+Piave/@45.6714459,12.5354406,17z\n\nמה זה המקום:\n13:35–14:20 lunch, then shopping and tax-free paperwork. Official Friday opening hours are 10:00–20:00; finish the main shopping block before the dedicated dinner.\n\nמה לראות / לעשות:\n- לבצע את בלוק Designer Outlet Noventa di Piave — lunch, shopping and tax free בקצב רגוע.\n- לשים לב: Friday opening hours 10:00–20:00. On 11 Sep arrive after the 12:00 car pickup, have lunch, shop, complete tax-free paperwork and use a dedicated 18:30–19:30 dinner block before leaving for the nearby supermarket. A4/E70 and A27 route includes tolls.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:35–18:30.\n- משך ביקור מתוכנן: 4 ש׳ 55 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Designer+Outlet+Noventa+di+Piave/@45.6714459,12.5354406,17z\n\nמה זה המקום:\nShop and complete tax-free paperwork after the 13:30 rental pickup. Official Friday opening hours are 10:00–20:00; finish the main shopping block before the dedicated 18:30 dinner.\n\nמה לראות / לעשות:\n- לבצע את בלוק Designer Outlet Noventa di Piave — shopping and tax free בקצב רגוע.\n- לשים לב: Friday opening hours 10:00–20:00. On 11 Sep eat an early lunch at VCE before the 13:30 car pickup, arrive at the outlet around 15:05, shop, complete tax-free paperwork and use a dedicated 18:30–19:30 dinner block before leaving for the nearby supermarket. A4/E70 and A27 route includes tolls.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:05–18:30.\n- משך ביקור מתוכנן: 3 ש׳ 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Marco Polo, 1, 30020 Noventa di Piave VE, Italy",
         "extendedProperties": {
           "private": {
@@ -346,7 +346,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "b66hmio7gbgkpkkc9bti1j7cbo",
       "event": {
         "summary": "Dinner — Noventa outlet",
         "start": {
@@ -357,7 +358,7 @@
           "dateTime": "2026-09-11T19:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/place/Designer+Outlet+Noventa+di+Piave/@45.6714459,12.5354406,17z\n\nמה זה המקום:\nDedicated dinner inside the outlet while it is open 10:00–20:00. Leave by 19:30 so the supermarket stop is protected.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Noventa outlet בקצב רגוע.\n- לשים לב: Friday opening hours 10:00–20:00. On 11 Sep arrive after the 12:00 car pickup, have lunch, shop, complete tax-free paperwork and use a dedicated 18:30–19:30 dinner block before leaving for the nearby supermarket. A4/E70 and A27 route includes tolls.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:30–19:30.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Designer+Outlet+Noventa+di+Piave/@45.6714459,12.5354406,17z\n\nמה זה המקום:\nDedicated dinner inside the outlet while it is open 10:00–20:00. Leave by 19:30 so the supermarket stop is protected.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Noventa outlet בקצב רגוע.\n- לשים לב: Friday opening hours 10:00–20:00. On 11 Sep eat an early lunch at VCE before the 13:30 car pickup, arrive at the outlet around 15:05, shop, complete tax-free paperwork and use a dedicated 18:30–19:30 dinner block before leaving for the nearby supermarket. A4/E70 and A27 route includes tolls.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:30–19:30.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Marco Polo, 1, 30020 Noventa di Piave VE, Italy",
         "extendedProperties": {
           "private": {
@@ -369,7 +370,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "ujrivk42janvkog5i6ija0ela8",
       "event": {
         "summary": "Supermarket — breakfast and sandwiches for 12 Sep",
         "start": {
@@ -392,7 +394,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "q04p0hec24kkl4iecah6kth2rk",
       "event": {
         "summary": "Eurospar Noventa di Piave → confirmed Auronzo lodging",
         "start": {
@@ -415,7 +418,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "9ftt5nmv20tf19nhd96htjjqvk",
       "event": {
         "summary": "Breakfast and preliminary Ra Bujela go/no-go",
         "start": {
@@ -438,7 +442,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "0ogu2qejk28eqpk7kro5nae0lc",
       "event": {
         "summary": "Auronzo anchor → Snow Service Cortina",
         "start": {
@@ -461,7 +466,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "t8ce2e82fveniec79f95qfcoso",
       "event": {
         "summary": "Snow Service fitting and final go/no-go",
         "start": {
@@ -484,7 +490,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "5fo5vlrdus0q5skulinlhvqj2o",
       "event": {
         "summary": "Drive to Piè Tofana",
         "start": {
@@ -507,7 +514,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "gr1dkr46s8ij0v9r9utp3immd8",
       "event": {
         "summary": "Piè Tofana → Rifugio Duca d'Aosta",
         "start": {
@@ -530,7 +538,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "sdr63ucnse53507to9417pdetg",
       "event": {
         "summary": "Via ferrata Ra Bujela — conservative 3-hour block",
         "start": {
@@ -553,7 +562,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "tnnbnjskk0kc718tkkflar94qk",
       "event": {
         "summary": "Packed lunch and recovery — Rifugio Duca d'Aosta",
         "start": {
@@ -576,7 +586,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "i024v2l574asj76ctcpp5ls7o4",
       "event": {
         "summary": "Chairlift descent and return to the car",
         "start": {
@@ -599,7 +610,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "qeenq0subtqcdqlvj6fbvpi41s",
       "event": {
         "summary": "Piè Tofana → Snow Service Cortina",
         "start": {
@@ -622,7 +634,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "qgjlcpeveol79tenr54ilm3mgg",
       "event": {
         "summary": "Return via-ferrata equipment",
         "start": {
@@ -645,7 +658,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "g58b9nn997h8avnh3onldsrer0",
       "event": {
         "summary": "Snow Service Cortina → Fun Bob Monte Agudo",
         "start": {
@@ -668,7 +682,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "r11v6oqkpg0pieobimjuh3ec8g",
       "event": {
         "summary": "Fun Bob Auronzo — earlier afternoon block",
         "start": {
@@ -691,7 +706,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "p6at067jppngppkhbs8o5pcuog",
       "event": {
         "summary": "Lago di Auronzo and short town walk",
         "start": {
@@ -714,7 +730,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "tr9h2kbphrh96443afscfa010k",
       "event": {
         "summary": "Dinner — Auronzo",
         "start": {
@@ -737,7 +754,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "pihrfecme4bs6q9d3crk9hse4s",
       "event": {
         "summary": "Auronzo anchor → Ponte Tibetano",
         "start": {
@@ -760,7 +778,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "hblqu63pkiv30bpnpolm4f0frk",
       "event": {
         "summary": "Ponte Tibetano — bridge walk and photos",
         "start": {
@@ -783,7 +802,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "81meb3tk4ujg8tf4mnko9fjf7k",
       "event": {
         "summary": "Ponte Tibetano → Rifugio Pordenone / Val Cimoliana",
         "start": {
@@ -806,7 +826,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "cm8gkea5j9cvvnvecjpufubj5g",
       "event": {
         "summary": "Val Cimoliana — Campanile di Val Montanaia belvederes",
         "start": {
@@ -829,7 +850,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "9fsc72pbks6c751g9tfrhkmh5s",
       "event": {
         "summary": "Lunch at Rifugio Pordenone",
         "start": {
@@ -852,7 +874,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "2hg9vkdbbasghv14akcdc0c5go",
       "event": {
         "summary": "Short Pian Meluzzo valley stroll",
         "start": {
@@ -875,7 +898,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "eqc23bmddlst58epgrgpnlk99g",
       "event": {
         "summary": "Val Cimoliana → Auronzo lodging",
         "start": {
@@ -898,7 +922,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "3b5f0epglnbebdca5c5e3s9c78",
       "event": {
         "summary": "Auronzo Civic Museum — Palazzo Corte Metto",
         "start": {
@@ -921,7 +946,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "hssf8r045t6stksc5k27b1d7ok",
       "event": {
         "summary": "Dinner — Auronzo",
         "start": {
@@ -944,7 +970,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "pvluamf9qp55h69cnfml32j7ps",
       "event": {
         "summary": "Auronzo anchor → Rifugio Auronzo parking",
         "start": {
@@ -967,7 +994,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "emm6knl0unjjuglgebhmup4qc0",
       "event": {
         "summary": "Tre Cime di Lavaredo loop — extended scenic pace",
         "start": {
@@ -990,7 +1018,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "mgrps711c8ufjfeu81199utrmg",
       "event": {
         "summary": "Packed lunch on the Tre Cime route",
         "start": {
@@ -1013,7 +1042,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "0ku3bieggacvnaae1lla5voqi0",
       "event": {
         "summary": "Lago di Misurina recovery stop",
         "start": {
@@ -1036,7 +1066,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "u1q09tt2mrc9l9jntibmvqdr88",
       "event": {
         "summary": "Misurina → Auronzo anchor",
         "start": {
@@ -1059,7 +1090,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "k8jtt0ri4tnhbmh38808g17qss",
       "event": {
         "summary": "Dinner — Auronzo",
         "start": {
@@ -1082,7 +1114,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "8aae6hauhba264bd0pnakshsjs",
       "event": {
         "summary": "Auronzo anchor → Lago di Braies",
         "start": {
@@ -1105,7 +1138,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "5vk87veag30tgtdbmfckthvo00",
       "event": {
         "summary": "Lago di Braies: boat and loop",
         "start": {
@@ -1128,7 +1162,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "oc9f10crtupjpu66e3j59pe2r8",
       "event": {
         "summary": "Lunch near Braies/Dobbiaco",
         "start": {
@@ -1151,7 +1186,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "0konc8q2n16k35m3i38ac551p4",
       "event": {
         "summary": "Lago di Landro roadside photo stop",
         "start": {
@@ -1174,7 +1210,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "3l48805e4j631drbnsgm8jneto",
       "event": {
         "summary": "Lago di Landro → Col de Varda chairlift",
         "start": {
@@ -1197,7 +1234,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "ak8oi1aunueofibjkg2909bsr8",
       "event": {
         "summary": "Col de Varda — chairlift, panorama and short walk",
         "start": {
@@ -1220,7 +1258,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "daq3mv2pb7jf3qmbghp4mms6eo",
       "event": {
         "summary": "Col de Varda → Auronzo lodging",
         "start": {
@@ -1243,7 +1282,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "1ceskt4ip54dq24sajllmvhelo",
       "event": {
         "summary": "Rest and next-day weather check — no shower",
         "start": {
@@ -1266,7 +1306,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "e57d0a5dllcm46b11e2j1h6gm4",
       "event": {
         "summary": "Dinner — Auronzo",
         "start": {
@@ -1289,7 +1330,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "3putmf1eapato3uqrsl5h24kvg",
       "event": {
         "summary": "Cinque Torri weather and lift check",
         "start": {
@@ -1312,7 +1354,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "jsk75kn6vdpvljnu5b3k27vmq4",
       "event": {
         "summary": "Auronzo anchor → Bai de Dones",
         "start": {
@@ -1335,7 +1378,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "vl9hdk80g9jnltlsfs5dkdrltc",
       "event": {
         "summary": "Cinque Torri — lift, trenches and viewpoints",
         "start": {
@@ -1358,7 +1402,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "4kb7dh1gfnmfjuq86td02sgp4c",
       "event": {
         "summary": "Lunch near Cinque Torri",
         "start": {
@@ -1381,7 +1426,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "9ou61kvobiop04q5ku4e6ov2gk",
       "event": {
         "summary": "5 Torri chairlift descent",
         "start": {
@@ -1404,7 +1450,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "urq2ehfn0imvkotjioklikf0co",
       "event": {
         "summary": "Bai de Dones → Funivia Lagazuoi",
         "start": {
@@ -1427,7 +1474,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "ik2a8pda41faqngolth6u1avbo",
       "event": {
         "summary": "Lagazuoi — summit viewpoints and history walk",
         "start": {
@@ -1450,7 +1498,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "g66m2t967iq4kiuepftjd178l0",
       "event": {
         "summary": "Lagazuoi → Passo Giau",
         "start": {
@@ -1473,7 +1522,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "aish5esm6m4t34e742i9ufudck",
       "event": {
         "summary": "Early packed dinner — Passo Giau",
         "start": {
@@ -1496,7 +1546,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "9pm8qeasp998p37q3a8vkbfsgg",
       "event": {
         "summary": "Passo Giau golden hour and sunset",
         "start": {
@@ -1519,7 +1570,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "imr69e49ifohrtt333315bkep8",
       "event": {
         "summary": "Passo Giau → Auronzo lodging",
         "start": {
@@ -1542,7 +1594,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "k9ef81i58degnd470lgt4f2e04",
       "event": {
         "summary": "Pack, clean the lodging or leave the €40 cleaner fee",
         "start": {
@@ -1565,7 +1618,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "9s7hp8ncnbp2tvc1n17veckcr4",
       "event": {
         "summary": "Great Dolomites Road — Auronzo anchor → Passo Pordoi",
         "start": {
@@ -1588,7 +1642,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "1s4diatr3k55nfqf95ha0l9vg4",
       "event": {
         "summary": "Passo Pordoi viewpoint stop",
         "start": {
@@ -1611,7 +1666,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "ml5ov65q1dl5n6d2r5rjhpqr28",
       "event": {
         "summary": "Passo Pordoi → Lago di Carezza",
         "start": {
@@ -1634,7 +1690,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "5j43611jcnmm48pc9gv5l5v034",
       "event": {
         "summary": "Lago di Carezza short lakeside stop",
         "start": {
@@ -1657,7 +1714,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "3ada6doqs23gmqo3mio2ie638s",
       "event": {
         "summary": "Lago di Carezza → Predazzo",
         "start": {
@@ -1680,7 +1738,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "j42nkldsui8em2cl49q61bn53s",
       "event": {
         "summary": "Lunch — Predazzo",
         "start": {
@@ -1703,7 +1762,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "j5j8cakc6l6o87rl0jc5sni96o",
       "event": {
         "summary": "Predazzo town walk",
         "start": {
@@ -1726,7 +1786,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "0ibbh0qsap4p7kggqj9h9c4cmo",
       "event": {
         "summary": "Predazzo–Gardonè cable car and setup",
         "start": {
@@ -1749,7 +1810,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "3kjigao5drs3bng79krc9tj1fg",
       "event": {
         "summary": "Alpine Coaster Gardonè — near closing",
         "start": {
@@ -1772,7 +1834,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "kuc4ab5ml0n87io3f3vjdvpiuk",
       "event": {
         "summary": "Gardonè descent and drive to the confirmed Laion Airbnb",
         "start": {
@@ -1795,7 +1858,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "o1r6tj0s84ddjh3vb6k75kk1lg",
       "event": {
         "summary": "Drive to Chiusa and short old-town walk",
         "start": {
@@ -1818,7 +1882,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "1s8n2akil47p1af8l4u72mes78",
       "event": {
         "summary": "Dinner — Chiusa",
         "start": {
@@ -1841,7 +1906,32 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "o8ba2mjo9v90h0u6i0ujqftom0",
+      "event": {
+        "summary": "Chiusa → Laion lodging",
+        "start": {
+          "dateTime": "2026-09-17T21:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-17T21:50:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.6037555%2C11.5546319\n\nמה זה המקום:\nGoogle Maps estimates about 14 minutes / 10.9 km. Return only after dinner; finish the laundry and shower now, after the active day has ended.\n\nמה לראות / לעשות:\n- לבצע את בלוק Chiusa → Laion lodging בקצב רגוע.\n- לשים לב: Confirmed 17–25 Sep for two guests. Check-in 16:00, checkout 09:00, lockbox check-in, garage, and free in-building washer and dryer. The host warns that generic sat-nav data can be inaccurate; use the Google Maps coordinates. Saved privately in the lodging list.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 21:30–21:50.\n- משך ביקור מתוכנן: 20 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Localita' Novale 113, 39040 Laion BZ, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-17-return-laion"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "update",
+      "eventId": "ga2oslvduqq7rtvpicjbm1h2pk",
       "event": {
         "summary": "Laion → Seceda cable car and parking",
         "start": {
@@ -1864,7 +1954,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "44nramm50ck9llnduqvg9fhm2s",
       "event": {
         "summary": "Seceda lift and compact ridge walk",
         "start": {
@@ -1887,7 +1978,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "9p8j6uc59gi04e3etlqdu4s4bc",
       "event": {
         "summary": "GARDENAFLY tandem paragliding — Seceda → Ortisei",
         "start": {
@@ -1910,7 +2002,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "lgnv69brot4irg9dcutit05010",
       "event": {
         "summary": "Lunch in Annatal or Ortisei after landing",
         "start": {
@@ -1933,7 +2026,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "18t9al6a2d8bbm8anrh1uq0rg8",
       "event": {
         "summary": "Val d'Anna easy walk after landing",
         "start": {
@@ -1956,7 +2050,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "t32saqjjcroq5bo3mjkcua5d1o",
       "event": {
         "summary": "Ortisei centre and aperitivo walk",
         "start": {
@@ -1979,7 +2074,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "ej6ksc3nqkk7echttqhpo337ak",
       "event": {
         "summary": "Dinner — Ortisei",
         "start": {
@@ -2002,7 +2098,32 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "eurg6hud9socusdcm6ur9u0f5k",
+      "event": {
+        "summary": "Ortisei → Laion lodging",
+        "start": {
+          "dateTime": "2026-09-18T19:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-18T19:55:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.6037555%2C11.5546319\n\nמה זה המקום:\nGoogle Maps estimates about 15–17 minutes. Return only after dinner; shower at night after the day is finished.\n\nמה לראות / לעשות:\n- לבצע את בלוק Ortisei → Laion lodging בקצב רגוע.\n- לשים לב: Confirmed 17–25 Sep for two guests. Check-in 16:00, checkout 09:00, lockbox check-in, garage, and free in-building washer and dryer. The host warns that generic sat-nav data can be inaccurate; use the Google Maps coordinates. Saved privately in the lodging list.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:30–19:55.\n- משך ביקור מתוכנן: 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Localita' Novale 113, 39040 Laion BZ, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-18-return-laion"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "update",
+      "eventId": "q4p3bqcl79lf1qhmhkrg6e3ri8",
       "event": {
         "summary": "Laion → Mont Sëuc cable car and parking",
         "start": {
@@ -2025,7 +2146,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "1s39takffv6s0g0foi0hcguf48",
       "event": {
         "summary": "Alpe di Siusi from Ortisei",
         "start": {
@@ -2048,7 +2170,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "nrdhqn0tkno1trovga8n81r31g",
       "event": {
         "summary": "Lunch on Alpe di Siusi",
         "start": {
@@ -2071,7 +2194,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "r3qrch4t3nelu0l1075nevfctk",
       "event": {
         "summary": "Descend from Alpe di Siusi and drive to Maneggio Unterlanzin",
         "start": {
@@ -2094,7 +2218,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "i3s3mionbio6c8jqh9v1nnp6h0",
       "event": {
         "summary": "Horse assignment, helmet and briefing",
         "start": {
@@ -2117,7 +2242,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "54i3021op5hk1ao281cfnji3gs",
       "event": {
         "summary": "One-hour guided horse ride — Unterlanzin",
         "start": {
@@ -2140,7 +2266,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "ll934oakfe6tlrsqokil72ifms",
       "event": {
         "summary": "Castelrotto village walk",
         "start": {
@@ -2163,7 +2290,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "rreimn0bmurgvfd109thm09kmo",
       "event": {
         "summary": "Dinner — Castelrotto",
         "start": {
@@ -2186,7 +2314,32 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "7u61kkronmpj0rufnb5u463k88",
+      "event": {
+        "summary": "Castelrotto → Laion lodging",
+        "start": {
+          "dateTime": "2026-09-19T19:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-19T19:55:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.6037555%2C11.5546319\n\nמה זה המקום:\nGoogle Maps estimates about 21 minutes / 15.2 km. Return after dinner and shower only after the active day ends.\n\nמה לראות / לעשות:\n- לבצע את בלוק Castelrotto → Laion lodging בקצב רגוע.\n- לשים לב: Confirmed 17–25 Sep for two guests. Check-in 16:00, checkout 09:00, lockbox check-in, garage, and free in-building washer and dryer. The host warns that generic sat-nav data can be inaccurate; use the Google Maps coordinates. Saved privately in the lodging list.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:30–19:55.\n- משך ביקור מתוכנן: 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Localita' Novale 113, 39040 Laion BZ, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-19-return-laion"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "update",
+      "eventId": "2e28g6fej6a0n1jtej2jjb6oas",
       "event": {
         "summary": "Laion → Zannes trailhead",
         "start": {
@@ -2209,7 +2362,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "ocgpjp1v1fj0eao2e30u5251ng",
       "event": {
         "summary": "Adolf Munkel trail to Cinema delle Odle",
         "start": {
@@ -2232,7 +2386,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "rb0iok3bcciuv8kq0glv5gttp8",
       "event": {
         "summary": "Cinema delle Odle and lunch — Geisleralm",
         "start": {
@@ -2255,7 +2410,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "8l4etrukulvrgcnjc8ev14rcl4",
       "event": {
         "summary": "Descend to Zannes",
         "start": {
@@ -2278,7 +2434,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "5ciqldog9c4n84pph8pg739btk",
       "event": {
         "summary": "Zannes → Santa Maddalena",
         "start": {
@@ -2301,7 +2458,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "9u3plmck88cssinagnkcdgeheo",
       "event": {
         "summary": "Santa Maddalena and San Giovanni village walk",
         "start": {
@@ -2324,7 +2482,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "cjsoi0bojijj9fq7g6gnii94ck",
       "event": {
         "summary": "Early dinner and sunset setup — Santa Maddalena",
         "start": {
@@ -2347,7 +2506,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "ebvapnmb0543ll7dscce4iroag",
       "event": {
         "summary": "Santa Maddalena — Odle golden hour and sunset",
         "start": {
@@ -2370,7 +2530,56 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "18g8iolis7dogrd3kd7sccf888",
+      "event": {
+        "summary": "Santa Maddalena → Laion lodging",
+        "start": {
+          "dateTime": "2026-09-20T19:35:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-20T20:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.6037555%2C11.5546319\n\nמה זה המקום:\nGoogle Maps currently estimates 33 minutes / 23.3 km; the block retains a night-driving margin.\n\nמה לראות / לעשות:\n- לבצע את בלוק Santa Maddalena → Laion lodging בקצב רגוע.\n- לשים לב: Confirmed 17–25 Sep for two guests. Check-in 16:00, checkout 09:00, lockbox check-in, garage, and free in-building washer and dryer. The host warns that generic sat-nav data can be inaccurate; use the Google Maps coordinates. Saved privately in the lodging list.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:35–20:15.\n- משך ביקור מתוכנן: 40 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Localita' Novale 113, 39040 Laion BZ, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-20-return"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "update",
+      "eventId": "l2nttoupho0aur245rkq096vm8",
+      "event": {
+        "summary": "End of day at the Laion lodging",
+        "start": {
+          "dateTime": "2026-09-20T20:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-20T20:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.6037555%2C11.5546319\n\nמה זה המקום:\nDinner was completed before sunset. Return now, after the final outdoor activity; shower only at night once the day is finished.\n\nמה לראות / לעשות:\n- לבצע את בלוק End of day at the Laion lodging בקצב רגוע.\n- לשים לב: Confirmed 17–25 Sep for two guests. Check-in 16:00, checkout 09:00, lockbox check-in, garage, and free in-building washer and dryer. The host warns that generic sat-nav data can be inaccurate; use the Google Maps coordinates. Saved privately in the lodging list.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 20:15–20:30.\n- משך ביקור מתוכנן: 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Localita' Novale 113, 39040 Laion BZ, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-20-dinner"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "update",
+      "eventId": "1a3bv7kr83pjenq2uort2meb3g",
       "event": {
         "summary": "Laion → Bressanone",
         "start": {
@@ -2393,7 +2602,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "hhp7aig1qqdolmrl27umrff8j4",
       "event": {
         "summary": "Bressanone old town and riverside walk",
         "start": {
@@ -2416,7 +2626,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "he4rjnukofis8l2m2jh03uhvi8",
       "event": {
         "summary": "Lunch — Bressanone",
         "start": {
@@ -2439,7 +2650,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "a5mvkdsckha39j3pn1p2nvjefo",
       "event": {
         "summary": "Bressanone → Chiusa",
         "start": {
@@ -2462,7 +2674,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "vk506olv7vst34pp60dmpmcaa8",
       "event": {
         "summary": "Chiusa old town and optional Sabiona path",
         "start": {
@@ -2485,7 +2698,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "dhlravml0941afj32t7514rk8s",
       "event": {
         "summary": "Dinner — Chiusa",
         "start": {
@@ -2508,7 +2722,32 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "gba2a53qsb7jgksu00uj203nm0",
+      "event": {
+        "summary": "Chiusa → Laion lodging",
+        "start": {
+          "dateTime": "2026-09-21T19:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-21T19:20:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.6037555%2C11.5546319\n\nמה זה המקום:\nGoogle Maps estimates about 14 minutes / 10.9 km. Return after dinner; no mid-day lodging stop and no additional laundry.\n\nמה לראות / לעשות:\n- לבצע את בלוק Chiusa → Laion lodging בקצב רגוע.\n- לשים לב: Confirmed 17–25 Sep for two guests. Check-in 16:00, checkout 09:00, lockbox check-in, garage, and free in-building washer and dryer. The host warns that generic sat-nav data can be inaccurate; use the Google Maps coordinates. Saved privately in the lodging list.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:00–19:20.\n- משך ביקור מתוכנן: 20 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Localita' Novale 113, 39040 Laion BZ, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-21-return-laion"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "update",
+      "eventId": "vfms4nm6qrk01ki822m78i05h8",
       "event": {
         "summary": "Laion → Passo Gardena",
         "start": {
@@ -2531,7 +2770,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "roc8hgb0s2a51hi45jpl7tmltg",
       "event": {
         "summary": "Passo Gardena scenic morning",
         "start": {
@@ -2554,7 +2794,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "t3ldupsnkghvfr2kb5ceqvla2s",
       "event": {
         "summary": "Passo Gardena → Vallunga / Selva",
         "start": {
@@ -2577,7 +2818,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "ofehoga4iubopf3oehemqgu3ac",
       "event": {
         "summary": "Lunch — Selva",
         "start": {
@@ -2600,7 +2842,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "vuqq9o98nlk2u5auaaogsei95g",
       "event": {
         "summary": "Vallunga easy out-and-back",
         "start": {
@@ -2623,7 +2866,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "9tkb0cncpd8dpso00vd767ueh4",
       "event": {
         "summary": "Selva village walk and café",
         "start": {
@@ -2646,7 +2890,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "60dm5iserr3rqc4a14k3v66p0g",
       "event": {
         "summary": "Dinner — Selva / Val Gardena",
         "start": {
@@ -2669,7 +2914,32 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "mmr04vs14mgc4apstsdcu4enlk",
+      "event": {
+        "summary": "Vallunga / Selva → Laion lodging",
+        "start": {
+          "dateTime": "2026-09-22T19:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-22T20:05:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.6037555%2C11.5546319\n\nמה זה המקום:\nGoogle Maps currently estimates 29 minutes / 21.3 km; the block retains a small evening margin.\n\nמה לראות / לעשות:\n- לבצע את בלוק Vallunga / Selva → Laion lodging בקצב רגוע.\n- לשים לב: Confirmed 17–25 Sep for two guests. Check-in 16:00, checkout 09:00, lockbox check-in, garage, and free in-building washer and dryer. The host warns that generic sat-nav data can be inaccurate; use the Google Maps coordinates. Saved privately in the lodging list.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:30–20:05.\n- משך ביקור מתוכנן: 35 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Localita' Novale 113, 39040 Laion BZ, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-22-return-laion"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "update",
+      "eventId": "bqlk2a1mk2njrmcakj4guubfqg",
       "event": {
         "summary": "Laion → On the Rocks, Ortisei",
         "start": {
@@ -2692,7 +2962,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "hnhocl0vcigje16ahufo0argqk",
       "event": {
         "summary": "E-bike pickup and fitting — On the Rocks",
         "start": {
@@ -2715,7 +2986,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "l7i668ruqki4qgdlqq0jk6j4t8",
       "event": {
         "summary": "Self-guided e-bike — Ortisei, Rodaval and Vallunga",
         "start": {
@@ -2738,7 +3010,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "9ujtp2qek0h0db9c575rdtofg8",
       "event": {
         "summary": "Return e-bikes",
         "start": {
@@ -2761,7 +3034,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "86ap1hkv2kr1sokhj2cfu4tv6k",
       "event": {
         "summary": "Farewell lunch in Ortisei",
         "start": {
@@ -2784,7 +3058,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "qthip4edbvg5kgr428ssrehnq8",
       "event": {
         "summary": "Ortisei centre and easy Val d'Anna extension",
         "start": {
@@ -2807,7 +3082,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "thqp9aavrkl84mp764jp9s38sc",
       "event": {
         "summary": "Dinner — Ortisei",
         "start": {
@@ -2830,7 +3106,32 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "3snbkq6sdoo1jlvmmru2981vvs",
+      "event": {
+        "summary": "Ortisei → Laion lodging",
+        "start": {
+          "dateTime": "2026-09-23T19:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-23T19:55:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.6037555%2C11.5546319\n\nמה זה המקום:\nGoogle Maps estimates 16 minutes / 12.6 km. Return only after dinner; no second laundry load.\n\nמה לראות / לעשות:\n- לבצע את בלוק Ortisei → Laion lodging בקצב רגוע.\n- לשים לב: Confirmed 17–25 Sep for two guests. Check-in 16:00, checkout 09:00, lockbox check-in, garage, and free in-building washer and dryer. The host warns that generic sat-nav data can be inaccurate; use the Google Maps coordinates. Saved privately in the lodging list.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:30–19:55.\n- משך ביקור מתוכנן: 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Localita' Novale 113, 39040 Laion BZ, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-23-return-laion"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "update",
+      "eventId": "ilurm61nh5pr9t9dvmcpr9nd9k",
       "event": {
         "summary": "Laion → Bolzano and relaxed old-town morning",
         "start": {
@@ -2853,7 +3154,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "dmmsrk7d869deipgifkvlnsfnk",
       "event": {
         "summary": "Final touring lunch — Bolzano",
         "start": {
@@ -2876,7 +3178,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "gmh82k6aecdr6m3hh6rueb38hk",
       "event": {
         "summary": "Bolzano old town, riverside and final shopping",
         "start": {
@@ -2899,7 +3202,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "28hjnekdf7js62t2cu92kmcg1k",
       "event": {
         "summary": "Early dinner — Bolzano",
         "start": {
@@ -2922,7 +3226,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "4gsa5pe54dr4g9j6kufeat2e6s",
       "event": {
         "summary": "Fuel, Bolzano → Laion, pack and prepare the early route",
         "start": {
@@ -2945,7 +3250,32 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "a9o2hj51fg56k9sa1b37ee7d90",
+      "event": {
+        "summary": "Early wake-up and lockbox checkout",
+        "start": {
+          "dateTime": "2026-09-25T04:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-25T04:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.6037555%2C11.5546319\n\nמה זה המקום:\nWake at 04:15, complete the lockbox checkout, load the car and leave no later than 04:45. Confirm with Hubert before the trip that this early key return follows the house instructions; the listed checkout deadline is 09:00.\n\nמה לראות / לעשות:\n- לבצע את בלוק Early wake-up and lockbox checkout בקצב רגוע.\n- לשים לב: Confirmed 17–25 Sep for two guests. Check-in 16:00, checkout 09:00, lockbox check-in, garage, and free in-building washer and dryer. The host warns that generic sat-nav data can be inaccurate; use the Google Maps coordinates. Saved privately in the lodging list.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 04:15–04:45.\n- משך ביקור מתוכנן: 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Localita' Novale 113, 39040 Laion BZ, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-25-wake"
+          }
+        }
+      }
+    },
+    {
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "update",
+      "eventId": "hrackvqrmedm2ijctd3deqg564",
       "event": {
         "summary": "Direct drive — Laion → Target Rent",
         "start": {
@@ -2956,7 +3286,7 @@
           "dateTime": "2026-09-25T08:15:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://maps.app.goo.gl/UiD6XeqskFK6cjYS7\n\nמה זה המקום:\nDrive directly to Via Orlanda 216. Google Maps currently estimates 2h58 / 258 km via A22/E45 and SS47; the 3h30 block adds about 32 minutes for night driving and a short stop while preserving the 08:45 return target.\n\nמה לראות / לעשות:\n- לבצע את בלוק Direct drive — Laion → Target Rent בקצב רגוע.\n- לשים לב: Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. Keep the booked 11 Sep pickup at 12:00. For return, arrive around 08:45 for the booked 09:00 slot, then use the shuttle back to the terminal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 04:45–08:15.\n- משך ביקור מתוכנן: 3 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://maps.app.goo.gl/UiD6XeqskFK6cjYS7\n\nמה זה המקום:\nDrive directly to Via Orlanda 216. Google Maps currently estimates 2h58 / 258 km via A22/E45 and SS47; the 3h30 block adds about 32 minutes for night driving and a short stop while preserving the 08:45 return target.\n\nמה לראות / לעשות:\n- לבצע את בלוק Direct drive — Laion → Target Rent בקצב רגוע.\n- לשים לב: Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. The replacement rental is planned for pickup on 11 Sep at 13:30 and return on 25 Sep at 09:00; the new booking request is not yet submitted or confirmed. For return, arrive around 08:45, then use the shuttle back to the terminal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 04:45–08:15.\n- משך ביקור מתוכנן: 3 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Orlanda 216, 30173 Tessera VE, Italy",
         "extendedProperties": {
           "private": {
@@ -2968,7 +3298,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "9fqa75qpgbksn5d28kg1mbvn44",
       "event": {
         "summary": "Final fuel and return buffer",
         "start": {
@@ -2979,7 +3310,7 @@
           "dateTime": "2026-09-25T08:45:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://maps.app.goo.gl/UiD6XeqskFK6cjYS7\n\nמה זה המקום:\nTop up fuel if the contract requires it, inspect the car and aim to reach Target Rent at about 08:45 for the 09:00 return.\n\nמה לראות / לעשות:\n- לבצע את בלוק Final fuel and return buffer בקצב רגוע.\n- לשים לב: Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. Keep the booked 11 Sep pickup at 12:00. For return, arrive around 08:45 for the booked 09:00 slot, then use the shuttle back to the terminal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:15–08:45.\n- משך ביקור מתוכנן: 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://maps.app.goo.gl/UiD6XeqskFK6cjYS7\n\nמה זה המקום:\nTop up fuel if the contract requires it, inspect the car and aim to reach Target Rent at about 08:45 for the 09:00 return.\n\nמה לראות / לעשות:\n- לבצע את בלוק Final fuel and return buffer בקצב רגוע.\n- לשים לב: Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. The replacement rental is planned for pickup on 11 Sep at 13:30 and return on 25 Sep at 09:00; the new booking request is not yet submitted or confirmed. For return, arrive around 08:45, then use the shuttle back to the terminal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:15–08:45.\n- משך ביקור מתוכנן: 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Orlanda 216, 30173 Tessera VE, Italy",
         "extendedProperties": {
           "private": {
@@ -2991,7 +3322,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "qsca1gplqkh3n2qoak3325je84",
       "event": {
         "summary": "Return rental car — Target Rent",
         "start": {
@@ -3002,7 +3334,7 @@
           "dateTime": "2026-09-25T09:10:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://maps.app.goo.gl/UiD6XeqskFK6cjYS7\n\nמה זה המקום:\nBooked return is 09:00. Photograph the car, record fuel level and mileage, obtain the return receipt and move promptly to the free airport shuttle.\n\nמה לראות / לעשות:\n- לבצע את בלוק Return rental car — Target Rent בקצב רגוע.\n- לשים לב: Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. Keep the booked 11 Sep pickup at 12:00. For return, arrive around 08:45 for the booked 09:00 slot, then use the shuttle back to the terminal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:45–09:10.\n- משך ביקור מתוכנן: 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://maps.app.goo.gl/UiD6XeqskFK6cjYS7\n\nמה זה המקום:\nBooked return is 09:00. Photograph the car, record fuel level and mileage, obtain the return receipt and move promptly to the free airport shuttle.\n\nמה לראות / לעשות:\n- לבצע את בלוק Return rental car — Target Rent בקצב רגוע.\n- לשים לב: Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. The replacement rental is planned for pickup on 11 Sep at 13:30 and return on 25 Sep at 09:00; the new booking request is not yet submitted or confirmed. For return, arrive around 08:45, then use the shuttle back to the terminal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:45–09:10.\n- משך ביקור מתוכנן: 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Orlanda 216, 30173 Tessera VE, Italy",
         "extendedProperties": {
           "private": {
@@ -3014,7 +3346,8 @@
     },
     {
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "u88p5urag8mrkck9t8eug3mv4s",
       "event": {
         "summary": "Target Rent shuttle → VCE",
         "start": {

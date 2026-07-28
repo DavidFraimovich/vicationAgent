@@ -137,10 +137,25 @@ test("Airbnb and check-in lodging items are provider-managed calendar entries", 
     assert.equal(isProviderManagedLodgingItem({
         itemType: "transfer",
         title: "Drive — Venice area → Cortina",
+        source: "user_confirmed_airbnb",
+    }), false);
+    assert.equal(isProviderManagedLodgingItem({
+        itemType: "transfer",
+        title: "Chiusa → Laion lodging",
+        source: "user_confirmed_west_airbnb_v21",
+    }), false);
+    assert.equal(isLikelyLodgingCalendarEvent({
+        summary: "Chiusa → Laion lodging",
+        itineraryItem: {
+            itemType: "transfer",
+            title: "Chiusa → Laion lodging",
+            source: "user_confirmed_west_airbnb_v21",
+        },
     }), false);
     assert.equal(isProviderManagedLodgingItem({
         itemType: "logistics",
         title: "Early wake-up and checkout",
+        source: "user_confirmed_west_airbnb_v21",
     }), false);
 });
 test("plan seeding is idempotent and trip-place links stay scoped", { concurrency: false }, async () => {
