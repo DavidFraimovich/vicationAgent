@@ -26,6 +26,12 @@ import {
   listCalendarEvents,
   previewCalendarEvent,
 } from "./google-calendar.js";
+import {
+  probeTelegramConnection,
+  previewTelegramPush,
+  sendTelegramPush,
+  telegramConfigured,
+} from "./telegram.js";
 import { validateTrip } from "./validate.js";
 
 function result(value: unknown) {
@@ -60,6 +66,7 @@ server.tool(
     defaultTripId: config.project.default_trip_id,
     trips: listTrips().length,
     calendarAuthConfigured: calendarAuthConfigured(),
+    telegramConfigured: telegramConfigured(),
     mapsAuthConfigured: mapsAuthMode !== "none",
     mapsAuthMode,
     browserProfileAccount: config.browser.profile_account_email,
@@ -357,6 +364,94 @@ server.tool(
     confirm: z.boolean(),
   },
   async (input) => result(await deleteCalendarEvent(input)),
+);
+
+server.tool(
+  "telegram_health",
+  "Verify that the configured Telegram bot and destination chat are reachable. Makes read-only getMe and getChat requests and does not send a message.",
+  {},
+  async () => result(await probeTelegramConnection()),
+);
+
+server.tool(
+  "telegram_preview_push",
+  "Preview a relevant project notification before sending it to the configured Telegram chat. Use concise plain text and never include credentials, cookies, payment details, or raw private data.",
+  {
+    message: z.string().min(1).max(4096),
+    title: z.string().min(1).max(160).optional(),
+    silent: z.boolean().optional(),
+    messageThreadId: z.number().int().positive().optional(),
+  },
+  async (input) => result(previewTelegramPush(input)),
+);
+
+server.tool(
+  "telegram_send_push",
+  "Send a relevant, concise project notification to the Telegram chat configured in TELEGRAM_CHAT_ID. Preview first. confirm=true is required. Never send credentials, cookies, payment details, or unreviewed private data.",
+  {
+    message: z.string().min(1).max(4096),
+    title: z.string().min(1).max(160).optional(),
+    silent: z.boolean().optional(),
+    messageThreadId: z.number().int().positive().optional(),
+    tripId: z.string().optional(),
+    confirm: z.boolean(),
+  },
+  async ({ tripId, confirm, ...input }) => {
+    if (!confirm) {
+      throw new Error("telegram_send_push requires confirm=true after reviewing the preview.");
+    }
+    let sent: Awaited<ReturnType<typeof sendTelegramPush>>;
+    try {
+      sent = await sendTelegramPush(input);
+    } catch (error) {
+      try {
+        recordAction({
+          tripId,
+          provider: "telegram",
+          action: "send_push",
+          entityType: "telegram_message",
+          status: "failed",
+          dryRun: false,
+          payload: {
+            characterCount: previewTelegramPush(input).characterCount,
+            silent: input.silent ?? false,
+            messageThreadId: input.messageThreadId,
+          },
+          result: {
+            error: error instanceof Error ? error.message : "Unknown Telegram error",
+          },
+        });
+      } catch {
+        // Preserve the original Telegram failure even if the local audit write also fails.
+      }
+      throw error;
+    }
+
+    try {
+      recordAction({
+        tripId,
+        provider: "telegram",
+        action: "send_push",
+        entityType: "telegram_message",
+        entityId: sent.messageId?.toString(),
+        status: "sent",
+        dryRun: false,
+        payload: {
+          characterCount: sent.characterCount,
+          silent: sent.silent,
+          messageThreadId: sent.messageThreadId,
+        },
+        result: {
+          messageId: sent.messageId,
+          sentAt: sent.sentAt,
+        },
+      });
+      return result({ ...sent, auditRecorded: true });
+    } catch {
+      // The push already succeeded. Report that accurately so a retry cannot duplicate it.
+      return result({ ...sent, auditRecorded: false });
+    }
+  },
 );
 
 await server.connect(new StdioServerTransport());

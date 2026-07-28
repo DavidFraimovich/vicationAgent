@@ -84,6 +84,23 @@ Explicit confirmation is required immediately before:
 - sending a message to a host;
 - deleting a calendar event.
 
+## Telegram push notifications
+
+Use `telegram_preview_push`, followed by `telegram_send_push` with
+`confirm: true`, for concise updates that are materially useful outside the
+current Codex chat. Good push candidates include:
+
+- a new host, airline, lodging, or vendor reply that needs attention;
+- a booking, cancellation, payment, parking, or check-in deadline;
+- a material itinerary risk or change that requires a decision;
+- completion or failure of a scheduled/background task;
+- a confirmed external write whose result the user should see promptly.
+
+Do not push routine progress, duplicate chat summaries, low-confidence
+speculation, raw logs, credentials, cookies, payment details, or unnecessary
+private data. Always preview first, send only to the chat configured by
+`TELEGRAM_CHAT_ID`, and keep the message short and actionable.
+
 ## Lodging cancellation
 
 - A lodging candidate may enter the shortlist only when the selected dates and rate

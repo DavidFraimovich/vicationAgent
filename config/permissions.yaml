@@ -24,6 +24,8 @@ modes:
 
 rules:
   - Never write to a Google Calendar other than the configured allowlisted calendar.
+  - Telegram push notifications may only target TELEGRAM_CHAT_ID, must be previewed first, and require confirm=true.
+  - Never include credentials, cookies, payment details, or raw private data in Telegram push notifications.
   - Preview or diff external writes before applying them.
   - Never delete a protected flight event.
   - Never store raw passwords, full payment card numbers, CVV, or session cookies.
