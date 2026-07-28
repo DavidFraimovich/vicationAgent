@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import { google } from "googleapis";
+import { isLikelyLodgingCalendarEvent } from "./calendar-policy.js";
 import { loadConfig } from "./config.js";
 import { getItineraryItem, recordAction, upsertItineraryItem } from "./db.js";
 import { resolveProjectPath } from "./paths.js";
@@ -134,6 +135,29 @@ export function previewCalendarEvent(input) {
     };
 }
 export async function applyCalendarEvent(input) {
+    const itineraryItem = input.itineraryItemId
+        ? getItineraryItem(input.itineraryItemId)
+        : undefined;
+    if (isLikelyLodgingCalendarEvent({ summary: input.summary, itineraryItem })
+        && input.allowLodgingWriteAfterDedupe !== true) {
+        const blocked = {
+            applied: false,
+            reason: "provider_managed_lodging_dedupe_required",
+            policy: "Prefer the Airbnb event created from the confirmation email. A manual lodging write requires an explicit user request after checking the matching inbox message and Calendar date range for duplicates.",
+        };
+        recordAction({
+            tripId: input.tripId,
+            provider: "google_calendar",
+            action: input.eventId ? "update_event" : "create_event",
+            entityType: "itinerary_item",
+            entityId: input.itineraryItemId,
+            status: "blocked",
+            dryRun: true,
+            payload: previewCalendarEvent(input),
+            result: blocked,
+        });
+        return blocked;
+    }
     const config = loadConfig();
     const preview = previewCalendarEvent(input);
     if (config.calendar.require_confirmation_for_write && !input.confirm) {

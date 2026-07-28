@@ -5,6 +5,7 @@ import path from "node:path";
 import test from "node:test";
 import { buildAirbnbSearchUrl } from "../src/exports.js";
 import { normalizeCalendarDescription, previewCalendarEvent, } from "../src/google-calendar.js";
+import { isLikelyLodgingCalendarEvent, isProviderManagedLodgingItem, } from "../src/calendar-policy.js";
 import { classifyPlace } from "../src/importers.js";
 import { evaluateLodgingCandidate } from "../src/lodging-policy.js";
 test("Airbnb URL includes dates and adults", () => {
@@ -122,6 +123,25 @@ test("calendar descriptions are normalized to Apple Calendar-compatible plain te
         description,
     });
     assert.equal(preview.event.description, normalized);
+});
+test("Airbnb and check-in lodging items are provider-managed calendar entries", () => {
+    assert.equal(isProviderManagedLodgingItem({
+        itemType: "lodging",
+        title: "Check-in — a&o Venezia Mestre",
+    }), true);
+    assert.equal(isProviderManagedLodgingItem({
+        itemType: "base",
+        title: "Ortisei check-in and orientation",
+    }), true);
+    assert.equal(isLikelyLodgingCalendarEvent({ summary: "Airbnb — Cortina apartment stay" }), true);
+    assert.equal(isProviderManagedLodgingItem({
+        itemType: "transfer",
+        title: "Drive — Venice area → Cortina",
+    }), false);
+    assert.equal(isProviderManagedLodgingItem({
+        itemType: "logistics",
+        title: "Early wake-up and checkout",
+    }), false);
 });
 test("plan seeding is idempotent and trip-place links stay scoped", { concurrency: false }, async () => {
     const oldDb = process.env.TRAVEL_AGENT_DB;

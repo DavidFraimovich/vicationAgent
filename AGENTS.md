@@ -33,6 +33,7 @@ Do not report a Dolomites itinerary change as complete while the human-readable 
 6. Show a concise diff or preview.
 7. Apply approved external writes.
 8. Record every external write in the local audit log.
+9. Send the required Telegram completion notification described below.
 
 ## Google Maps
 
@@ -86,20 +87,45 @@ Explicit confirmation is required immediately before:
 
 ## Telegram push notifications
 
-Use `telegram_preview_push`, followed by `telegram_send_push` with
-`confirm: true`, for concise updates that are materially useful outside the
-current Codex chat. Good push candidates include:
+Telegram is the user's required out-of-band notification channel. Use
+`telegram_preview_push`, followed by `telegram_send_push` with `confirm: true`.
+The user's standing authorization in this file is sufficient for the
+notification itself; do not ask for another confirmation when the message only
+reports one of the required events below. This does not replace explicit
+confirmation for booking, payment, cancellation, or sending a host message.
 
-- a new host, airline, lodging, or vendor reply that needs attention;
-- a booking, cancellation, payment, parking, or check-in deadline;
-- a material itinerary risk or change that requires a decision;
-- completion or failure of a scheduled/background task;
-- a confirmed external write whose result the user should see promptly.
+Send a Telegram notification after every completed or failed external action
+related to:
 
-Do not push routine progress, duplicate chat summaries, low-confidence
-speculation, raw logs, credentials, cookies, payment details, or unnecessary
-private data. Always preview first, send only to the chat configured by
-`TELEGRAM_CHAT_ID`, and keep the message short and actionable.
+- reservations, bookings, confirmations, cancellations, refunds, or payments;
+- lodging, flights, tickets, restaurants, parking, rentals, or check-in/out;
+- a host, airline, lodging, restaurant, rental, or other vendor message;
+- a booking-related Calendar creation, update, deletion, or provider event;
+- a newly received confirmation or a material change to existing confirmation
+  terms, dates, price, refundability, or status.
+
+Every Scheduler run must send exactly one Telegram completion notification,
+including runs that found no changes. Use one of these clear outcomes:
+`completed`, `no changes`, `action required`, or `failed`. The notification is
+the final step of the scheduled run. If Telegram delivery fails, report that
+failure in the scheduled-task result/current chat and record the failed push in
+the local audit log; do not retry indefinitely.
+
+Use a short actionable structure:
+
+```text
+[status] [task or action]
+[subject]
+[result]
+[next step, only when needed]
+```
+
+Do not push intermediate progress, duplicate notifications for the same
+action, low-confidence speculation, raw logs, credentials, cookies, full
+confirmation or reservation codes, payment details, or unnecessary private
+data. A manual read-only search, preview, or draft does not require a push
+unless it is itself a Scheduler run. Always preview first and send only to the
+chat configured by `TELEGRAM_CHAT_ID`.
 
 ## Lodging cancellation
 

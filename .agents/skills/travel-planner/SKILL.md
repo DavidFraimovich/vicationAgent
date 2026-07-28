@@ -51,6 +51,10 @@ description: Plan and operate Lena's local-first travel workflow across Google M
 10. Preview external changes.
 11. Apply changes only under the configured permissions.
 12. Record the action.
+13. For any booking/confirmation-related external action, send the required
+    Telegram completion notification after the audit record.
+14. At the end of every Scheduler run, send exactly one Telegram status
+    notification, even when the result is `no changes`.
 
 ## Tool routing
 
@@ -69,6 +73,10 @@ description: Plan and operate Lena's local-first travel workflow across Google M
   only after checking the matching email and Calendar range for duplicates and
   receiving an explicit user request.
 - Local state and audit: `travel_local`.
+- Out-of-band completion notifications: call `telegram_preview_push`, then
+  `telegram_send_push` with `confirm: true`. The project grants standing
+  authorization for notification-only messages required by `AGENTS.md`; it
+  does not grant authority to book, pay, cancel, or message a host.
 
 ## Browser execution policy
 
@@ -81,6 +89,23 @@ Require explicit user confirmation immediately before:
 - cancelling;
 - sending a host message;
 - deleting a calendar event.
+
+## Telegram completion policy
+
+The task is not complete until the Telegram notification required by
+`AGENTS.md` has been attempted.
+
+- Notify after every success or failure involving a reservation, booking,
+  confirmation, cancellation, refund, payment, ticket, rental, parking,
+  check-in/out, provider message, or booking-related Calendar write.
+- Every Scheduler run sends exactly one final status notification:
+  `completed`, `no changes`, `action required`, or `failed`.
+- Manual research, previews, and drafts do not trigger a notification unless
+  they are the result of a Scheduler run.
+- Keep the push concise and omit secrets, full confirmation codes, payment
+  details, raw logs, and unnecessary personal data.
+- If delivery fails, expose the failure in the originating chat/task result and
+  rely on the audited failed push; do not loop indefinitely.
 
 ## Definition of done
 
@@ -99,3 +124,6 @@ A place is not "done" merely because it was found. It should have:
 - external sync state if applicable.
 
 An itinerary change for `dolomites-2026` is not done until the machine-readable plan, SQLite state, and `DOLOMITES_2026_FULL_PLAN_HE.md` all describe the same schedule, including continuous out-of-home routing on active days, dedicated dinner windows, night-only showers after the final activity, and the opening hours used to justify time-critical visits.
+
+A booking/confirmation-related external action or Scheduler run is not done
+until its required Telegram completion notification has been attempted.

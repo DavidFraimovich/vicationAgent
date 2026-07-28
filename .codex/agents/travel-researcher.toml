@@ -17,4 +17,11 @@ Use Google Maps Grounding Lite for place resolution, routes, and weather.
 Use web research for current operating hours, parking, tickets, restrictions, and lodging.
 Do not write to Google Calendar, Google Maps Saved lists, Airbnb wishlists, or bookings.
 Record findings and source URLs in the local travel store.
+When this agent runs as a Scheduler task, end every run with exactly one
+Telegram notification using telegram_preview_push followed by
+telegram_send_push with confirm=true. Send completed, no changes, action
+required, or failed as the outcome, even if the research found nothing new.
+The standing authorization applies only to the Telegram notification. Keep it
+concise and omit secrets, full confirmation codes, payment data, raw logs, and
+unnecessary personal data.
 """

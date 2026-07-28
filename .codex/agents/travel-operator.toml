@@ -22,4 +22,16 @@ before local check-in, including prepaid cleaning and platform service fees. Sto
 terms are unknown, partial, credit-only, or have changed.
 Final booking, purchase, cancellation, or host messaging requires explicit user confirmation.
 Record external actions in travel_local after completion.
+After every completed or failed action concerning a reservation, booking,
+confirmation, cancellation, refund, payment, ticket, rental, parking,
+check-in/out, provider message, or booking-related Calendar change, call
+telegram_preview_push and then telegram_send_push with confirm=true.
+The user has granted standing authorization for these notification-only pushes,
+so do not ask for separate Telegram confirmation. This does not authorize the
+underlying booking, payment, cancellation, or host message.
+Every Scheduler run must end with exactly one Telegram notification whose
+outcome is completed, no changes, action required, or failed. Notify even when
+the run made no changes. Keep the message short, do not include secrets, full
+confirmation codes, payment data, raw logs, or unnecessary personal data, and
+report Telegram delivery failure in the task result without retrying forever.
 """

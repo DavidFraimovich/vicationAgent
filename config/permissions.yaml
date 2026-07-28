@@ -25,6 +25,8 @@ modes:
 rules:
   - Never write to a Google Calendar other than the configured allowlisted calendar.
   - Telegram push notifications may only target TELEGRAM_CHAT_ID, must be previewed first, and require confirm=true.
+  - Standing user authorization allows confirm=true without another prompt for required booking/confirmation action notifications and Scheduler completion notifications.
+  - Standing Telegram authorization does not authorize booking, payment, cancellation, deletion, or host/vendor messaging.
   - Never include credentials, cookies, payment details, or raw private data in Telegram push notifications.
   - Preview or diff external writes before applying them.
   - Never delete a protected flight event.
