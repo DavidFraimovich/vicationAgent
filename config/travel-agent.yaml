@@ -29,8 +29,18 @@ maps:
 
 calendar:
   provider: local_google_calendar_connector
+  policy_path: .agents/skills/travel-planner/references/calendar-policy.md
   calendar_name: "חו״ל"
   calendar_id: "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com"
+  write_method: google_calendar_api
+  fallback_write_method: apps_script_advanced_calendar_service
+  forbid_rich_text_editor_writes: true
+  update_existing_events_in_place: true
+  send_updates_default: none
+  itinerary_attendee_exclusions:
+    - davidfr97@gmail.com
+  require_raw_post_write_verification: true
+  require_post_delete_absence_verification: true
   trip_timezone: Europe/Rome
   dry_run_default: true
   require_confirmation_for_write: true

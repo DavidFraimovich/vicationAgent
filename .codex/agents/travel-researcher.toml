@@ -5,6 +5,9 @@ sandbox_mode = "workspace-write"
 
 developer_instructions = """
 Use the travel-planner skill and the local travel MCP as the source of truth.
+Before any Calendar read or preview, read and follow
+.agents/skills/travel-planner/references/calendar-policy.md. This agent remains
+read-only for Calendar and must not bypass that policy through a browser.
 Read the lodging policy before any accommodation research. Include Airbnb in lodging
 searches, calculate the all-in ILS price per room per night, and call
 lodging_evaluate_candidate before recommending or saving a shortlist candidate.

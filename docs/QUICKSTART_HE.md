@@ -83,6 +83,12 @@ enabled = true
 
 ## 6. Google Calendar מקומי
 
+כל פעולת יומן מתחילה בקריאת
+`.agents/skills/travel-planner/references/calendar-policy.md`. המדיניות חלה
+על `calendar_list_events`,‏ `calendar_preview_event`,‏
+`calendar_apply_event`,‏ `calendar_delete_event` ועל כל fallback דרך Apps
+Script או דפדפן.
+
 1. צור OAuth Client מסוג Desktop app ב־Google Cloud.
 2. הורד JSON ל־`secrets/google-oauth-client.json`.
 3. הרץ:
@@ -100,6 +106,14 @@ npm run google:auth
 ```bash
 npm run calendar:preview
 ```
+
+ביצירת או בעדכון אירוע משתמשים ב־Google Calendar API גולמי, ב־
+`sendUpdates: none`, וב־Event ID קיים לעדכון במקום. אירועי המסלול נשמרים רק
+ביומן `חו״ל` וללא `davidfr97@gmail.com` כמוזמן. אין להשתמש בעורך העשיר של
+Google Calendar, ב־`הסרת העיצוב` או ב־Apple Calendar כדי לנקות תיאורים.
+לאחר כתיבה קוראים את האירוע מחדש דרך API ומאמתים plain text מדויק, היעדר
+תגיות HTML, URLs מלאים והיעדר המוזמן האישי. פרוטוקול מחיקה, הגנות הטיסה
+וכללי הלינה מפורטים במדיניות היומן.
 
 ## 7. בניית תוכנית Dolomites 2026
 

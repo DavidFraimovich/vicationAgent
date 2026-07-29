@@ -17,6 +17,7 @@
     "google:auth": "node --import tsx src/google-auth.ts",
     "maps:tool": "node scripts/google-maps-mcp.mjs",
     "export:mymaps": "node --import tsx src/cli.ts export-mymaps --trip dolomites-2026",
+    "export:plan-html": "node --import tsx src/cli.ts export-plan-html",
     "calendar:preview": "node --import tsx src/cli.ts preview-calendar --trip dolomites-2026",
     "validate": "node --import tsx src/cli.ts validate --trip dolomites-2026",
     "backup": "node --import tsx src/cli.ts backup",
@@ -26,11 +27,13 @@
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.17.5",
     "googleapis": "^150.0.1",
+    "markdown-it": "^14.1.0",
     "yaml": "^2.8.1",
     "zod": "^3.25.76"
   },
   "devDependencies": {
     "@types/node": "^24.0.10",
+    "@types/markdown-it": "^14.1.2",
     "tsx": "^4.20.3",
     "typescript": "^5.8.3"
   }

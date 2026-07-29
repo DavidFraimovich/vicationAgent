@@ -80,6 +80,11 @@ switch (command()) {
     case "preview-calendar":
         previewCalendar();
         break;
+    case "export-plan-html": {
+        const { exportDolomitesPlanHtml } = await import("./plan-html.js");
+        console.log(JSON.stringify(exportDolomitesPlanHtml(), null, 2));
+        break;
+    }
     case "backup":
         backup();
         break;
@@ -104,9 +109,14 @@ Commands:
   npm run import:provided
   npm run validate
   npm run export:mymaps
+  npm run export:plan-html
   npm run calendar:preview
   npm run backup
   npm run seed:plan
   node --import tsx src/cli.ts list-places --trip dolomites-2026
+
+Calendar policy:
+  .agents/skills/travel-planner/references/calendar-policy.md
+  Read and follow it before every Calendar read, preview, create, update, or delete command.
 `);
 }

@@ -5,6 +5,8 @@ import path from "node:path";
 import test from "node:test";
 import { buildAirbnbSearchUrl } from "../src/exports.js";
 import {
+  assertCalendarEventIsPlainText,
+  calendarAttendeesWithoutPersonalInvite,
   normalizeCalendarDescription,
   previewCalendarEvent,
 } from "../src/google-calendar.js";
@@ -145,6 +147,102 @@ test("calendar descriptions are normalized to Apple Calendar-compatible plain te
     (preview.event as { description?: string }).description,
     normalized,
   );
+});
+
+test("calendar writes remove only the personal invite and reject stored HTML", () => {
+  assert.deepEqual(
+    calendarAttendeesWithoutPersonalInvite([
+      { email: "DAVIDFR97@GMAIL.COM", responseStatus: "accepted" },
+      { email: "travel-partner@example.com", responseStatus: "tentative" },
+    ]),
+    [
+      {
+        email: "travel-partner@example.com",
+        responseStatus: "tentative",
+        optional: undefined,
+        comment: undefined,
+        additionalGuests: undefined,
+      },
+    ],
+  );
+
+  assert.doesNotThrow(() =>
+    assertCalendarEventIsPlainText(
+      {
+        description: "Google Maps:\nhttps://maps.example/place",
+        attendees: [],
+      },
+      "Google Maps:\nhttps://maps.example/place",
+    ),
+  );
+  assert.throws(
+    () =>
+      assertCalendarEventIsPlainText({
+        description: "Google Maps:<br>https://maps.example/place",
+        attendees: [],
+      }),
+    /still contains HTML/,
+  );
+  assert.throws(
+    () =>
+      assertCalendarEventIsPlainText({
+        description: "Plain text",
+        attendees: [{ email: "davidfr97@gmail.com" }],
+      }),
+    /personal calendar is still invited/,
+  );
+});
+
+test("calendar commands and configuration point to the authoritative policy", () => {
+  const projectRoot = path.resolve(import.meta.dirname, "..");
+  const policyPath =
+    ".agents/skills/travel-planner/references/calendar-policy.md";
+  const policy = fs.readFileSync(path.join(projectRoot, policyPath), "utf8");
+  const tools = fs.readFileSync(path.join(projectRoot, "src/mcp-server.ts"), "utf8");
+  const config = fs.readFileSync(
+    path.join(projectRoot, "config/travel-agent.yaml"),
+    "utf8",
+  );
+  const instructions = fs.readFileSync(
+    path.join(projectRoot, "AGENTS.md"),
+    "utf8",
+  );
+  const calendarInstructionEntryPoints = [
+    "README.md",
+    "AGENTS.md",
+    ".agents/skills/travel-planner/SKILL.md",
+    ".agents/skills/travel-planner/references/general-policy.md",
+    ".agents/skills/travel-planner/references/lodging-policy.md",
+    ".agents/skills/travel-planner/references/maps-policy.md",
+    ".agents/skills/travel-planner/references/manifest.md",
+    ".codex/agents/travel-operator.toml",
+    ".codex/agents/travel-researcher.toml",
+    "config/permissions.yaml",
+    "config/travel-agent.yaml",
+    "docs/ARCHITECTURE_HE.md",
+    "docs/QUICKSTART_HE.md",
+    "docs/TOOLS_HE.md",
+    "src/cli.ts",
+    "src/mcp-server.ts",
+  ];
+
+  assert.match(policy, /חוזה ביצוע מחייב לכל פקודת Calendar/);
+  assert.match(policy, /sendUpdates: none/);
+  assert.match(policy, /events\.get/);
+  assert.match(policy, /davidfr97@gmail\.com/);
+  assert.match(tools, /CALENDAR_POLICY_FILE/);
+  assert.match(tools, /calendar_apply_event/);
+  assert.match(tools, /calendar_delete_event/);
+  assert.match(config, new RegExp(`policy_path: ${policyPath.replaceAll(".", "\\.")}`));
+  assert.match(instructions, new RegExp(policyPath.replaceAll(".", "\\.")));
+  for (const file of calendarInstructionEntryPoints) {
+    const content = fs.readFileSync(path.join(projectRoot, file), "utf8");
+    assert.match(
+      content,
+      /calendar-policy\.md|CALENDAR_POLICY_FILE/,
+      `${file} must reference the authoritative Calendar policy`,
+    );
+  }
 });
 
 test("Airbnb and check-in lodging items are provider-managed calendar entries", () => {

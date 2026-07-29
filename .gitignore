@@ -7,5 +7,6 @@ secrets/*
 data/travel-agent.sqlite
 data/travel-agent.sqlite-*
 data/backups/*.sqlite
+data/exports/dolomites-2026-plan.html
 .DS_Store
 *.log

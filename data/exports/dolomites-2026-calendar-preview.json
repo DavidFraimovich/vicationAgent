@@ -1,6 +1,7 @@
 {
-  "generatedAt": "2026-07-28T17:25:36.226Z",
+  "generatedAt": "2026-07-29T14:05:23.582Z",
   "tripId": "dolomites-2026",
+  "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
   "calendarName": "חו״ל",
   "timezone": "Europe/Rome",
   "dryRun": true,
@@ -33,6 +34,7 @@
   },
   "events": [
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "ph5b76enue7acuause9jr105qc",
@@ -57,6 +59,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "gma51f64q00tkh5spqletv95kc",
@@ -81,6 +84,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "kn8h25mbpr8vn5pf7i7ialgb7s",
@@ -105,6 +109,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "k7g2ukl5qqoc41a890cuqr1v20",
@@ -129,6 +134,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "qf8oad7062aa7r1br5m8ef69ek",
@@ -153,6 +159,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "g83h89hoas0htkpl0reg8cfs3s",
@@ -177,6 +184,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "urs16jdg09fklhc4452rsgni0g",
@@ -201,6 +209,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "pvfnou6vnimubip0e6pduevac8",
@@ -225,6 +234,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "lvviqopo6llbgk1lf4j76t1adg",
@@ -249,6 +259,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "a0ifmhgg30mdu0mbn9sgkl0ips",
@@ -273,6 +284,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "asmr6vg657juueas3q72kolrg4",
@@ -297,6 +309,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "ljb64q8iik4n9vsm10c857lg48",
@@ -321,6 +334,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "egkka45t4jk4evh0vuhtmbjbhs",
@@ -345,6 +359,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "b66hmio7gbgkpkkc9bti1j7cbo",
@@ -369,6 +384,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "ujrivk42janvkog5i6ija0ela8",
@@ -393,6 +409,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "q04p0hec24kkl4iecah6kth2rk",
@@ -417,6 +434,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "9ftt5nmv20tf19nhd96htjjqvk",
@@ -441,6 +459,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "0ogu2qejk28eqpk7kro5nae0lc",
@@ -465,6 +484,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "t8ce2e82fveniec79f95qfcoso",
@@ -489,6 +509,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "5fo5vlrdus0q5skulinlhvqj2o",
@@ -513,6 +534,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "gr1dkr46s8ij0v9r9utp3immd8",
@@ -537,6 +559,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "sdr63ucnse53507to9417pdetg",
@@ -561,6 +584,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "tnnbnjskk0kc718tkkflar94qk",
@@ -585,6 +609,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "i024v2l574asj76ctcpp5ls7o4",
@@ -609,6 +634,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "qeenq0subtqcdqlvj6fbvpi41s",
@@ -633,6 +659,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "qgjlcpeveol79tenr54ilm3mgg",
@@ -657,6 +684,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "g58b9nn997h8avnh3onldsrer0",
@@ -681,6 +709,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "r11v6oqkpg0pieobimjuh3ec8g",
@@ -705,6 +734,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "p6at067jppngppkhbs8o5pcuog",
@@ -729,6 +759,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "tr9h2kbphrh96443afscfa010k",
@@ -753,6 +784,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "pihrfecme4bs6q9d3crk9hse4s",
@@ -777,6 +809,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "hblqu63pkiv30bpnpolm4f0frk",
@@ -801,6 +834,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "81meb3tk4ujg8tf4mnko9fjf7k",
@@ -825,6 +859,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "cm8gkea5j9cvvnvecjpufubj5g",
@@ -849,6 +884,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "9fsc72pbks6c751g9tfrhkmh5s",
@@ -873,6 +909,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "2hg9vkdbbasghv14akcdc0c5go",
@@ -897,6 +934,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "eqc23bmddlst58epgrgpnlk99g",
@@ -921,6 +959,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "3b5f0epglnbebdca5c5e3s9c78",
@@ -945,6 +984,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "hssf8r045t6stksc5k27b1d7ok",
@@ -969,6 +1009,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "pvluamf9qp55h69cnfml32j7ps",
@@ -993,6 +1034,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "emm6knl0unjjuglgebhmup4qc0",
@@ -1017,6 +1059,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "mgrps711c8ufjfeu81199utrmg",
@@ -1041,6 +1084,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "0ku3bieggacvnaae1lla5voqi0",
@@ -1065,6 +1109,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "u1q09tt2mrc9l9jntibmvqdr88",
@@ -1089,6 +1134,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "k8jtt0ri4tnhbmh38808g17qss",
@@ -1113,6 +1159,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "8aae6hauhba264bd0pnakshsjs",
@@ -1137,6 +1184,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "5vk87veag30tgtdbmfckthvo00",
@@ -1161,6 +1209,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "oc9f10crtupjpu66e3j59pe2r8",
@@ -1185,6 +1234,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "0konc8q2n16k35m3i38ac551p4",
@@ -1209,6 +1259,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "3l48805e4j631drbnsgm8jneto",
@@ -1233,6 +1284,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "ak8oi1aunueofibjkg2909bsr8",
@@ -1257,6 +1309,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "daq3mv2pb7jf3qmbghp4mms6eo",
@@ -1281,6 +1334,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "1ceskt4ip54dq24sajllmvhelo",
@@ -1305,6 +1359,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "e57d0a5dllcm46b11e2j1h6gm4",
@@ -1329,6 +1384,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "3putmf1eapato3uqrsl5h24kvg",
@@ -1353,6 +1409,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "jsk75kn6vdpvljnu5b3k27vmq4",
@@ -1377,6 +1434,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "vl9hdk80g9jnltlsfs5dkdrltc",
@@ -1401,6 +1459,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "4kb7dh1gfnmfjuq86td02sgp4c",
@@ -1425,6 +1484,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "9ou61kvobiop04q5ku4e6ov2gk",
@@ -1449,6 +1509,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "urq2ehfn0imvkotjioklikf0co",
@@ -1473,6 +1534,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "ik2a8pda41faqngolth6u1avbo",
@@ -1497,6 +1559,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "g66m2t967iq4kiuepftjd178l0",
@@ -1521,6 +1584,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "aish5esm6m4t34e742i9ufudck",
@@ -1545,6 +1609,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "9pm8qeasp998p37q3a8vkbfsgg",
@@ -1569,6 +1634,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "imr69e49ifohrtt333315bkep8",
@@ -1593,6 +1659,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "k9ef81i58degnd470lgt4f2e04",
@@ -1617,6 +1684,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "9s7hp8ncnbp2tvc1n17veckcr4",
@@ -1641,6 +1709,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "1s4diatr3k55nfqf95ha0l9vg4",
@@ -1665,6 +1734,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "ml5ov65q1dl5n6d2r5rjhpqr28",
@@ -1689,6 +1759,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "5j43611jcnmm48pc9gv5l5v034",
@@ -1713,6 +1784,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "3ada6doqs23gmqo3mio2ie638s",
@@ -1737,6 +1809,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "j42nkldsui8em2cl49q61bn53s",
@@ -1761,6 +1834,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "j5j8cakc6l6o87rl0jc5sni96o",
@@ -1785,6 +1859,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "0ibbh0qsap4p7kggqj9h9c4cmo",
@@ -1809,6 +1884,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "3kjigao5drs3bng79krc9tj1fg",
@@ -1833,6 +1909,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "kuc4ab5ml0n87io3f3vjdvpiuk",
@@ -1857,6 +1934,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "o1r6tj0s84ddjh3vb6k75kk1lg",
@@ -1881,6 +1959,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "1s8n2akil47p1af8l4u72mes78",
@@ -1905,6 +1984,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "o8ba2mjo9v90h0u6i0ujqftom0",
@@ -1929,6 +2009,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "ga2oslvduqq7rtvpicjbm1h2pk",
@@ -1953,6 +2034,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "44nramm50ck9llnduqvg9fhm2s",
@@ -1977,6 +2059,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "9p8j6uc59gi04e3etlqdu4s4bc",
@@ -2001,6 +2084,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "lgnv69brot4irg9dcutit05010",
@@ -2025,6 +2109,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "18t9al6a2d8bbm8anrh1uq0rg8",
@@ -2049,6 +2134,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "t32saqjjcroq5bo3mjkcua5d1o",
@@ -2073,6 +2159,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "ej6ksc3nqkk7echttqhpo337ak",
@@ -2097,6 +2184,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "eurg6hud9socusdcm6ur9u0f5k",
@@ -2121,6 +2209,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "q4p3bqcl79lf1qhmhkrg6e3ri8",
@@ -2145,6 +2234,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "1s39takffv6s0g0foi0hcguf48",
@@ -2169,6 +2259,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "nrdhqn0tkno1trovga8n81r31g",
@@ -2193,6 +2284,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "r3qrch4t3nelu0l1075nevfctk",
@@ -2217,6 +2309,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "i3s3mionbio6c8jqh9v1nnp6h0",
@@ -2241,6 +2334,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "54i3021op5hk1ao281cfnji3gs",
@@ -2265,6 +2359,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "ll934oakfe6tlrsqokil72ifms",
@@ -2289,6 +2384,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "rreimn0bmurgvfd109thm09kmo",
@@ -2313,6 +2409,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "7u61kkronmpj0rufnb5u463k88",
@@ -2337,6 +2434,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "2e28g6fej6a0n1jtej2jjb6oas",
@@ -2361,6 +2459,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "ocgpjp1v1fj0eao2e30u5251ng",
@@ -2385,6 +2484,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "rb0iok3bcciuv8kq0glv5gttp8",
@@ -2409,6 +2509,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "8l4etrukulvrgcnjc8ev14rcl4",
@@ -2433,6 +2534,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "5ciqldog9c4n84pph8pg739btk",
@@ -2457,6 +2559,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "9u3plmck88cssinagnkcdgeheo",
@@ -2481,6 +2584,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "cjsoi0bojijj9fq7g6gnii94ck",
@@ -2505,6 +2609,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "ebvapnmb0543ll7dscce4iroag",
@@ -2529,6 +2634,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "18g8iolis7dogrd3kd7sccf888",
@@ -2553,6 +2659,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "l2nttoupho0aur245rkq096vm8",
@@ -2577,6 +2684,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "1a3bv7kr83pjenq2uort2meb3g",
@@ -2601,6 +2709,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "hhp7aig1qqdolmrl27umrff8j4",
@@ -2625,6 +2734,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "he4rjnukofis8l2m2jh03uhvi8",
@@ -2649,6 +2759,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "a5mvkdsckha39j3pn1p2nvjefo",
@@ -2673,6 +2784,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "vk506olv7vst34pp60dmpmcaa8",
@@ -2697,6 +2809,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "dhlravml0941afj32t7514rk8s",
@@ -2721,6 +2834,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "gba2a53qsb7jgksu00uj203nm0",
@@ -2745,6 +2859,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "vfms4nm6qrk01ki822m78i05h8",
@@ -2769,6 +2884,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "roc8hgb0s2a51hi45jpl7tmltg",
@@ -2793,6 +2909,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "t3ldupsnkghvfr2kb5ceqvla2s",
@@ -2817,6 +2934,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "ofehoga4iubopf3oehemqgu3ac",
@@ -2841,6 +2959,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "vuqq9o98nlk2u5auaaogsei95g",
@@ -2865,6 +2984,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "9tkb0cncpd8dpso00vd767ueh4",
@@ -2889,6 +3009,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "60dm5iserr3rqc4a14k3v66p0g",
@@ -2913,6 +3034,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "mmr04vs14mgc4apstsdcu4enlk",
@@ -2937,6 +3059,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "bqlk2a1mk2njrmcakj4guubfqg",
@@ -2961,6 +3084,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "hnhocl0vcigje16ahufo0argqk",
@@ -2985,6 +3109,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "l7i668ruqki4qgdlqq0jk6j4t8",
@@ -3009,6 +3134,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "9ujtp2qek0h0db9c575rdtofg8",
@@ -3033,6 +3159,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "86ap1hkv2kr1sokhj2cfu4tv6k",
@@ -3057,6 +3184,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "qthip4edbvg5kgr428ssrehnq8",
@@ -3081,6 +3209,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "thqp9aavrkl84mp764jp9s38sc",
@@ -3105,6 +3234,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "3snbkq6sdoo1jlvmmru2981vvs",
@@ -3129,6 +3259,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "ilurm61nh5pr9t9dvmcpr9nd9k",
@@ -3153,6 +3284,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "dmmsrk7d869deipgifkvlnsfnk",
@@ -3177,6 +3309,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "gmh82k6aecdr6m3hh6rueb38hk",
@@ -3201,6 +3334,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "28hjnekdf7js62t2cu92kmcg1k",
@@ -3225,6 +3359,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "4gsa5pe54dr4g9j6kufeat2e6s",
@@ -3249,6 +3384,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "a9o2hj51fg56k9sa1b37ee7d90",
@@ -3273,6 +3409,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "hrackvqrmedm2ijctd3deqg564",
@@ -3297,6 +3434,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "9fqa75qpgbksn5d28kg1mbvn44",
@@ -3321,6 +3459,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "qsca1gplqkh3n2qoak3325je84",
@@ -3345,6 +3484,7 @@
       }
     },
     {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
       "eventId": "u88p5urag8mrkck9t8eug3mv4s",

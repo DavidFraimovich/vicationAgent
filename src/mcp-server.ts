@@ -21,6 +21,7 @@ import { buildAirbnbSearchUrl, exportMyMapsCsv } from "./exports.js";
 import { evaluateLodgingCandidate } from "./lodging-policy.js";
 import {
   applyCalendarEvent,
+  CALENDAR_POLICY_FILE,
   calendarAuthConfigured,
   deleteCalendarEvent,
   listCalendarEvents,
@@ -52,6 +53,7 @@ const server = new McpServer(
     instructions:
       "Local source of truth for travel planning. Read current trip state before external actions. " +
       "Store planning decisions locally, preview external writes, apply only under configured permissions, " +
+      `read and follow ${CALENDAR_POLICY_FILE} before every Calendar command, ` +
       "and record external actions. Never store passwords, raw cookies, full card numbers, or CVV.",
   },
 );
@@ -305,7 +307,7 @@ server.tool(
 
 server.tool(
   "calendar_list_events",
-  "List events from the allowlisted Google Calendar.",
+  `List events from the allowlisted Google Calendar. Read and follow ${CALENDAR_POLICY_FILE} before use; Calendar reads are the required preflight for create, update, and delete commands.`,
   {
     timeMin: z.string(),
     timeMax: z.string(),
@@ -316,7 +318,7 @@ server.tool(
 
 server.tool(
   "calendar_preview_event",
-  "Preview a Google Calendar create/update payload without writing. Descriptions are normalized to Apple Calendar-compatible plain text.",
+  `Preview a Google Calendar create/update payload without writing. Read and follow ${CALENDAR_POLICY_FILE} before use. Descriptions are normalized to canonical Apple Calendar-compatible plain text.`,
   {
     summary: z.string(),
     start: z.string(),
@@ -334,7 +336,7 @@ server.tool(
 
 server.tool(
   "calendar_apply_event",
-  "Create or update an event in the allowlisted calendar. Descriptions are normalized to Apple Calendar-compatible plain text. confirm=true is required by policy.",
+  `Create or update an event in the allowlisted calendar. Read and follow ${CALENDAR_POLICY_FILE} before use. Update in place by Event ID, keep itinerary events only in חו״ל, remove the personal-calendar attendee, use sendUpdates=none, and verify the raw stored event after writing. Descriptions are canonical Apple Calendar-compatible plain text. confirm=true is required by policy.`,
   {
     summary: z.string(),
     start: z.string(),
@@ -357,7 +359,7 @@ server.tool(
 
 server.tool(
   "calendar_delete_event",
-  "Delete a non-protected event. confirm=true is required by policy.",
+  `Delete a non-protected event. Read and follow ${CALENDAR_POLICY_FILE} before use. Read the exact Event ID first, refuse protected flights, require target-specific confirmation for provider/lodging events, use sendUpdates=none, and verify absence after deletion. confirm=true is required by policy.`,
   {
     eventId: z.string(),
     tripId: z.string().optional(),

@@ -41,3 +41,12 @@ npm run validate
 npm run export:mymaps
 npm run calendar:preview
 ```
+
+Before any Calendar read, preview, create, update, edit, or delete command,
+read and follow
+`.agents/skills/travel-planner/references/calendar-policy.md`. Calendar writes
+use the raw Google Calendar API workflow defined there: in-place Event ID
+updates, canonical plain-text descriptions, `sendUpdates: none`, itinerary
+events only in `חו״ל` without the personal account as an attendee, and a raw
+post-write verification. Do not use rich-text Calendar editing or delete and
+recreate events to repair formatting.

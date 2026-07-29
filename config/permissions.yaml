@@ -23,7 +23,11 @@ modes:
     external_write: true
 
 rules:
+  - Before any Calendar read, preview, create, update, edit, or delete command, read and follow .agents/skills/travel-planner/references/calendar-policy.md.
   - Never write to a Google Calendar other than the configured allowlisted calendar.
+  - Calendar creates, updates, and deletes must use the raw Google Calendar API workflow, sendUpdates none by default, and post-action raw verification defined in calendar-policy.md.
+  - Itinerary events belong only to the allowlisted calendar and must not invite davidfr97@gmail.com.
+  - Do not delete and recreate events to repair descriptions, formatting, or attendees unless the user explicitly approves that fallback.
   - Telegram push notifications may only target TELEGRAM_CHAT_ID, must be previewed first, and require confirm=true.
   - Standing user authorization allows confirm=true without another prompt for required booking/confirmation action notifications and Scheduler completion notifications.
   - Standing Telegram authorization does not authorize booking, payment, cancellation, deletion, or host/vendor messaging.

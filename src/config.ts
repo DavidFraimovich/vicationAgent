@@ -22,8 +22,17 @@ export type TravelConfig = {
   maps: Record<string, unknown>;
   calendar: {
     provider: string;
+    policy_path: string;
     calendar_name: string;
     calendar_id: string;
+    write_method: string;
+    fallback_write_method: string;
+    forbid_rich_text_editor_writes: boolean;
+    update_existing_events_in_place: boolean;
+    send_updates_default: "none";
+    itinerary_attendee_exclusions: string[];
+    require_raw_post_write_verification: boolean;
+    require_post_delete_absence_verification: boolean;
     trip_timezone: string;
     dry_run_default: boolean;
     require_confirmation_for_write: boolean;

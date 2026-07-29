@@ -239,6 +239,8 @@ airport, hostel, hotel, parking, station, terminal, lockers, rental car, cable c
 - יש קישור Google Maps ישיר.
 
 מקום שנראה טוב אבל לא מתאים ליום נשאר במפה בלבד.
+המעבר עצמו, כולל preview, יצירה ועדכון, מתבצע רק לאחר קריאת
+`calendar-policy.md` ובהתאם לחוזה ה־Calendar API והאימות שמוגדר בו.
 
 ## 16. סיכום אחרי סבב סימון
 להוציא סיכום פעולות, לא Q&A:

@@ -9,7 +9,11 @@ import {
   type JsonObject,
 } from "./db.js";
 import { isProviderManagedLodgingItem } from "./calendar-policy.js";
-import { previewCalendarEvent, type CalendarEventInput } from "./google-calendar.js";
+import {
+  CALENDAR_POLICY_FILE,
+  previewCalendarEvent,
+  type CalendarEventInput,
+} from "./google-calendar.js";
 
 function mapsSearch(query: string): string {
   return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
@@ -69,6 +73,7 @@ function calendarDescription(item: JsonObject, place?: JsonObject): string {
 
 export function buildCalendarPreview(tripId: string, outputFile?: string): {
   file: string;
+  policyFile: string;
   count: number;
   excludedProtectedFlights: number;
   excludedDraftItems: number;
@@ -109,6 +114,7 @@ export function buildCalendarPreview(tripId: string, outputFile?: string): {
   const output = {
     generatedAt: new Date().toISOString(),
     tripId,
+    policyFile: CALENDAR_POLICY_FILE,
     calendarName: loadConfig().calendar.calendar_name,
     timezone,
     dryRun: true,
@@ -144,6 +150,7 @@ export function buildCalendarPreview(tripId: string, outputFile?: string): {
     dryRun: true,
     payload: {
       file,
+      policyFile: CALENDAR_POLICY_FILE,
       eventCount: events.length,
       excludedProtectedFlights: protectedItems.length,
       excludedDraftItems: draftItems.length,
@@ -152,6 +159,7 @@ export function buildCalendarPreview(tripId: string, outputFile?: string): {
   });
   return {
     file,
+    policyFile: CALENDAR_POLICY_FILE,
     count: events.length,
     excludedProtectedFlights: protectedItems.length,
     excludedDraftItems: draftItems.length,

@@ -5,6 +5,17 @@ import { loadConfig } from "./config.js";
 import { getItineraryItem, recordAction, upsertItineraryItem } from "./db.js";
 import { resolveProjectPath } from "./paths.js";
 
+export const CALENDAR_POLICY_FILE =
+  ".agents/skills/travel-planner/references/calendar-policy.md";
+
+function isExcludedItineraryAttendee(email?: string | null): boolean {
+  const normalized = email?.trim().toLowerCase();
+  if (!normalized) return false;
+  return loadConfig().calendar.itinerary_attendee_exclusions.some(
+    (excluded) => excluded.trim().toLowerCase() === normalized,
+  );
+}
+
 function loadOAuthClient(): any {
   const config = loadConfig();
   const clientFile = resolveProjectPath(config.calendar.oauth_client_path);
@@ -147,9 +158,49 @@ export function normalizeCalendarDescription(description?: string): string | und
     .trim();
 }
 
+export function calendarAttendeesWithoutPersonalInvite(
+  attendees?: calendar_v3.Schema$EventAttendee[] | null,
+): calendar_v3.Schema$EventAttendee[] {
+  return (attendees ?? [])
+    .filter(
+      (attendee) =>
+        Boolean(attendee.email?.trim())
+        && !isExcludedItineraryAttendee(attendee.email),
+    )
+    .map((attendee) => ({
+      email: attendee.email,
+      responseStatus: attendee.responseStatus,
+      optional: attendee.optional,
+      comment: attendee.comment,
+      additionalGuests: attendee.additionalGuests,
+    }));
+}
+
+export function assertCalendarEventIsPlainText(
+  event: calendar_v3.Schema$Event,
+  expectedDescription?: string,
+): void {
+  const description = event.description ?? "";
+  if (expectedDescription !== undefined && description !== expectedDescription) {
+    throw new Error("Calendar description verification failed: stored text differs from the canonical plain text.");
+  }
+  if (/<[^>]+>/.test(description)) {
+    throw new Error("Calendar description verification failed: stored description still contains HTML.");
+  }
+  if (
+    (event.attendees ?? []).some(
+      (attendee) =>
+        isExcludedItineraryAttendee(attendee.email),
+    )
+  ) {
+    throw new Error("Calendar attendee verification failed: the personal calendar is still invited.");
+  }
+}
+
 export function previewCalendarEvent(input: CalendarEventInput): Record<string, unknown> {
   const config = loadConfig();
   return {
+    policyFile: CALENDAR_POLICY_FILE,
     calendarId: config.calendar.calendar_id,
     action: input.eventId ? "update" : "create",
     eventId: input.eventId,
@@ -218,18 +269,34 @@ export async function applyCalendarEvent(input: CalendarEventInput & {
 
   const calendar = getCalendarClient();
   const requestBody = (preview.event ?? {}) as calendar_v3.Schema$Event;
-  const response = input.eventId
-    ? await calendar.events.update({
-        calendarId: configuredCalendarId(),
-        eventId: input.eventId,
-        requestBody,
-        sendUpdates: "none",
-      })
-    : await calendar.events.insert({
-        calendarId: configuredCalendarId(),
-        requestBody,
-        sendUpdates: "none",
-      });
+  let response: { data: calendar_v3.Schema$Event };
+  if (input.eventId) {
+    const existing = await calendar.events.get({
+      calendarId: configuredCalendarId(),
+      eventId: input.eventId,
+    });
+    requestBody.attendees = calendarAttendeesWithoutPersonalInvite(
+      existing.data.attendees,
+    );
+    response = await calendar.events.patch({
+      calendarId: configuredCalendarId(),
+      eventId: input.eventId,
+      requestBody,
+      sendUpdates: config.calendar.send_updates_default,
+    });
+  } else {
+    response = await calendar.events.insert({
+      calendarId: configuredCalendarId(),
+      requestBody,
+      sendUpdates: config.calendar.send_updates_default,
+    });
+  }
+
+  const verified = await calendar.events.get({
+    calendarId: configuredCalendarId(),
+    eventId: response.data.id!,
+  });
+  assertCalendarEventIsPlainText(verified.data, requestBody.description ?? undefined);
 
   if (input.itineraryItemId) {
     const existing = getItineraryItem(input.itineraryItemId);
@@ -246,7 +313,7 @@ export async function applyCalendarEvent(input: CalendarEventInput & {
         description: existing.description as string | undefined,
         status: "scheduled",
         source: existing.source as string | undefined,
-        calendarEventId: response.data.id ?? undefined,
+        calendarEventId: verified.data.id ?? undefined,
         sortOrder: existing.sortOrder as number,
         metadata: existing.metadata as Record<string, unknown>,
       });
@@ -255,9 +322,13 @@ export async function applyCalendarEvent(input: CalendarEventInput & {
 
   const result = {
     applied: true,
-    eventId: response.data.id,
-    htmlLink: response.data.htmlLink,
-    summary: response.data.summary,
+    policyFile: CALENDAR_POLICY_FILE,
+    eventId: verified.data.id,
+    htmlLink: verified.data.htmlLink,
+    summary: verified.data.summary,
+    sendUpdates: config.calendar.send_updates_default,
+    descriptionVerifiedPlainText: true,
+    personalCalendarInviteRemoved: true,
   };
   recordAction({
     tripId: input.tripId,
@@ -290,6 +361,7 @@ export async function deleteCalendarEvent(input: {
   }
 
   const preview = {
+    policyFile: CALENDAR_POLICY_FILE,
     calendarId: configuredCalendarId(),
     action: "delete",
     eventId: input.eventId,
@@ -314,8 +386,28 @@ export async function deleteCalendarEvent(input: {
   await calendar.events.delete({
     calendarId: configuredCalendarId(),
     eventId: input.eventId,
-    sendUpdates: "none",
+    sendUpdates: config.calendar.send_updates_default,
   });
+
+  let deletionVerifiedAbsent = false;
+  try {
+    await calendar.events.get({
+      calendarId: configuredCalendarId(),
+      eventId: input.eventId,
+    });
+  } catch (error) {
+    const candidate = error as {
+      code?: number;
+      response?: { status?: number };
+    };
+    deletionVerifiedAbsent =
+      candidate.code === 404 || candidate.response?.status === 404;
+    if (!deletionVerifiedAbsent) throw error;
+  }
+  if (!deletionVerifiedAbsent) {
+    throw new Error("Calendar deletion verification failed: the event still exists.");
+  }
+
   recordAction({
     tripId: input.tripId,
     provider: "google_calendar",
@@ -325,6 +417,15 @@ export async function deleteCalendarEvent(input: {
     status: "success",
     dryRun: false,
     payload: preview,
+    result: {
+      deletionVerifiedAbsent,
+      sendUpdates: config.calendar.send_updates_default,
+    },
   });
-  return { applied: true, eventId: input.eventId };
+  return {
+    applied: true,
+    policyFile: CALENDAR_POLICY_FILE,
+    eventId: input.eventId,
+    deletionVerifiedAbsent,
+  };
 }

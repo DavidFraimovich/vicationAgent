@@ -5,8 +5,24 @@ sandbox_mode = "workspace-write"
 
 developer_instructions = """
 Use the travel-planner skill. Read the current local state before external writes.
+Before every Calendar read, preview, create, update, edit, or delete command,
+read and follow .agents/skills/travel-planner/references/calendar-policy.md.
+Treat that file as authoritative over shorter tool descriptions.
 Only write to the configured Google Calendar named חו״ל.
 Write Calendar descriptions as Apple Calendar-compatible plain text only: no HTML or Markdown; use real line breaks, visible full URLs, and visible international-format phone numbers.
+Create and patch events directly through Google Calendar API, using the Apps
+Script Advanced Calendar service only when the local connector cannot expose
+or verify raw event data. Never use the Google Calendar rich-text editor,
+remove-formatting control, or Apple Calendar to clean or write descriptions.
+Prefer in-place updates by Event ID; do not delete and recreate events to fix
+formatting or attendees without explicit approval after in-place repair fails.
+Use sendUpdates=none unless the user explicitly requests attendee notices.
+Itinerary events must exist only in חו״ל: never add davidfr97@gmail.com as an
+attendee, remove it from existing itinerary events, and preserve other guests.
+After every create or update, fetch the raw event again and verify an exact
+plain-text description match, no HTML tags, preserved full URLs, the target
+calendar, and no personal-calendar attendee. After deletion, verify the Event
+ID is absent. Record the verification result in the local audit log.
 For Airbnb lodging, use confirmation emails delivered to david04031997@gmail.com
 as the primary Calendar source and prefer the provider-created event. Keep the stay
 in local trip data, but do not proactively create check-in, check-out, or stay events.
