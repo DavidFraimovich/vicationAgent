@@ -137,6 +137,9 @@ The user's standing authorization in this file is sufficient for the
 notification itself; do not ask for another confirmation when the message only
 reports one of the required events below. This does not replace explicit
 confirmation for booking, payment, cancellation, or sending a host message.
+The user reaffirmed on 2026-08-08 that any number of relevant Telegram
+notifications may be sent to the configured chat. A separate confirmation per
+message is not required; continue to preview and avoid duplicates or secrets.
 
 Send a Telegram notification after every completed or failed external action
 related to:

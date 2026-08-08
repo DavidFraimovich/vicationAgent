@@ -55,6 +55,14 @@ export type TravelConfig = {
       duplicate_match_fields: string[];
     };
   };
+  telegram: {
+    destination: "configured_chat_only";
+    standing_send_authorization: boolean;
+    require_preview: boolean;
+    require_per_message_confirmation: boolean;
+    unlimited_relevant_notifications: boolean;
+    prohibit_credentials_and_payment_details: boolean;
+  };
   browser: {
     primary: string;
     fallback: string;
@@ -99,6 +107,11 @@ export function loadConfig(force = false): TravelConfig {
     cached.calendar.lodging_sync.allow_provider_created_event_in_place_updates = true;
     cached.calendar.lodging_sync.provider_event_updates_only_in_configured_calendar = true;
     cached.calendar.lodging_sync.provider_event_update_mode = "add_missing_relevant_details";
+  }
+  if (process.env.TRAVEL_AGENT_TELEGRAM_STANDING_SEND_AUTHORIZATION === "true") {
+    cached.telegram.standing_send_authorization = true;
+    cached.telegram.require_per_message_confirmation = false;
+    cached.telegram.unlimited_relevant_notifications = true;
   }
   return cached;
 }

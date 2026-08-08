@@ -29,6 +29,11 @@ export function loadConfig(force = false) {
         cached.calendar.lodging_sync.provider_event_updates_only_in_configured_calendar = true;
         cached.calendar.lodging_sync.provider_event_update_mode = "add_missing_relevant_details";
     }
+    if (process.env.TRAVEL_AGENT_TELEGRAM_STANDING_SEND_AUTHORIZATION === "true") {
+        cached.telegram.standing_send_authorization = true;
+        cached.telegram.require_per_message_confirmation = false;
+        cached.telegram.unlimited_relevant_notifications = true;
+    }
     return cached;
 }
 export function dbPath() {

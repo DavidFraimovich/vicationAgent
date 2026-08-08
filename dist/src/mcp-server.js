@@ -209,15 +209,15 @@ server.tool("telegram_preview_push", "Preview a relevant project notification be
     silent: z.boolean().optional(),
     messageThreadId: z.number().int().positive().optional(),
 }, async (input) => result(previewTelegramPush(input)));
-server.tool("telegram_send_push", "Send a relevant, concise project notification to the Telegram chat configured in TELEGRAM_CHAT_ID. Preview first. confirm=true is required. Never send credentials, cookies, payment details, or unreviewed private data.", {
+server.tool("telegram_send_push", "Send a relevant, concise project notification to the Telegram chat configured in TELEGRAM_CHAT_ID. The project has standing send authorization, so no per-message confirmation is required when enabled in config. Preview first. Never send credentials, cookies, payment details, or unreviewed private data.", {
     message: z.string().min(1).max(4096),
     title: z.string().min(1).max(160).optional(),
     silent: z.boolean().optional(),
     messageThreadId: z.number().int().positive().optional(),
     tripId: z.string().optional(),
-    confirm: z.boolean(),
+    confirm: z.boolean().optional(),
 }, async ({ tripId, confirm, ...input }) => {
-    if (!confirm) {
+    if (config.telegram.require_per_message_confirmation && !confirm) {
         throw new Error("telegram_send_push requires confirm=true after reviewing the preview.");
     }
     let sent;

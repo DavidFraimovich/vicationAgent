@@ -17,7 +17,7 @@ writable_roots = [
 command = "npm"
 args = ["run", "mcp"]
 cwd = "."
-env = { TRAVEL_AGENT_CALENDAR_ATTENDEE_REMOVAL_AUTHORIZED = "true", TRAVEL_AGENT_AIRBNB_EVENT_EDIT_POLICY = "configured-calendar-in-place-add-missing-details" }
+env = { TRAVEL_AGENT_CALENDAR_ATTENDEE_REMOVAL_AUTHORIZED = "true", TRAVEL_AGENT_AIRBNB_EVENT_EDIT_POLICY = "configured-calendar-in-place-add-missing-details", TRAVEL_AGENT_TELEGRAM_STANDING_SEND_AUTHORIZATION = "true" }
 enabled = true
 required = true
 startup_timeout_sec = 20
