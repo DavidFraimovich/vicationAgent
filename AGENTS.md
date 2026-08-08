@@ -71,6 +71,9 @@ after any resulting itinerary change, run this same synchronization workflow.
 - Airbnb lodging confirmations sent to `david04031997@gmail.com` are the primary
   source for lodging calendar entries. Prefer the event created by Airbnb or
   Google from that confirmation email.
+- Provider-created Airbnb events may be updated in place only when they are
+  already stored in the configured `חו״ל` calendar, and only to add relevant
+  details that are missing. Do not delete them or create a duplicate stay.
 - Do not proactively create check-in, check-out, or stay events for Airbnb
   lodging. Before any exceptional manual lodging write, inspect the matching
   confirmation email and the relevant calendar date range, match provider,
@@ -95,7 +98,8 @@ after any resulting itinerary change, run this same synchronization workflow.
   remove-formatting control, or Apple Calendar to clean or write descriptions.
 - Itinerary events belong only to `חו״ל`. Do not invite
   `davidfr97@gmail.com`; remove that address from existing itinerary-event
-  attendees while preserving other attendees.
+  attendees while preserving other attendees. The user explicitly authorized
+  this attendee removal on 2026-08-08.
 - Use `sendUpdates: none` for creates, patches, and deletes unless the user
   explicitly requests attendee notifications.
 - After every create or update, fetch the raw event again and require an exact

@@ -37,6 +37,7 @@ calendar:
   forbid_rich_text_editor_writes: true
   update_existing_events_in_place: true
   send_updates_default: none
+  attendee_removal_authorized: true
   itinerary_attendee_exclusions:
     - davidfr97@gmail.com
   require_raw_post_write_verification: true
@@ -56,6 +57,10 @@ calendar:
     source_of_truth: airbnb_confirmation_email
     mailbox_account: david04031997@gmail.com
     prefer_provider_created_calendar_event: true
+    allow_provider_created_event_in_place_updates: true
+    provider_event_updates_only_in_configured_calendar: true
+    provider_event_update_mode: add_missing_relevant_details
+    provider_event_deletion_allowed: false
     suppress_proactive_lodging_event_creation: true
     require_inbox_and_calendar_duplicate_check_before_manual_write: true
     manual_write_requires_explicit_user_request: true

@@ -120,7 +120,25 @@ export function normalizeCalendarDescription(description) {
         .replace(/\n{3,}/g, "\n\n")
         .trim();
 }
+function appendMissingCalendarDetails(existingDescription, proposedDescription) {
+    const existing = normalizeCalendarDescription(existingDescription ?? "") ?? "";
+    const proposed = normalizeCalendarDescription(proposedDescription) ?? "";
+    if (!existing)
+        return proposed || undefined;
+    if (!proposed || existing.includes(proposed))
+        return existing;
+    return `${existing}\n\nפרטים נוספים למסלול:\n${proposed}`;
+}
 export function calendarAttendeesWithoutPersonalInvite(attendees) {
+    if (!loadConfig().calendar.attendee_removal_authorized) {
+        return (attendees ?? []).map((attendee) => ({
+            email: attendee.email,
+            responseStatus: attendee.responseStatus,
+            optional: attendee.optional,
+            comment: attendee.comment,
+            additionalGuests: attendee.additionalGuests,
+        }));
+    }
     return (attendees ?? [])
         .filter((attendee) => Boolean(attendee.email?.trim())
         && !isExcludedItineraryAttendee(attendee.email))
@@ -167,10 +185,20 @@ export function previewCalendarEvent(input) {
     };
 }
 export async function applyCalendarEvent(input) {
+    const config = loadConfig();
     const itineraryItem = input.itineraryItemId
         ? getItineraryItem(input.itineraryItemId)
         : undefined;
-    if (isLikelyLodgingCalendarEvent({ summary: input.summary, itineraryItem })
+    const isLodgingEvent = isLikelyLodgingCalendarEvent({
+        summary: input.summary,
+        itineraryItem,
+    });
+    const configuredProviderEventUpdateAllowed = Boolean(input.eventId)
+        && config.calendar.lodging_sync.allow_provider_created_event_in_place_updates
+        && config.calendar.lodging_sync.provider_event_updates_only_in_configured_calendar
+        && config.calendar.lodging_sync.provider_event_update_mode === "add_missing_relevant_details";
+    if (isLodgingEvent
+        && !configuredProviderEventUpdateAllowed
         && input.allowLodgingWriteAfterDedupe !== true) {
         const blocked = {
             applied: false,
@@ -190,7 +218,6 @@ export async function applyCalendarEvent(input) {
         });
         return blocked;
     }
-    const config = loadConfig();
     const preview = previewCalendarEvent(input);
     if (config.calendar.require_confirmation_for_write && !input.confirm) {
         recordAction({
@@ -213,6 +240,13 @@ export async function applyCalendarEvent(input) {
             calendarId: configuredCalendarId(),
             eventId: input.eventId,
         });
+        if (isLodgingEvent && configuredProviderEventUpdateAllowed) {
+            requestBody.summary = existing.data.summary ?? requestBody.summary;
+            requestBody.start = existing.data.start ?? requestBody.start;
+            requestBody.end = existing.data.end ?? requestBody.end;
+            requestBody.location = existing.data.location || requestBody.location;
+            requestBody.description = appendMissingCalendarDetails(existing.data.description, requestBody.description ?? undefined);
+        }
         requestBody.attendees = calendarAttendeesWithoutPersonalInvite(existing.data.attendees);
         response = await calendar.events.patch({
             calendarId: configuredCalendarId(),

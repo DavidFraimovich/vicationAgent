@@ -19,6 +19,16 @@ export function loadConfig(force = false) {
     if (process.env.TRAVEL_AGENT_DASHBOARD_PORT) {
         cached.dashboard.port = Number(process.env.TRAVEL_AGENT_DASHBOARD_PORT);
     }
+    if (process.env.TRAVEL_AGENT_CALENDAR_ATTENDEE_REMOVAL_AUTHORIZED) {
+        cached.calendar.attendee_removal_authorized =
+            process.env.TRAVEL_AGENT_CALENDAR_ATTENDEE_REMOVAL_AUTHORIZED === "true";
+    }
+    if (process.env.TRAVEL_AGENT_AIRBNB_EVENT_EDIT_POLICY
+        === "configured-calendar-in-place-add-missing-details") {
+        cached.calendar.lodging_sync.allow_provider_created_event_in_place_updates = true;
+        cached.calendar.lodging_sync.provider_event_updates_only_in_configured_calendar = true;
+        cached.calendar.lodging_sync.provider_event_update_mode = "add_missing_relevant_details";
+    }
     return cached;
 }
 export function dbPath() {

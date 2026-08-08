@@ -158,9 +158,29 @@ export function normalizeCalendarDescription(description?: string): string | und
     .trim();
 }
 
+function appendMissingCalendarDetails(
+  existingDescription?: string | null,
+  proposedDescription?: string,
+): string | undefined {
+  const existing = normalizeCalendarDescription(existingDescription ?? "") ?? "";
+  const proposed = normalizeCalendarDescription(proposedDescription) ?? "";
+  if (!existing) return proposed || undefined;
+  if (!proposed || existing.includes(proposed)) return existing;
+  return `${existing}\n\nפרטים נוספים למסלול:\n${proposed}`;
+}
+
 export function calendarAttendeesWithoutPersonalInvite(
   attendees?: calendar_v3.Schema$EventAttendee[] | null,
 ): calendar_v3.Schema$EventAttendee[] {
+  if (!loadConfig().calendar.attendee_removal_authorized) {
+    return (attendees ?? []).map((attendee) => ({
+      email: attendee.email,
+      responseStatus: attendee.responseStatus,
+      optional: attendee.optional,
+      comment: attendee.comment,
+      additionalGuests: attendee.additionalGuests,
+    }));
+  }
   return (attendees ?? [])
     .filter(
       (attendee) =>
@@ -224,13 +244,21 @@ export async function applyCalendarEvent(input: CalendarEventInput & {
   confirm: boolean;
   tripId?: string;
 }): Promise<Record<string, unknown>> {
+  const config = loadConfig();
   const itineraryItem = input.itineraryItemId
     ? getItineraryItem(input.itineraryItemId)
     : undefined;
-  if (
-    isLikelyLodgingCalendarEvent({ summary: input.summary, itineraryItem })
-    && input.allowLodgingWriteAfterDedupe !== true
-  ) {
+  const isLodgingEvent = isLikelyLodgingCalendarEvent({
+    summary: input.summary,
+    itineraryItem,
+  });
+  const configuredProviderEventUpdateAllowed = Boolean(input.eventId)
+    && config.calendar.lodging_sync.allow_provider_created_event_in_place_updates
+    && config.calendar.lodging_sync.provider_event_updates_only_in_configured_calendar
+    && config.calendar.lodging_sync.provider_event_update_mode === "add_missing_relevant_details";
+  if (isLodgingEvent
+    && !configuredProviderEventUpdateAllowed
+    && input.allowLodgingWriteAfterDedupe !== true) {
     const blocked = {
       applied: false,
       reason: "provider_managed_lodging_dedupe_required",
@@ -251,7 +279,6 @@ export async function applyCalendarEvent(input: CalendarEventInput & {
     return blocked;
   }
 
-  const config = loadConfig();
   const preview = previewCalendarEvent(input);
   if (config.calendar.require_confirmation_for_write && !input.confirm) {
     recordAction({
@@ -275,6 +302,16 @@ export async function applyCalendarEvent(input: CalendarEventInput & {
       calendarId: configuredCalendarId(),
       eventId: input.eventId,
     });
+    if (isLodgingEvent && configuredProviderEventUpdateAllowed) {
+      requestBody.summary = existing.data.summary ?? requestBody.summary;
+      requestBody.start = existing.data.start ?? requestBody.start;
+      requestBody.end = existing.data.end ?? requestBody.end;
+      requestBody.location = existing.data.location || requestBody.location;
+      requestBody.description = appendMissingCalendarDetails(
+        existing.data.description,
+        requestBody.description ?? undefined,
+      );
+    }
     requestBody.attendees = calendarAttendeesWithoutPersonalInvite(
       existing.data.attendees,
     );

@@ -30,6 +30,7 @@ export type TravelConfig = {
     forbid_rich_text_editor_writes: boolean;
     update_existing_events_in_place: boolean;
     send_updates_default: "none";
+    attendee_removal_authorized: boolean;
     itinerary_attendee_exclusions: string[];
     require_raw_post_write_verification: boolean;
     require_post_delete_absence_verification: boolean;
@@ -40,6 +41,19 @@ export type TravelConfig = {
     oauth_client_path: string;
     oauth_token_path: string;
     protected_events: Array<{ title_contains: string; date: string }>;
+    lodging_sync: {
+      source_of_truth: string;
+      mailbox_account: string;
+      prefer_provider_created_calendar_event: boolean;
+      allow_provider_created_event_in_place_updates: boolean;
+      provider_event_updates_only_in_configured_calendar: boolean;
+      provider_event_update_mode: "add_missing_relevant_details";
+      provider_event_deletion_allowed: boolean;
+      suppress_proactive_lodging_event_creation: boolean;
+      require_inbox_and_calendar_duplicate_check_before_manual_write: boolean;
+      manual_write_requires_explicit_user_request: boolean;
+      duplicate_match_fields: string[];
+    };
   };
   browser: {
     primary: string;
@@ -73,6 +87,18 @@ export function loadConfig(force = false): TravelConfig {
   }
   if (process.env.TRAVEL_AGENT_DASHBOARD_PORT) {
     cached.dashboard.port = Number(process.env.TRAVEL_AGENT_DASHBOARD_PORT);
+  }
+  if (process.env.TRAVEL_AGENT_CALENDAR_ATTENDEE_REMOVAL_AUTHORIZED) {
+    cached.calendar.attendee_removal_authorized =
+      process.env.TRAVEL_AGENT_CALENDAR_ATTENDEE_REMOVAL_AUTHORIZED === "true";
+  }
+  if (
+    process.env.TRAVEL_AGENT_AIRBNB_EVENT_EDIT_POLICY
+    === "configured-calendar-in-place-add-missing-details"
+  ) {
+    cached.calendar.lodging_sync.allow_provider_created_event_in_place_updates = true;
+    cached.calendar.lodging_sync.provider_event_updates_only_in_configured_calendar = true;
+    cached.calendar.lodging_sync.provider_event_update_mode = "add_missing_relevant_details";
   }
   return cached;
 }
