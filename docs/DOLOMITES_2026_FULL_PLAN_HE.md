@@ -4,7 +4,7 @@
 >
 > תאריכים: **9–25 בספטמבר 2026** | נוסעים: **2** | אזור זמן בתוכנית: **Europe/Rome**
 >
-> גרסת מקור: `plan-a-2026-07-28-v22` | המסמך עודכן: **28.07.2026**
+> גרסת מקור: `plan-a-2026-08-08-v23` | המסמך עודכן: **08.08.2026**
 
 ## איך להשתמש במסמך
 
@@ -34,14 +34,14 @@
 
 ## תקציר הטיול
 
-המסלול נשאר **East-first**. נקודת המוצא המזרחית היא הלינה המאושרת **Bella casa vacanze, Via Corte 13, Auronzo di Cadore**; Centro Studi Criminalistica Forense היה עוגן החיפוש הראשוני בלבד. העוגן המערבי מאושר כעת ב־**Laion**, בין 17–25.9: צ׳ק־אין ב־16:00, צ׳ק־אאוט ב־09:00, כניסה עם lockbox וחניה במוסך. ב־17.9 אין יעד של צ׳ק־אין מוקדם: נשארים ב־Alpine Coaster Gardonè עד הסגירה, נוסעים כ־1:22 שעות ל־Laion, עושים את הכביסה היחידה ויוצאים לארוחת ערב ב־Chiusa. Ortisei נשאר מרכז הפעילויות, במרחק כ־15–17 דקות מהלינה. ב־18–24.9 הוסרו כל חלונות המנוחה/החלפת הבגדים בבית: ממשיכים ברצף ל־Val d’Anna, Castelrotto, Bressanone, Chiusa, Selva או Bolzano ורק אחרי ארוחת הערב חוזרים ללינה. ב־20.9 אוכלים ארוחת ערב מוקדמת לפני השקיעה ב־Santa Maddalena, וב־25.9 יוצאים מ־Laion ב־04:45 לנסיעה הישירה לשדה.
+המסלול נשאר **East-first**. נקודת המוצא המזרחית היא הלינה המאושרת **Bella casa vacanze, Via Corte 13, Auronzo di Cadore**; Centro Studi Criminalistica Forense היה עוגן החיפוש הראשוני בלבד. העוגן המערבי מאושר ב־**Laion**, בין 17–25.9: צ׳ק־אין ב־16:00, צ׳ק־אאוט ב־09:00, כניסה עם lockbox וחניה במוסך. ב־17.9 יוצאים מוקדם ל־Zipline San Tomaso, ממשיכים דרך Passo Pordoi ו־Lago di Carezza, ואז עושים שיטוט מלא וארוחת ערב ב־Chiusa לפני הצ׳ק־אין הראשון ב־Laion. Gardonè עבר ל־20.9 בבוקר, יום הפעילות האחרון שלו ב־2026, ומתחבר אחר כך ל־Bressanone. כדי לשמור את כל שאר העוגנים, Passo Gardena ו־Vallunga עברו ל־21.9 ו־Val di Funes עם השקיעה ב־Santa Maddalena עבר ל־22.9, כשה־Geisleralm פתוחה ולא ביום הסגירה השבועי שלה. Ortisei נשאר מרכז הפעילויות, במרחק כ־15–17 דקות מהלינה. ב־25.9 יוצאים מ־Laion ב־04:45 לנסיעה הישירה לשדה.
 
 | תאריכים | בסיס / אזור | אופי הימים | סטטוס לינה |
 |---|---|---|---|
 | 9–11.9 | Mestre + Venice | הגעה, ונציה רומנטית, Murano | ✅ a&o Venezia Mestre מאושר |
 | 11.9 | Venice, VCE, Target Rent, Noventa di Piave, בסיס מזרחי | Rialto, צהריים ב־VCE, איסוף רכב ב־13:30, אאוטלט, סופרמרקט ונסיעה מאוחרת | ✅ הלינה באורונזו מאושרת; late/self check-in עדיין דורש אישור |
 | 12–17.9 | Via Corte 13, Auronzo / מזרח הדולומיטים | Ra Bujela + Fun Bob, Ponte Tibetano, Val Cimoliana + המוזיאון העירוני, Tre Cime, Braies + Col de Varda, Cinque Torri + Lagazuoi ושקיעה ב־Giau | ✅ Bella casa vacanze מאושרת |
-| 17–25.9 | Laion / טבעת Val Gardena | Gardonè ביום המעבר, Seceda + מצנח + Val d’Anna, Alpe di Siusi + סוסים + Castelrotto, Cinema delle Odle + Santa Maddalena בשקיעה, Bressanone + Chiusa, Passo Gardena, Vallunga, e-bike ו־Bolzano | ✅ Airbnb ב־Laion מאושר לשמונה לילות |
+| 17–25.9 | Laion / טבעת Val Gardena | Chiusa לפני הצ׳ק־אין, Seceda + מצנח + Val d’Anna, Alpe di Siusi + סוסים + Castelrotto, Gardonè + Bressanone, Passo Gardena + Vallunga, Cinema delle Odle + Santa Maddalena בשקיעה, e-bike ו־Bolzano | ✅ Airbnb ב־Laion מאושר לשמונה לילות |
 | 25.9 | Laion, Target Rent, VCE | יציאה ב־04:45, נסיעה ישירה, החזרת רכב וטיסה | הלינה והטיסה מאושרות |
 
 ### עקרונות התכנון
@@ -51,7 +51,7 @@
 - ביום פעיל נשארים מחוץ ללינה ברצף מהיציאה בבוקר ועד הפעילות או הארוחה האחרונה. אין חזרה לעוגן באמצע היום למנוחה, ישיבה, החלפת בגדים, מקלחת, טעינה או buffer ואז יציאה נוספת. הפסקות נעשות על הציר: קפה, מסעדה, בקתה, אגם, עיירה או תצפית.
 - מקלחות מתוכננות רק בלילה, אחרי הפעילות או הארוחה האחרונה; אין עצירת מקלחת לפני יציאה נוספת.
 - לא מתכננים Via Ferrata, טרקי בקתות או מסלול חשוף כברירת מחדל. החריג היחיד הוא Ra Bujela כפעילות Conditional מפורשת, ורק עם ניסיון מתאים או מדריך, ציוד EN 958 מלא ותנאים יבשים.
-- 21.9 נשאר יום גיבוי מערבי למזג האוויר, אבל אם לא נדרש להעביר אליו עוגן הרים הוא כבר אינו ריק: Bressanone ו־Chiusa מתוכננות במלואן.
+- 24.9 נשאר חלון הגיבוי העיקרי לעוגן הרים שנדחה; אם אינו נדרש, Bolzano נשארת יום העיר הרגוע האחרון.
 - לכל מקום משובץ נשמרה בתוכנית המקומית הערה תפעולית; ברשימות Google Maps נשמרו הסיווג והיעד לניווט.
 - במפה נשמרות שתי רשימות פרטיות נפרדות: **„דולומיטים 2026 — Plan A”** לעוגנים המתוכננים ו־**„דולומיטים 2026 — Plan B”**. העוגן המדויק ב־Laion נשמר גם ברשימת **„לינות — דולומיטים 2026”**; Chiusa, Bressanone, Castelrotto ו־Val d’Anna נשמרו ב־Plan A.
 - לכל יום מלא מ־10.9 עד 24.9 נוסף חלון ארוחת ערב ייעודי.
@@ -68,7 +68,7 @@
 | Fun Bob Auronzo | רציף עד 13.9; אחר כך רק 19–20.9 ו־26–27.9 | 10:00–13:00, 14:00–18:00 | 15–16.9 סגור. ב־12.9 נוסעים אליו ישירות מקורטינה ומשובצים 16:10–17:30, עם חצי שעה לפני הסגירה. בגשם אינו פועל. |
 | Col de Varda — Misurina | יוני–ספטמבר | 09:00–16:45 | נוסף ב־15.9 אחרי Lago di Landro; עולים סביב 15:05 ומתחילים ירידה עד 16:20. לא מנסים להגיע ל־Rifugio Città di Carpi בחלון המאוחר. |
 | Lagazuoi | 6.6–18.10 | ראשון 09:00, עלייה אחרונה 16:40, ירידה אחרונה 17:00 | נוסף אחרי Cinque Torri ב־16.9; להיות בתור לירידה עד 16:35. |
-| Alpine Coaster Gardonè | 13.6–20.9 | 10:00–17:00; רכבל ירידה עד 17:45 | שובץ ב־17.9, 15:35–17:00, לקראת הסגירה ובכפוף למזג האוויר. |
+| Alpine Coaster Gardonè | 13.6–20.9 | 10:00–17:00; רכבל ירידה עד 17:45 | שובץ ב־20.9, 10:15–12:00, ביום האחרון של עונת 2026 ובכפוף למזג האוויר. |
 | Seceda — Ortisei–Furnes–Seceda | 22.5–2.11 | ב־18.9: 08:30–17:30 | התאריך הנוכחי מתאים. Fermeda האופציונלי פתוח עד 20.9, 09:30–16:30. |
 | Mont Sëuc — Ortisei–Alpe di Siusi | 1.5–2.11 | ב־19.9: 08:30–18:00 | התאריך הנוכחי מתאים ואין יתרון להעביר את ונציה לסוף. |
 | Resciesa — גיבוי מערבי | 16.5–11.10 | 6.9–11.10: 08:30–17:00 | נשאר גיבוי תקין לאורך כל השהייה במערב. |
@@ -301,30 +301,29 @@
 
 ---
 
-## יום חמישי, 17.9 — הדרך הגדולה, Predazzo ו־Gardonè בדרך ל־Laion
+## יום חמישי, 17.9 — Zipline San Tomaso, הדרך הגדולה ו־Chiusa לפני הצ׳ק־אין
 
-**מטרת היום:** יום מעבר נינוח בלי יעד של צ׳ק־אין מוקדם: Pordoi ו־Carezza, הליכה קצרה ב־Predazzo, Alpine Coaster עד הסגירה ורק אחר כך הגעה ללינה המאושרת ב־Laion.
+**מטרת היום:** לשלב את ה־Zipline הקצר והחזק בתחילת יום המעבר, לשמור את Pordoi ו־Carezza, ואז לבצע את השיטוט ואת ארוחת הערב ב־Chiusa לפני שנכנסים לראשונה ל־Airbnb ב־Laion.
 
 | שעה | תוכנית | פרטים |
 |---|---|---|
-| 07:30–09:30 | העוגן באורונזו → Passo Pordoi | כ־1:58 שעות וכ־80.7 ק״מ; לנסוע עם ניווט אופליין ורק אם הראות, מזג האוויר ומצב הכביש מתאימים. |
-| 09:30–10:10 | Passo Pordoi | עצירת צילום וקפה קצרה; בלי רכבל או הליכה ארוכה ביום המעבר. Belvedere di Canazei הוא חלופת רכבל של 2–3 שעות ורק אם מחליפים באמצעותו את Pordoi או Carezza. |
-| 10:10–11:15 | Passo Pordoi → Lago di Carezza | להמשיך מערבה לאורך סדר העצירות המתואר בדרך הקלאסית. |
-| 11:15–12:00 | Lago di Carezza | תצפית והליכה קצרה ליד האגם; לצאת בזמן כדי לא לדחות את הצהריים. |
-| 12:00–12:45 | Lago di Carezza → Predazzo | ממשיכים לבסיס רכבל Gardonè; החלק הזה אינו משתנה בגלל כתובת הלינה. |
-| 12:45–14:00 | ארוחת צהריים ב־Predazzo | חלון ייעודי; לבחור מקום לאחר אישור שעות מטבח של יום חמישי. |
-| 14:00–15:05 | הליכה בעיר Predazzo | שיטוט קל וקפה לפני העלייה ל־Gardonè. אין לחץ להגיע מוקדם ללינה. |
-| 15:05–15:35 | רכבל Predazzo–Gardonè והתארגנות | שעות הרכבל: 08:30–17:45. |
-| 15:35–17:00 | [Alpine Coaster Gardonè](https://www.visitfiemme.it/en/info/alpine-coaster-gardon_5796) | חלון לקראת הסגירה. פתוח מדי יום 13.6–20.9, בשעות 10:00–17:00, בכפוף למזג האוויר. |
-| 17:00–18:55 | ירידה ברכבל ונסיעה ל־Airbnb ב־Laion | Google Maps: כ־1:22 שעות ו־70.1 ק״מ; החלון כולל ירידה ברכבל ומרווח כביש. |
-| 18:55–19:35 | צ׳ק־אין והתחלת הכביסה היחידה בטיול | כניסה ב־lockbox וחניה במוסך. זו הגעה הכרחית לעוגן החדש, לא עצירת מנוחה או מקלחת; יוצאים שוב ל־Chiusa. |
-| 19:35–20:15 | נסיעה ל־Chiusa ושיטוט קצר | כ־14 דקות נסיעה מהלינה; היכרות קצרה עם המרכז העתיק. |
-| 20:15–21:30 | ארוחת ערב ב־Chiusa | חלון ייעודי; להזמין מקום שמאשר מטבח ביום חמישי. |
-| 21:30–21:50 | Chiusa → הלינה ב־Laion | כ־14 דקות. רק כעת מסיימים כביסה ומתקלחים, אחרי סוף היום. |
+| 06:25–08:30 | Auronzo → [Zipline San Tomaso](https://www.google.com/maps/search/?api=1&query=Zipline%20San%20Tomaso%20Cableway%20Belluno) | Google Maps: כ־1:54 שעות ו־77.7 ק״מ; היתרה היא מרווח קטן לכבישי ההרים. לצאת רק לאחר אישור מראש של מקצה 09:00. |
+| 08:30–09:00 | צ׳ק־אין, שאטל ותדריך | נקודת המפגש ב־Piazza di Celat. ממלאים הצהרה, מתאימים רתמה ופועלים לפי תדריך המפעיל. |
+| 09:00–10:00 | Zipline San Tomaso | שני מקטעים רציפים של 650 ו־950 מ׳, סה״כ 1.6 ק״מ וכ־50 דקות. המחיר המפורסם הוא €40 למבוגר; זהו חלון יעד בלבד עד שהספק מאשר טלפונית. |
+| 10:00–11:10 | San Tomaso → Passo Pordoi | Google Maps: כ־1:04 שעות ו־40.2 ק״מ; היתרה לתנועה איטית במעבר. |
+| 11:10–11:40 | Passo Pordoi | עצירת צילום וקפה קומפקטית; אין רכבל ביום הזה. |
+| 11:40–12:50 | Passo Pordoi → Lago di Carezza | ממשיכים מערבה עם מרווח קטן מעל זמן הנסיעה הקודם של כ־1:05. |
+| 12:50–14:00 | ארוחת צהריים באזור Carezza / Nova Levante | לאשר מטבח של יום חמישי או להחזיק אוכל ארוז; כך לא אוכלים שתי ארוחות מלאות בצפיפות ב־Chiusa. |
+| 14:00–14:45 | Lago di Carezza | עצירה קצרה בשביל ובתצפית המוסדרים. |
+| 14:45–15:45 | Lago di Carezza → Chiusa | Google Maps: כ־52 דקות ו־51.2 ק״מ דרך A22; החלופה ללא אגרה אורכת כ־53 דקות. |
+| 15:45–18:00 | Chiusa והעלייה האופציונלית לכיוון Sabiona | העיר העתיקה ושביל ציבורי בעלייה אם יבש; לסיים בזמן להזמנה של 18:00. |
+| 18:00–19:30 | ארוחת ערב — [Gassl Bräu](https://www.google.com/maps/place/Gassl+Br%C3%A4u/@46.6398243,11.5646053,17z) | הבחירה הראשית: 4.6/5 מתוך 3,345 ביקורות Google Maps, כ־€20–30 לאדם. האתר הרשמי מפרסם תפריט מלא בחמישי 18:00–22:00. |
+| 19:30–19:50 | Chiusa → הלינה ב־Laion | כ־14 דקות ו־10.9 ק״מ; זהו המעבר הראשון ללינה, רק אחרי השיטוט והארוחה. |
+| 19:50–20:35 | צ׳ק־אין והתחלת הכביסה היחידה | כניסה ב־lockbox וחניה במוסך. שעת הצ׳ק־אין המותרת היא מ־16:00, ולכן ההגעה המאוחרת מתאימה. |
 
-Bolzano אינה נדחסת ליום המעבר; היא שובצה כיום העיר הרגוע של 24.9. כך לא ממהרים לצ׳ק־אין ועדיין שומרים את Pordoi, Carezza, Predazzo ו־Gardonè.
+**מסעדות שסומנו במפה:** Gassl Bräu נשמרה ב־Plan A. [Torgglkeller](https://www.google.com/maps/place/Restaurant+Pizzeria+Torgglkeller/@46.6400514,11.5644016,17z) נשמרה ב־Plan B כגיבוי מרכזי באותו רחוב, עם ארוחת ערב רשמית 17:00–23:00. [Turmwirt](https://www.google.com/maps/place/Restaurant+Turmwirt/@46.6486086,11.6026784,17z) נשמרה ב־Plan B כגיבוי איכותי ב־Gufidaun בדרך ללינה; חמישי 17:30–20:30 ודורש הזמנה מוקדמת.
 
-**Plan B:** אם Alpine Coaster נסגר בגלל מזג האוויר, מאריכים את Predazzo או מגיעים מוקדם יותר ל־Chiusa. אם מעברי ההרים אינם בטוחים, בוחרים במסלול הישיר והבטוח יותר ל־Laion.
+**Plan B:** אם הספק אינו מאשר מקצה Zipline מוקדם, לא מנסים לדחוס אותו בהמשך היום וממשיכים בתוואי Pordoi–Carezza–Chiusa. אם מעברי ההרים אינם בטוחים, בוחרים במסלול הישיר והבטוח יותר ל־Laion.
 
 > הערה שלי:
 
@@ -385,66 +384,68 @@ Bolzano אינה נדחסת ליום המעבר; היא שובצה כיום הע
 
 ---
 
-## יום ראשון, 20.9 — Cinema delle Odle ו־Santa Maddalena בשקיעה
+## יום ראשון, 20.9 — Alpine Coaster Gardonè ו־Bressanone
 
-**מטרת היום:** לבלות את הבוקר ממש מתחת לרכס Odle, להגיע ל־Cinema delle Odle במסלול מסודר, ולשמור את Santa Maddalena לשעות שבהן הפסגות מקבלות את אור הערב.
+**מטרת היום:** לשמור את ה־Coaster בחלון בוקר לא לחוץ ביום הפעילות האחרון של 2026, ואז לנצל את המשך הדרך לעיר העתיקה של Bressanone במקום לחזור שוב ל־Chiusa.
 
 | שעה | תוכנית | פרטים |
 |---|---|---|
-| 07:55–08:45 | Laion → Zannes | Google Maps: כ־41 דקות ו־28.3 ק״מ; להגיע לחניה בתשלום ולאשר מראש את סידור החניה ל־2026. |
-| 08:45–11:30 | Adolf Munkel אל Cinema delle Odle | מהחניה דרך שבילים 6, 35 ו־36A. הגישה הישירה ל־Geisleralm היא כ־1:40; הלופ הרשמי המלא הוא 9.1 ק״מ, כ־2:47 שעות ו־433 מ׳ עלייה. |
-| 11:30–12:30 | [Cinema delle Odle / Geislerkino](https://www.suedtirol.info/de/de/erlebnisse-und-events/plp-erlebnisse/erlebnisse-suedtirol/pdp-erlebnisse.smgpoi5f6949abb11111d2957500805a10578d.geisleralm.st--magdalena---villnoess) וצהריים ב־Geisleralm | שעות יום ראשון: 10:00–17:00; פתוח בעונת הקיץ 14.5–8.11, שני סגור. להביא אוכל ארוז לגיבוי. |
-| 12:30–14:15 | ירידה ל־Zannes | דרך שביל 36/Dusler, בלי למהר ועם מרווח לשקיעה. |
-| 14:15–14:45 | Zannes → Santa Maddalena | חניה רק במקומות ציבוריים מסומנים. |
-| 14:45–16:15 | Santa Maddalena ו־San Giovanni | הליכת כפר וכנסיות; לכבד שדות פרטיים והגבלות רכב. |
-| 16:15–17:15 | ארוחת ערב מוקדמת והתארגנות | מסעדה שאושרה מראש או ארוחה ארוזה משמעותית; כך לא תלויים במטבח של יום ראשון אחרי השקיעה. |
-| 17:15–19:35 | Golden hour ושקיעה ב־Santa Maddalena | השקיעה ב־20.9 היא ב־19:15 והדמדומים האזרחיים נמשכים עד כ־19:45. להישאר בנקודת תצפית ציבורית בלבד. |
-| 19:35–20:15 | חזרה ל־Laion | Google Maps: כ־33 דקות ו־23.3 ק״מ; נסיעת ערב עם מרווח. |
+| 08:05–09:40 | Laion → Gardonè | Google Maps: כ־1:23 שעות ו־70.2 ק״מ דרך SS12; היתרה לחניה. |
+| 09:40–10:15 | רכבל Predazzo–Gardonè והתארגנות | הרכבל פועל 08:30–17:45; ה־Coaster נפתח ב־10:00. |
+| 10:15–12:00 | [Alpine Coaster Gardonè](https://www.visitfiemme.it/en/info/alpine-coaster-gardon_5796) | חלון קומפקטי של 1:45 שעות, מספיק לכמה ירידות בלי למשוך את החוויה אחרי שיא האדרנלין. זהו יום הפעילות האחרון המפורסם ל־2026; פתוח 10:00–17:00 ובכפוף למזג האוויר. |
+| 12:00–12:35 | ירידה ברכבל ויציאה מהחניה | זמן מרווח לירידה ואיסוף הרכב. |
+| 12:35–14:10 | Gardonè → Bressanone | Google Maps: כ־1:27 שעות ו־81.4 ק״מ דרך A22 בתשלום; החלופה ללא אוטוסטרדה היא כ־1:34. |
+| 14:10–15:20 | ארוחת צהריים מאוחרת ב־Bressanone | לבחור מראש מטבח של יום ראשון שמקבל עד 14:30, ולהחזיק אוכל ארוז לגיבוי. |
+| 15:20–18:00 | Bressanone | מרכז עתיק, כיכר הקתדרלה והליכה קלה ליד הנהר. |
+| 18:00–19:30 | ארוחת ערב ב־Bressanone | לאשר מטבח של יום ראשון. |
+| 19:30–20:00 | Bressanone → Laion | Google Maps: כ־21 דקות ו־17.8 ק״מ; היתרה למרווח ערב. |
 
-בחרנו **Zannes ולא Passo delle Erbe** מפני ש־Cinema delle Odle נמצא על אותו רכס שמופיע אחר כך בשקיעה מ־Santa Maddalena. Passo delle Erbe נשאר Plan B לחצי יום נפרד בראות טובה.
-
-**Plan B:** אם תנאי השביל אינם טובים, עושים הליכה קצרה וקלה יותר ב־Zannes ועוברים מוקדם לכפרים. אם אין ראות בערב, לא ממתינים בקור ומקדימים את ארוחת הערב.
+**Plan B:** אם Gardonè נסגר בגלל מזג האוויר, לא ניתן להעביר אותו לאחר 20.9; עוברים מוקדם ל־Bressanone ושומרים את יתרת היום עירונית.
 
 > הערה שלי:
 
 ---
 
-## יום שני, 21.9 — יום גיבוי במערב
+## יום שני, 21.9 — Passo Gardena ו־Vallunga
 
-**מטרת היום:** לשמור אפשרות להעביר לכאן עוגן הרים שנדחה בגלל מזג האוויר; אם אין צורך, היום מלא ב־Bressanone וב־Chiusa ואינו יום מנוחה ריק.
-
-| שעה | תוכנית | פרטים |
-|---|---|---|
-| 08:30–09:00 | Laion → Bressanone | Google Maps: כ־21 דקות ו־17.8 ק״מ; היתרה לחניה. |
-| 09:00–12:00 | Bressanone | מרכז עתיק, כיכר הקתדרלה והליכה קלה ליד הנהר. |
-| 12:00–13:15 | ארוחת צהריים ב־Bressanone | לאשר שירות ביום שני. |
-| 13:15–13:40 | Bressanone → Chiusa | Google Maps: כ־14 דקות ו־11.9 ק״מ; היתרה לחניה. |
-| 13:40–17:30 | Chiusa והעלייה האופציונלית ל־Sabiona | העיר העתיקה ושביל ציבורי בעלייה אם יבש; אין הנחה שהמנזר עצמו פתוח. |
-| 17:30–19:00 | ארוחת ערב ב־Chiusa | חלון ייעודי; לאשר שעות מטבח של יום שני. |
-| 19:00–19:20 | Chiusa → Laion | כ־14 דקות; חוזרים רק אחרי הארוחה. |
-
-אם Seceda, Alpe di Siusi או Val di Funes התפספסו בגלל מזג האוויר, הם קודמים לערים ביום הזה. Passo delle Erbe נשאר Plan B נפרד ליום בהיר.
-
-> הערה שלי:
-
----
-
-## יום שלישי, 22.9 — Passo Gardena ו־Vallunga
-
-**מטרת היום:** כביש נוף והליכה שטוחה אופציונלית.
+**מטרת היום:** להעביר לכאן את יום כביש הנוף וההליכה הקלה, כדי להשאיר את 22.9 ל־Val di Funes ביום שבו Geisleralm אינה סגורה.
 
 | שעה | תוכנית | פרטים |
 |---|---|---|
 | 08:00–08:50 | Laion → Passo Gardena | Google Maps: כ־43 דקות ו־30.6 ק״מ; היתרה לחניה. |
 | 09:00–11:45 | Passo Gardena | נסיעה נופית ועצירות צילום קצרות, רק בראות טובה. |
 | 11:45–12:15 | Passo Gardena → Selva / Vallunga | כ־21 דקות ו־12.2 ק״מ. |
-| 12:15–13:30 | צהריים ב־Selva | חלון ייעודי ליד תחילת המסלול. |
+| 12:15–13:30 | צהריים ב־Selva | לאשר שירות ביום שני ולהחזיק אוכל ארוז לגיבוי. |
 | 13:45–16:15 | Vallunga | 🟢 שביל 14 לכיוון קפלת San Silvestro והאחו. המסלול הרשמי קל: 7.5 ק״מ, כשעתיים ו־201 מ׳ עלייה. |
 | 16:15–18:00 | Selva וקפה | ממשיכים בעיירה; אין חזרה ללינה. |
-| 18:00–19:30 | ארוחת ערב ב־Selva | לאשר שעות מטבח של יום שלישי. |
+| 18:00–19:30 | ארוחת ערב ב־Selva | לאשר שעות מטבח של יום שני. |
 | 19:30–20:05 | Selva / Vallunga → Laion | Google Maps: כ־29 דקות ו־21.3 ק״מ. |
 
-**Plan B:** לוותר על המעבר ולעשות רק את Vallunga מ־Selva.
+**Plan B:** לוותר על המעבר ולעשות רק את Vallunga מ־Selva. חלון הגיבוי העיקרי לעוגן הרים שנדחה נשאר ב־24.9 במקום ב־21.9.
+
+> הערה שלי:
+
+---
+
+## יום שלישי, 22.9 — Cinema delle Odle ו־Santa Maddalena בשקיעה
+
+**מטרת היום:** לבלות את הבוקר מתחת לרכס Odle, להגיע ל־Cinema delle Odle במסלול מסודר, ולשמור את Santa Maddalena לשעות שבהן הפסגות מקבלות את אור הערב. יום שלישי נבחר משום ש־Geisleralm סגורה בימי שני.
+
+| שעה | תוכנית | פרטים |
+|---|---|---|
+| 07:55–08:45 | Laion → Zannes | Google Maps: כ־41 דקות ו־28.3 ק״מ; להגיע לחניה בתשלום ולאשר מראש את סידור החניה ל־22.9. |
+| 08:45–12:00 | Adolf Munkel אל Cinema delle Odle | מהחניה דרך שבילים 6, 35 ו־36A. הגישה הישירה ל־Geisleralm היא כ־1:40; הלופ הרשמי המלא הוא 9.1 ק״מ, כ־2:47 שעות ו־433 מ׳ עלייה. |
+| 12:00–13:00 | [Cinema delle Odle / Geislerkino](https://www.suedtirol.info/de/de/erlebnisse-und-events/plp-erlebnisse/erlebnisse-suedtirol/pdp-erlebnisse.smgpoi5f6949abb11111d2957500805a10578d.geisleralm.st--magdalena---villnoess) וצהריים ב־Geisleralm | שירות הקיץ המפורסם הוא 10:00–17:00; שני סגור ולכן יום שלישי מתאים. להביא אוכל ארוז לגיבוי. |
+| 13:00–14:45 | ירידה ל־Zannes | דרך שביל 36/Dusler, בלי למהר ועם מרווח לשקיעה. |
+| 14:45–15:15 | Zannes → Santa Maddalena | חניה רק במקומות ציבוריים מסומנים. |
+| 15:15–16:15 | Santa Maddalena ו־San Giovanni | הליכת כפר וכנסיות; לכבד שדות פרטיים והגבלות רכב. |
+| 16:15–17:15 | ארוחת ערב מוקדמת והתארגנות | מסעדה שאושרה מראש או ארוחה ארוזה משמעותית; כך לא תלויים במטבח אחרי השקיעה. |
+| 17:15–19:35 | Golden hour ושקיעה ב־Santa Maddalena | השקיעה ב־22.9 היא סביב 19:11 והדמדומים האזרחיים נמשכים עד כ־19:40. להישאר בנקודת תצפית ציבורית בלבד. |
+| 19:35–20:15 | חזרה ל־Laion | Google Maps: כ־33 דקות ו־23.3 ק״מ; נסיעת ערב עם מרווח. |
+
+בחרנו **Zannes ולא Passo delle Erbe** מפני ש־Cinema delle Odle נמצא על אותו רכס שמופיע אחר כך בשקיעה מ־Santa Maddalena. Passo delle Erbe נשאר Plan B לחצי יום נפרד בראות טובה.
+
+**Plan B:** אם תנאי השביל אינם טובים, עושים הליכה קצרה וקלה יותר ב־Zannes ועוברים מוקדם לכפרים. אם אין ראות בערב, לא ממתינים בקור ומקדימים את ארוחת הערב.
 
 > הערה שלי:
 
@@ -658,11 +659,11 @@ Bolzano אינה נדחסת ליום המעבר; היא שובצה כיום הע
 
 ב־Google Maps קיימות שתי רשימות פרטיות נפרדות: **„דולומיטים 2026 — Plan A”** לעוגנים המתוכננים ו־**„דולומיטים 2026 — Plan B”** לגיבויים. בביקורת 27.7 נמצא שלפני העדכון לא הייתה כלל רשימת Plan B ייעודית; 21 המקומות שמסומנים `priority: B` בתוכנית המקומית נאספו אליה. העוגן המדויק באורונזו, Ponte Tibetano, Val Cimoliana ו־Rifugio Pordenone נוספו ל־Plan A.
 
-**ביקורת המפה מלאה:** כל המקומות שסווגו כ־Plan B בזמן הסנכרון נשמרו במפה. בעקבות v18, Funivia Lagazuoi ו־Malga Zannes הועברו בפועל ל־Plan A. ב־v21 נשמר העוגן המדויק ב־Laion ברשימת הלינות, ונשמרו ב־Plan A גם Chiusa, Bressanone, Castelrotto ו־Val d’Anna; Bolzano מסומנת כעת גם ב־Plan A ליום 24.9.
+**ביקורת המפה מלאה:** כל המקומות שסווגו כ־Plan B בזמן הסנכרון נשמרו במפה. בעקבות v18, Funivia Lagazuoi ו־Malga Zannes הועברו בפועל ל־Plan A. ב־v21 נשמר העוגן המדויק ב־Laion ברשימת הלינות, ונשמרו ב־Plan A גם Chiusa, Bressanone, Castelrotto ו־Val d’Anna. ב־v23 נשמרו Zipline San Tomaso ו־Gassl Bräu ב־Plan A, ו־Torgglkeller ו־Turmwirt ב־Plan B; הערת Gardonè עודכנה ל־20.9.
 
 במעבר על [כתבת Cat’s Nine Lives](https://www.catsninelives.com/best-things-to-do-in-the-dolomites/) נמצא שרוב עוגני הטבע המרכזיים כבר היו בתוכנית: Tre Cime, Braies, Cinque Torri/Averau, Passo Giau, Lagazuoi, Seceda, Alpe di Siusi, Val di Funes ו־Passo Gardena; Sorapis כבר נשמר כ־Conditional. נוספו למפה 12 מקומות רלוונטיים:
 
-- **Plan A:** Lago di Carezza, Passo Pordoi, Funivia Lagazuoi, Malga Zannes, On the Rocks ו־Vallunga. ב־v18 נשמרו גם Eurospar Noventa, Fun Bob, Gardonè ו־Cinema delle Odle ישירות ברשימת Plan A.
+- **Plan A:** Lago di Carezza, Passo Pordoi, Funivia Lagazuoi, Malga Zannes, On the Rocks ו־Vallunga. ב־v18 נשמרו גם Eurospar Noventa, Fun Bob, Gardonè ו־Cinema delle Odle; ב־v23 נוספו Zipline San Tomaso ו־Gassl Bräu.
 - **Plan B / Map only:** Pasticceria Alverà, Fermeda-Hütte ו־MMM Corones.
 - **Plan A פעילויות:** GARDENAFLY ו־Maneggio Unterlanzin.
 - **Map only יקר:** SanBrite ו־Ristorante Tivoli — נשמרו כרעיונות, אך אינם חלק מברירת המחדל החסכונית.
@@ -745,25 +746,29 @@ Bolzano אינה נדחסת ליום המעבר; היא שובצה כיום הע
 |---|---|---|
 | A | Airbnb מאושר — Laion | עוגן לינה פרטי ל־17–25.9. הקואורדינטות נשמרו ברשימת **„לינות — דולומיטים 2026”** ואינן מוצגות במסמך הציבורי. |
 | A | [Ortisei](https://www.google.com/maps/search/Ortisei) | מרכז הפעילויות של Val Gardena, כ־15–17 דקות מהלינה ב־Laion. |
-| A | [Passo Pordoi](https://www.google.com/maps/place/Passo+Pordoi/@46.4888128,11.8117568,15z) | עצירת הבוקר הראשונה בדרך הגדולה של הדולומיטים ב־17.9. |
+| A | [Zipline San Tomaso](https://www.google.com/maps/search/?api=1&query=Zipline%20San%20Tomaso%20Cableway%20Belluno) | עוגן הבוקר של 17.9; שני מקטעים, 1.6 ק״מ וכ־50 דקות. השיבוץ 09:00 מותנה באישור טלפוני מראש. |
+| A | [Passo Pordoi](https://www.google.com/maps/place/Passo+Pordoi/@46.4888128,11.8117568,15z) | עצירת נוף קומפקטית אחרי ה־Zipline ב־17.9. |
 | A | [Lago di Carezza](https://www.google.com/maps/place/Lago+di+Carezza/@46.4092273,11.5750645,17z) | עצירת אגם קצרה בדרך הגדולה של הדולומיטים ב־17.9. |
 | A | [Bolzano](https://www.google.com/maps/place/Bolzano/@46.4949259,11.3402543,13z) | יום עיר רגוע ב־24.9; כ־34–35 דקות לכל כיוון מ־Laion. |
-| A | [Bressanone](https://www.google.com/maps/search/?api=1&query=Bressanone%20Italy) | בוקר יום הגיבוי 21.9; כ־21 דקות מ־Laion. |
-| A | [Chiusa](https://www.google.com/maps/search/?api=1&query=Chiusa%20South%20Tyrol) | ערב 17.9 וצהריים/ערב 21.9; כ־14 דקות מהלינה. |
+| A | [Bressanone](https://www.google.com/maps/search/?api=1&query=Bressanone%20Italy) | אחר הצהריים והערב של 20.9 אחרי Gardonè; כ־21 דקות חזרה ל־Laion. |
+| A | [Chiusa](https://www.google.com/maps/search/?api=1&query=Chiusa%20South%20Tyrol) | שיטוט מלא וארוחת ערב ב־17.9 לפני הצ׳ק־אין הראשון; כ־14 דקות מהלינה. |
+| A | [Gassl Bräu](https://www.google.com/maps/place/Gassl+Br%C3%A4u/@46.6398243,11.5646053,17z) | ארוחת הערב הראשית ב־17.9: 4.6/5 מ־3,345 ביקורות, כ־€20–30 לאדם ותפריט מלא בחמישי 18:00–22:00. |
+| B | [Torgglkeller](https://www.google.com/maps/place/Restaurant+Pizzeria+Torgglkeller/@46.6400514,11.5644016,17z) | גיבוי מרכזי באותו רחוב: 4.4/5 מ־2,418 ביקורות; ארוחת ערב רשמית 17:00–23:00. |
+| B | [Turmwirt](https://www.google.com/maps/place/Restaurant+Turmwirt/@46.6486086,11.6026784,17z) | גיבוי איכותי ב־Gufidaun בדרך ללינה: 4.8/5 מ־470 ביקורות; חמישי 17:30–20:30. |
 | A | [Castelrotto](https://www.google.com/maps/search/?api=1&query=Castelrotto%20Italy) | המשך ישיר אחרי הרכיבה ב־19.9; כ־3 דקות מ־Unterlanzin. |
 | A | [Val d’Anna](https://www.google.com/maps/search/?api=1&query=Val%20d%27Anna%20Hutte%20Ortisei) | הליכה קלה אחרי המצנח ב־18.9 ובגיבוי אחרי ה־e-bike ב־23.9. |
-| A | [Alpine Coaster Gardonè](https://www.google.com/maps/search/?api=1&query=Alpine%20Coaster%20Gardone%20Predazzo) | 17.9, 15:35–17:00, לקראת הסגירה. פתוח 10:00–17:00 עד 20.9; רכבל ירידה עד 17:45 ובכפוף למזג האוויר. |
+| A | [Alpine Coaster Gardonè](https://www.google.com/maps/search/?api=1&query=Alpine%20Coaster%20Gardone%20Predazzo) | 20.9, 10:15–12:00, ביום האחרון של עונת 2026. פתוח 10:00–17:00; רכבל עד 17:45 ובכפוף למזג האוויר. |
 | A | [On the Rocks](https://www.google.com/maps/place/On+the+Rocks+Bike+Rental,+Shop,+Service+%26+Guiding/@46.5719275,11.6775441,17z) | Plan A להשכרת שתי electric hardtail לארבע שעות ב־23.9. |
-| A | [Vallunga](https://www.google.com/maps/place/Vallunga/@46.5646978,11.7775044,17z) | הליכה קלה רשמית של כשעתיים ב־22.9 וגם יעד הסיבוב הנופי של רכיבת ה־e-bike ב־23.9. |
+| A | [Vallunga](https://www.google.com/maps/place/Vallunga/@46.5646978,11.7775044,17z) | הליכה קלה רשמית של כשעתיים ב־21.9 וגם יעד הסיבוב הנופי של רכיבת ה־e-bike ב־23.9. |
 | A | [Seceda cable car](https://www.google.com/maps/search/Seceda%20cable%20car%20Ortisei) | רכבל ראשון 08:30; לחזור אם עננות מתפתחת. |
 | B | [Fermeda-Hütte](https://www.google.com/maps/place/Fermeda-H%C3%BCtte/@46.5910859,11.7368404,17z) | אפשרות בקתה ביום Seceda; לבדוק פתיחה ולא לשנות את המסלול רק בשבילה. |
 | A | [Mont Sëuc / Alpe di Siusi](https://www.google.com/maps/search/Ortisei%20Alpe%20di%20Siusi%20cable%20car%20Mont%20Seuc) | לעלות מוקדם ולבדוק שעות ביום הקודם. |
 | A | [Maneggio Unterlanzin](https://www.google.com/maps/place/Maneggio+Unterlanzin/@46.557003,11.5517492,17z) | Plan A ל־19.9: שעה מודרכת ב־15:30, €33 לאדם וקסדה כלולה. |
 | B | [Maneggio Ortisei](https://www.google.com/maps/search/?api=1&query=Maneggio%20Ortisei%20Strada%20Passua%205) | הגיבוי הקרוב ביותר לבסיס; טיולי טבע ושעות 08:00–19:00, אך מחיר שעה אינו מפורסם. |
 | B | [Pozzamanigoni](https://www.google.com/maps/search/?api=1&query=Scuola%20d%27equitazione%20Pozzamanigoni%20Selva%20Val%20Gardena) | גיבוי נופי ב־Selva, אך יקר יותר: מחיר עבודה כ־€80 לאדם ל־1:30 שעות. |
-| A | [Santa Maddalena](https://www.google.com/maps/search/Santa%20Maddalena%20Val%20di%20Funes) | 20.9: לשמור את חלון 17:15–19:35 לתצפית על רכס Odle; שקיעה צפויה ב־19:15. לשמור על שבילים פרטיים. |
-| A | [Malga Zannes P1](https://www.google.com/maps/search/Parcheggio%20Zannes%20Val%20di%20Funes) | נקודת היציאה של מסלול הבוקר ב־20.9 אל Cinema delle Odle; להזמין חניה ל־2026 לפני היציאה. |
-| A | [Cinema delle Odle / Geisleralm](https://www.google.com/maps/search/?api=1&query=Geisleralm%20Cinema%20delle%20Odle) | יעד מסלול הבוקר ב־20.9. Geisleralm פתוחה ביום ראשון 10:00–17:00; המסלול הרשמי מ־Zannes הוא 9.1 ק״מ וכ־2:47 שעות. |
+| A | [Santa Maddalena](https://www.google.com/maps/search/Santa%20Maddalena%20Val%20di%20Funes) | 22.9: לשמור את חלון 17:15–19:35 לתצפית על רכס Odle; שקיעה סביב 19:11. לשמור על שבילים פרטיים. |
+| A | [Malga Zannes P1](https://www.google.com/maps/search/Parcheggio%20Zannes%20Val%20di%20Funes) | נקודת היציאה של מסלול הבוקר ב־22.9 אל Cinema delle Odle; להזמין חניה ל־2026 לפני היציאה. |
+| A | [Cinema delle Odle / Geisleralm](https://www.google.com/maps/search/?api=1&query=Geisleralm%20Cinema%20delle%20Odle) | יעד מסלול הבוקר ב־22.9. Geisleralm פתוחה ביום שלישי 10:00–17:00 וסגורה ביום שני; המסלול הרשמי מ־Zannes הוא 9.1 ק״מ וכ־2:47 שעות. |
 | B / Conditional | [Passo delle Erbe](https://www.google.com/maps/search/?api=1&query=Passo%20delle%20Erbe) | חלופת חצי יום נפרדת בראות טובה; אינו משולב עם יום Zannes–Cinema–Santa Maddalena. |
 | B / Conditional | [Belvedere di Canazei](https://www.google.com/maps/search/?api=1&query=Belvedere%20di%20Canazei) | רכבל של 2–3 שעות; רק כתחליף לעצירת מעבר אחרת. |
 | A | [Passo Gardena](https://www.google.com/maps/search/Passo%20Gardena) | לנסוע רק בראות טובה; בלי טרק גדול נוסף. |
@@ -878,6 +883,7 @@ Bolzano אינה נדחסת ליום המעבר; היא שובצה כיום הע
 
 | תאריך | שינוי | מי ביקש |
 |---|---|---|
+| 08.08.2026 | v23: Zipline San Tomaso נוסף לבוקר 17.9; Chiusa, Gassl Bräu והצ׳ק־אין סודרו בסדר המבוקש; Gardonè עבר לבוקר 20.9 ואחריו Bressanone; Passo Gardena/Vallunga עברו ל־21.9 ו־Val di Funes ל־22.9 כדי להימנע מסגירת יום שני של Geisleralm. Gassl Bräu נשמרה ב־Plan A, ו־Torgglkeller ו־Turmwirt ב־Plan B. | המשתמש |
 | 28.07.2026 | v22: איסוף Target Rent ב־11.9 הוזז מ־12:00 ל־13:30; ארוחת הצהריים הועברה ל־VCE לפני השאטל, וזמני השאטל, האיסוף, הנסיעה והאאוטלט הותאמו בלי לפגוע בארוחת הערב, בסופרמרקט או בהגעה המאוחרת לאורונזו. החזרת הרכב נשארה ב־09:00 כדי לשמור את המרווח לטיסה | המשתמש |
 | 27.07.2026 | v20: ב־12.9 בוטלה לחלוטין החזרה ללינה באמצע היום; נוסעים ישירות מ־Snow Service ל־Fun Bob בשעה 16:10, ממשיכים להליכת Lago di Auronzo ולארוחת ערב. נוסף לסוכנים כלל קשיח של רצף מחוץ ללינה ביום פעיל | המשתמש |
 | 27.07.2026 | v19: הוסר תכנון המקלחות המוקדמות ונוסף כלל מקלחות לילה בלבד; 13.9 קוצר ונוסף Palazzo Corte Metto; 15.9 נוסף Col de Varda; 16.9 נוסף ניקיון או €40 למנקה; שמונה אפשרויות אוכל נשמרו ב־Plan B ונוספו כאפשרויות ערב/בוקר לפי התאמה | המשתמש |

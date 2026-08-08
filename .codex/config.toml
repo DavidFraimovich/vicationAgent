@@ -6,6 +6,13 @@
 #   2. export GOOGLE_MAPS_GROUNDING_API_KEY="..."
 #   3. Restart Codex and run /mcp
 
+# Allow the itinerary exporter to replace only the generated HTML inside the
+# trip's Google Drive folder. Restart Codex after changing sandbox settings.
+[sandbox_workspace_write]
+writable_roots = [
+  "/Users/david/Library/CloudStorage/GoogleDrive-davidfr97@gmail.com/האחסון שלי/development/תוכנית דולומיטים 2026",
+]
+
 [mcp_servers.travel_local]
 command = "npm"
 args = ["run", "mcp"]
