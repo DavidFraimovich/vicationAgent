@@ -1,0 +1,29 @@
+{
+  "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+  "sendUpdates": "none",
+  "status": "prepared_not_scheduled",
+  "authorization": "user request 2026-09-05 items 4 and 5",
+  "event": {
+    "summary": "שליחת פרטי הרכב להזמנת חניות",
+    "start": {
+      "dateTime": "2026-09-11T14:30:00+02:00",
+      "timeZone": "Europe/Rome"
+    },
+    "end": {
+      "dateTime": "2026-09-11T14:35:00+02:00",
+      "timeZone": "Europe/Rome"
+    },
+    "description": "אחרי איסוף הרכב: לשלוח בצ'אט את מספר הרכב, סוג הרכב והמדינה כדי להזמין חניית Tre Cime ל-14.9 וחניית Lago di Braies ל-15.9.\nאין לבצע הזמנה או תשלום בלי האישור הסופי של המשתמש.",
+    "attendees": [],
+    "transparency": "transparent",
+    "reminders": {
+      "useDefault": false,
+      "overrides": [
+        {
+          "method": "popup",
+          "minutes": 0
+        }
+      ]
+    }
+  }
+}

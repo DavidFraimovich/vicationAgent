@@ -7,10 +7,12 @@
     "timezone": "Europe/Rome",
     "status": "planning",
     "routeStrategy": "east-first",
-    "summary": "Venice 1.5 days → early lunch at VCE and Target Rent pickup near VCE at 13:30 → Noventa di Piave outlet, dedicated dinner and a supermarket stop for the 12 Sep breakfast and sandwiches → late arrival at the confirmed Airbnb east-base lodging on Via Corte in Auronzo di Cadore → east Dolomites with Ra Bujela followed directly by Fun Bob and a Lago di Auronzo walk without a mid-day lodging return, Ponte Tibetano, Val Cimoliana and the Auronzo Civic Museum, an extended Tre Cime day, Braies plus Col de Varda, and Cinque Torri combined with Lagazuoi and a Passo Giau sunset → Great Dolomites Road transfer with a pre-booked Zipline San Tomaso morning, Passo Pordoi, Lago di Carezza, a full Chiusa walk and dinner before the first Laion check-in → confirmed Laion west-base Airbnb with Seceda tandem paragliding, Val d'Anna and Ortisei, Alpe di Siusi plus a one-hour horse ride and Castelrotto, Alpine Coaster Gardonè on its final 2026 operating day followed by Bressanone, Passo Gardena and Vallunga, Cinema delle Odle from Zannes and Santa Maddalena at sunset, a 3–4 hour e-bike morning and a relaxed Bolzano final day → final night in Laion → early direct drive to Target Rent and VCE on flight day",
+    "summary": "Venice 1.5 days → early lunch at VCE and Target Rent pickup near VCE at 13:30 → Noventa di Piave outlet, dedicated dinner and a supermarket stop for the 12 Sep breakfast and sandwiches → late arrival at the confirmed Airbnb east-base lodging on Via Corte in Auronzo di Cadore → east Dolomites with Ra Bujela followed directly by Fun Bob and a Lago di Auronzo walk without a mid-day lodging return, Ponte Tibetano, Val Cimoliana and the Auronzo Civic Museum, an extended Tre Cime day, Braies plus Col de Varda, and Cinque Torri combined with Lagazuoi and a Passo Giau sunset → Great Dolomites Road transfer with a planned, not-yet-booked Zipline San Tomaso morning, Passo Pordoi, Lago di Carezza, a full Chiusa walk and dinner before the first Laion check-in → confirmed Laion west-base Airbnb with Seceda tandem paragliding, Val d'Anna and Ortisei, Alpe di Siusi plus a one-hour horse ride and Castelrotto, Alpine Coaster Gardonè on its final 2026 operating day followed by Bressanone, Passo Gardena and Vallunga, Cinema delle Odle from Zannes and Santa Maddalena at sunset, a 3–4 hour e-bike morning and a relaxed Bolzano final day → final night in Laion → early direct drive to Target Rent and VCE on flight day",
     "travelers": 2,
     "metadata": {
-      "planVersion": "plan-a-2026-08-08-v23",
+      "planVersion": "plan-a-2026-09-05-v25",
+      "dreimaedelhausAddedAt": "2026-09-05",
+      "dreimaedelhausSyncStatus": "local_plan_updated_external_sync_pending",
       "lodgingPolicyVersion": 2,
       "cancellationPolicyUpdatedAt": "2026-07-26",
       "lodgingResearchVerifiedAt": "2026-07-26",
@@ -54,7 +56,141 @@
       "difficulty": "light-medium with one conditional easy via ferrata",
       "majorMountainAnchorsPerDay": 1,
       "viaFerrataPolicy": "Ra Bujela only with suitable prior experience or a guide, full EN 958 equipment, dry conditions and confirmed lift operation",
-      "browserAccount": "david04031997@gmail.com"
+      "browserAccount": "david04031997@gmail.com",
+      "bookingOperations": {
+        "updatedAt": "2026-09-05",
+        "source": "user_instructions_2026-09-05_and_current_official_sources",
+        "laion": {
+          "paymentStatus": "receipt_received_2026-09-04",
+          "arrivalLocal": "2026-09-17T19:50:00+02:00",
+          "hostMessageStatus": "prepared_not_sent_browser_unavailable",
+          "hostMessage": "Hi Hubert,\n\nWe're looking forward to our stay with you from 17 to 25 September! According to our current itinerary, we expect to arrive on Thursday, 17 September, at around 7:50 pm (local time).\n\nIs there anything we need to do before arrival, or any additional check-in instructions we should know about? Could you also please confirm that bed linen and towels will be provided for both of us?\n\nThank you very much for your help. We're excited to visit Laion and stay at your apartment. Wishing you a lovely day!\n\nBest wishes,\nDavid and Lena"
+        },
+        "auronzo": {
+          "selfCheckIn": "confirmed_by_user_supplied_host_instructions",
+          "parking": "courtyard_confirmed_street_fallback",
+          "linensAndTowels": "agreed_on_whatsapp",
+          "finalCleaning": "self_cleaning_already_agreed",
+          "privateAccessCode": "retained_only_in_user_conversation_and_whatsapp"
+        },
+        "viaFerrata": {
+          "date": "2026-09-12",
+          "status": "guide_comparison_ready_not_booked",
+          "candidates": [
+            {
+              "name": "Giovanni Orlando",
+              "activity": "Private Ra Pegna + Ra Bujela",
+              "couplePriceEur": 300,
+              "equipmentIncluded": true,
+              "url": "https://www.giovanni-orlando.it/project/family-ferrata-ra-pegna-cortina/",
+              "availability": "not_confirmed_for_2026-09-12"
+            },
+            {
+              "name": "Powrock",
+              "activity": "Private Ra Bujela",
+              "coupleStartingPriceEur": 300,
+              "equipmentIncluded": false,
+              "url": "https://www.powrock.com/sp/it/ei/ferrata-ra-bujela-tofana-di-mezzo.3sp",
+              "availability": "request_only",
+              "priceCaveat": "Detailed table says EUR 300 for two; page headline says EUR 330. Confirm final quote."
+            },
+            {
+              "name": "Guide Alpine Cortina",
+              "activity": "Shared Ra Bujela",
+              "pricePerPersonEur": 150,
+              "minimumTotalParticipants": 4,
+              "url": "https://guidecortina.com/le-attivita/calendario/via-ferrata-ra-bujela/",
+              "availability": "not_confirmed_for_2026-09-12"
+            }
+          ]
+        },
+        "parkingReminder": {
+          "requestedLocal": "2026-09-11T14:30:00+02:00",
+          "status": "prepared_not_scheduled",
+          "reason": "No scheduled-task tool; raw Calendar OAuth unavailable and no browser for approved Apps Script fallback",
+          "targets": [
+            "Tre Cime 2026-09-14",
+            "Lago di Braies 2026-09-15"
+          ],
+          "plateProvided": false,
+          "treCimeNote": "Official FAQ permits booking without rental plate and adding it by 23:59 the day before access; user chose to wait until rental pickup.",
+          "treCimeSource": "https://auronzo.info/en/parking-tre-cime-di-lavaredo/",
+          "braiesSource": "https://www.prags.bz/de"
+        },
+        "zipline": {
+          "date": "2026-09-17",
+          "requestedTime": "09:00",
+          "status": "not_booked",
+          "dateAndTimeAvailability": "requires_phone_confirmation",
+          "couplePriceEur": 80,
+          "phone": "+39 351 3686733",
+          "bookingUrl": "https://ziplinesantomaso.it/info-e-prenotazioni/"
+        },
+        "gasslBrau": {
+          "decision": "walk_in_no_reservation",
+          "date": "2026-09-17",
+          "time": "18:00",
+          "assessment": "Some risk of no table; arrive at full-menu opening and use Torgglkeller if unavailable. No numerical probability or live occupancy data.",
+          "source": "https://www.gassl-braeu.it/restaurant/"
+        },
+        "gardenafly": {
+          "date": "2026-09-18",
+          "requestedTime": "10:30",
+          "weightsKg": [
+            68,
+            58
+          ],
+          "status": "request_prepared_not_submitted",
+          "publishedCouplePriceEur": 380,
+          "optionalMediaPerPersonEur": 25,
+          "liftsIncluded": false,
+          "requestedBackupDate": "2026-09-24",
+          "request": "Hi Gardenafly! We would like to arrange two Seceda panoramic tandem flights on 18 September 2026 at around 10:30 am, with two pilots flying at the same time. Our weights are 68 kg and 58 kg. We plan to take the first Seceda lift at 08:30 and walk on the ridge beforehand. Can you meet us directly on the mountain rather than at the valley station? Please confirm the exact meeting point, which lift tickets to buy, availability of two pilots, the total price (published EUR 380 for two), optional photo/video at EUR 25 per person, payment method and timing, and cancellation/refund terms if weather prevents flying. Our preferred weather backup is 24 September. Please send a proposal for us to review before confirming a booking. Thank you, David and Lena.",
+          "bookingUrl": "https://www.paragliding-flights-dolomites.com/book-now",
+          "preparedWhatsAppUrl": "https://wa.me/393921286600?text=Hi%20Gardenafly!%20We%20would%20like%20to%20arrange%20two%20Seceda%20panoramic%20tandem%20flights%20on%2018%20September%202026%20at%20around%2010%3A30%20am%2C%20with%20two%20pilots%20flying%20at%20the%20same%20time.%20Our%20weights%20are%2068%20kg%20and%2058%20kg.%20We%20plan%20to%20take%20the%20first%20Seceda%20lift%20at%2008%3A30%20and%20walk%20on%20the%20ridge%20beforehand.%20Can%20you%20meet%20us%20directly%20on%20the%20mountain%20rather%20than%20at%20the%20valley%20station%3F%20Please%20confirm%20the%20exact%20meeting%20point%2C%20which%20lift%20tickets%20to%20buy%2C%20availability%20of%20two%20pilots%2C%20the%20total%20price%20(published%20EUR%20380%20for%20two)%2C%20optional%20photo%2Fvideo%20at%20EUR%2025%20per%20person%2C%20payment%20method%20and%20timing%2C%20and%20cancellation%2Frefund%20terms%20if%20weather%20prevents%20flying.%20Our%20preferred%20weather%20backup%20is%2024%20September.%20Please%20send%20a%20proposal%20for%20us%20to%20review%20before%20confirming%20a%20booking.%20Thank%20you%2C%20David%20and%20Lena.",
+          "pendingSupplierConfirmation": [
+            "two pilots at requested time",
+            "meeting on mountain instead of standard valley meeting",
+            "lift tickets",
+            "payment method and timing",
+            "refund and weather fallback terms"
+          ],
+          "remainingTravelerDetails": [
+            "ages",
+            "contact mobile",
+            "optional photo/video choice"
+          ],
+          "faqUrl": "https://www.paragliding-flights-dolomites.com/faq"
+        },
+        "weatherDeferred": {
+          "horseRiding": "2026-09-19",
+          "zannesParking": "2026-09-22",
+          "eBikes": "2026-09-23",
+          "decision": "do_not_book_now_revisit_near_date_after_weather_check"
+        },
+        "gardone": {
+          "date": "2026-09-20",
+          "decision": "buy_on_site_weather_permitting",
+          "reservationRequired": false,
+          "publishedCoasterHours": "10:00-17:00",
+          "seasonEnds": "2026-09-20",
+          "coupleCombiPriceEur": 50,
+          "assessment": "Low booking-related risk; possible queues and weather suspension; no later operating-day backup.",
+          "source": "https://www.montagnanimata.it/en/prices-timetable/"
+        },
+        "rental": {
+          "status": "confirmed",
+          "pickup": "2026-09-11T13:30:00+02:00",
+          "return": "2026-09-25T09:00:00+02:00",
+          "fastCheckout": "No mandatory online completion stated in booking email or official public terms; standard counter processing described. Branch-specific optional status not directly confirmed.",
+          "source": "https://targetrent.it/guide-noleggio-auto/ritiro-consegna/check-out-check-in-noleggio-auto/"
+        },
+        "calendarSync": {
+          "status": "pending_raw_api_auth",
+          "scheduleTimesChanged": false,
+          "reason": "Operational notes require later in-place sync; no raw API access and browser unavailable."
+        }
+      }
     }
   },
   "places": [
@@ -208,12 +344,19 @@
       "address": "Via Orlanda 216, 30173 Tessera VE, Italy",
       "countryCode": "IT",
       "googleMapsUrl": "https://maps.app.goo.gl/UiD6XeqskFK6cjYS7",
-      "categories": ["transport", "car"],
+      "categories": [
+        "transport",
+        "car"
+      ],
       "priority": "A",
       "planningStatus": "calendar_anchor",
       "source": "https://targetrent.it/en/punti-di-ritiro/",
       "lastVerifiedAt": "2026-07-25",
-      "notes": "Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. The replacement rental is planned for pickup on 11 Sep at 13:30 and return on 25 Sep at 09:00; the new booking request is not yet submitted or confirmed. For return, arrive around 08:45, then use the shuttle back to the terminal."
+      "notes": "Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. Rental confirmed by Target Rent email on 29 July: pickup 11 Sep 13:30 and return 25 Sep 09:00. For return, arrive around 08:45, then use the shuttle back to the terminal.",
+      "metadata": {
+        "bookingStatus": "confirmed",
+        "confirmationVerifiedAt": "2026-09-05"
+      }
     },
     {
       "id": "dolomites-2026:noventa-outlet",
@@ -272,7 +415,7 @@
       "planningStatus": "calendar_anchor",
       "source": "confirmed_airbnb_reservation+google_maps_chrome",
       "lastVerifiedAt": "2026-07-27",
-      "notes": "Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.",
+      "notes": "Confirmed Airbnb east-base routing anchor. Late self-check-in, key collection and courtyard parking are confirmed by the host instructions supplied by the user on 5 September. Arrival remains 22:35–22:55. Linen and towels agreed on WhatsApp; private access code remains in the host conversation.",
       "metadata": {"provider":"airbnb.com","airbnbRoomId":"1181041852871534156","checkIn":"2026-09-11","checkOut":"2026-09-17","checkInTime":"14:00","checkOutTime":"12:00","externalMapSync":"saved","googleMapsList":"לינות — דולומיטים 2026","googleMapsListIcon":"🏠","mapListVerifiedAt":"2026-07-27","calendarSync":"existing_provider_event_updated","calendarSyncVerifiedAt":"2026-07-27"}
     },
     {
@@ -637,13 +780,24 @@
       "tripId": "dolomites-2026",
       "name": "Parcheggio Malga Zannes (P1)",
       "googleMapsUrl": "https://www.google.com/maps/search/Parcheggio%20Zannes%20Val%20di%20Funes",
-      "categories": ["parking", "hike", "west-dolomites"],
+      "categories": [
+        "parking",
+        "hike",
+        "west-dolomites"
+      ],
       "priority": "A",
       "planningStatus": "calendar_anchor",
       "source": "google_maps_chrome+https://www.suedtirol.info/en/en/experiences-and-events/plp-experiences/experiences-south-tyrol/pdp-experience.smgpoi5a90aa8372051e6e3d17e2207d299533.the-munkelweg-trail-beneath-the-geisler-peak.s--maddalena-st--magdalena---funes-villnoess",
       "lastVerifiedAt": "2026-08-08",
       "notes": "Plan A trailhead on 22 Sep for the 9.1 km Adolf Munkel loop, officially about 2h47 with 433 m ascent. The schedule adds time for Cinema delle Odle and lunch. Verify and reserve parking online when the 2026 date is released.",
-      "metadata": {"externalMapSync":"saved","googleMapsList":"דולומיטים 2026 — Plan A","mapListVerifiedAt":"2026-07-27","removedFromGoogleMapsList":"דולומיטים 2026 — Plan B"}
+      "metadata": {
+        "externalMapSync": "saved",
+        "googleMapsList": "דולומיטים 2026 — Plan A",
+        "mapListVerifiedAt": "2026-07-27",
+        "removedFromGoogleMapsList": "דולומיטים 2026 — Plan B",
+        "bookingDecision": "deferred_until_weather_check",
+        "decisionAt": "2026-09-05"
+      }
     },
     {
       "id": "dolomites-2026:geisleralm-cinema-odle",
@@ -742,13 +896,27 @@
       "address": "Loc. Stalimen, 38037 Predazzo TN, Italy",
       "countryCode": "IT",
       "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alpine%20Coaster%20Gardon%C3%A8%20Predazzo",
-      "categories": ["alpine-coaster", "lift", "activity", "transfer-stop", "west-dolomites"],
+      "categories": [
+        "alpine-coaster",
+        "lift",
+        "activity",
+        "transfer-stop",
+        "west-dolomites"
+      ],
       "priority": "A",
       "planningStatus": "calendar_anchor",
       "source": "https://www.visitfiemme.it/en/info/alpine-coaster-gardon_5796",
       "lastVerifiedAt": "2026-07-27",
       "notes": "Official 2026 operation is daily 13 Jun–20 Sep, 10:00–17:00, weather permitting. Access is by the Predazzo–Gardonè cable car, open 08:30–17:45. Scheduled on 20 Sep from 10:15 to 12:00, the final operating day of the 2026 summer season.",
-      "metadata": {"externalMapSync":"saved","googleMapsList":"דולומיטים 2026 — Plan A","mapListVerifiedAt":"2026-08-08"}
+      "metadata": {
+        "externalMapSync": "saved",
+        "googleMapsList": "דולומיטים 2026 — Plan A",
+        "mapListVerifiedAt": "2026-08-08",
+        "bookingDecision": "buy_on_site",
+        "reservationRequired": false,
+        "verifiedAt": "2026-09-05",
+        "operatingSource": "https://www.montagnanimata.it/en/prices-timetable/"
+      }
     },
     {
       "id": "dolomites-2026:zipline-san-tomaso",
@@ -774,13 +942,26 @@
       "latitude": 46.6398243,
       "longitude": 11.5646053,
       "googleMapsUrl": "https://www.google.com/maps/place/Gassl+Br%C3%A4u/@46.6398243,11.5646053,17z",
-      "categories": ["restaurant", "dinner", "chiusa", "south-tyrolean"],
+      "categories": [
+        "restaurant",
+        "dinner",
+        "chiusa",
+        "south-tyrolean"
+      ],
       "priority": "A",
       "planningStatus": "calendar_anchor",
       "source": "google_maps_chrome+https://www.gassl-braeu.it/restaurant/",
       "lastVerifiedAt": "2026-08-08",
-      "notes": "Primary 17 Sep dinner after the Chiusa walk and before Laion check-in. Google Maps: 4.6/5 from 3,345 reviews and €20–30 per person. Official Thursday opening is within Wed–Mon 09:00–24:00, with the full menu 18:00–22:00. Reserve the 18:00 slot.",
-      "metadata": {"externalMapSync":"saved","googleMapsList":"דולומיטים 2026 — Plan A","mapListVerifiedAt":"2026-08-08","phone":"+39 0472 523623","publishedThursdayFullMenu":"18:00-22:00"}
+      "notes": "Primary 17 Sep dinner after the Chiusa walk and before Laion check-in. Google Maps: 4.6/5 from 3,345 reviews and €20–30 per person. Official Thursday opening is within Wed–Mon 09:00–24:00, with the full menu 18:00–22:00. User chose walk-in without a reservation on 5 September; arrive at 18:00 and use Torgglkeller if no table. No live occupancy guarantee.",
+      "metadata": {
+        "externalMapSync": "saved",
+        "googleMapsList": "דולומיטים 2026 — Plan A",
+        "mapListVerifiedAt": "2026-08-08",
+        "phone": "+39 0472 523623",
+        "publishedThursdayFullMenu": "18:00-22:00",
+        "reservationDecision": "walk_in",
+        "decisionAt": "2026-09-05"
+      }
     },
     {
       "id": "dolomites-2026:torgglkeller",
@@ -890,13 +1071,39 @@
       "latitude": 46.5746364,
       "longitude": 11.6804252,
       "googleMapsUrl": "https://www.google.com/maps/place/GARDENAFLY+-+Paragliding+Tandemflights+in+the+Dolomites/@46.5746364,11.6804252,17z",
-      "categories": ["paragliding", "experience", "west-dolomites"],
+      "categories": [
+        "paragliding",
+        "experience",
+        "west-dolomites"
+      ],
       "priority": "A",
       "planningStatus": "calendar_anchor",
       "source": "google_maps_chrome+https://www.paragliding-flights-dolomites.com/summer",
       "lastVerifiedAt": "2026-07-26",
       "notes": "Plan A for 18 Sep after a shortened Seceda ridge walk: panoramic Seceda-to-Ortisei tandem flight, about 15–20 minutes airborne and 1.5 hours total. Published price €190 per person; optional GoPro photo/video package €25 per person; lift ticket excluded. Confirm two pilots and a mountain rendezvous. Weather fallback: 24 Sep morning.",
-      "metadata": {"externalMapSync":"saved","googleMapsList":"דולומיטים 2026 — Plan A","phone":"+39 392 128 6600","publishedPricePerPersonEur":190,"photoVideoPerPersonEur":25,"googleRating":5.0,"googleReviewCount":856,"bookingStatus":"not_booked"}
+      "metadata": {
+        "externalMapSync": "saved",
+        "googleMapsList": "דולומיטים 2026 — Plan A",
+        "phone": "+39 392 128 6600",
+        "publishedPricePerPersonEur": 190,
+        "photoVideoPerPersonEur": 25,
+        "googleRating": 5,
+        "googleReviewCount": 856,
+        "bookingStatus": "request_prepared_not_submitted",
+        "weightsKg": [
+          68,
+          58
+        ],
+        "bookingUrl": "https://www.paragliding-flights-dolomites.com/book-now",
+        "pendingSupplierConfirmation": [
+          "two pilots at requested time",
+          "meeting on mountain instead of standard valley meeting",
+          "lift tickets",
+          "payment method and timing",
+          "refund and weather fallback terms"
+        ],
+        "operationsVerifiedAt": "2026-09-05"
+      }
     },
     {
       "id": "dolomites-2026:unterlanzin",
@@ -1330,6 +1537,53 @@
       "lastVerifiedAt": "2026-07-27",
       "notes": "Well-reviewed Cortina restaurant saved as a map lead, not a near-home dinner. The official site publishes kitchen hours 12:00–14:30 and 19:00–21:30, advance booking, and an indicative mid-September to mid-October seasonal closure. It is therefore not a reliable itinerary option for this trip unless the restaurant confirms reopening for the exact date.",
       "metadata": {"externalMapSync":"saved","googleMapsList":"דולומיטים 2026 — Plan B","mapListVerifiedAt":"2026-07-27","tripDateHoursVerified":false,"operatingRisk":"indicative_mid_september_closure"}
+    },
+    {
+      "id": "dolomites-2026:dreimaedelhaus",
+      "tripId": "dolomites-2026",
+      "name": "Dreimädelhaus",
+      "address": "Via Coller 10, 39040 Funes BZ, Italy",
+      "countryCode": "IT",
+      "latitude": 46.6465682,
+      "longitude": 11.6881979,
+      "googleMapsUrl": "https://www.google.com/maps/place/Dreim%C3%A4delhaus/@46.6465682,11.6881979,17z/data=!4m6!3m5!1s0x477811ae7f59d65b:0x2ddd64b46ae8ec66!8m2!3d46.6465682!4d11.6881979!16s%2Fg%2F11c206ch7r",
+      "categories": [
+        "food",
+        "restaurant",
+        "pizzeria",
+        "dinner",
+        "val-di-funes"
+      ],
+      "priority": "A",
+      "planningStatus": "planned",
+      "source": "user_recommendation_layla+user_google_maps_url+https://www.dreimaedelhaus.info/kontakt",
+      "lastVerifiedAt": "2026-09-05",
+      "notes": "המלצה של ליילה",
+      "metadata": {
+        "recommendation": "המלצה של ליילה",
+        "phone": "+39 0472 840102",
+        "website": "https://www.dreimaedelhaus.info/",
+        "googleMapsFeatureId": "0x477811ae7f59d65b:0x2ddd64b46ae8ec66",
+        "identityVerification": "user_provided_maps_link_and_official_address; Google Maps MCP unavailable",
+        "openingHours": {
+          "source": "https://www.dreimaedelhaus.info/kontakt",
+          "verifiedAt": "2026-09-05",
+          "scheduledDate": "2026-09-22",
+          "weekday": "Tuesday",
+          "venue": "16:30-22:00",
+          "kitchen": "17:00-21:00",
+          "pizza": "17:00-22:00",
+          "wednesday": "closed",
+          "weekendLunch": "12:00-14:00",
+          "verificationScope": "published regular hours; date-specific exceptions and table availability not confirmed"
+        },
+        "externalMapSync": "pending_browser_connection",
+        "googleMapsListIntent": "existing food list (heart icon); verify actual list name in authorized account",
+        "googleMapsNote": "המלצה של ליילה",
+        "externalCalendarSync": "pending_raw_api_connection",
+        "plannedMeal": "2026-09-22T20:15:00+02:00",
+        "reservationStatus": "not_booked"
+      }
     }
   ],
   "itinerary": [
@@ -1347,13 +1601,13 @@
     {"id":"dolomites-2026:2026-09-11-lunch","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"09:45","endTime":"12:00","title":"Return to Mestre, checkout and transfer to VCE","itemType":"transport","placeId":"dolomites-2026:ao-venezia-mestre","description":"Return from Venice, collect luggage, check out and travel to VCE. The generous block protects the 13:30 Target Rent pickup and reaches the airport in time for lunch before the shuttle.","status":"planned","source":"user_requested_v22","sortOrder":20},
     {"id":"dolomites-2026:2026-09-11-airport-lunch","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"12:00","endTime":"12:45","title":"Lunch — VCE","itemType":"lunch","placeId":"dolomites-2026:vce","description":"Eat before leaving the terminal so lunch is not pushed past 14:30 by the 13:30 car pickup. Keep the meal simple and remain near the arrivals/P5 route.","status":"planned","source":"user_requested_v22","sortOrder":25},
     {"id":"dolomites-2026:2026-09-11-target-shuttle","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"12:45","endTime":"13:30","title":"VCE arrivals → Target Rent by shuttle","itemType":"transfer","placeId":"dolomites-2026:car-rental-vce","description":"Reach the P5 shuttle area after lunch and request the free Park Gold shuttle to the off-airport Target Rent office. The 45-minute block matches the prior shuttle allowance before the 13:30 pickup.","status":"planned","source":"user_requested_v22","sortOrder":30},
-    {"id":"dolomites-2026:2026-09-11-car","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"13:30","endTime":"14:30","title":"Rental-car pickup — Target Rent","itemType":"transport","placeId":"dolomites-2026:car-rental-vce","description":"Replacement rental pickup is planned for 13:30; the booking request is not yet confirmed. Inspect and photograph the car, confirm fuel/deposit/toll rules and load offline maps.","status":"planned","source":"user_requested_v22","sortOrder":40},
+    {"id":"dolomites-2026:2026-09-11-car","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"13:30","endTime":"14:30","title":"Rental-car pickup — Target Rent","itemType":"transport","placeId":"dolomites-2026:car-rental-vce","description":"Rental pickup is confirmed for 13:30 by the Target Rent email dated 29 July. Inspect and photograph the car, confirm fuel/deposit/toll rules and load offline maps.","status":"planned","source":"user_requested_v22","sortOrder":40,"metadata":{"bookingStatus":"confirmed","calendarOperationalSync":"pending_raw_api_auth"}},
     {"id":"dolomites-2026:2026-09-11-drive-to-cadore","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"14:30","endTime":"15:05","title":"Target Rent → Designer Outlet Noventa di Piave","itemType":"transfer","placeId":"dolomites-2026:noventa-outlet","description":"Allow about 35 minutes plus the A4/E70 toll and parking.","status":"planned","source":"user_requested_v22","sortOrder":50},
     {"id":"dolomites-2026:2026-09-11-lago-centro-cadore","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"15:05","endTime":"18:30","title":"Designer Outlet Noventa di Piave — shopping and tax free","itemType":"shopping","placeId":"dolomites-2026:noventa-outlet","description":"Shop and complete tax-free paperwork after the 13:30 rental pickup. Official Friday opening hours are 10:00–20:00; finish the main shopping block before the dedicated 18:30 dinner.","status":"planned","source":"user_requested_v22","sortOrder":60},
     {"id":"dolomites-2026:2026-09-11-dinner","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"18:30","endTime":"19:30","title":"Dinner — Noventa outlet","itemType":"dinner","placeId":"dolomites-2026:noventa-outlet","description":"Dedicated dinner inside the outlet while it is open 10:00–20:00. Leave by 19:30 so the supermarket stop is protected.","status":"planned","source":"user_requested_v18","sortOrder":65},
     {"id":"dolomites-2026:2026-09-11-supermarket","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"19:40","endTime":"20:20","title":"Supermarket — breakfast and sandwiches for 12 Sep","itemType":"shopping","placeId":"dolomites-2026:eurospar-noventa","description":"Buy breakfast, water, trail snacks and lunch sandwiches for 12 Sep. Official Friday hours are 08:30–20:30; aim to reach the checkout by 20:15.","status":"planned","source":"user_requested_v18","sortOrder":70},
-    {"id":"dolomites-2026:2026-09-11-drive-auronzo","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"20:20","endTime":"22:35","title":"Eurospar Noventa di Piave → confirmed Auronzo lodging","itemType":"transfer","placeId":"dolomites-2026:auronzo-centro-studi","description":"Continue via A27 after the supermarket. The block keeps the prior Google Maps estimate plus a small night-driving margin; late or self check-in is still awaiting Piero's confirmation.","status":"planned","source":"user_requested_v18","sortOrder":80},
-    {"id":"dolomites-2026:2026-09-11-auronzo-arrival","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"22:35","endTime":"22:55","title":"Arrival and late check-in — Bella casa vacanze","itemType":"lodging","placeId":"dolomites-2026:auronzo-centro-studi","description":"Navigate to the exact confirmed Airbnb location at Via Corte 13. Normal check-in starts at 14:00 with building staff; late or self check-in around 22:35–22:55 is still awaiting Piero's confirmation.","status":"planned","source":"user_requested_v18","sortOrder":90},
+    {"id":"dolomites-2026:2026-09-11-drive-auronzo","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"20:20","endTime":"22:35","title":"Eurospar Noventa di Piave → confirmed Auronzo lodging","itemType":"transfer","placeId":"dolomites-2026:auronzo-centro-studi","description":"Continue via A27 after the supermarket. The block keeps the prior Google Maps estimate plus a small night-driving margin. Late self-check-in and parking are confirmed by the host instructions received by the user.","status":"planned","source":"user_requested_v18","sortOrder":80},
+    {"id":"dolomites-2026:2026-09-11-auronzo-arrival","tripId":"dolomites-2026","dayDate":"2026-09-11","startTime":"22:35","endTime":"22:55","title":"Arrival and late check-in — Bella casa vacanze","itemType":"lodging","placeId":"dolomites-2026:auronzo-centro-studi","description":"Late self-check-in confirmed by the host instructions supplied by the user on 5 September. Collect the key from the box at Mr Larese's entrance, then use the apartment entrance at the back. Courtyard parking confirmed; leave room for other cars, with street parking as fallback. Linen and towels agreed on WhatsApp. Access code and photos remain in the private host conversation.","status":"planned","source":"user_requested_v18","sortOrder":90,"metadata":{"checkInStatus":"confirmed","calendarOperationalSync":"pending_raw_api_auth"}},
 
     {"id":"dolomites-2026:2026-09-12-weather","tripId":"dolomites-2026","dayDate":"2026-09-12","startTime":"06:50","endTime":"07:10","title":"Breakfast and preliminary Ra Bujela go/no-go","itemType":"safety","placeId":"dolomites-2026:auronzo-centro-studi","description":"Check the official ARPAV Dolomites bulletin, Duca d'Aosta webcam, thunderstorm timing, wind and live lift status before leaving Auronzo. If clearly unsafe, do not rent the equipment; keep the dedicated 13 Sep Ponte Tibetano and Val Cimoliana day and cancel Ra Bujela rather than chasing the final lift day.","status":"planned","source":"user_confirmed_auronzo_anchor_v16","sortOrder":10,"metadata":{"weather":"https://meteo.arpa.veneto.it/meteo/bollettini/it/pdf/meteo_dolomiti.pdf","webcam":"https://www.impianticortina.it/en/web-cams-weather/"}},
     {"id":"dolomites-2026:2026-09-12-drive-snow-service","tripId":"dolomites-2026","dayDate":"2026-09-12","startTime":"07:10","endTime":"08:15","title":"Auronzo anchor → Snow Service Cortina","itemType":"transfer","placeId":"dolomites-2026:snow-service-cortina","description":"Google Maps currently estimates about 51 minutes for 36 km. The block includes parking and a 15-minute margin before the shop opens.","status":"planned","source":"user_confirmed_auronzo_anchor_v16","sortOrder":15},
@@ -1420,13 +1674,13 @@
     {"id":"dolomites-2026:2026-09-17-carezza","tripId":"dolomites-2026","dayDate":"2026-09-17","startTime":"14:00","endTime":"14:45","title":"Lago di Carezza short lakeside stop","itemType":"lake","placeId":"dolomites-2026:lago-carezza","description":"Use the managed viewpoint and lakeside path for a compact stop before driving directly to Chiusa.","status":"planned","source":"user_selected_v23","sortOrder":80},
     {"id":"dolomites-2026:2026-09-17-carezza-chiusa","tripId":"dolomites-2026","dayDate":"2026-09-17","startTime":"14:45","endTime":"15:45","title":"Lago di Carezza → Chiusa","itemType":"transfer","placeId":"dolomites-2026:chiusa","description":"Google Maps currently estimates 52 minutes / 51.2 km via SS241 and A22, or 53 minutes without the toll via SS12. The block keeps a small parking margin.","status":"planned","source":"google_maps_chrome_v23","sortOrder":90,"metadata":{"googleMapsDriveMinutes":52,"googleMapsDistanceKm":51.2,"verifiedAt":"2026-08-08","nonTollAlternativeMinutes":53}},
     {"id":"dolomites-2026:2026-09-17-chiusa","tripId":"dolomites-2026","dayDate":"2026-09-17","startTime":"15:45","endTime":"18:00","title":"Chiusa old town and optional Sabiona path","itemType":"walk","placeId":"dolomites-2026:chiusa","description":"Walk the old town before check-in and, if dry and energy allows, use part of the public uphill path toward Sabiona/Säben. Keep enough time to reach the 18:00 dinner reservation.","status":"planned","source":"user_requested_v23","sortOrder":100},
-    {"id":"dolomites-2026:2026-09-17-dinner","tripId":"dolomites-2026","dayDate":"2026-09-17","startTime":"18:00","endTime":"19:30","title":"Dinner — Gassl Bräu, Chiusa","itemType":"dinner","placeId":"dolomites-2026:gassl-brau","description":"Primary choice: Gassl Bräu, 4.6/5 from 3,345 Google Maps reviews and €20–30 per person. Official full-menu hours are 18:00–22:00 on Thursday. Reserve 18:00; use nearby Torgglkeller as the central backup or Turmwirt in Gufidaun as the higher-end route backup.","status":"planned","source":"user_requested_v23","sortOrder":110,"metadata":{"reservationStatus":"not booked","backupPlaceIds":["dolomites-2026:torgglkeller","dolomites-2026:turmwirt-gufidaun"]}},
+    {"id":"dolomites-2026:2026-09-17-dinner","tripId":"dolomites-2026","dayDate":"2026-09-17","startTime":"18:00","endTime":"19:30","title":"Dinner — Gassl Bräu, Chiusa","itemType":"dinner","placeId":"dolomites-2026:gassl-brau","description":"Primary choice: Gassl Bräu, 4.6/5 from 3,345 Google Maps reviews and €20–30 per person. Official full-menu hours are 18:00–22:00 on Thursday. User chose to walk in at 18:00 without a reservation; use nearby Torgglkeller as the central backup or Turmwirt in Gufidaun as the higher-end route backup.","status":"planned","source":"user_requested_v23","sortOrder":110,"metadata":{"reservationStatus":"walk_in_by_user_choice","backupPlaceIds":["dolomites-2026:torgglkeller","dolomites-2026:turmwirt-gufidaun"],"calendarOperationalSync":"pending_raw_api_auth"}},
     {"id":"dolomites-2026:2026-09-17-chiusa-laion","tripId":"dolomites-2026","dayDate":"2026-09-17","startTime":"19:30","endTime":"19:50","title":"Chiusa → confirmed Laion Airbnb","itemType":"transfer","placeId":"dolomites-2026:west-laion-airbnb","description":"Google Maps estimates about 14 minutes / 10.9 km. Drive to the lodging only after the Chiusa walk and dinner, as requested.","status":"planned","source":"user_requested_v23","sortOrder":120},
     {"id":"dolomites-2026:2026-09-17-checkin","tripId":"dolomites-2026","dayDate":"2026-09-17","startTime":"19:50","endTime":"20:35","title":"Laion check-in and start the trip's single laundry load","itemType":"base","placeId":"dolomites-2026:west-laion-airbnb","description":"Use the lockbox, park in the garage and start the only planned laundry load after dinner. The reservation allows check-in from 16:00, so this later arrival does not require cutting the day short.","status":"planned","source":"user_requested_v23","sortOrder":130},
 
     {"id":"dolomites-2026:2026-09-18-drive-seceda","tripId":"dolomites-2026","dayDate":"2026-09-18","startTime":"07:45","endTime":"08:25","title":"Laion → Seceda cable car and parking","itemType":"transfer","placeId":"dolomites-2026:seceda","description":"Google Maps currently estimates 17 minutes / 12.6 km. The 40-minute block includes the drive, parking and walking to the first practical lift.","status":"planned","source":"user_confirmed_west_airbnb_v21","sortOrder":5},
     {"id":"dolomites-2026:2026-09-18-seceda","tripId":"dolomites-2026","dayDate":"2026-09-18","startTime":"08:30","endTime":"10:20","title":"Seceda lift and compact ridge walk","itemType":"mountain","placeId":"dolomites-2026:seceda","description":"Take the first practical lift from Ortisei and keep the iconic ridge walk to about 75–90 minutes, returning to the agreed take-off point by 10:20. Do not rush if footing or visibility is poor.","status":"planned","source":"plan-a-v14","sortOrder":10,"metadata":{"fallback":"If the flight is cancelled, continue the original Seceda ridge morning until 12:20 and descend by lift."}},
-    {"id":"dolomites-2026:2026-09-18-paragliding","tripId":"dolomites-2026","dayDate":"2026-09-18","startTime":"10:30","endTime":"12:00","title":"GARDENAFLY tandem paragliding — Seceda → Ortisei","itemType":"paragliding","placeId":"dolomites-2026:gardenafly","description":"Two simultaneous panoramic tandem flights, about 15–20 minutes airborne and 1.5 hours total, landing near Annatal/Ortisei. Confirm two pilots and a mountain rendezvous before booking; if Gardenafly requires a valley meeting, use Fly2's published mountain-meeting option or move the flight to the 24 Sep weather buffer.","status":"planned","source":"paragliding_research_v14","sortOrder":20,"metadata":{"publishedPricePerPerson":"€190","estimatedCoupleFlightTotal":"€380","optionalPhotoVideoPerPerson":"€25","estimatedCoupleTotalWithTwoMediaPackages":"€430 plus lift tickets","liftTicketsIncluded":false,"bookingStatus":"not booked","weatherFallbackDate":"2026-09-24","backupPlaceIds":["dolomites-2026:fly2-dolomites","dolomites-2026:tandem-paragliding-kastelruth"]}},
+    {"id":"dolomites-2026:2026-09-18-paragliding","tripId":"dolomites-2026","dayDate":"2026-09-18","startTime":"10:30","endTime":"12:00","title":"GARDENAFLY tandem paragliding — Seceda → Ortisei","itemType":"paragliding","placeId":"dolomites-2026:gardenafly","description":"Two simultaneous panoramic tandem flights, about 15–20 minutes airborne and 1.5 hours total, landing near Annatal/Ortisei. Confirm two pilots and a mountain rendezvous before booking; if Gardenafly requires a valley meeting, use Fly2's published mountain-meeting option or move the flight to the 24 Sep weather buffer.","status":"planned","source":"paragliding_research_v14","sortOrder":20,"metadata":{"publishedPricePerPerson":"€190","estimatedCoupleFlightTotal":"€380","optionalPhotoVideoPerPerson":"€25","estimatedCoupleTotalWithTwoMediaPackages":"€430 plus lift tickets","liftTicketsIncluded":false,"bookingStatus":"request_prepared_not_submitted","weatherFallbackDate":"2026-09-24","backupPlaceIds":["dolomites-2026:fly2-dolomites","dolomites-2026:tandem-paragliding-kastelruth"],"weightsKg":[68,58],"bookingUrl":"https://www.paragliding-flights-dolomites.com/book-now","pendingSupplierConfirmation":["two pilots at requested time","meeting on mountain instead of standard valley meeting","lift tickets","payment method and timing","refund and weather fallback terms"],"operationsVerifiedAt":"2026-09-05"}},
     {"id":"dolomites-2026:2026-09-18-lunch","tripId":"dolomites-2026","dayDate":"2026-09-18","startTime":"12:15","endTime":"13:30","title":"Lunch in Annatal or Ortisei after landing","itemType":"lunch","description":"Eat close to the landing area after the flight. If the flight is cancelled, retain the original hut/Ortisei lunch after descending from Seceda.","status":"planned","source":"plan-a-v14","sortOrder":30},
     {"id":"dolomites-2026:2026-09-18-rest","tripId":"dolomites-2026","dayDate":"2026-09-18","startTime":"13:30","endTime":"16:30","title":"Val d'Anna easy walk after landing","itemType":"walk","placeId":"dolomites-2026:val-danna","description":"Continue directly from lunch into the easy Annatal/Val d'Anna valley walk. This replaces the old recovery-at-home block: do not return to Laion, change clothes or shower during the active day.","status":"planned","source":"user_confirmed_west_airbnb_v21","sortOrder":40},
     {"id":"dolomites-2026:2026-09-18-ortisei","tripId":"dolomites-2026","dayDate":"2026-09-18","startTime":"16:30","endTime":"18:00","title":"Ortisei centre and aperitivo walk","itemType":"city","placeId":"dolomites-2026:ortisei","description":"Stay in Ortisei for an easy centre walk, shops or aperitivo before dinner; no lodging return.","status":"planned","source":"user_confirmed_west_airbnb_v21","sortOrder":45},
@@ -1438,7 +1692,7 @@
     {"id":"dolomites-2026:2026-09-19-lunch","tripId":"dolomites-2026","dayDate":"2026-09-19","startTime":"12:30","endTime":"13:45","title":"Lunch on Alpe di Siusi","itemType":"lunch","description":"Preselect one hut and keep a packed backup in case of closure or queues.","status":"planned","source":"plan-a","sortOrder":20},
     {"id":"dolomites-2026:2026-09-19-horse-drive","tripId":"dolomites-2026","dayDate":"2026-09-19","startTime":"13:45","endTime":"15:15","title":"Descend from Alpe di Siusi and drive to Maneggio Unterlanzin","itemType":"transfer","placeId":"dolomites-2026:unterlanzin","description":"Finish the gondola descent, collect the car and continue to Unterlanzin. Google Maps currently estimates 21 minutes / 12.9 km from the Mont Sëuc station; the block includes the lift, parking exit and arrival margin.","status":"planned","source":"user_confirmed_west_airbnb_v21","sortOrder":30},
     {"id":"dolomites-2026:2026-09-19-horse-briefing","tripId":"dolomites-2026","dayDate":"2026-09-19","startTime":"15:15","endTime":"15:30","title":"Horse assignment, helmet and briefing","itemType":"safety","placeId":"dolomites-2026:unterlanzin","description":"Confirm each rider is within the published 90 kg limit, disclose experience accurately and follow the guide’s instructions. Helmets are included.","status":"planned","source":"horse_riding_research_v14","sortOrder":40},
-    {"id":"dolomites-2026:2026-09-19-horse-ride","tripId":"dolomites-2026","dayDate":"2026-09-19","startTime":"15:30","endTime":"16:30","title":"One-hour guided horse ride — Unterlanzin","itemType":"horse-riding","placeId":"dolomites-2026:unterlanzin","description":"One-hour accompanied outing for beginners or experienced riders. The provider specifies no gallop for safety and insurance reasons. Contact the stable if weather is poor.","status":"planned","source":"horse_riding_research_v14","sortOrder":50,"metadata":{"publishedPricePerPerson":"€33","estimatedCoupleTotal":"€66","helmetIncluded":true,"maxWeightKg":90,"bookingStatus":"not booked","backupPlaceIds":["dolomites-2026:horse-riding-ortisei","dolomites-2026:pozzamanigoni"]}},
+    {"id":"dolomites-2026:2026-09-19-horse-ride","tripId":"dolomites-2026","dayDate":"2026-09-19","startTime":"15:30","endTime":"16:30","title":"One-hour guided horse ride — Unterlanzin","itemType":"horse-riding","placeId":"dolomites-2026:unterlanzin","description":"One-hour accompanied outing for beginners or experienced riders. The provider specifies no gallop for safety and insurance reasons. Contact the stable if weather is poor.","status":"planned","source":"horse_riding_research_v14","sortOrder":50,"metadata":{"publishedPricePerPerson":"€33","estimatedCoupleTotal":"€66","helmetIncluded":true,"maxWeightKg":90,"bookingStatus":"not booked","backupPlaceIds":["dolomites-2026:horse-riding-ortisei","dolomites-2026:pozzamanigoni"],"bookingDecision":"deferred_until_weather_check","decisionAt":"2026-09-05"}},
     {"id":"dolomites-2026:2026-09-19-rest","tripId":"dolomites-2026","dayDate":"2026-09-19","startTime":"16:30","endTime":"18:00","title":"Castelrotto village walk","itemType":"city","placeId":"dolomites-2026:castelrotto","description":"Unterlanzin is about 3 minutes / 1.6 km from Castelrotto. Continue directly into an easy village walk instead of returning to the lodging or scheduling rest.","status":"planned","source":"user_confirmed_west_airbnb_v21","sortOrder":60},
     {"id":"dolomites-2026:2026-09-19-dinner","tripId":"dolomites-2026","dayDate":"2026-09-19","startTime":"18:00","endTime":"19:30","title":"Dinner — Castelrotto","itemType":"dinner","placeId":"dolomites-2026:castelrotto","description":"Dedicated dinner after the horse ride and village walk; confirm Saturday kitchen hours.","status":"planned","source":"user_confirmed_west_airbnb_v21","sortOrder":70},
     {"id":"dolomites-2026:2026-09-19-return-laion","tripId":"dolomites-2026","dayDate":"2026-09-19","startTime":"19:30","endTime":"19:55","title":"Castelrotto → Laion lodging","itemType":"transfer","placeId":"dolomites-2026:west-laion-airbnb","description":"Google Maps estimates about 21 minutes / 15.2 km. Return after dinner and shower only after the active day ends.","status":"planned","source":"user_confirmed_west_airbnb_v21","sortOrder":80},
@@ -1468,13 +1722,15 @@
     {"id":"dolomites-2026:2026-09-22-descent","tripId":"dolomites-2026","dayDate":"2026-09-22","startTime":"13:00","endTime":"14:45","title":"Descend to Zannes","itemType":"hike","placeId":"dolomites-2026:zannes","description":"Return via trail 36/Dusler toward the Zannes parking. Keep the time margin so the sunset plan is not compressed.","status":"planned","source":"user_requested_v23","sortOrder":40},
     {"id":"dolomites-2026:2026-09-22-santa-drive","tripId":"dolomites-2026","dayDate":"2026-09-22","startTime":"14:45","endTime":"15:15","title":"Zannes → Santa Maddalena","itemType":"transfer","placeId":"dolomites-2026:santa-maddalena","description":"Drive down the valley and park only in the signed public areas.","status":"planned","source":"user_requested_v23","sortOrder":50},
     {"id":"dolomites-2026:2026-09-22-village","tripId":"dolomites-2026","dayDate":"2026-09-22","startTime":"15:15","endTime":"16:15","title":"Santa Maddalena and San Giovanni village walk","itemType":"walk","placeId":"dolomites-2026:santa-maddalena","description":"Easy village and church walk while the light is high. The villages and public paths are open-access; respect private fields and local vehicle restrictions.","status":"planned","source":"user_requested_v23","sortOrder":60},
-    {"id":"dolomites-2026:2026-09-22-break","tripId":"dolomites-2026","dayDate":"2026-09-22","startTime":"16:15","endTime":"17:15","title":"Early dinner and sunset setup — Santa Maddalena","itemType":"dinner","placeId":"dolomites-2026:santa-maddalena","description":"Use a confirmed local restaurant or a substantial packed dinner before walking to the public panorama point. Eating before golden hour avoids depending on a late kitchen after sunset; carry a warm layer and headlamp.","status":"planned","source":"user_requested_v23","sortOrder":70},
+    {"id":"dolomites-2026:2026-09-22-snack","tripId":"dolomites-2026","dayDate":"2026-09-22","startTime":"16:15","endTime":"17:15","title":"Packed snack and sunset setup — Santa Maddalena","itemType":"break","placeId":"dolomites-2026:santa-maddalena","description":"נשנוש משמעותי ושתייה שהובאו מראש לפני העלייה לתצפית; להביא שכבה חמה ופנס. ארוחת הערב מתוכננת ב־20:15 ב־Dreimädelhaus.","status":"planned","source":"user_layla_recommendation_2026-09-05","sortOrder":70,"metadata":{"calendarSyncStatus":"pending_raw_api_connection"}},
+    {"id":"dolomites-2026:2026-09-22-dinner-drive","tripId":"dolomites-2026","dayDate":"2026-09-22","startTime":"19:35","endTime":"20:15","title":"Santa Maddalena viewpoint → Dreimädelhaus","itemType":"transfer","placeId":"dolomites-2026:dreimaedelhaus","description":"40 דקות לחזרה רגלית לרכב ולנסיעה ל־Via Coller 10. זהו מרווח תכנוני, לא זמן מסלול מאומת במפות. להחזיק פנס ולאמת ניווט לפני היציאה; אם מתעכבים, לקצר את התצפית או להסתמך על פיצה עד 22:00.","status":"planned","source":"user_layla_recommendation_2026-09-05","sortOrder":85,"metadata":{"routeMinutesVerified":false,"calendarSyncStatus":"pending_raw_api_connection"}},
+    {"id":"dolomites-2026:2026-09-22-break","tripId":"dolomites-2026","dayDate":"2026-09-22","startTime":"20:15","endTime":"21:30","title":"Dinner — Dreimädelhaus — המלצה של ליילה","itemType":"dinner","placeId":"dolomites-2026:dreimaedelhaus","description":"המלצה של ליילה. ארוחת ערב אחרי השקיעה ב־Santa Maddalena. לפי האתר הרשמי: בשלישי פתוח 16:30–22:00, מטבח 17:00–21:00 ופיצה 17:00–22:00 (נבדק 05.09.2026). להגיע ולהזמין ב־20:15; שולחן וחריגי תאריך טרם אושרו. טלפון: +39 0472 840102. מקור: https://www.dreimaedelhaus.info/kontakt","status":"planned","source":"user_layla_recommendation_2026-09-05","sortOrder":90,"metadata":{"reservation":"שולחן לשניים ב־20:15 — טרם הוזמן","fallback":"אם אין מקום, פיצה עד 22:00 או אוכל ארוז שהוכן מראש; אם הירידה מתעכבת, לקצר את התצפית או לוותר על המסעדה.","calendarSyncStatus":"pending_raw_api_connection","recommendation":"המלצה של ליילה","hoursVerifiedAt":"2026-09-05","hoursSource":"https://www.dreimaedelhaus.info/kontakt"}},
     {"id":"dolomites-2026:2026-09-22-sunset","tripId":"dolomites-2026","dayDate":"2026-09-22","startTime":"17:15","endTime":"19:35","title":"Santa Maddalena — Odle golden hour and sunset","itemType":"sunset","placeId":"dolomites-2026:santa-maddalena","description":"Stay at the public panorama point while the Odle peaks catch the evening light. Sunset is about 19:11 and civil twilight ends around 19:40; remain only if weather and footing are safe.","status":"planned","source":"user_requested_v23","sortOrder":80},
-    {"id":"dolomites-2026:2026-09-22-return","tripId":"dolomites-2026","dayDate":"2026-09-22","startTime":"19:35","endTime":"20:15","title":"Santa Maddalena → Laion lodging","itemType":"transfer","placeId":"dolomites-2026:west-laion-airbnb","description":"Google Maps currently estimates 33 minutes / 23.3 km; the block retains a night-driving margin.","status":"planned","source":"user_requested_v23","sortOrder":90},
-    {"id":"dolomites-2026:2026-09-22-end","tripId":"dolomites-2026","dayDate":"2026-09-22","startTime":"20:15","endTime":"20:30","title":"End of day at the Laion lodging","itemType":"logistics","placeId":"dolomites-2026:west-laion-airbnb","description":"Dinner was completed before sunset. Return after the final outdoor activity and shower only when the active day is over.","status":"planned","source":"user_requested_v23","sortOrder":100},
+    {"id":"dolomites-2026:2026-09-22-return","tripId":"dolomites-2026","dayDate":"2026-09-22","startTime":"21:30","endTime":"22:15","title":"Dreimädelhaus → Laion lodging","itemType":"transfer","placeId":"dolomites-2026:west-laion-airbnb","description":"נסיעה ישירה ללינה אחרי ארוחת הערב. הוקצו 45 דקות כמרווח תכנוני שמרני; זמן הנסיעה במסלול החדש טרם אומת במפות. לא להשתמש בנתון הישן מ־Santa Maddalena עבור המסלול החדש.","status":"planned","source":"user_layla_recommendation_2026-09-05","sortOrder":100,"metadata":{"routeMinutesVerified":false,"calendarSyncStatus":"pending_raw_api_connection"}},
+    {"id":"dolomites-2026:2026-09-22-end","tripId":"dolomites-2026","dayDate":"2026-09-22","startTime":"22:15","endTime":"22:30","title":"End of day at the Laion lodging","itemType":"logistics","placeId":"dolomites-2026:west-laion-airbnb","description":"סיום היום אחרי ארוחת הערב ב־Dreimädelhaus; מקלחת בלילה לאחר החזרה ללינה.","status":"planned","source":"user_layla_recommendation_2026-09-05","sortOrder":110,"metadata":{"calendarSyncStatus":"pending_raw_api_connection"}},
 
     {"id":"dolomites-2026:2026-09-23-drive-ortisei","tripId":"dolomites-2026","dayDate":"2026-09-23","startTime":"08:00","endTime":"08:30","title":"Laion → On the Rocks, Ortisei","itemType":"transfer","placeId":"dolomites-2026:on-the-rocks","description":"Google Maps currently estimates 17 minutes / 12.6 km; the block includes parking and walking to the shop.","status":"planned","source":"user_confirmed_west_airbnb_v21","sortOrder":5},
-    {"id":"dolomites-2026:2026-09-23-flex","tripId":"dolomites-2026","dayDate":"2026-09-23","startTime":"08:30","endTime":"09:00","title":"E-bike pickup and fitting — On the Rocks","itemType":"equipment-rental","placeId":"dolomites-2026:on-the-rocks","description":"Collect two electric hardtails, helmets and locks. Ask the shop to confirm and preload the easiest suitable Rodaval–Vallunga out-and-back route and current trail conditions.","status":"planned","source":"ebike_research_v13","sortOrder":10,"metadata":{"publishedRatePerBike":"€55 for 4 hours","helmetEstimatePerPerson":"about €3","estimatedCoupleTotal":"about €116","bookingStatus":"not booked","fallback":"Retain the original relaxed flex morning if weather or route conditions are poor."}},
+    {"id":"dolomites-2026:2026-09-23-flex","tripId":"dolomites-2026","dayDate":"2026-09-23","startTime":"08:30","endTime":"09:00","title":"E-bike pickup and fitting — On the Rocks","itemType":"equipment-rental","placeId":"dolomites-2026:on-the-rocks","description":"Collect two electric hardtails, helmets and locks. Ask the shop to confirm and preload the easiest suitable Rodaval–Vallunga out-and-back route and current trail conditions.","status":"planned","source":"ebike_research_v13","sortOrder":10,"metadata":{"publishedRatePerBike":"€55 for 4 hours","helmetEstimatePerPerson":"about €3","estimatedCoupleTotal":"about €116","bookingStatus":"not booked","fallback":"Retain the original relaxed flex morning if weather or route conditions are poor.","bookingDecision":"deferred_until_weather_check","decisionAt":"2026-09-05"}},
     {"id":"dolomites-2026:2026-09-23-ebike","tripId":"dolomites-2026","dayDate":"2026-09-23","startTime":"09:00","endTime":"12:30","title":"Self-guided e-bike — Ortisei, Rodaval and Vallunga","itemType":"cycling","placeId":"dolomites-2026:vallunga","description":"Ride from Ortisei toward Santa Cristina and Selva on the easiest shop-confirmed Rodaval/Val Gardena cycle route, using Vallunga as the scenic turnaround objective. Turn back according to battery, conditions and the four-hour rental deadline; avoid technical MTB trails.","status":"planned","source":"ebike_research_v13","sortOrder":20,"metadata":{"duration":"3.5 hours riding window","bikeType":"electric hardtail","difficultyTarget":"easy non-technical","fullSellarondaRejected":"The official guided circuit is about 8 hours and 65 km, which does not fit the requested 3–4 hour inexpensive ride."}},
     {"id":"dolomites-2026:2026-09-23-bike-return","tripId":"dolomites-2026","dayDate":"2026-09-23","startTime":"12:30","endTime":"13:00","title":"Return e-bikes","itemType":"equipment-return","placeId":"dolomites-2026:on-the-rocks","description":"Return the bikes within the four-hour window and report any mechanical issue to the shop.","status":"planned","source":"ebike_research_v13","sortOrder":30},
     {"id":"dolomites-2026:2026-09-23-lunch","tripId":"dolomites-2026","dayDate":"2026-09-23","startTime":"13:00","endTime":"14:15","title":"Farewell lunch in Ortisei","itemType":"lunch","description":"Book a pleasant but cancellable final-base lunch close to the rental shop.","status":"planned","source":"plan-a-v13","sortOrder":40},
@@ -1497,7 +1753,7 @@
   ],
   "lodgingCandidates": [
     {"id":"dolomites-2026:stay-mestre-arrival-ao-venezia-mestre","tripId":"dolomites-2026","baseName":"Mestre arrival","checkIn":"2026-09-09","checkOut":"2026-09-11","provider":"aohostels.com","title":"a&o Venezia Mestre","latitude":45.4814965,"longitude":12.2389804,"status":"confirmed","notes":"Confirmed for 2 adults and 2 nights. Expected arrival is late after the flight; verify late-arrival procedure.","metadata":{"adults":2,"nights":2,"confirmedAt":"2026-07-20"}},
-    {"id":"dolomites-2026:stay-east-auronzo-via-corte","tripId":"dolomites-2026","baseName":"East base — Auronzo","checkIn":"2026-09-11","checkOut":"2026-09-17","provider":"airbnb.com","title":"Bella casa vacanze sulle Dolomiti con 2 camere!","url":"https://www.airbnb.com/rooms/1181041852871534156","totalPrice":907.52,"currency":"USD","latitude":46.55221,"longitude":12.44066,"cancellation":"Full refund only before 2026-09-06 14:00 local time; partial refund until check-in. This confirmed reservation does not meet the current full-refund-until-24-hours-before-check-in policy.","status":"confirmed","notes":"Confirmed for 2 guests and 6 nights. Check-in from 14:00 with building staff; checkout by 12:00. Late/self check-in around 22:10–22:30 is awaiting the host's reply. Linens and towels are available for EUR 15 per guest per week if needed; guests are responsible for final cleaning. Parking has not yet been verified.","metadata":{"airbnbRoomId":"1181041852871534156","address":"Via Corte 13, 32041 Auronzo di Cadore BL, Italy","guests":2,"nights":6,"checkInTime":"14:00","checkOutTime":"12:00","checkInMethod":"building_staff","amountPaidUsd":907.52,"linensAndTowelsFeeEurPerGuestPerWeek":15,"finalCleaningByGuests":true,"parkingVerified":false,"lateCheckInStatus":"host_reply_pending","confirmedAt":"2026-07-27","cancellationPolicyReviewedAt":"2026-07-27","policyAssessmentEligible":false,"policyException":"existing_confirmed_booking","calendarSync":"existing_provider_event_updated","googleMapsList":"לינות — דולומיטים 2026","googleMapsListIcon":"🏠","mapListVerifiedAt":"2026-07-27"}},
+    {"id":"dolomites-2026:stay-east-auronzo-via-corte","tripId":"dolomites-2026","baseName":"East base — Auronzo","checkIn":"2026-09-11","checkOut":"2026-09-17","provider":"airbnb.com","title":"Bella casa vacanze sulle Dolomiti con 2 camere!","url":"https://www.airbnb.com/rooms/1181041852871534156","totalPrice":907.52,"currency":"USD","latitude":46.55221,"longitude":12.44066,"cancellation":"Full refund only before 2026-09-06 14:00 local time; partial refund until check-in. This confirmed reservation does not meet the current full-refund-until-24-hours-before-check-in policy.","status":"confirmed","notes":"Confirmed for two guests and six nights. Self-check-in instructions received from the host by the user; host available by phone on 11 September. Courtyard parking confirmed with street fallback. Linen and towels agreed on WhatsApp. Final cleaning by guests already agreed. Access code remains only in the private conversation/WhatsApp.","metadata":{"airbnbRoomId":"1181041852871534156","address":"Via Corte 13, 32041 Auronzo di Cadore BL, Italy","guests":2,"nights":6,"checkInTime":"14:00","checkOutTime":"12:00","checkInMethod":"keybox","amountPaidUsd":907.52,"linensAndTowelsFeeEurPerGuestPerWeek":15,"finalCleaningByGuests":true,"parkingVerified":true,"lateCheckInStatus":"confirmed","confirmedAt":"2026-07-27","cancellationPolicyReviewedAt":"2026-07-27","policyAssessmentEligible":false,"policyException":"existing_confirmed_booking","calendarSync":"existing_provider_event_updated","googleMapsList":"לינות — דולומיטים 2026","googleMapsListIcon":"🏠","mapListVerifiedAt":"2026-07-27","linensAndTowelsStatus":"agreed_on_whatsapp","instructionsVerifiedAt":"2026-09-05"},"parking":true},
     {"id":"dolomites-2026:stay-mestre-arrival-campanile","tripId":"dolomites-2026","baseName":"Mestre arrival","checkIn":"2026-09-09","checkOut":"2026-09-11","provider":"booking.com","title":"Campanile Venice Mestre","url":"https://www.booking.com/hotel/it/7-days-premium-venedig-mestre.html?checkin=2026-09-09&checkout=2026-09-11&no_rooms=1&group_adults=2&selected_currency=EUR","totalPrice":394.6,"currency":"EUR","rating":8.5,"latitude":45.48158,"longitude":12.23794,"parking":true,"status":"superseded","notes":"Research candidate retained for audit; the arrival stay is confirmed at a&o Venezia Mestre.","metadata":{"bookingId":5136584,"reviewCount":6865,"retrievedAt":"2026-07-20"}},
     {"id":"dolomites-2026:stay-east-chalet-stadio","tripId":"dolomites-2026","baseName":"Cortina east base","checkIn":"2026-09-11","checkOut":"2026-09-17","provider":"booking.com","title":"Chalet Stadio","url":"https://www.booking.com/hotel/it/chalet-stadio.html?checkin=2026-09-11&checkout=2026-09-17&no_rooms=1&group_adults=2&selected_currency=EUR","totalPrice":1529.82,"currency":"EUR","rating":8.8,"latitude":46.542687,"longitude":12.132642,"parking":true,"status":"superseded_by_value_policy","notes":"Removed from the shortlist after the Airbnb-history review: the quote does not fit the new all-in nightly value policy. Retained for audit only.","metadata":{"bookingId":13245924,"reviewCount":227,"retrievedAt":"2026-07-20","policyReviewedAt":"2026-07-25"}},
     {"id":"dolomites-2026:stay-east-bellaria","tripId":"dolomites-2026","baseName":"Cortina east base","checkIn":"2026-09-11","checkOut":"2026-09-17","provider":"booking.com","title":"Hotel Bellaria – Cortina d'Ampezzo – parking","url":"https://www.booking.com/hotel/it/bellaria-cortina.html?checkin=2026-09-11&checkout=2026-09-17&no_rooms=1&group_adults=2&selected_currency=EUR","totalPrice":1993.5,"currency":"EUR","rating":8.9,"latitude":46.542118,"longitude":12.136408,"parking":true,"status":"superseded_by_value_policy","notes":"Removed from the candidate list after the Airbnb-history review: the quote does not fit the new all-in nightly value policy. Retained for audit only.","metadata":{"bookingId":1368369,"reviewCount":370,"retrievedAt":"2026-07-20","policyReviewedAt":"2026-07-25"}},

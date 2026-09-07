@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T14:56:22.108Z",
+  "generatedAt": "2026-09-05T19:23:07.121Z",
   "tripId": "dolomites-2026",
   "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
   "calendarName": "חו״ל",
@@ -263,7 +263,7 @@
           "dateTime": "2026-09-11T13:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://maps.app.goo.gl/UiD6XeqskFK6cjYS7\n\nמה זה המקום:\nReach the P5 shuttle area after lunch and request the free Park Gold shuttle to the off-airport Target Rent office. The 45-minute block matches the prior shuttle allowance before the 13:30 pickup.\n\nמה לראות / לעשות:\n- לבצע את בלוק VCE arrivals → Target Rent by shuttle בקצב רגוע.\n- לשים לב: Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. The replacement rental is planned for pickup on 11 Sep at 13:30 and return on 25 Sep at 09:00; the new booking request is not yet submitted or confirmed. For return, arrive around 08:45, then use the shuttle back to the terminal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:45–13:30.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://maps.app.goo.gl/UiD6XeqskFK6cjYS7\n\nמה זה המקום:\nReach the P5 shuttle area after lunch and request the free Park Gold shuttle to the off-airport Target Rent office. The 45-minute block matches the prior shuttle allowance before the 13:30 pickup.\n\nמה לראות / לעשות:\n- לבצע את בלוק VCE arrivals → Target Rent by shuttle בקצב רגוע.\n- לשים לב: Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. Rental confirmed by Target Rent email on 29 July: pickup 11 Sep 13:30 and return 25 Sep 09:00. For return, arrive around 08:45, then use the shuttle back to the terminal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:45–13:30.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Orlanda 216, 30173 Tessera VE, Italy",
         "extendedProperties": {
           "private": {
@@ -287,7 +287,7 @@
           "dateTime": "2026-09-11T14:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://maps.app.goo.gl/UiD6XeqskFK6cjYS7\n\nמה זה המקום:\nReplacement rental pickup is planned for 13:30; the booking request is not yet confirmed. Inspect and photograph the car, confirm fuel/deposit/toll rules and load offline maps.\n\nמה לראות / לעשות:\n- לבצע את בלוק Rental-car pickup — Target Rent בקצב רגוע.\n- לשים לב: Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. The replacement rental is planned for pickup on 11 Sep at 13:30 and return on 25 Sep at 09:00; the new booking request is not yet submitted or confirmed. For return, arrive around 08:45, then use the shuttle back to the terminal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:30–14:30.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://maps.app.goo.gl/UiD6XeqskFK6cjYS7\n\nמה זה המקום:\nRental pickup is confirmed for 13:30 by the Target Rent email dated 29 July. Inspect and photograph the car, confirm fuel/deposit/toll rules and load offline maps.\n\nמה לראות / לעשות:\n- לבצע את בלוק Rental-car pickup — Target Rent בקצב רגוע.\n- לשים לב: Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. Rental confirmed by Target Rent email on 29 July: pickup 11 Sep 13:30 and return 25 Sep 09:00. For return, arrive around 08:45, then use the shuttle back to the terminal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:30–14:30.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Orlanda 216, 30173 Tessera VE, Italy",
         "extendedProperties": {
           "private": {
@@ -407,7 +407,7 @@
           "dateTime": "2026-09-11T22:35:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nContinue via A27 after the supermarket. The block keeps the prior Google Maps estimate plus a small night-driving margin; late or self check-in is still awaiting Piero's confirmation.\n\nמה לראות / לעשות:\n- לבצע את בלוק Eurospar Noventa di Piave → confirmed Auronzo lodging בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 20:20–22:35.\n- משך ביקור מתוכנן: 2 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nContinue via A27 after the supermarket. The block keeps the prior Google Maps estimate plus a small night-driving margin. Late self-check-in and parking are confirmed by the host instructions received by the user.\n\nמה לראות / לעשות:\n- לבצע את בלוק Eurospar Noventa di Piave → confirmed Auronzo lodging בקצב רגוע.\n- לשים לב: Confirmed Airbnb east-base routing anchor. Late self-check-in, key collection and courtyard parking are confirmed by the host instructions supplied by the user on 5 September. Arrival remains 22:35–22:55. Linen and towels agreed on WhatsApp; private access code remains in the host conversation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 20:20–22:35.\n- משך ביקור מתוכנן: 2 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
         "extendedProperties": {
           "private": {
@@ -431,7 +431,7 @@
           "dateTime": "2026-09-12T07:10:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nCheck the official ARPAV Dolomites bulletin, Duca d'Aosta webcam, thunderstorm timing, wind and live lift status before leaving Auronzo. If clearly unsafe, do not rent the equipment; keep the dedicated 13 Sep Ponte Tibetano and Val Cimoliana day and cancel Ra Bujela rather than chasing the final lift day.\n\nמה לראות / לעשות:\n- לבצע את בלוק Breakfast and preliminary Ra Bujela go/no-go בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 06:50–07:10.\n- משך ביקור מתוכנן: 20 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nCheck the official ARPAV Dolomites bulletin, Duca d'Aosta webcam, thunderstorm timing, wind and live lift status before leaving Auronzo. If clearly unsafe, do not rent the equipment; keep the dedicated 13 Sep Ponte Tibetano and Val Cimoliana day and cancel Ra Bujela rather than chasing the final lift day.\n\nמה לראות / לעשות:\n- לבצע את בלוק Breakfast and preliminary Ra Bujela go/no-go בקצב רגוע.\n- לשים לב: Confirmed Airbnb east-base routing anchor. Late self-check-in, key collection and courtyard parking are confirmed by the host instructions supplied by the user on 5 September. Arrival remains 22:35–22:55. Linen and towels agreed on WhatsApp; private access code remains in the host conversation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 06:50–07:10.\n- משך ביקור מתוכנן: 20 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
         "extendedProperties": {
           "private": {
@@ -743,7 +743,7 @@
           "dateTime": "2026-09-12T19:45:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nDedicated dinner after Fun Bob and the lakeside/town walk. Preferred nearby shortlist: Pizzeria La Pineta, Ristorante La Stadiera or casual Bucintoro. Reconfirm Saturday 12 Sep service and reserve where needed. Return to the lodging and shower only after dinner, when the day is finished.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Auronzo בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:30–19:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nDedicated dinner after Fun Bob and the lakeside/town walk. Preferred nearby shortlist: Pizzeria La Pineta, Ristorante La Stadiera or casual Bucintoro. Reconfirm Saturday 12 Sep service and reserve where needed. Return to the lodging and shower only after dinner, when the day is finished.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Auronzo בקצב רגוע.\n- לשים לב: Confirmed Airbnb east-base routing anchor. Late self-check-in, key collection and courtyard parking are confirmed by the host instructions supplied by the user on 5 September. Arrival remains 22:35–22:55. Linen and towels agreed on WhatsApp; private access code remains in the host conversation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:30–19:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
         "extendedProperties": {
           "private": {
@@ -911,7 +911,7 @@
           "dateTime": "2026-09-13T15:45:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nAllow up to 1h45 for the return, including the slow upper-valley road. Continue to the nearby civic museum after a short arrival buffer.\n\nמה לראות / לעשות:\n- לבצע את בלוק Val Cimoliana → Auronzo lodging בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:00–15:45.\n- משך ביקור מתוכנן: 1 ש׳ 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nAllow up to 1h45 for the return, including the slow upper-valley road. Continue to the nearby civic museum after a short arrival buffer.\n\nמה לראות / לעשות:\n- לבצע את בלוק Val Cimoliana → Auronzo lodging בקצב רגוע.\n- לשים לב: Confirmed Airbnb east-base routing anchor. Late self-check-in, key collection and courtyard parking are confirmed by the host instructions supplied by the user on 5 September. Arrival remains 22:35–22:55. Linen and towels agreed on WhatsApp; private access code remains in the host conversation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 14:00–15:45.\n- משך ביקור מתוכנן: 1 ש׳ 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
         "extendedProperties": {
           "private": {
@@ -959,7 +959,7 @@
           "dateTime": "2026-09-13T19:45:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nDedicated early dinner and hydration before the Tre Cime start. Preferred near-base shortlist: Pizzeria La Pineta, Ristorante La Stadiera or Bucintoro; reconfirm Sunday service and reserve where needed. Shower only after dinner.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Auronzo בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:30–19:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nDedicated early dinner and hydration before the Tre Cime start. Preferred near-base shortlist: Pizzeria La Pineta, Ristorante La Stadiera or Bucintoro; reconfirm Sunday service and reserve where needed. Shower only after dinner.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Auronzo בקצב רגוע.\n- לשים לב: Confirmed Airbnb east-base routing anchor. Late self-check-in, key collection and courtyard parking are confirmed by the host instructions supplied by the user on 5 September. Arrival remains 22:35–22:55. Linen and towels agreed on WhatsApp; private access code remains in the host conversation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:30–19:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
         "extendedProperties": {
           "private": {
@@ -1079,7 +1079,7 @@
           "dateTime": "2026-09-14T17:50:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nAllow about 35 minutes for the return, then keep a short buffer before dinner.\n\nמה לראות / לעשות:\n- לבצע את בלוק Misurina → Auronzo anchor בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 17:15–17:50.\n- משך ביקור מתוכנן: 35 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nAllow about 35 minutes for the return, then keep a short buffer before dinner.\n\nמה לראות / לעשות:\n- לבצע את בלוק Misurina → Auronzo anchor בקצב רגוע.\n- לשים לב: Confirmed Airbnb east-base routing anchor. Late self-check-in, key collection and courtyard parking are confirmed by the host instructions supplied by the user on 5 September. Arrival remains 22:35–22:55. Linen and towels agreed on WhatsApp; private access code remains in the host conversation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 17:15–17:50.\n- משך ביקור מתוכנן: 35 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
         "extendedProperties": {
           "private": {
@@ -1103,7 +1103,7 @@
           "dateTime": "2026-09-14T19:45:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nDedicated recovery dinner after Tre Cime. Preferred near-base shortlist: Pizzeria La Pineta, Ristorante La Stadiera or Bucintoro. Reconfirm Monday 14 Sep service; Al Tabià is an extra option only after direct hours confirmation.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Auronzo בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:30–19:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nDedicated recovery dinner after Tre Cime. Preferred near-base shortlist: Pizzeria La Pineta, Ristorante La Stadiera or Bucintoro. Reconfirm Monday 14 Sep service; Al Tabià is an extra option only after direct hours confirmation.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Auronzo בקצב רגוע.\n- לשים לב: Confirmed Airbnb east-base routing anchor. Late self-check-in, key collection and courtyard parking are confirmed by the host instructions supplied by the user on 5 September. Arrival remains 22:35–22:55. Linen and towels agreed on WhatsApp; private access code remains in the host conversation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:30–19:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
         "extendedProperties": {
           "private": {
@@ -1271,7 +1271,7 @@
           "dateTime": "2026-09-15T17:20:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nReturn after the chairlift descent with a small traffic margin. This is not a shower stop; showers are only after the final activity or meal at night.\n\nמה לראות / לעשות:\n- לבצע את בלוק Col de Varda → Auronzo lodging בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 16:35–17:20.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nReturn after the chairlift descent with a small traffic margin. This is not a shower stop; showers are only after the final activity or meal at night.\n\nמה לראות / לעשות:\n- לבצע את בלוק Col de Varda → Auronzo lodging בקצב רגוע.\n- לשים לב: Confirmed Airbnb east-base routing anchor. Late self-check-in, key collection and courtyard parking are confirmed by the host instructions supplied by the user on 5 September. Arrival remains 22:35–22:55. Linen and towels agreed on WhatsApp; private access code remains in the host conversation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 16:35–17:20.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
         "extendedProperties": {
           "private": {
@@ -1295,7 +1295,7 @@
           "dateTime": "2026-09-15T18:15:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nSit down, drink, charge devices and check ARPAV, the 5 Torri webcam, Lagazuoi wind/lift status and the Passo Giau sunset forecast. No shower and no laundry before dinner; the single trip laundry block remains on the first evening at the final Ortisei anchor.\n\nמה לראות / לעשות:\n- לבצע את בלוק Rest and next-day weather check — no shower בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 17:20–18:15.\n- משך ביקור מתוכנן: 55 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nSit down, drink, charge devices and check ARPAV, the 5 Torri webcam, Lagazuoi wind/lift status and the Passo Giau sunset forecast. No shower and no laundry before dinner; the single trip laundry block remains on the first evening at the final Ortisei anchor.\n\nמה לראות / לעשות:\n- לבצע את בלוק Rest and next-day weather check — no shower בקצב רגוע.\n- לשים לב: Confirmed Airbnb east-base routing anchor. Late self-check-in, key collection and courtyard parking are confirmed by the host instructions supplied by the user on 5 September. Arrival remains 22:35–22:55. Linen and towels agreed on WhatsApp; private access code remains in the host conversation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 17:20–18:15.\n- משך ביקור מתוכנן: 55 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
         "extendedProperties": {
           "private": {
@@ -1319,7 +1319,7 @@
           "dateTime": "2026-09-15T19:45:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nDedicated dinner, followed by the night shower and an early night. Preferred near-base shortlist: Pizzeria La Pineta, Ristorante La Stadiera or Bucintoro; reconfirm Tuesday 15 Sep service and reserve where needed.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Auronzo בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:30–19:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nDedicated dinner, followed by the night shower and an early night. Preferred near-base shortlist: Pizzeria La Pineta, Ristorante La Stadiera or Bucintoro; reconfirm Tuesday 15 Sep service and reserve where needed.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Auronzo בקצב רגוע.\n- לשים לב: Confirmed Airbnb east-base routing anchor. Late self-check-in, key collection and courtyard parking are confirmed by the host instructions supplied by the user on 5 September. Arrival remains 22:35–22:55. Linen and towels agreed on WhatsApp; private access code remains in the host conversation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:30–19:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
         "extendedProperties": {
           "private": {
@@ -1343,7 +1343,7 @@
           "dateTime": "2026-09-16T07:45:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nCheck ARPAV, the 5 Torri webcam and current lift status before leaving Auronzo. Cinque Torri is the fixed Plan A anchor for today.\n\nמה לראות / לעשות:\n- לבצע את בלוק Cinque Torri weather and lift check בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 07:25–07:45.\n- משך ביקור מתוכנן: 20 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nCheck ARPAV, the 5 Torri webcam and current lift status before leaving Auronzo. Cinque Torri is the fixed Plan A anchor for today.\n\nמה לראות / לעשות:\n- לבצע את בלוק Cinque Torri weather and lift check בקצב רגוע.\n- לשים לב: Confirmed Airbnb east-base routing anchor. Late self-check-in, key collection and courtyard parking are confirmed by the host instructions supplied by the user on 5 September. Arrival remains 22:35–22:55. Linen and towels agreed on WhatsApp; private access code remains in the host conversation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 07:25–07:45.\n- משך ביקור מתוכנן: 20 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
         "extendedProperties": {
           "private": {
@@ -1583,7 +1583,7 @@
           "dateTime": "2026-09-16T21:00:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nReturn after sunset with a conservative night-driving margin and arrive around the requested 21:00.\n\nמה לראות / לעשות:\n- לבצע את בלוק Passo Giau → Auronzo lodging בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:35–21:00.\n- משך ביקור מתוכנן: 1 ש׳ 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nReturn after sunset with a conservative night-driving margin and arrive around the requested 21:00.\n\nמה לראות / לעשות:\n- לבצע את בלוק Passo Giau → Auronzo lodging בקצב רגוע.\n- לשים לב: Confirmed Airbnb east-base routing anchor. Late self-check-in, key collection and courtyard parking are confirmed by the host instructions supplied by the user on 5 September. Arrival remains 22:35–22:55. Linen and towels agreed on WhatsApp; private access code remains in the host conversation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:35–21:00.\n- משך ביקור מתוכנן: 1 ש׳ 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
         "extendedProperties": {
           "private": {
@@ -1607,7 +1607,7 @@
           "dateTime": "2026-09-16T22:00:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nPack, organize the car, download the next day’s route and leave the lodging according to the host's instructions: either clean up after yourselves, including kitchen, rubbish and belongings, or leave/pay the agreed €40 cleaner fee. Confirm the exact payment method in the booking messages. No laundry on 16 Sep; shower only now, after the final outing.\n\nמה לראות / לעשות:\n- לבצע את בלוק Pack, clean the lodging or leave the €40 cleaner fee בקצב רגוע.\n- לשים לב: Confirmed Airbnb lodging and exact routing anchor for every east-base departure and return from 11–17 Sep. Check-in is from 14:00 with building staff; the revised 22:35–22:55 arrival after the supermarket stop requires the host's pending late/self-check-in confirmation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 21:00–22:00.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.55221%2C12.44066\n\nמה זה המקום:\nPack, organize the car, download the next day’s route and leave the lodging according to the host's instructions: either clean up after yourselves, including kitchen, rubbish and belongings, or leave/pay the agreed €40 cleaner fee. Confirm the exact payment method in the booking messages. No laundry on 16 Sep; shower only now, after the final outing.\n\nמה לראות / לעשות:\n- לבצע את בלוק Pack, clean the lodging or leave the €40 cleaner fee בקצב רגוע.\n- לשים לב: Confirmed Airbnb east-base routing anchor. Late self-check-in, key collection and courtyard parking are confirmed by the host instructions supplied by the user on 5 September. Arrival remains 22:35–22:55. Linen and towels agreed on WhatsApp; private access code remains in the host conversation.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 21:00–22:00.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Corte 13, 32041 Auronzo di Cadore BL, Italy",
         "extendedProperties": {
           "private": {
@@ -1620,7 +1620,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "9s7hp8ncnbp2tvc1n17veckcr4",
       "event": {
         "summary": "Auronzo Airbnb → Zipline San Tomaso",
         "start": {
@@ -1644,7 +1645,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "1s4diatr3k55nfqf95ha0l9vg4",
       "event": {
         "summary": "Zipline San Tomaso check-in, shuttle and briefing",
         "start": {
@@ -1668,7 +1670,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "v6e0m8vm7ri8pj61ve20lgu6mg",
       "event": {
         "summary": "Zipline San Tomaso — two long lines",
         "start": {
@@ -1692,7 +1695,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "ml5ov65q1dl5n6d2r5rjhpqr28",
       "event": {
         "summary": "San Tomaso → Passo Pordoi",
         "start": {
@@ -1716,7 +1720,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "5j43611jcnmm48pc9gv5l5v034",
       "event": {
         "summary": "Passo Pordoi viewpoint stop",
         "start": {
@@ -1740,7 +1745,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "3ada6doqs23gmqo3mio2ie638s",
       "event": {
         "summary": "Passo Pordoi → Lago di Carezza",
         "start": {
@@ -1764,7 +1770,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "j42nkldsui8em2cl49q61bn53s",
       "event": {
         "summary": "Lunch — Lago di Carezza / Nova Levante",
         "start": {
@@ -1788,7 +1795,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "j5j8cakc6l6o87rl0jc5sni96o",
       "event": {
         "summary": "Lago di Carezza short lakeside stop",
         "start": {
@@ -1812,7 +1820,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "0ibbh0qsap4p7kggqj9h9c4cmo",
       "event": {
         "summary": "Lago di Carezza → Chiusa",
         "start": {
@@ -1836,7 +1845,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "3kjigao5drs3bng79krc9tj1fg",
       "event": {
         "summary": "Chiusa old town and optional Sabiona path",
         "start": {
@@ -1860,7 +1870,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "kuc4ab5ml0n87io3f3vjdvpiuk",
       "event": {
         "summary": "Dinner — Gassl Bräu, Chiusa",
         "start": {
@@ -1871,7 +1882,7 @@
           "dateTime": "2026-09-17T19:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/place/Gassl+Br%C3%A4u/@46.6398243,11.5646053,17z\n\nמה זה המקום:\nPrimary choice: Gassl Bräu, 4.6/5 from 3,345 Google Maps reviews and €20–30 per person. Official full-menu hours are 18:00–22:00 on Thursday. Reserve 18:00; use nearby Torgglkeller as the central backup or Turmwirt in Gufidaun as the higher-end route backup.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Gassl Bräu, Chiusa בקצב רגוע.\n- לשים לב: Primary 17 Sep dinner after the Chiusa walk and before Laion check-in. Google Maps: 4.6/5 from 3,345 reviews and €20–30 per person. Official Thursday opening is within Wed–Mon 09:00–24:00, with the full menu 18:00–22:00. Reserve the 18:00 slot.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:00–19:30.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Gassl+Br%C3%A4u/@46.6398243,11.5646053,17z\n\nמה זה המקום:\nPrimary choice: Gassl Bräu, 4.6/5 from 3,345 Google Maps reviews and €20–30 per person. Official full-menu hours are 18:00–22:00 on Thursday. User chose to walk in at 18:00 without a reservation; use nearby Torgglkeller as the central backup or Turmwirt in Gufidaun as the higher-end route backup.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Gassl Bräu, Chiusa בקצב רגוע.\n- לשים לב: Primary 17 Sep dinner after the Chiusa walk and before Laion check-in. Google Maps: 4.6/5 from 3,345 reviews and €20–30 per person. Official Thursday opening is within Wed–Mon 09:00–24:00, with the full menu 18:00–22:00. User chose walk-in without a reservation on 5 September; arrive at 18:00 and use Torgglkeller if no table. No live occupancy guarantee.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:00–19:30.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Gerbergasse 18, 39043 Klausen BZ, Italy",
         "extendedProperties": {
           "private": {
@@ -1884,7 +1895,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "o1r6tj0s84ddjh3vb6k75kk1lg",
       "event": {
         "summary": "Chiusa → confirmed Laion Airbnb",
         "start": {
@@ -2316,7 +2328,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "1s8n2akil47p1af8l4u72mes78",
       "event": {
         "summary": "Laion → Alpine Coaster Gardonè",
         "start": {
@@ -2340,7 +2353,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "o8ba2mjo9v90h0u6i0ujqftom0",
       "event": {
         "summary": "Predazzo–Gardonè cable car and setup",
         "start": {
@@ -2364,7 +2378,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "2e28g6fej6a0n1jtej2jjb6oas",
       "event": {
         "summary": "Alpine Coaster Gardonè — compact session",
         "start": {
@@ -2388,7 +2403,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "ocgpjp1v1fj0eao2e30u5251ng",
       "event": {
         "summary": "Gardonè cable-car descent and parking exit",
         "start": {
@@ -2412,7 +2428,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "rb0iok3bcciuv8kq0glv5gttp8",
       "event": {
         "summary": "Gardonè → Bressanone",
         "start": {
@@ -2436,7 +2453,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "8l4etrukulvrgcnjc8ev14rcl4",
       "event": {
         "summary": "Late lunch — Bressanone",
         "start": {
@@ -2460,7 +2478,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "5ciqldog9c4n84pph8pg739btk",
       "event": {
         "summary": "Bressanone old town and riverside walk",
         "start": {
@@ -2484,7 +2503,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "9u3plmck88cssinagnkcdgeheo",
       "event": {
         "summary": "Dinner — Bressanone",
         "start": {
@@ -2508,7 +2528,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "cjsoi0bojijj9fq7g6gnii94ck",
       "event": {
         "summary": "Bressanone → Laion lodging",
         "start": {
@@ -2532,7 +2553,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "ebvapnmb0543ll7dscce4iroag",
       "event": {
         "summary": "Laion → Passo Gardena",
         "start": {
@@ -2556,7 +2578,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "18g8iolis7dogrd3kd7sccf888",
       "event": {
         "summary": "Passo Gardena scenic morning",
         "start": {
@@ -2580,7 +2603,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "l2nttoupho0aur245rkq096vm8",
       "event": {
         "summary": "Passo Gardena → Vallunga / Selva",
         "start": {
@@ -2604,7 +2628,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "1a3bv7kr83pjenq2uort2meb3g",
       "event": {
         "summary": "Lunch — Selva",
         "start": {
@@ -2628,7 +2653,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "hhp7aig1qqdolmrl27umrff8j4",
       "event": {
         "summary": "Vallunga easy out-and-back",
         "start": {
@@ -2652,7 +2678,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "he4rjnukofis8l2m2jh03uhvi8",
       "event": {
         "summary": "Selva village walk and café",
         "start": {
@@ -2676,7 +2703,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "a5mvkdsckha39j3pn1p2nvjefo",
       "event": {
         "summary": "Dinner — Selva / Val Gardena",
         "start": {
@@ -2700,7 +2728,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "vk506olv7vst34pp60dmpmcaa8",
       "event": {
         "summary": "Vallunga / Selva → Laion lodging",
         "start": {
@@ -2724,7 +2753,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "dhlravml0941afj32t7514rk8s",
       "event": {
         "summary": "Laion → Zannes trailhead",
         "start": {
@@ -2748,7 +2778,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "gba2a53qsb7jgksu00uj203nm0",
       "event": {
         "summary": "Adolf Munkel trail to Cinema delle Odle",
         "start": {
@@ -2772,7 +2803,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "vfms4nm6qrk01ki822m78i05h8",
       "event": {
         "summary": "Cinema delle Odle and lunch — Geisleralm",
         "start": {
@@ -2796,7 +2828,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "roc8hgb0s2a51hi45jpl7tmltg",
       "event": {
         "summary": "Descend to Zannes",
         "start": {
@@ -2820,7 +2853,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "t3ldupsnkghvfr2kb5ceqvla2s",
       "event": {
         "summary": "Zannes → Santa Maddalena",
         "start": {
@@ -2844,7 +2878,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "ofehoga4iubopf3oehemqgu3ac",
       "event": {
         "summary": "Santa Maddalena and San Giovanni village walk",
         "start": {
@@ -2870,7 +2905,7 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Early dinner and sunset setup — Santa Maddalena",
+        "summary": "Packed snack and sunset setup — Santa Maddalena",
         "start": {
           "dateTime": "2026-09-22T16:15:00",
           "timeZone": "Europe/Rome"
@@ -2879,12 +2914,12 @@
           "dateTime": "2026-09-22T17:15:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Santa%20Maddalena%20Val%20di%20Funes\n\nמה זה המקום:\nUse a confirmed local restaurant or a substantial packed dinner before walking to the public panorama point. Eating before golden hour avoids depending on a late kitchen after sunset; carry a warm layer and headlamp.\n\nמה לראות / לעשות:\n- לבצע את בלוק Early dinner and sunset setup — Santa Maddalena בקצב רגוע.\n- לשים לב: Open-access village and panorama paths. Scheduled for golden hour and sunset on 22 Sep: reach the selected public viewpoint by 17:15, sunset is about 19:11 and civil twilight ends around 19:40. Stay on public paths and respect private fields.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 16:15–17:15.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Santa%20Maddalena%20Val%20di%20Funes\n\nמה זה המקום:\nנשנוש משמעותי ושתייה שהובאו מראש לפני העלייה לתצפית; להביא שכבה חמה ופנס. ארוחת הערב מתוכננת ב־20:15 ב־Dreimädelhaus.\n\nמה לראות / לעשות:\n- לבצע את בלוק Packed snack and sunset setup — Santa Maddalena בקצב רגוע.\n- לשים לב: Open-access village and panorama paths. Scheduled for golden hour and sunset on 22 Sep: reach the selected public viewpoint by 17:15, sunset is about 19:11 and civil twilight ends around 19:40. Stay on public paths and respect private fields.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 16:15–17:15.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Chiesa di Santa Maddalena – Val di Funes",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-22-break"
+            "itineraryItemId": "dolomites-2026:2026-09-22-snack"
           }
         }
       }
@@ -2892,7 +2927,8 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "9tkb0cncpd8dpso00vd767ueh4",
       "event": {
         "summary": "Santa Maddalena — Odle golden hour and sunset",
         "start": {
@@ -2918,7 +2954,7 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Santa Maddalena → Laion lodging",
+        "summary": "Santa Maddalena viewpoint → Dreimädelhaus",
         "start": {
           "dateTime": "2026-09-22T19:35:00",
           "timeZone": "Europe/Rome"
@@ -2927,7 +2963,57 @@
           "dateTime": "2026-09-22T20:15:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.6037555%2C11.5546319\n\nמה זה המקום:\nGoogle Maps currently estimates 33 minutes / 23.3 km; the block retains a night-driving margin.\n\nמה לראות / לעשות:\n- לבצע את בלוק Santa Maddalena → Laion lodging בקצב רגוע.\n- לשים לב: Confirmed 17–25 Sep for two guests. Check-in 16:00, checkout 09:00, lockbox check-in, garage, and free in-building washer and dryer. The host warns that generic sat-nav data can be inaccurate; use the Google Maps coordinates. Saved privately in the lodging list.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:35–20:15.\n- משך ביקור מתוכנן: 40 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Dreim%C3%A4delhaus/@46.6465682,11.6881979,17z/data=!4m6!3m5!1s0x477811ae7f59d65b:0x2ddd64b46ae8ec66!8m2!3d46.6465682!4d11.6881979!16s%2Fg%2F11c206ch7r\n\nמה זה המקום:\n40 דקות לחזרה רגלית לרכב ולנסיעה ל־Via Coller 10. זהו מרווח תכנוני, לא זמן מסלול מאומת במפות. להחזיק פנס ולאמת ניווט לפני היציאה; אם מתעכבים, לקצר את התצפית או להסתמך על פיצה עד 22:00.\n\nמה לראות / לעשות:\n- לבצע את בלוק Santa Maddalena viewpoint → Dreimädelhaus בקצב רגוע.\n- לשים לב: המלצה של ליילה\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:35–20:15.\n- משך ביקור מתוכנן: 40 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Via Coller 10, 39040 Funes BZ, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-22-dinner-drive"
+          }
+        }
+      }
+    },
+    {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "update",
+      "eventId": "vuqq9o98nlk2u5auaaogsei95g",
+      "event": {
+        "summary": "Dinner — Dreimädelhaus — המלצה של ליילה",
+        "start": {
+          "dateTime": "2026-09-22T20:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-22T21:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Dreim%C3%A4delhaus/@46.6465682,11.6881979,17z/data=!4m6!3m5!1s0x477811ae7f59d65b:0x2ddd64b46ae8ec66!8m2!3d46.6465682!4d11.6881979!16s%2Fg%2F11c206ch7r\n\nמה זה המקום:\nהמלצה של ליילה. ארוחת ערב אחרי השקיעה ב־Santa Maddalena. לפי האתר הרשמי: בשלישי פתוח 16:30–22:00, מטבח 17:00–21:00 ופיצה 17:00–22:00 (נבדק 05.09.2026). להגיע ולהזמין ב־20:15; שולחן וחריגי תאריך טרם אושרו. טלפון: +39 0472 840102. מקור: https://www.dreimaedelhaus.info/kontakt\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Dreimädelhaus — המלצה של ליילה בקצב רגוע.\n- לשים לב: המלצה של ליילה\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 20:15–21:30.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: שולחן לשניים ב־20:15 — טרם הוזמן\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nאם אין מקום, פיצה עד 22:00 או אוכל ארוז שהוכן מראש; אם הירידה מתעכבת, לקצר את התצפית או לוותר על המסעדה.",
+        "location": "Via Coller 10, 39040 Funes BZ, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-22-break"
+          }
+        }
+      }
+    },
+    {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "update",
+      "eventId": "60dm5iserr3rqc4a14k3v66p0g",
+      "event": {
+        "summary": "Dreimädelhaus → Laion lodging",
+        "start": {
+          "dateTime": "2026-09-22T21:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-22T22:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.6037555%2C11.5546319\n\nמה זה המקום:\nנסיעה ישירה ללינה אחרי ארוחת הערב. הוקצו 45 דקות כמרווח תכנוני שמרני; זמן הנסיעה במסלול החדש טרם אומת במפות. לא להשתמש בנתון הישן מ־Santa Maddalena עבור המסלול החדש.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dreimädelhaus → Laion lodging בקצב רגוע.\n- לשים לב: Confirmed 17–25 Sep for two guests. Check-in 16:00, checkout 09:00, lockbox check-in, garage, and free in-building washer and dryer. The host warns that generic sat-nav data can be inaccurate; use the Google Maps coordinates. Saved privately in the lodging list.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 21:30–22:15.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Localita' Novale 113, 39040 Laion BZ, Italy",
         "extendedProperties": {
           "private": {
@@ -2940,18 +3026,19 @@
     {
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
+      "action": "update",
+      "eventId": "mmr04vs14mgc4apstsdcu4enlk",
       "event": {
         "summary": "End of day at the Laion lodging",
         "start": {
-          "dateTime": "2026-09-22T20:15:00",
+          "dateTime": "2026-09-22T22:15:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-22T20:30:00",
+          "dateTime": "2026-09-22T22:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.6037555%2C11.5546319\n\nמה זה המקום:\nDinner was completed before sunset. Return after the final outdoor activity and shower only when the active day is over.\n\nמה לראות / לעשות:\n- לבצע את בלוק End of day at the Laion lodging בקצב רגוע.\n- לשים לב: Confirmed 17–25 Sep for two guests. Check-in 16:00, checkout 09:00, lockbox check-in, garage, and free in-building washer and dryer. The host warns that generic sat-nav data can be inaccurate; use the Google Maps coordinates. Saved privately in the lodging list.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 20:15–20:30.\n- משך ביקור מתוכנן: 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.6037555%2C11.5546319\n\nמה זה המקום:\nסיום היום אחרי ארוחת הערב ב־Dreimädelhaus; מקלחת בלילה לאחר החזרה ללינה.\n\nמה לראות / לעשות:\n- לבצע את בלוק End of day at the Laion lodging בקצב רגוע.\n- לשים לב: Confirmed 17–25 Sep for two guests. Check-in 16:00, checkout 09:00, lockbox check-in, garage, and free in-building washer and dryer. The host warns that generic sat-nav data can be inaccurate; use the Google Maps coordinates. Saved privately in the lodging list.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 22:15–22:30.\n- משך ביקור מתוכנן: 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Localita' Novale 113, 39040 Laion BZ, Italy",
         "extendedProperties": {
           "private": {
@@ -3311,7 +3398,7 @@
           "dateTime": "2026-09-25T08:15:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://maps.app.goo.gl/UiD6XeqskFK6cjYS7\n\nמה זה המקום:\nDrive directly to Via Orlanda 216. Google Maps currently estimates 2h58 / 258 km via A22/E45 and SS47; the 3h30 block adds about 32 minutes for night driving and a short stop while preserving the 08:45 return target.\n\nמה לראות / לעשות:\n- לבצע את בלוק Direct drive — Laion → Target Rent בקצב רגוע.\n- לשים לב: Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. The replacement rental is planned for pickup on 11 Sep at 13:30 and return on 25 Sep at 09:00; the new booking request is not yet submitted or confirmed. For return, arrive around 08:45, then use the shuttle back to the terminal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 04:45–08:15.\n- משך ביקור מתוכנן: 3 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://maps.app.goo.gl/UiD6XeqskFK6cjYS7\n\nמה זה המקום:\nDrive directly to Via Orlanda 216. Google Maps currently estimates 2h58 / 258 km via A22/E45 and SS47; the 3h30 block adds about 32 minutes for night driving and a short stop while preserving the 08:45 return target.\n\nמה לראות / לעשות:\n- לבצע את בלוק Direct drive — Laion → Target Rent בקצב רגוע.\n- לשים לב: Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. Rental confirmed by Target Rent email on 29 July: pickup 11 Sep 13:30 and return 25 Sep 09:00. For return, arrive around 08:45, then use the shuttle back to the terminal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 04:45–08:15.\n- משך ביקור מתוכנן: 3 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Orlanda 216, 30173 Tessera VE, Italy",
         "extendedProperties": {
           "private": {
@@ -3335,7 +3422,7 @@
           "dateTime": "2026-09-25T08:45:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://maps.app.goo.gl/UiD6XeqskFK6cjYS7\n\nמה זה המקום:\nTop up fuel if the contract requires it, inspect the car and aim to reach Target Rent at about 08:45 for the 09:00 return.\n\nמה לראות / לעשות:\n- לבצע את בלוק Final fuel and return buffer בקצב רגוע.\n- לשים לב: Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. The replacement rental is planned for pickup on 11 Sep at 13:30 and return on 25 Sep at 09:00; the new booking request is not yet submitted or confirmed. For return, arrive around 08:45, then use the shuttle back to the terminal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:15–08:45.\n- משך ביקור מתוכנן: 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://maps.app.goo.gl/UiD6XeqskFK6cjYS7\n\nמה זה המקום:\nTop up fuel if the contract requires it, inspect the car and aim to reach Target Rent at about 08:45 for the 09:00 return.\n\nמה לראות / לעשות:\n- לבצע את בלוק Final fuel and return buffer בקצב רגוע.\n- לשים לב: Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. Rental confirmed by Target Rent email on 29 July: pickup 11 Sep 13:30 and return 25 Sep 09:00. For return, arrive around 08:45, then use the shuttle back to the terminal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:15–08:45.\n- משך ביקור מתוכנן: 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Orlanda 216, 30173 Tessera VE, Italy",
         "extendedProperties": {
           "private": {
@@ -3359,7 +3446,7 @@
           "dateTime": "2026-09-25T09:10:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://maps.app.goo.gl/UiD6XeqskFK6cjYS7\n\nמה זה המקום:\nBooked return is 09:00. Photograph the car, record fuel level and mileage, obtain the return receipt and move promptly to the free airport shuttle.\n\nמה לראות / לעשות:\n- לבצע את בלוק Return rental car — Target Rent בקצב רגוע.\n- לשים לב: Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. The replacement rental is planned for pickup on 11 Sep at 13:30 and return on 25 Sep at 09:00; the new booking request is not yet submitted or confirmed. For return, arrive around 08:45, then use the shuttle back to the terminal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:45–09:10.\n- משך ביקור מתוכנן: 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://maps.app.goo.gl/UiD6XeqskFK6cjYS7\n\nמה זה המקום:\nBooked return is 09:00. Photograph the car, record fuel level and mileage, obtain the return receipt and move promptly to the free airport shuttle.\n\nמה לראות / לעשות:\n- לבצע את בלוק Return rental car — Target Rent בקצב רגוע.\n- לשים לב: Off-airport Target Rent office, open daily 08:00–19:00 with 24-hour shuttle service. From VCE use the free Park Gold shuttle from the P5 shuttle area. Rental confirmed by Target Rent email on 29 July: pickup 11 Sep 13:30 and return 25 Sep 09:00. For return, arrive around 08:45, then use the shuttle back to the terminal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:45–09:10.\n- משך ביקור מתוכנן: 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Via Orlanda 216, 30173 Tessera VE, Italy",
         "extendedProperties": {
           "private": {
