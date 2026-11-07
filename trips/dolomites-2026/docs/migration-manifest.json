@@ -1,0 +1,606 @@
+{
+  "date": "2026-11-07",
+  "backupDirectory": "/Users/david/repositories/vacation-migration-backups/20261107T140717Z",
+  "databaseIntegrity": "ok",
+  "tables": {
+    "external_actions": {
+      "count": 358,
+      "sha256": "5c7357bb283d95c8665fbb2bcfd53040ad7f064345c6d96a607f5ad31ae7ce0e",
+      "verified": true,
+      "intentionalChanges": []
+    },
+    "import_runs": {
+      "count": 2,
+      "sha256": "9f7582f2c50aeb56cdcd7485a0569322cce6a15417a150aaad5887e34831096c",
+      "verified": true,
+      "intentionalChanges": []
+    },
+    "itinerary_items": {
+      "count": 164,
+      "sha256": "7827ffa2352aaeaddfd9da9ce7535a66abbf077bc7e0c2c0f1c5b07a81abbd8b",
+      "verified": true,
+      "intentionalChanges": []
+    },
+    "lodging_candidates": {
+      "count": 32,
+      "sha256": "0ac20213a08a9b9dbb39d6cb236262f6dbb1da29ebfb172e8198573faf553ea4",
+      "verified": true,
+      "intentionalChanges": []
+    },
+    "places": {
+      "count": 494,
+      "sha256": "b71cf5cef394e5f87a0950508e3f0f98e6caeb44e408f1ef0abb8fb404f16855",
+      "verified": true,
+      "intentionalChanges": []
+    },
+    "settings": {
+      "count": 4,
+      "sha256": "492905fff44539fda12db1f5f688ddb00a2c76aa8952875e6aa7a4f0f3c4d4c2",
+      "verified": true,
+      "intentionalChanges": []
+    },
+    "trip_places": {
+      "count": 100,
+      "sha256": "502a8905804ed89c4a5735de608e73cfb7aaa763df48a7802b5f7f88bee6e506",
+      "verified": true,
+      "intentionalChanges": []
+    },
+    "trips": {
+      "count": 1,
+      "sha256": "662fb1e6d1dcdaaeb9546aa117757acb30e56bae8e99bb5b03701c13e482ffaa",
+      "verified": true,
+      "intentionalChanges": [
+        "status=completed"
+      ]
+    }
+  },
+  "verifiedArtifacts": 68,
+  "artifacts": [
+    {
+      "source": "vacationAgent/README.md",
+      "destinations": [
+        "trips/dolomites-2026/archive/original-README.md"
+      ],
+      "sha256": "4601759e230ea1ee94d160436803388ed12bb2b24951166923366051a4016d4b",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/AGENTS.md",
+      "destinations": [
+        "trips/dolomites-2026/archive/original-AGENTS.md"
+      ],
+      "sha256": "9157a705622f25c635ad2bff4c60e6a2e01d24939537b9d7c019567b79352627",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/.agents/skills/travel-planner/SKILL.md",
+      "destinations": [
+        "trips/dolomites-2026/archive/travel-planner-original/SKILL.md"
+      ],
+      "sha256": "0d3f7ec9e28a1db1a4e1758b066d1f6c65b8740d5821c5a4e9574b7817f905dd",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/.agents/skills/travel-planner/references/places-backlog.md",
+      "destinations": [
+        "trips/dolomites-2026/archive/travel-planner-original/references/places-backlog.md"
+      ],
+      "sha256": "ed0a32b4e5bae7ad5ad8ddb2d2212f831449e5ae0775ba057566d8828be22d35",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/.agents/skills/travel-planner/references/general-policy.md",
+      "destinations": [
+        "trips/dolomites-2026/archive/travel-planner-original/references/general-policy.md"
+      ],
+      "sha256": "580a6db02970c43d36409d8c80f0f1c7d3b5bc9f38f2cc33b20459c578258e7a",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/.agents/skills/travel-planner/references/maps-policy.md",
+      "destinations": [
+        "trips/dolomites-2026/archive/travel-planner-original/references/maps-policy.md"
+      ],
+      "sha256": "cae83951c29fa677bbf04cef2d5cde63bbfae1d223ae89dea9b346d1bb242e38",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/.agents/skills/travel-planner/references/manifest.md",
+      "destinations": [
+        "trips/dolomites-2026/archive/travel-planner-original/references/manifest.md"
+      ],
+      "sha256": "01137eee18ce22c179351cf75a0f22748320d08ca239e534d7ebb3e0d65eb3ac",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/.agents/skills/travel-planner/references/lodging-policy.md",
+      "destinations": [
+        "trips/dolomites-2026/archive/travel-planner-original/references/lodging-policy.md"
+      ],
+      "sha256": "f5063aaa42e411b4cfd7125d0b97dbeb627cea816504c826f0fe3f3b6c4049fe",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/.agents/skills/travel-planner/references/calendar-policy.md",
+      "destinations": [
+        "trips/dolomites-2026/archive/travel-planner-original/references/calendar-policy.md"
+      ],
+      "sha256": "cba0a6cc8af47f1ed26b29fff3178afdb0cc75b193e10f573d23b64d4d4dde02",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/docs/PROJECT_STATUS_HE.md",
+      "destinations": [
+        "trips/dolomites-2026/docs/PROJECT_STATUS_HE.md"
+      ],
+      "sha256": "fa7d344537d5c9ae3436157f271911586e958bf6416548a97191a167929f6910",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/docs/DOLOMITES_2026_FULL_PLAN_HE.md",
+      "destinations": [
+        "trips/dolomites-2026/docs/DOLOMITES_2026_FULL_PLAN_HE.md"
+      ],
+      "sha256": "3886b3960aef2fd4abe47cdb17e691dbde0de302cf3b8a012b1fd2321cf365a8",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/docs/research/CORTINA_BEGINNER_CYCLING_RESEARCH_HE.md",
+      "destinations": [
+        "trips/dolomites-2026/docs/research/CORTINA_BEGINNER_CYCLING_RESEARCH_HE.md"
+      ],
+      "sha256": "e65298f3858f155cfa4890279e432d06dc4b6d239760abc3a930fd2726015a95",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/docs/research/GARDA_DAY_TRIP_2026-09-23_RU.md",
+      "destinations": [
+        "trips/dolomites-2026/docs/research/GARDA_DAY_TRIP_2026-09-23_RU.md"
+      ],
+      "sha256": "003369cfbb14deef3b1c079366d75645054db620e0969ab72074e394b74a0116",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/docs/research/SECEDA_ACCESS_OPTIONS_2026_HE.md",
+      "destinations": [
+        "trips/dolomites-2026/docs/research/SECEDA_ACCESS_OPTIONS_2026_HE.md"
+      ],
+      "sha256": "9ea2f3bcdc9e18dd763bad3b56454197ad64be6b162d7e84c04421ec2d22d3d2",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/codex_files_general_old/codex_02_google_maps_workflow.md",
+      "destinations": [
+        "trips/dolomites-2026/archive/codex_files_general_old/codex_02_google_maps_workflow.md"
+      ],
+      "sha256": "e379965592177ca0c3ce8fb8e620a4354deef3083a87db99dd0f2c216fa7236b",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/codex_files_general_old/codex_01_general_travel_agent.md",
+      "destinations": [
+        "trips/dolomites-2026/archive/codex_files_general_old/codex_01_general_travel_agent.md"
+      ],
+      "sha256": "b9ded80188fe0090f7553a00255e2a2851b31af481b06f4d5b5184b8e9f0d0c1",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/codex_files_general_old/codex_travel_agent_dolomites_2026_manifest.md",
+      "destinations": [
+        "trips/dolomites-2026/archive/codex_files_general_old/codex_travel_agent_dolomites_2026_manifest.md"
+      ],
+      "sha256": "5aef346e05d75d850ba897f18466fe8ae7908515e6936cb41fc4e41647761eee",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/codex_files_general_old/codex_04_places_backlog_dolomites_venice.md",
+      "destinations": [
+        "trips/dolomites-2026/archive/codex_files_general_old/codex_04_places_backlog_dolomites_venice.md"
+      ],
+      "sha256": "fa375c87578831465082e495457e65019e2a43df2b7b45e494f8a77c5363f30c",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/codex_files_general_old/codex_03_google_calendar_workflow.md",
+      "destinations": [
+        "trips/dolomites-2026/archive/codex_files_general_old/codex_03_google_calendar_workflow.md"
+      ],
+      "sha256": "fe11128ce930b8f530d09835d8727b08932ab538acc7509b123b5bc36f171a85",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/imports/original/ביקורות.json",
+      "destinations": [
+        "trips/dolomites-2026/archive/metaData/ביקורות.json",
+        "trips/dolomites-2026/imports/original/ביקורות.json"
+      ],
+      "sha256": "fa755d3139dfc6ce685353d569b8b2d925a5a8a526d0239253b8aed8bbfc3383",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/imports/original/מסלולי נסיעה לעבודה.json",
+      "destinations": [
+        "trips/dolomites-2026/imports/original/מסלולי נסיעה לעבודה.json"
+      ],
+      "sha256": "a5abb2de4699c6806c0cd2985c002a6a7c1e2d38f143c2fa825cda0e9c1a9fc6",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/imports/original/מקומות שמורים.json",
+      "destinations": [
+        "trips/dolomites-2026/imports/original/מקומות שמורים.json"
+      ],
+      "sha256": "2ecd61d8b98c587b4c8e6ed0356129f355a9947a0cd938ad6dd775300011e743",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/imports/original/המקומות שבחרת לעקוב אחריהם באזור.csv",
+      "destinations": [
+        "trips/dolomites-2026/imports/original/המקומות שבחרת לעקוב אחריהם באזור.csv"
+      ],
+      "sha256": "23c52f8a3b517a20fb0eb18e2b0b5d8524ca4a5542ed1e241386dd47f139fea5",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/imports/original/מנות, מוצרים ופעילויות שהוספת.json",
+      "destinations": [
+        "trips/dolomites-2026/imports/original/מנות, מוצרים ופעילויות שהוספת.json"
+      ],
+      "sha256": "c83c101528fdb2480aef7ccbe2df5a03aca4e75639740b67ca2a3f9097fa9fe9",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/exports/laion-host-message-2026-09-05.txt",
+      "destinations": [
+        "trips/dolomites-2026/exports/laion-host-message-2026-09-05.txt"
+      ],
+      "sha256": "f9b244da5834b7c9b13777ba956d827802b286b0fb5af4453915e0372ab1237c",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/exports/dolomites-2026-calendar-preview.json",
+      "destinations": [
+        "trips/dolomites-2026/exports/dolomites-2026-calendar-preview.json"
+      ],
+      "sha256": "29181ffe5ee425626ce470374ae8ca8db9cebac29e56598a1f367913d0ceb772",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/exports/dolomites-2026-plan.html",
+      "destinations": [
+        "trips/dolomites-2026/exports/dolomites-2026-plan.html"
+      ],
+      "sha256": "e6e87a7066d659a66fe027efaa3a78f2fdb54ab702af496f85bb82f0f6effd97",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/exports/tre-cime-access-alternatives-2026-09-13.md",
+      "destinations": [
+        "trips/dolomites-2026/exports/tre-cime-access-alternatives-2026-09-13.md"
+      ],
+      "sha256": "fe1ecccccbe750cec30da460950e5207d45d413d133456435f870636c3996541",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/exports/parking-reminder-calendar-preview-2026-09-05.json",
+      "destinations": [
+        "trips/dolomites-2026/exports/parking-reminder-calendar-preview-2026-09-05.json"
+      ],
+      "sha256": "d2bbdcb03a03dda56a02c37971318f33f83c13e8f393b06095783883566b6e53",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/exports/parking-reminder-2026-09-11.ics",
+      "destinations": [
+        "trips/dolomites-2026/exports/parking-reminder-2026-09-11.ics"
+      ],
+      "sha256": "723a5cdccd4f1750daad89adacedaf459c86ed6af260d5108328103621aa7b0f",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/exports/DREIMADELHAUS_HANDOFF_HE.md",
+      "destinations": [
+        "trips/dolomites-2026/exports/DREIMADELHAUS_HANDOFF_HE.md"
+      ],
+      "sha256": "9f7f0777c0fcea71939833f877624b5344927930a1470203f59933be92d0cff9",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/exports/parking-booking-preparation-2026-09-11.md",
+      "destinations": [
+        "trips/dolomites-2026/exports/parking-booking-preparation-2026-09-11.md"
+      ],
+      "sha256": "0b6792ce1fff09bad2e68d4d49297cab57cf0fd8414ac1a593ce13b6a0d9193d",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/exports/dolomites-2026-mymaps.csv",
+      "destinations": [
+        "trips/dolomites-2026/exports/dolomites-2026-mymaps.csv"
+      ],
+      "sha256": "7aae1b8a7933cbc84db174e7443a2be3a5a9659d3217c1cf721d9a9c062bcf05",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/trips/dolomites-2026/trip.json",
+      "destination": "trips/dolomites-2026/trip.json",
+      "verification": "intentional metadata and completed-status update; original in external backup"
+    },
+    {
+      "source": "vacationAgent/data/trips/dolomites-2026/plan.json",
+      "destinations": [
+        "trips/dolomites-2026/plan.json"
+      ],
+      "sha256": "96bffcc0c9d83fc5bbfbde4aa28959b7437346e398b27bd17a7f7d96b561f811",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/backups/travel-agent-2026-07-25T15-59-59.647Z.sqlite",
+      "destinations": [
+        "trips/dolomites-2026/backups/travel-agent-2026-07-25T15-59-59.647Z.sqlite"
+      ],
+      "sha256": "5c65a3cdd4c55a4786ca3f80c20018e205d196e4a9940448048ba378e20f28df",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/backups/travel-agent-2026-07-25T11-20-42.732Z.sqlite",
+      "destinations": [
+        "trips/dolomites-2026/backups/travel-agent-2026-07-25T11-20-42.732Z.sqlite",
+        "trips/dolomites-2026/backups/travel-agent-2026-07-20T18-50-57.102Z.sqlite"
+      ],
+      "sha256": "f81de437f47f95c554d36c2465942f72a110480c7dc122dc4b9b8bbee2226dbb",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/backups/travel-agent-2026-07-25T18-06-17.451Z.sqlite",
+      "destinations": [
+        "trips/dolomites-2026/backups/travel-agent-2026-07-25T18-06-17.451Z.sqlite"
+      ],
+      "sha256": "14ba0f7dd58aed94cd8fdc13a92a80e481561d76339d6feedeb6c048fd8099fa",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/backups/travel-agent-2026-07-26T10-55-18.487Z.sqlite",
+      "destinations": [
+        "trips/dolomites-2026/backups/travel-agent-2026-07-26T10-55-18.487Z.sqlite"
+      ],
+      "sha256": "a585e2640b10b34b28ac7b3866a4f9bab9e5d3c1c5584ba0e42b04cb10bdc97a",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/backups/travel-agent-2026-07-25T13-10-15.543Z.sqlite",
+      "destinations": [
+        "trips/dolomites-2026/backups/travel-agent-2026-07-25T13-10-15.543Z.sqlite"
+      ],
+      "sha256": "632e9bc12960950154050ed56575b1f2dc85d764aa45fc942df64eb6206cb851",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/backups/travel-agent-2026-07-26T11-10-33.432Z.sqlite",
+      "destinations": [
+        "trips/dolomites-2026/backups/travel-agent-2026-07-26T11-10-33.432Z.sqlite"
+      ],
+      "sha256": "15b4474510aaf2968991fd944cd66d8b600495e7d2abb5d5c5e961fbb2a77b3e",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/backups/travel-agent-2026-07-20-pre-execution.sqlite",
+      "destinations": [
+        "trips/dolomites-2026/backups/travel-agent-2026-07-20-pre-execution.sqlite"
+      ],
+      "sha256": "930319f605b57b880fb34252b52402d8fee9ead1e7f09ca7b3353a497f19ae54",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/backups/travel-agent-2026-07-25T20-51-18.591Z.sqlite",
+      "destinations": [
+        "trips/dolomites-2026/backups/travel-agent-2026-07-25T20-51-18.591Z.sqlite"
+      ],
+      "sha256": "d9ad682e7e78dfdcc496e8beaa9a2127ca71a3af7f95f7884b807c3750599975",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/backups/travel-agent-2026-07-20T17-46-22.790Z.sqlite",
+      "destinations": [
+        "trips/dolomites-2026/backups/travel-agent-2026-07-20T17-46-22.790Z.sqlite"
+      ],
+      "sha256": "6568574650cc016dab0c85edbbb9c3265b38d8d1bd864c1990ddc7b7a9fd23c5",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/backups/travel-agent-2026-07-20T18-45-54.552Z.sqlite",
+      "destinations": [
+        "trips/dolomites-2026/backups/travel-agent-2026-07-20T18-45-54.552Z.sqlite"
+      ],
+      "sha256": "09b98dad60b9b4b7683fb5c538c6147b667da7ead02c8d43c1b78dd6b4e5cf08",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/backups/travel-agent-2026-09-05T19-18-27.712Z.sqlite",
+      "destinations": [
+        "trips/dolomites-2026/backups/travel-agent-2026-09-05T19-18-27.712Z.sqlite"
+      ],
+      "sha256": "6f3229cd5001a4ea161fe6155de6ee70680d8bd13b540827f1d5d10508edba6c",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/backups/travel-agent-2026-07-20T18-50-57.102Z.sqlite",
+      "destinations": [
+        "trips/dolomites-2026/backups/travel-agent-2026-07-25T11-20-42.732Z.sqlite",
+        "trips/dolomites-2026/backups/travel-agent-2026-07-20T18-50-57.102Z.sqlite"
+      ],
+      "sha256": "f81de437f47f95c554d36c2465942f72a110480c7dc122dc4b9b8bbee2226dbb",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/backups/travel-agent-2026-07-26T09-05-56.178Z.sqlite",
+      "destinations": [
+        "trips/dolomites-2026/backups/travel-agent-2026-07-26T09-05-56.178Z.sqlite"
+      ],
+      "sha256": "fe9ae35454bd681973571ecfddd95a55ac7e70fc1298cae1453efda0e53aaca8",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/backups/travel-agent-2026-07-20T18-44-16.441Z.sqlite",
+      "destinations": [
+        "trips/dolomites-2026/backups/travel-agent-2026-07-20T18-44-16.441Z.sqlite"
+      ],
+      "sha256": "e671f7ca9db9ce3133863db3939d1221b6db4aac38ed82971daedb2e62200841",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/backups/travel-agent-2026-07-25T18-41-17.331Z.sqlite",
+      "destinations": [
+        "trips/dolomites-2026/backups/travel-agent-2026-07-25T18-41-17.331Z.sqlite"
+      ],
+      "sha256": "3664e5389f166841c774bf5e289f6622287f2f46a62d94ec543eeed3b7c0f852",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/backups/travel-agent-2026-09-07T19-08-51.598Z.sqlite",
+      "destinations": [
+        "trips/dolomites-2026/backups/travel-agent-2026-09-07T19-08-51.598Z.sqlite"
+      ],
+      "sha256": "9daa700e6e824e89195ab070269eee852f8a885ddc6b6566bb0ae2027b976f10",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/backups/travel-agent-2026-09-05T19-18-27.712Z.sqlite-shm",
+      "destinations": [
+        "trips/dolomites-2026/backups/travel-agent-2026-09-05T19-18-27.712Z.sqlite-shm"
+      ],
+      "sha256": "fd4c9fda9cd3f9ae7c962b0ddf37232294d55580e1aa165aa06129b8549389eb",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/backups/travel-agent-2026-09-05T19-18-27.712Z.sqlite-wal",
+      "destinations": [
+        "trips/dolomites-2026/backups/travel-agent-2026-09-05T19-18-27.712Z.sqlite-wal"
+      ],
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/backups/travel-agent-2026-07-25T19-48-16.254Z.sqlite",
+      "destinations": [
+        "trips/dolomites-2026/backups/travel-agent-2026-07-25T19-48-16.254Z.sqlite"
+      ],
+      "sha256": "fb66d1c30220f63c92bdb35ff6670410bdc6e6cbab7a3a66a05146103cc9ed12",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/data/backups/travel-agent-2026-07-27T14-58-30.135Z.sqlite",
+      "destinations": [
+        "trips/dolomites-2026/backups/travel-agent-2026-07-27T14-58-30.135Z.sqlite"
+      ],
+      "sha256": "fd3c0236db1d246fc9223671095759febfed0b475e1e558e1179ff587bc40b11",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/tmp/pdfs/seceda-research/wanderkarte_web.pdf",
+      "destinations": [
+        "trips/dolomites-2026/archive/tmp/pdfs/seceda-research/wanderkarte_web.pdf"
+      ],
+      "sha256": "e34cbefe2798bf7bdeca1385e247400c8f2c5ed750ac8ef49fe0fc2619c98ab0",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/tmp/pdfs/seceda-research/wanderkarte-fermeda-crop.png",
+      "destinations": [
+        "trips/dolomites-2026/archive/tmp/pdfs/seceda-research/wanderkarte-fermeda-crop.png"
+      ],
+      "sha256": "360012df9ddeadc6656ad36e0b765bd5dcb76d809618f21c0ce5d75aa1eb289a",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/tmp/pdfs/seceda-research/wanderkarte-map.png",
+      "destinations": [
+        "trips/dolomites-2026/archive/tmp/pdfs/seceda-research/wanderkarte-map.png"
+      ],
+      "sha256": "5fa5e8f1331a406b48e14e5af15b457746bb5b5aa66693953f677c4a2b87420c",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/tmp/pdfs/seceda-research/wanderkarte-seceda-crop.png",
+      "destinations": [
+        "trips/dolomites-2026/archive/tmp/pdfs/seceda-research/wanderkarte-seceda-crop.png"
+      ],
+      "sha256": "485dc90c2aa89f4b7956cd77f67e09e502681c1f55c71de9d4d3645fc43c0e25",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/metaData/ביקורות.json",
+      "destinations": [
+        "trips/dolomites-2026/archive/metaData/ביקורות.json",
+        "trips/dolomites-2026/imports/original/ביקורות.json"
+      ],
+      "sha256": "fa755d3139dfc6ce685353d569b8b2d925a5a8a526d0239253b8aed8bbfc3383",
+      "verified": true
+    },
+    {
+      "source": "vacationAgent/metaData/מקומות מתויגים.json",
+      "destinations": [
+        "trips/dolomites-2026/archive/metaData/מקומות מתויגים.json"
+      ],
+      "sha256": "9ea99bf1d2f785b555aed4ed7d5ce35e430dc171674445eca6f018a11cda95d9",
+      "verified": true
+    },
+    {
+      "source": "instagram-server-next-mcp/data/instagram/fetched_posts.json",
+      "destinations": [
+        "trips/dolomites-2026/instagram/instagram/fetched_posts.json"
+      ],
+      "sha256": "69d0ea98868c079c1b1365560e527f12ca55b94540b7812637b456e7ebfe8a12",
+      "verified": true
+    },
+    {
+      "source": "instagram-server-next-mcp/data/instagram/lacooperativadicortina/2026-07-21/dbdflzta_ah/metadata.json",
+      "destinations": [
+        "trips/dolomites-2026/instagram/instagram/lacooperativadicortina/2026-07-21/dbdflzta_ah/metadata.json"
+      ],
+      "sha256": "858812cdc6206cf96212d5700e30f16084ee0c140a0b4831179a21524827b087",
+      "verified": true
+    },
+    {
+      "source": "instagram-server-next-mcp/data/instagram/lacooperativadicortina/2026-07-21/dbdflzta_ah/media.jpg",
+      "destinations": [
+        "trips/dolomites-2026/instagram/instagram/lacooperativadicortina/2026-07-21/dbdflzta_ah/media.jpg"
+      ],
+      "sha256": "c8ce8d90ba689480d2b01fe21c4dd66b8805f65f225e24f5a85798233049d0b1",
+      "verified": true
+    },
+    {
+      "source": "instagram-server-next-mcp/data/instagram/lacooperativadicortina/2025-11-13/dq_gcd6dse2/metadata.json",
+      "destinations": [
+        "trips/dolomites-2026/instagram/instagram/lacooperativadicortina/2025-11-13/dq_gcd6dse2/metadata.json"
+      ],
+      "sha256": "2145f91cdc5691f653e87bbcd4aca45c1ff2ed26fd4c8c957d5fb537208a239f",
+      "verified": true
+    },
+    {
+      "source": "instagram-server-next-mcp/data/instagram/lacooperativadicortina/2025-11-13/dq_gcd6dse2/media.jpg",
+      "destinations": [
+        "trips/dolomites-2026/instagram/instagram/lacooperativadicortina/2025-11-13/dq_gcd6dse2/media.jpg"
+      ],
+      "sha256": "8e80946d5462ce8ca7a56be7f3813fc79b00a144a98e613b26f3e38634033d0d",
+      "verified": true
+    },
+    {
+      "source": "דולומיטים 2026/booking-AOE-37-5300388.ics",
+      "destinations": [
+        "trips/dolomites-2026/documents/booking-AOE-37-5300388.ics"
+      ],
+      "sha256": "a8504995cd99824927c086b618eafe7e306fc4eb5183abb1284d8a2c0ba3b80c",
+      "verified": true
+    },
+    {
+      "source": "דולומיטים 2026/הנחיות-איסוף-רכב-Target-Rent.html",
+      "destinations": [
+        "trips/dolomites-2026/documents/הנחיות-איסוף-רכב-Target-Rent.html"
+      ],
+      "sha256": "6a0980ccb886e144df5e02122ed7977ad1e58348b913877718dd610fc8c564e4",
+      "verified": true
+    }
+  ],
+  "externalWrites": false
+}

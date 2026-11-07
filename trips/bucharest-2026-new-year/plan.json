@@ -1,0 +1,27 @@
+{
+  "trip": {
+    "status": "planning",
+    "planningStage": "draft",
+    "id": "bucharest-2026-new-year",
+    "name": "בוקרשט — New Year 2026–2027",
+    "timezone": "Europe/Bucharest",
+    "startDate": "2026-12-29",
+    "endDate": "2027-01-02",
+    "exports": {
+      "markdown": "docs/PLAN_HE.md"
+    },
+    "calendar": {
+      "protected_events": [
+        {
+          "event_id": "_8l2j4cpg68p34b9p6d0jeb9k70s3gb9p8gq46ba56t0jeha464s46chm6o"
+        },
+        {
+          "event_id": "_6kpj0gi38gr4ab9l88p30b9k6l238ba26spjiba46cp34h2384qjcgq18c"
+        }
+      ]
+    }
+  },
+  "places": [],
+  "itinerary": [],
+  "lodgingCandidates": []
+}

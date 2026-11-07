@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+                VERSION:2.0
+                PRODID:-//aohostels.com//BookingTool//EN
+                BEGIN:VEVENT
+                UID:AOE-37-5300388@aohostels.com
+                DTSTAMP:20260720T211608Z
+                DTSTART:20260909T120000Z
+                DTEND:20260911T070000Z
+                SUMMARY:Booking: a&o Venezia Mestre
+                DESCRIPTION:Booking number: AOE-37-5300388
+2 Nights, 2 Adults
+a&o Venezia Mestre
+                LOCATION:a&o Venezia Mestre
+                END:VEVENT
+                END:VCALENDAR

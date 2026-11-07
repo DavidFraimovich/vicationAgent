@@ -1,0 +1,38 @@
+{
+  "id": "dolomites-2026",
+  "name": "Venice + Dolomites 2026",
+  "startDate": "2026-09-09",
+  "endDate": "2026-09-25",
+  "timezone": "Europe/Rome",
+  "status": "completed",
+  "routeStrategy": "east-first",
+  "summary": "Venice full day → early Target Rent pickup → shortened Noventa outlet visit → Cortina by late afternoon for Ra Bujela equipment → scenic transfer → Ortisei/Val Gardena through the final night → early Target Rent return and VCE on flight day",
+  "travelers": 2,
+  "planningStage": "archived",
+  "browser": {
+    "allowed_domains": [
+      "dolomiti.org",
+      "suedtirol.info",
+      "cortina.dolomiti.org",
+      "seceda.it",
+      "alpedisiusi.bz.it"
+    ]
+  },
+  "calendar": {
+    "protected_events": [
+      {
+        "title_contains": "LY 289",
+        "date": "2026-09-09"
+      },
+      {
+        "title_contains": "LY 290",
+        "date": "2026-09-25"
+      }
+    ]
+  },
+  "exports": {
+    "markdown": "docs/DOLOMITES_2026_FULL_PLAN_HE.md",
+    "driveRelativeDirectory": "האחסון שלי/development/תוכנית דולומיטים 2026",
+    "driveFileName": "תוכנית דולומיטים 2026.html"
+  }
+}

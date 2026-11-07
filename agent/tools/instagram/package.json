@@ -1,0 +1,27 @@
+{
+  "name": "instagram-server",
+  "version": "0.2.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "axios": "^1.6.2",
+    "debug": "^4.4.0",
+    "playwright": "^1.49.1",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/debug": "^4.1.12",
+    "@types/node": "^20.10.5",
+    "typescript": "^5.7.3"
+  },
+  "bin": {
+    "instagram-server": "./build/index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

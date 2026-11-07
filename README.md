@@ -1,52 +1,30 @@
-# vicationAgent
-this is a vication planning agent created to help me plan and handle all the planning work
+# VacationAgent
 
-# Codex Travel Agent Local
+סוכן תכנון טיולים עם ידע מצטבר ופרויקט עצמאי לכל טיול.
 
-A local-first, inspectable travel-agent workspace for Codex.
-
-## What is included
-
-- project-scoped Codex MCP configuration;
-- a reusable `travel-planner` skill;
-- local SQLite state;
-- a local MCP server;
-- Google Calendar OAuth connector restricted to one allowlisted calendar;
-- Google Maps Grounding Lite MCP configuration;
-- Chrome execution policy and optional Chrome DevTools MCP;
-- Google Takeout importers;
-- My Maps CSV export;
-- Airbnb search URL builder;
-- local dashboard;
-- audit log;
-- the supplied Dolomites 2026 planning policies and exports.
-
-Start with [docs/QUICKSTART_HE.md](docs/QUICKSTART_HE.md).
-
-לקריאה, הערות ועדכון של הטיול עצמו: [התוכנית המלאה בעברית](docs/DOLOMITES_2026_FULL_PLAN_HE.md).
-
-## Dolomites 2026 — current execution state
-
-- complete local Plan A for 2026-09-09 through 2026-09-25;
-- 26 trip-linked places, 55 itinerary items and 9 lodging records (including the confirmed Mestre stay);
-- private Google Maps list with 22 verified saves and one short operational note per save;
-- browser automation restricted to `david04031997@gmail.com`;
-- Calendar dry-run export available; the two existing flights and the unresolved mask-shop draft are excluded.
-
-Run the deterministic workflow with:
+- [הסוכן והכלים](agent/AGENTS.md)
+- [טיולים](trips/AGENTS.md)
+- [העדפות ולמידה](knowledge/AGENTS.md)
+- [פתיחת טיול חדש](.agents/skills/new-trip/SKILL.md)
+- [תחילת עבודה](agent/docs/QUICKSTART_HE.md)
 
 ```bash
-npm run seed:plan
+npm install
+npm run init
+npm run dashboard
 npm run validate
-npm run export:mymaps
-npm run calendar:preview
+npm test
+npm run build
 ```
 
-Before any Calendar read, preview, create, update, edit, or delete command,
-read and follow
-`.agents/skills/travel-planner/references/calendar-policy.md`. Calendar writes
-use the raw Google Calendar API workflow defined there: in-place Event ID
-updates, canonical plain-text descriptions, `sendUpdates: none`, itinerary
-events only in `חו״ל` without the personal account as an attendee, and a raw
-post-write verification. Do not use rich-text Calendar editing or delete and
-recreate events to repair formatting.
+כל הפקודות רצות מהשורש. פקודות טיול מקבלות `-- --trip <id>`; הטיול הפעיל מוגדר ב־agent/config/travel-agent.yaml.
+
+```bash
+npm run trip:new -- --trip my-trip --name "טיול חדש" --timezone Europe/Bucharest --start 2027-04-01 --end 2027-04-05
+npm run validate -- --trip my-trip
+npm run export:mymaps -- --trip my-trip
+npm run export:plan-html -- --trip my-trip --local-only
+```
+
+כל מסד נתונים נמצא ב־trips/<id>/data. רשימת הטיולים נגזרת מ־trip.json. פתיחת טיול אינה מפעילה כתיבות חיצוניות.
+בוקרשט הוא שלד תכנון; אזהרות על ימים שעדיין לא תוכננו צפויות. פערים היסטוריים בטיול שהושלם מתועדים בפרויקט שלו.

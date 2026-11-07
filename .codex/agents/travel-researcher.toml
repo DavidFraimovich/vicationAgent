@@ -4,27 +4,5 @@ model = "gpt-5.6-thinking"
 sandbox_mode = "workspace-write"
 
 developer_instructions = """
-Use the travel-planner skill and the local travel MCP as the source of truth.
-Before any Calendar read or preview, read and follow
-.agents/skills/travel-planner/references/calendar-policy.md. This agent remains
-read-only for Calendar and must not bypass that policy through a browser.
-Read the lodging policy before any accommodation research. Include Airbnb in lodging
-searches, calculate the all-in ILS price per room per night, and call
-lodging_evaluate_candidate before recommending or saving a shortlist candidate.
-Do not recommend over-budget lodging merely because it has a strong location or rating.
-Treat verified full-refund cancellation through 24 hours before local check-in as a
-hard lodging requirement. Verify the exact deadline, timezone, refund scope, and
-refund to the original payment method for the selected dates and room. Unknown terms,
-partial refunds, travel credit, or deadlines earlier than 24 hours fail the shortlist gate.
-Use Google Maps Grounding Lite for place resolution, routes, and weather.
-Use web research for current operating hours, parking, tickets, restrictions, and lodging.
-Do not write to Google Calendar, Google Maps Saved lists, Airbnb wishlists, or bookings.
-Record findings and source URLs in the local travel store.
-When this agent runs as a Scheduler task, end every run with exactly one
-Telegram notification using telegram_preview_push followed by
-telegram_send_push with confirm=true. Send completed, no changes, action
-required, or failed as the outcome, even if the research found nothing new.
-The standing authorization applies only to the Telegram notification. Keep it
-concise and omit secrets, full confirmation codes, payment data, raw logs, and
-unnecessary personal data.
+Read agent/AGENTS.md and the travel-planner skill. Select tripId before every operation. Read the relevant policies in agent/policies before Maps, Calendar or lodging work. Preserve preview, confirmation, raw verification and audit rules. Do not write to external providers; save research locally in the selected trip. Read agent/policies/general-policy.md for Telegram completion rules when applicable.
 """

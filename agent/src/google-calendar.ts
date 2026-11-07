@@ -1,0 +1,480 @@
+import fs from "node:fs";
+import { google, calendar_v3 } from "googleapis";
+import { isLikelyLodgingCalendarEvent } from "./calendar-policy.js";
+import { loadConfig } from "./config.js";
+import { getItineraryItem, recordAction, upsertItineraryItem } from "./db.js";
+import { defaultTripId, getTripContext, listTripManifests } from "./trips.js";
+import { resolveProjectPath } from "./paths.js";
+
+export const CALENDAR_POLICY_FILE =
+  "agent/policies/calendar-policy.md";
+
+function isExcludedItineraryAttendee(email?: string | null): boolean {
+  const normalized = email?.trim().toLowerCase();
+  if (!normalized) return false;
+  return loadConfig().calendar.itinerary_attendee_exclusions.some(
+    (excluded) => excluded.trim().toLowerCase() === normalized,
+  );
+}
+
+function loadOAuthClient(): any {
+  const config = loadConfig();
+  const clientFile = resolveProjectPath(config.calendar.oauth_client_path);
+  if (!fs.existsSync(clientFile)) {
+    throw new Error(
+      `OAuth client file not found: ${clientFile}. See agent/secrets/README.md`
+    );
+  }
+  const parsed = JSON.parse(fs.readFileSync(clientFile, "utf8"));
+  return parsed.installed ?? parsed.web ?? parsed;
+}
+
+export function calendarAuthConfigured(): boolean {
+  const config = loadConfig();
+  return fs.existsSync(resolveProjectPath(config.calendar.oauth_client_path))
+    && fs.existsSync(resolveProjectPath(config.calendar.oauth_token_path));
+}
+
+export function getCalendarClient(): calendar_v3.Calendar {
+  const config = loadConfig();
+  const client = loadOAuthClient();
+  const redirectUri =
+    client.redirect_uris?.find((uri: string) => uri.includes("127.0.0.1")) ??
+    "http://127.0.0.1:53682/oauth2callback";
+  const oauth2 = new google.auth.OAuth2(client.client_id, client.client_secret, redirectUri);
+  const tokenFile = resolveProjectPath(config.calendar.oauth_token_path);
+  if (!fs.existsSync(tokenFile)) {
+    throw new Error(`OAuth token not found. Run: npm run google:auth`);
+  }
+  oauth2.setCredentials(JSON.parse(fs.readFileSync(tokenFile, "utf8")));
+  return google.calendar({ version: "v3", auth: oauth2 });
+}
+
+function configuredCalendarId(): string {
+  return loadConfig().calendar.calendar_id;
+}
+
+export function isProtectedEvent(event: calendar_v3.Schema$Event): boolean {
+  const start = event.start?.dateTime ?? event.start?.date ?? "";
+  const title = event.summary ?? "";
+  const rules = [...loadConfig().calendar.protected_events,
+    ...listTripManifests().flatMap((trip) => trip.calendar?.protected_events ?? [])];
+  return rules.some((rule) =>
+    ("event_id" in rule && rule.event_id === event.id)
+    || (rule.title_contains && rule.date && title.includes(rule.title_contains) && start.startsWith(rule.date))
+  );
+}
+
+export async function listCalendarEvents(input: {
+  tripId?: string;
+  timeMin: string;
+  timeMax: string;
+  query?: string;
+}): Promise<calendar_v3.Schema$Event[]> {
+  getTripContext(input.tripId);
+  const calendar = getCalendarClient();
+  const response = await calendar.events.list({
+    calendarId: configuredCalendarId(),
+    timeMin: input.timeMin,
+    timeMax: input.timeMax,
+    q: input.query,
+    singleEvents: true,
+    orderBy: "startTime",
+    maxResults: 2500,
+  });
+  return response.data.items ?? [];
+}
+
+export type CalendarEventInput = {
+  tripId?: string;
+  summary: string;
+  start: string;
+  end: string;
+  timezone?: string;
+  description?: string;
+  location?: string;
+  itineraryItemId?: string;
+  eventId?: string;
+  allowLodgingWriteAfterDedupe?: boolean;
+};
+
+function decodeHtmlEntities(value: string): string {
+  const named: Record<string, string> = {
+    amp: "&",
+    apos: "'",
+    gt: ">",
+    lt: "<",
+    nbsp: " ",
+    quot: "\"",
+  };
+  return value.replace(
+    /&(#x[0-9a-f]+|#[0-9]+|amp|apos|gt|lt|nbsp|quot);/gi,
+    (entity, key: string) => {
+      if (key.startsWith("#x") || key.startsWith("#X")) {
+        const codePoint = Number.parseInt(key.slice(2), 16);
+        return codePoint <= 0x10ffff ? String.fromCodePoint(codePoint) : entity;
+      }
+      if (key.startsWith("#")) {
+        const codePoint = Number.parseInt(key.slice(1), 10);
+        return codePoint <= 0x10ffff ? String.fromCodePoint(codePoint) : entity;
+      }
+      return named[key.toLowerCase()] ?? entity;
+    },
+  );
+}
+
+function anchorAsPlainText(_match: string, attributes: string, content: string): string {
+  const hrefMatch = attributes.match(/\bhref\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s>]+))/i);
+  const href = decodeHtmlEntities(hrefMatch?.[1] ?? hrefMatch?.[2] ?? hrefMatch?.[3] ?? "").trim();
+  const label = decodeHtmlEntities(content.replace(/<[^>]+>/g, "")).trim();
+  const isTelephone = /^tel:/i.test(href);
+  const visibleTarget = isTelephone
+    ? href.slice(4)
+    : /^mailto:/i.test(href)
+      ? href.slice(7)
+      : /^https?:\/\//i.test(href)
+        ? href
+        : "";
+
+  if (!visibleTarget) return label;
+  if (!label || label === visibleTarget) return visibleTarget;
+  if (isTelephone && label.replace(/\D/g, "") === visibleTarget.replace(/\D/g, "")) return label;
+  return `${label}\n${visibleTarget}`;
+}
+
+export function normalizeCalendarDescription(description?: string): string | undefined {
+  if (description === undefined) return undefined;
+
+  return decodeHtmlEntities(
+    description
+      .replace(/\r\n?/g, "\n")
+      .replace(/<!--[\s\S]*?-->/g, "")
+      .replace(/<(script|style)\b[^>]*>[\s\S]*?<\/\1\s*>/gi, "")
+      .replace(/<a\b([^>]*)>([\s\S]*?)<\/a\s*>/gi, anchorAsPlainText)
+      .replace(/<br\b[^>]*\/?>/gi, "\n")
+      .replace(/<li\b[^>]*>/gi, "- ")
+      .replace(/<\/(?:li|tr)\s*>/gi, "\n")
+      .replace(/<\/(?:div|h[1-6]|ol|p|table|ul)\s*>/gi, "\n\n")
+      .replace(/<[^>]+>/g, ""),
+  )
+    .split("\n")
+    .map((line) => line.replace(/[ \t]+$/g, ""))
+    .join("\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
+
+function appendMissingCalendarDetails(
+  existingDescription?: string | null,
+  proposedDescription?: string,
+): string | undefined {
+  const existing = normalizeCalendarDescription(existingDescription ?? "") ?? "";
+  const proposed = normalizeCalendarDescription(proposedDescription) ?? "";
+  if (!existing) return proposed || undefined;
+  if (!proposed || existing.includes(proposed)) return existing;
+  return `${existing}\n\nפרטים נוספים למסלול:\n${proposed}`;
+}
+
+export function calendarAttendeesWithoutPersonalInvite(
+  attendees?: calendar_v3.Schema$EventAttendee[] | null,
+): calendar_v3.Schema$EventAttendee[] {
+  if (!loadConfig().calendar.attendee_removal_authorized) {
+    return (attendees ?? []).map((attendee) => ({
+      email: attendee.email,
+      responseStatus: attendee.responseStatus,
+      optional: attendee.optional,
+      comment: attendee.comment,
+      additionalGuests: attendee.additionalGuests,
+    }));
+  }
+  return (attendees ?? [])
+    .filter(
+      (attendee) =>
+        Boolean(attendee.email?.trim())
+        && !isExcludedItineraryAttendee(attendee.email),
+    )
+    .map((attendee) => ({
+      email: attendee.email,
+      responseStatus: attendee.responseStatus,
+      optional: attendee.optional,
+      comment: attendee.comment,
+      additionalGuests: attendee.additionalGuests,
+    }));
+}
+
+export function assertCalendarEventIsPlainText(
+  event: calendar_v3.Schema$Event,
+  expectedDescription?: string,
+): void {
+  const description = event.description ?? "";
+  if (expectedDescription !== undefined && description !== expectedDescription) {
+    throw new Error("Calendar description verification failed: stored text differs from the canonical plain text.");
+  }
+  if (/<[^>]+>/.test(description)) {
+    throw new Error("Calendar description verification failed: stored description still contains HTML.");
+  }
+  if (
+    (event.attendees ?? []).some(
+      (attendee) =>
+        isExcludedItineraryAttendee(attendee.email),
+    )
+  ) {
+    throw new Error("Calendar attendee verification failed: the personal calendar is still invited.");
+  }
+}
+
+export function previewCalendarEvent(input: CalendarEventInput): Record<string, unknown> {
+  const config = loadConfig();
+  return {
+    policyFile: CALENDAR_POLICY_FILE,
+    calendarId: config.calendar.calendar_id,
+    action: input.eventId ? "update" : "create",
+    eventId: input.eventId,
+    event: {
+      summary: input.summary,
+      start: { dateTime: input.start, timeZone: input.timezone ?? getTripContext(input.tripId).timezone },
+      end: { dateTime: input.end, timeZone: input.timezone ?? getTripContext(input.tripId).timezone },
+      description: normalizeCalendarDescription(input.description),
+      location: input.location,
+      extendedProperties: {
+        private: {
+          travelAgent: "codex-travel-agent-local",
+          itineraryItemId: input.itineraryItemId ?? "",
+        },
+      },
+    },
+  };
+}
+
+export async function applyCalendarEvent(input: CalendarEventInput & {
+  confirm: boolean;
+  tripId?: string;
+}): Promise<Record<string, unknown>> {
+  input = { ...input, tripId: input.tripId ?? defaultTripId() };
+  getTripContext(input.tripId);
+  const config = loadConfig();
+  const itineraryItem = input.itineraryItemId
+    ? getItineraryItem(input.itineraryItemId, input.tripId)
+    : undefined;
+  if (input.itineraryItemId && !itineraryItem) throw new Error("Itinerary item not found in the selected trip.");
+  const isLodgingEvent = isLikelyLodgingCalendarEvent({
+    summary: input.summary,
+    itineraryItem,
+  });
+  const configuredProviderEventUpdateAllowed = Boolean(input.eventId)
+    && config.calendar.lodging_sync.allow_provider_created_event_in_place_updates
+    && config.calendar.lodging_sync.provider_event_updates_only_in_configured_calendar
+    && config.calendar.lodging_sync.provider_event_update_mode === "add_missing_relevant_details";
+  if (isLodgingEvent
+    && !configuredProviderEventUpdateAllowed
+    && input.allowLodgingWriteAfterDedupe !== true) {
+    const blocked = {
+      applied: false,
+      reason: "provider_managed_lodging_dedupe_required",
+      policy:
+        "Prefer the Airbnb event created from the confirmation email. A manual lodging write requires an explicit user request after checking the matching inbox message and Calendar date range for duplicates.",
+    };
+    recordAction({
+      tripId: input.tripId,
+      provider: "google_calendar",
+      action: input.eventId ? "update_event" : "create_event",
+      entityType: "itinerary_item",
+      entityId: input.itineraryItemId,
+      status: "blocked",
+      dryRun: true,
+      payload: previewCalendarEvent(input),
+      result: blocked,
+    });
+    return blocked;
+  }
+
+  const preview = previewCalendarEvent(input);
+  if (config.calendar.require_confirmation_for_write && !input.confirm) {
+    recordAction({
+      tripId: input.tripId,
+      provider: "google_calendar",
+      action: input.eventId ? "update_event" : "create_event",
+      entityType: "itinerary_item",
+      entityId: input.itineraryItemId,
+      status: "preview",
+      dryRun: true,
+      payload: preview,
+    });
+    return { applied: false, reason: "confirm_required", preview };
+  }
+
+  const calendar = getCalendarClient();
+  const requestBody = (preview.event ?? {}) as calendar_v3.Schema$Event;
+  let response: { data: calendar_v3.Schema$Event };
+  if (input.eventId) {
+    const existing = await calendar.events.get({
+      calendarId: configuredCalendarId(),
+      eventId: input.eventId,
+    });
+    if (isProtectedEvent(existing.data)) throw new Error("Refusing to update a protected flight event.");
+    if (isLodgingEvent && configuredProviderEventUpdateAllowed) {
+      requestBody.summary = existing.data.summary ?? requestBody.summary;
+      requestBody.start = existing.data.start ?? requestBody.start;
+      requestBody.end = existing.data.end ?? requestBody.end;
+      requestBody.location = existing.data.location || requestBody.location;
+      requestBody.description = appendMissingCalendarDetails(
+        existing.data.description,
+        requestBody.description ?? undefined,
+      );
+    }
+    requestBody.attendees = calendarAttendeesWithoutPersonalInvite(
+      existing.data.attendees,
+    );
+    response = await calendar.events.patch({
+      calendarId: configuredCalendarId(),
+      eventId: input.eventId,
+      requestBody,
+      sendUpdates: config.calendar.send_updates_default,
+    });
+  } else {
+    response = await calendar.events.insert({
+      calendarId: configuredCalendarId(),
+      requestBody,
+      sendUpdates: config.calendar.send_updates_default,
+    });
+  }
+
+  const verified = await calendar.events.get({
+    calendarId: configuredCalendarId(),
+    eventId: response.data.id!,
+  });
+  assertCalendarEventIsPlainText(verified.data, requestBody.description ?? undefined);
+
+  if (input.itineraryItemId) {
+    const existing = getItineraryItem(input.itineraryItemId, input.tripId);
+    if (existing) {
+      upsertItineraryItem({
+        id: existing.id as string,
+        tripId: existing.tripId as string,
+        dayDate: existing.dayDate as string,
+        startTime: existing.startTime as string | undefined,
+        endTime: existing.endTime as string | undefined,
+        title: existing.title as string,
+        itemType: existing.itemType as string,
+        placeId: existing.placeId as string | undefined,
+        description: existing.description as string | undefined,
+        status: "scheduled",
+        source: existing.source as string | undefined,
+        calendarEventId: verified.data.id ?? undefined,
+        sortOrder: existing.sortOrder as number,
+        metadata: existing.metadata as Record<string, unknown>,
+      });
+    }
+  }
+
+  const result = {
+    applied: true,
+    policyFile: CALENDAR_POLICY_FILE,
+    eventId: verified.data.id,
+    htmlLink: verified.data.htmlLink,
+    summary: verified.data.summary,
+    sendUpdates: config.calendar.send_updates_default,
+    descriptionVerifiedPlainText: true,
+    personalCalendarInviteRemoved: true,
+  };
+  recordAction({
+    tripId: input.tripId,
+    provider: "google_calendar",
+    action: input.eventId ? "update_event" : "create_event",
+    entityType: "itinerary_item",
+    entityId: input.itineraryItemId,
+    status: "success",
+    dryRun: false,
+    payload: preview,
+    result,
+  });
+  return result;
+}
+
+export async function deleteCalendarEvent(input: {
+  eventId: string;
+  confirm: boolean;
+  tripId?: string;
+}): Promise<Record<string, unknown>> {
+  input = { ...input, tripId: input.tripId ?? defaultTripId() };
+  getTripContext(input.tripId);
+  const config = loadConfig();
+  const calendar = getCalendarClient();
+  const existing = await calendar.events.get({
+    calendarId: configuredCalendarId(),
+    eventId: input.eventId,
+  });
+
+  if (isProtectedEvent(existing.data)) {
+    throw new Error("Refusing to delete a protected flight event.");
+  }
+
+  const preview = {
+    policyFile: CALENDAR_POLICY_FILE,
+    calendarId: configuredCalendarId(),
+    action: "delete",
+    eventId: input.eventId,
+    summary: existing.data.summary,
+    start: existing.data.start,
+  };
+
+  if (config.calendar.require_confirmation_for_delete && !input.confirm) {
+    recordAction({
+      tripId: input.tripId,
+      provider: "google_calendar",
+      action: "delete_event",
+      entityType: "calendar_event",
+      entityId: input.eventId,
+      status: "preview",
+      dryRun: true,
+      payload: preview,
+    });
+    return { applied: false, reason: "confirm_required", preview };
+  }
+
+  await calendar.events.delete({
+    calendarId: configuredCalendarId(),
+    eventId: input.eventId,
+    sendUpdates: config.calendar.send_updates_default,
+  });
+
+  let deletionVerifiedAbsent = false;
+  try {
+    await calendar.events.get({
+      calendarId: configuredCalendarId(),
+      eventId: input.eventId,
+    });
+  } catch (error) {
+    const candidate = error as {
+      code?: number;
+      response?: { status?: number };
+    };
+    deletionVerifiedAbsent =
+      candidate.code === 404 || candidate.response?.status === 404;
+    if (!deletionVerifiedAbsent) throw error;
+  }
+  if (!deletionVerifiedAbsent) {
+    throw new Error("Calendar deletion verification failed: the event still exists.");
+  }
+
+  recordAction({
+    tripId: input.tripId,
+    provider: "google_calendar",
+    action: "delete_event",
+    entityType: "calendar_event",
+    entityId: input.eventId,
+    status: "success",
+    dryRun: false,
+    payload: preview,
+    result: {
+      deletionVerifiedAbsent,
+      sendUpdates: config.calendar.send_updates_default,
+    },
+  });
+  return {
+    applied: true,
+    policyFile: CALENDAR_POLICY_FILE,
+    eventId: input.eventId,
+    deletionVerifiedAbsent,
+  };
+}

@@ -15,7 +15,7 @@
     "noUncheckedIndexedAccess": true
   },
   "include": [
-    "src/**/*.ts",
-    "test/**/*.ts"
+    "agent/src/**/*.ts",
+    "agent/test/**/*.ts"
   ]
 }

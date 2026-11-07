@@ -1,0 +1,21 @@
+{
+  "source": "Google Calendar חו״ל",
+  "verifiedAt": "2026-11-07",
+  "verificationScope": "Existing calendar events, not live airline status",
+  "flights": [
+    {
+      "direction": "outbound",
+      "date": "2026-12-29",
+      "start": "2026-12-29T15:35:00+02:00",
+      "end": "2026-12-29T18:30:00+02:00",
+      "eventId": "_8l2j4cpg68p34b9p6d0jeb9k70s3gb9p8gq46ba56t0jeha464s46chm6o"
+    },
+    {
+      "direction": "return",
+      "date": "2027-01-02",
+      "start": "2027-01-02T12:00:00+02:00",
+      "end": "2027-01-02T14:20:00+02:00",
+      "eventId": "_6kpj0gi38gr4ab9l88p30b9k6l238ba26spjiba46cp34h2384qjcgq18c"
+    }
+  ]
+}
