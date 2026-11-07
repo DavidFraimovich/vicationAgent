@@ -11,8 +11,8 @@ command = "npm"
 args = ["run", "--silent", "mcp"]
 cwd = "."
 env = { TRAVEL_AGENT_CALENDAR_ATTENDEE_REMOVAL_AUTHORIZED = "true", TRAVEL_AGENT_AIRBNB_EVENT_EDIT_POLICY = "configured-calendar-in-place-add-missing-details", TRAVEL_AGENT_TELEGRAM_STANDING_SEND_AUTHORIZATION = "true" }
-enabled = true
-required = true
+enabled = false
+required = false
 startup_timeout_sec = 20
 tool_timeout_sec = 120
 default_tools_approval_mode = "auto"

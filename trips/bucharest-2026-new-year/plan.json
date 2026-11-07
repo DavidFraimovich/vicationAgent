@@ -19,9 +19,3753 @@
           "event_id": "_6kpj0gi38gr4ab9l88p30b9k6l238ba26spjiba46cp34h2384qjcgq18c"
         }
       ]
+    },
+    "travelers": 2,
+    "routeStrategy": "Dense geographic clusters; walk, metro and taxi; draft holiday availability",
+    "summary": "זוג, ארבעה לילות, מטבח פרטי וכיריים; חורף ושנה חדשה. שעות חג וניווט טעונים אימות.",
+    "metadata": {
+      "planVersion": "draft-v2",
+      "updatedAt": "2026-11-07",
+      "travelersNames": [
+        "David",
+        "Elena"
+      ],
+      "rentalCar": "not_planned",
+      "mapsVerified": false,
+      "holidayHoursVerified": false,
+      "lodgingRequirements": {
+        "privateKitchen": true,
+        "stove": "electric_or_gas",
+        "refrigerator": true,
+        "cookingBasics": true,
+        "coffeeMachine": "preferred"
+      },
+      "dietaryConstraints": [
+        "no_pork",
+        "low_fat",
+        "individual_acidity_triggers"
+      ],
+      "researchPlaceCount": 37
     }
   },
-  "places": [],
-  "itinerary": [],
-  "lodgingCandidates": []
+  "places": [
+    {
+      "id": "bucharest-constitution-christmas-market",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Bucharest Christmas Market — Piața Constituției",
+      "countryCode": "RO",
+      "categories": [
+        "christmas_market"
+      ],
+      "priority": "C",
+      "planningStatus": "rejected_dates",
+      "notes": "נסגר יומיים לפני ההגעה; אין לשבץ שוק פעיל. חזית הפרלמנט היא ביקור נפרד.",
+      "source": "https://bucharestchristmasmarket.ro/; https://pmb.ro/interes-public/arhiva/get-press-releases-menu/2026/2334",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Bucharest+Christmas+Market+%E2%80%94+Pia%C8%9Ba+Constitu%C8%9Biei+Bucharest+Romania",
+        "openingForTrip": "closed",
+        "dateEvidence": [
+          {
+            "claim": "מהדורת 2026 מתקיימת 27.11–27.12.2026",
+            "evidenceStatus": "verified_current",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://bucharestchristmasmarket.ro/"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "אין חפיפה עם 29.12.2026–02.01.2027",
+            "evidenceStatus": "date_mismatch",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://bucharestchristmasmarket.ro/"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-west-side-christmas-market",
+      "tripId": "bucharest-2026-new-year",
+      "name": "West Side Christmas Market — Parcul Drumul Taberei",
+      "countryCode": "RO",
+      "categories": [
+        "christmas_market"
+      ],
+      "priority": "C",
+      "planningStatus": "rejected_dates",
+      "notes": "לא לתזמן נסיעה לשוק; התאריך האחרון שנמצא הוא 27.12. הודעת מפעיל עדכנית ל-2026 לא נקראה.",
+      "source": "https://primarie6.ro/primarie_sector6/programul-west-side-christmas-market; https://primarie6.ro/primarie_sector6/sites/default/files/2023-07/1PHPRI1.pdf",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=West+Side+Christmas+Market+%E2%80%94+Parcul+Drumul+Taberei+Bucharest+Romania",
+        "openingForTrip": "closed",
+        "dateEvidence": [
+          {
+            "claim": "מסמך עירוני מ-2023 מציג עונת 2026 עד 27.12.2026; זו הרשאת עונה ותיקה ולא הודעת שעות עדכנית",
+            "evidenceStatus": "historical_official_schedule",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://primarie6.ro/primarie_sector6/sites/default/files/2023-07/1PHPRI1.pdf"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "פרסום עדכני משני מתאר מהדורת 2026 בין 26.11 ל-27.12",
+            "evidenceStatus": "verified_secondary",
+            "sourceType": "secondary",
+            "sourceUrls": [
+              "https://peplaiuri.ro/ghiduri/targuri-de-craciun-bucuresti"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "אין במקורות בסיס לשוק פעיל בעת הנסיעה",
+            "evidenceStatus": "date_mismatch",
+            "sourceType": "mixed",
+            "sourceUrls": [
+              "https://primarie6.ro/primarie_sector6/sites/default/files/2023-07/1PHPRI1.pdf",
+              "https://peplaiuri.ro/ghiduri/targuri-de-craciun-bucuresti"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-laminor-winter-wonderland",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Laminor Winter Wonderland — Hala Laminor",
+      "countryCode": "RO",
+      "categories": [
+        "christmas_market"
+      ],
+      "priority": "C",
+      "planningStatus": "unverified_season",
+      "notes": "אין להניח שהאירוע חוזר לאולם המקורה. ב-2025 השוק העירוני התקיים ב-Alba Iulia; המבנה והאירוע אינם אותו דבר.",
+      "source": "https://www.primarie3.ro/index.php/presa/comunicat/7147; https://www.primarie3.ro/images/uploads/formulare/Anunt_atribuire_ADV_1505741.pdf",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Laminor+Winter+Wonderland+%E2%80%94+Hala+Laminor+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "הודעת 2024 הרשמית קובעת 29.11.2024–07.01.2025 באולם Laminor",
+            "evidenceStatus": "verified_past_season",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://www.primarie3.ro/index.php/presa/comunicat/7147"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "חוזה 2025 מעביר את השוק העירוני ל-Piața Alba Iulia בעונת 2025–2026",
+            "evidenceStatus": "verified_past_season",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://www.primarie3.ro/images/uploads/formulare/Anunt_atribuire_ADV_1505741.pdf"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "מיקום ותאריכי עונת 2026–2027 לא אומתו",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-alba-iulia-winter-wonderland",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Winter Wonderland — Piața Alba Iulia",
+      "countryCode": "RO",
+      "categories": [
+        "christmas_market"
+      ],
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "notes": "מועמד מרכזי לשוק מאוחר, רק אם תאושר מהדורת 2026–2027 ומיקומה. אין הבטחה לאולם מקורה.",
+      "source": "https://www.primarie3.ro/images/uploads/formulare/Anunt_atribuire_ADV_1505741.pdf",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Winter+Wonderland+%E2%80%94+Pia%C8%9Ba+Alba+Iulia+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "חוזה עירוני קובע 27.11.2025–07.01.2026 ב-Piața Alba Iulia",
+            "evidenceStatus": "verified_past_season",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://www.primarie3.ro/images/uploads/formulare/Anunt_atribuire_ADV_1505741.pdf"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "תאריכי ושעות 2026–2027 לא אומתו",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-romexpo-christmas-of-the-north",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Crăciunul Nordului — Romexpo",
+      "countryCode": "RO",
+      "categories": [
+        "christmas_market"
+      ],
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "notes": "מועמד לשוק נוסף ולהחלקה מקורה; לא לצאת במיוחד לפני אישור מהדורה, שער כניסה ושעות חג.",
+      "source": "https://primariasector1.ro/vineri-se-deschide-craciunul-nordului-la-romexpo/; https://primariasector1.ro/wp-content/uploads/2026/02/19-PV_25.11.2025-ora10-00-Sedinta-ordinara-_raport-AN-.pdf",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Cr%C4%83ciunul+Nordului+%E2%80%94+Romexpo+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "המהדורה הקודמת נקבעה ל-28.11.2025–04.01.2026",
+            "evidenceStatus": "verified_past_season",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://primariasector1.ro/wp-content/uploads/2026/02/19-PV_25.11.2025-ora10-00-Sedinta-ordinara-_raport-AN-.pdf"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "ב-2025 פורסם רשמית משטח החלקה מקורה",
+            "evidenceStatus": "verified_past_season",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://primariasector1.ro/vineri-se-deschide-craciunul-nordului-la-romexpo/"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "מהדורת 2026–2027 ושעותיה לא אומתו",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-universitate-downtown-christmas-market",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Bucharest Downtown Christmas Market — Piața Universității",
+      "countryCode": "RO",
+      "categories": [
+        "christmas_market"
+      ],
+      "priority": "C",
+      "planningStatus": "unverified_season",
+      "notes": "דפוס העבר מסתיים לפני הנחיתה, אך אין כאן אישור לסגירת מהדורת 2026. הכיכר קיימת כיעד רחוב נפרד.",
+      "source": "https://www.creart.ro/wp-content/uploads/2025/10/Instructiuni-pentru-ofertanti-4.pdf",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Bucharest+Downtown+Christmas+Market+%E2%80%94+Pia%C8%9Ba+Universit%C4%83%C8%9Bii+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "מסמך המארגן מתייחס ל-29.11–28.12.2025",
+            "evidenceStatus": "verified_past_season",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://www.creart.ro/wp-content/uploads/2025/10/Instructiuni-pentru-ofertanti-4.pdf"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "לא אומתו תאריכי 2026; אין בסיס לשוק פעיל בנסיעה",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-opera-christmas-market",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Bucharest Opera Christmas Market",
+      "countryCode": "RO",
+      "categories": [
+        "christmas_market"
+      ],
+      "priority": "C",
+      "planningStatus": "unverified_season",
+      "notes": "סקירת העבר מציגה סיום ב-28.12.2025; אין להציג את 2026 כסגור או פעיל על בסיס זה.",
+      "source": "",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Bucharest+Opera+Christmas+Market+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "סקירה מתארת את מהדורת 2025 עד 28.12",
+            "evidenceStatus": "verified_past_season",
+            "sourceType": "secondary",
+            "sourceUrls": [
+              "https://peplaiuri.ro/ghiduri/targuri-de-craciun-bucuresti"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "תאריכי 2026–2027 לא אומתו",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-afi-cotroceni-on-ice",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Cotroceni On Ice — AFI Cotroceni",
+      "countryCode": "RO",
+      "categories": [
+        "ice_skating"
+      ],
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "notes": "גיבוי ההחלקה האמין ביותר; סשן 90 דקות ועוד 20–30 דקות ציוד. לא להציע הדרכה מאומתת בחופשת החורף.",
+      "source": "https://patinoarafi.ro/program-si-preturi/; https://www.aficotroceni.ro/brands/distractie/ice-rink/",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Cotroceni+On+Ice+%E2%80%94+AFI+Cotroceni+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "המפעיל מפרסם פעילות כל השנה וסשנים של 90 דקות",
+            "evidenceStatus": "verified_regular_schedule",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://patinoarafi.ro/program-si-preturi/"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "מחיר מדף למבוגר עם השכרה 55 RON בימי ב׳–ה׳ ו-60 RON ו׳–א׳; לחגים וחופשות תעריף שונה מהמוזל",
+            "evidenceStatus": "verified_current_prices",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://patinoarafi.ro/program-si-preturi/"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "שעות החג 31.12.2026 ו-01.01.2027 לא אומתו",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md",
+          "maps-logistics-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-cismigiu-ice-rink",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Patinoarul Cișmigiu",
+      "countryCode": "RO",
+      "categories": [
+        "ice_skating"
+      ],
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "notes": "חלופה מועדפת לאווירת חורף במרכז, מותנית בהפעלת 2026–2027; AFI גיבוי. אין להשתמש במחיר העבר כהצעת מחיר.",
+      "source": "",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Patinoarul+Ci%C8%99migiu+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "מקור משני מתאר פתיחה ב-19.12.2025 בעונה הקודמת ומחיר סשן 50 RON",
+            "evidenceStatus": "verified_past_season",
+            "sourceType": "secondary",
+            "sourceUrls": [
+              "https://travelreview.ro/patinoare-bucuresti/"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "תאריכי ומחירי עונת 2026–2027 לא אומתו",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-therme-bucharest",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Therme București",
+      "countryCode": "RO",
+      "categories": [
+        "spa"
+      ],
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "notes": "מומלץ Elysium יום מלא לזוג; בסיס תקציבי חג 434 RON לפני אוכל/טיפולים/נסיעות. 1.1 מותנה בשעות ובארוחה מתאימה לילנה; 30.12 גיבוי. מחוץ לעיר, להקצות חלון מעבר 60–90 דקות לכל כיוון לפי מחקר הלוגיסטיקה, לא ETA.",
+      "source": "https://www.therme.ro/admission-prices; https://therme.ro/opening-hours; https://therme.ro/frequently-asked-questions; https://therme.ro/your-first-visit-to-therme",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Therme+Bucuresti+Balotesti+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "מחיר מדף יום מלא בחג/חופשה: Elysium 217 RON ו-Palm 187 RON למבוגר",
+            "evidenceStatus": "verified_current_prices",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://www.therme.ro/admission-prices"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "שעות השגרה פורסמו; שעות מיוחדות ל-31.12.2026 ול-01.01.2027 לא אומתו",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://therme.ro/opening-hours"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "כלל הביקור הראשון אוסר הכנסת אוכל ושתייה מבחוץ; התאמת ארוחה לילנה דורשת אישור",
+            "evidenceStatus": "verified_rule_pending_food_adaptation",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://therme.ro/your-first-visit-to-therme"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md",
+          "maps-logistics-2026-11-07.md",
+          "food-reflux-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-mnar-national-art-museum",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Muzeul Național de Artă al României — MNAR",
+      "countryCode": "RO",
+      "categories": [
+        "museum"
+      ],
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "notes": "לרכז ב-30.12, לבחור גלריה/תערוכה ל-75–105 דקות. 1–2 בינואר סגור; מחיר האולמות ההיסטוריים נפרד מכניסה לגלריות.",
+      "source": "https://www.mnar.arts.ro/program; https://www.mnar.arts.ro/index.php",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Muzeul+Na%C8%9Bional+de+Art%C4%83+al+Rom%C3%A2niei+%E2%80%94+MNAR+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "שגרה ד׳–ו׳ 10–18, ש׳–א׳ 11–19, ב׳–ג׳ סגור",
+            "evidenceStatus": "verified_regular_schedule",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://www.mnar.arts.ro/program"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "לוח הכללים הרשמי קובע סגירה ב-1 וב-2 בינואר",
+            "evidenceStatus": "verified_holiday_closure",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://www.mnar.arts.ro/program"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "פתיחה ספציפית ב-30–31.12.2026 כפופה להודעת חג; טרם אומתה",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md",
+          "maps-logistics-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-romanian-athenaeum",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Romanian Athenaeum — Ateneul Român",
+      "countryCode": "RO",
+      "categories": [
+        "architecture_culture"
+      ],
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "notes": "ביקור 30–45 דקות ליד MNAR, או קונצרט במקום ביקור כפול. אין שעה שמורה.",
+      "source": "https://filarmonicaenescu.ro/en/info-program-bilete; https://filarmonicaenescu.ro/en/vizitarea-ateneului-roman",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Romanian+Athenaeum+%E2%80%94+Ateneul+Rom%C3%A2n+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "מחיר מדף לביקור 15 RON; ביקורים מחוץ לחזרות וקונצרטים",
+            "evidenceStatus": "verified_current_prices",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://filarmonicaenescu.ro/en/info-program-bilete"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "בלוחות שנקראו פורסמו חודשים עד נובמבר 2026 בלבד; דצמבר וינואר לא אומתו",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://filarmonicaenescu.ro/en/info-program-bilete"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-palace-of-parliament",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Palace of Parliament — Palatul Parlamentului",
+      "countryCode": "RO",
+      "categories": [
+        "guided_tour"
+      ],
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "notes": "להקצות 90–120 דקות כולל בידוק. לשניים הזמנה טלפונית 24 שעות מראש; כרטיס לא נרכש. כניסת תיירים Izvor 2–4, לא כניסת MNAC.",
+      "source": "https://cic.cdep.ro/en/vizitare",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Palace+of+Parliament+%E2%80%94+Palatul+Parlamentului+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "אתר רשמי שנקרא ישירות מפרסם שגרה 09–17 ומחיר 85 RON למבוגר",
+            "evidenceStatus": "verified_regular_schedule_and_prices",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://cic.cdep.ro/en/vizitare"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "נדרשים מסמך זיהוי פיזי והגעה 15 דקות לפני הסיור; הזמנה לשניים בטלפון 24 שעות מראש",
+            "evidenceStatus": "verified_access_rules",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://cic.cdep.ro/en/vizitare"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "סיור ושעות חג בתאריכי הנסיעה טרם אומתו",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md",
+          "maps-logistics-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-grigore-antipa-museum",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Muzeul Național de Istorie Naturală Grigore Antipa",
+      "countryCode": "RO",
+      "categories": [
+        "museum"
+      ],
+      "priority": "B",
+      "planningStatus": "alternative",
+      "notes": "חלופה ל-MNAR אם מעדיפים טבע; 75–90 דקות. לא לספור Antipa ו-Grigore Antipa כשני מקומות.",
+      "source": "https://antipa.ro/info-utile/program-si-tarife/",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Muzeul+Na%C8%9Bional+de+Istorie+Natural%C4%83+Grigore+Antipa+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "חורף: ג׳–ו׳ 10–18, ש׳–א׳ 10–19, כניסה אחרונה שעה לפני; מחיר מבוגר 32 RON",
+            "evidenceStatus": "verified_regular_schedule_and_prices",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://antipa.ro/info-utile/program-si-tarife/"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "לוח ראש השנה לתאריכי הנסיעה לא אומת",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md",
+          "maps-logistics-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-dimitrie-gusti-village-museum",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Muzeul Național al Satului Dimitrie Gusti",
+      "countryCode": "RO",
+      "categories": [
+        "museum_outdoor"
+      ],
+      "priority": "B",
+      "planningStatus": "alternative",
+      "notes": "חלופה צפונית ל-30–31.12 בכפוף לקור ושעות; לא מתאים ל-1–2 בינואר.",
+      "source": "https://muzeul-satului.ro/acces-muzeu/program-muzeu/",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Muzeul+Na%C8%9Bional+al+Satului+Dimitrie+Gusti+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "האתר הרשמי קובע סגירה ב-1 וב-2 בינואר",
+            "evidenceStatus": "verified_holiday_closure",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://muzeul-satului.ro/acces-muzeu/program-muzeu/"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "שעות החורף הוצגו בתמונות ולא חולצו; לא אומתו ביקור ופתיחה ל-30–31.12",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-carturesti-carusel",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Cărturești Carusel",
+      "countryCode": "RO",
+      "categories": [
+        "bookshop_architecture"
+      ],
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "notes": "Lipscani 55; 20–35 דקות בעיר העתיקה. לא לאמץ שעות חצות מבלוגים בניגוד למפעיל.",
+      "source": "https://carturesti.ro/librarii?lang=en-US",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=C%C4%83rture%C8%99ti+Carusel+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "עמוד המפעיל מציג שעות שגרה 10–22 בכל יום",
+            "evidenceStatus": "verified_regular_schedule",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://carturesti.ro/librarii?lang=en-US"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "שעות חג לתאריכי הנסיעה לא אומתו",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-stavropoleos-monastery",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Mănăstirea Stavropoleos",
+      "countryCode": "RO",
+      "categories": [
+        "religious_architecture"
+      ],
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "notes": "15–25 דקות בכפוף לתפילות. דפי המפעיל סותרים בשעות; צהריים בתוך החלון המשותף הוא שיקול תכנון בלבד.",
+      "source": "https://stavropoleos.ro/contact-2/; https://stavropoleos.ro/descopera/",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=M%C4%83n%C4%83stirea+Stavropoleos+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "Contact מציג 08–19, Discover מציג 12–20; תפילות קודמות לתיירות",
+            "evidenceStatus": "conflicting_official_hours",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://stavropoleos.ro/contact-2/",
+              "https://stavropoleos.ro/descopera/"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "חלון ביקור מדויק לחג לא אומת",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-calea-victoriei",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Calea Victoriei",
+      "countryCode": "RO",
+      "categories": [
+        "street_walk"
+      ],
+      "priority": "A",
+      "planningStatus": "draft_candidate",
+      "notes": "טיול רחוב המחבר את אשכול MNAR והעיר העתיקה; תוכנית אורות 2026 לא אומתה.",
+      "source": "",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Calea+Victoriei+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "המקום מוזכר במחקר כאשכול הליכה/עוגן ציבורי; לא התקבל אימות זהות Maps או שעות/אירוע לתאריכי הטיול",
+            "evidenceStatus": "planning_reference_only",
+            "sourceType": "local_research",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md",
+          "maps-logistics-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-revolution-square",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Piața Revoluției",
+      "countryCode": "RO",
+      "categories": [
+        "public_square"
+      ],
+      "priority": "A",
+      "planningStatus": "draft_candidate",
+      "notes": "לשלב עם MNAR והאתנאום; אין כאן אימות לאירוע חג או כניסה לבניין.",
+      "source": "",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Pia%C8%9Ba+Revolu%C8%9Biei+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "המקום מוזכר במחקר כאשכול הליכה/עוגן ציבורי; לא התקבל אימות זהות Maps או שעות/אירוע לתאריכי הטיול",
+            "evidenceStatus": "planning_reference_only",
+            "sourceType": "local_research",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md",
+          "maps-logistics-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-cec-palace-exterior",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Palatul CEC — exterior",
+      "countryCode": "RO",
+      "categories": [
+        "architecture_exterior"
+      ],
+      "priority": "B",
+      "planningStatus": "draft_candidate",
+      "notes": "עצירת חזית בלבד; אין אימות לכניסה פנימה או סיור.",
+      "source": "",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Palatul+CEC+%E2%80%94+exterior+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "המקום מוזכר במחקר כאשכול הליכה/עוגן ציבורי; לא התקבל אימות זהות Maps או שעות/אירוע לתאריכי הטיול",
+            "evidenceStatus": "planning_reference_only",
+            "sourceType": "local_research",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md",
+          "maps-logistics-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-macca-vilacrosse-passage",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Pasajul Macca-Vilacrosse",
+      "countryCode": "RO",
+      "categories": [
+        "architecture_walk"
+      ],
+      "priority": "B",
+      "planningStatus": "draft_candidate",
+      "notes": "מעבר ועצירת צילום בעיר העתיקה; לא פורסמה כאן הבטחת שעות חג.",
+      "source": "",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Pasajul+Macca-Vilacrosse+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "המקום מוזכר במחקר כאשכול הליכה/עוגן ציבורי; לא התקבל אימות זהות Maps או שעות/אירוע לתאריכי הטיול",
+            "evidenceStatus": "planning_reference_only",
+            "sourceType": "local_research",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md",
+          "maps-logistics-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-bucharest-old-town",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Centrul Vechi / Old Town — Lipscani",
+      "countryCode": "RO",
+      "categories": [
+        "neighborhood_walk"
+      ],
+      "priority": "A",
+      "planningStatus": "draft_candidate",
+      "notes": "אזור רחב ולא כניסה יחידה; לבחור נקודת מפגש. להימנע מלינה מעל רחובות חיי הלילה בלי בדיקת רעש.",
+      "source": "",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Centrul+Vechi+%2F+Old+Town+%E2%80%94+Lipscani+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "המקום מוזכר במחקר כאשכול הליכה/עוגן ציבורי; לא התקבל אימות זהות Maps או שעות/אירוע לתאריכי הטיול",
+            "evidenceStatus": "planning_reference_only",
+            "sourceType": "local_research",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md",
+          "maps-logistics-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-university-square",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Piața Universității",
+      "countryCode": "RO",
+      "categories": [
+        "public_square"
+      ],
+      "priority": "B",
+      "planningStatus": "draft_candidate",
+      "notes": "עוגן לינה ומרכז; הכיכר איננה אישור לשוק כריסמס פעיל.",
+      "source": "",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Pia%C8%9Ba+Universit%C4%83%C8%9Bii+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "המקום מוזכר במחקר כאשכול הליכה/עוגן ציבורי; לא התקבל אימות זהות Maps או שעות/אירוע לתאריכי הטיול",
+            "evidenceStatus": "planning_reference_only",
+            "sourceType": "local_research",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "christmas-attractions-2026-11-07.md",
+          "maps-logistics-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-cismigiu-gardens",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Grădina Cișmigiu",
+      "countryCode": "RO",
+      "categories": [
+        "park"
+      ],
+      "priority": "A",
+      "planningStatus": "draft_candidate",
+      "notes": "פארק במרכז; להבחין בין הפארק לבין משטח ההחלקה העונתי. גישה מעשית בחורף תלויה במזג האוויר ובמצב השבילים.",
+      "source": "https://adpmb.ro/obiective/gradina-cismigiu/",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Gr%C4%83dina+Ci%C8%99migiu+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "מנהל הפארק מזהה את מיקומו בין Regina Elisabeta ל-Știrbei Vodă",
+            "evidenceStatus": "verified_place_identity_source",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://adpmb.ro/obiective/gradina-cismigiu/"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "לא אומתו שעות/הגבלות מיוחדות לחג או הפעלת משטח קרח",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "maps-logistics-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-casa-ceausescu",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Casa Ceaușescu / Palatul Primăverii",
+      "countryCode": "RO",
+      "categories": [
+        "museum_guided_tour"
+      ],
+      "priority": "B",
+      "planningStatus": "alternative",
+      "notes": "Primăverii 50; חלופה ביום צפוני. נדרש מעבר נפרד מ-Antipa ומועד סיור מאושר; לא לשבץ שני סיורים צמודים.",
+      "source": "https://casaceausescu.ro/en/contact/",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Casa+Ceau%C8%99escu+%2F+Palatul+Prim%C4%83verii+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "עמוד המפעיל מציג שלישי–ראשון 10–17 וכתובת Primăverii 50",
+            "evidenceStatus": "verified_regular_schedule",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://casaceausescu.ro/en/contact/"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "מועדי חג וזמינות סיור לתאריכי הנסיעה לא אומתו",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "maps-logistics-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-henri-coanda-airport",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Henri Coandă International Airport — OTP",
+      "countryCode": "RO",
+      "categories": [
+        "transport"
+      ],
+      "priority": "A",
+      "planningStatus": "logistics_anchor",
+      "notes": "בחזור 2.1 המראה 12:00 לפי אירועי הטיסה שנקראו בידי סוכן האב; יעד תכנון ל-Departures עד 09:00. יציאה 07:30–08:00 עם אימות נסיעה. אין אימות חברת תעופה עצמאי במחקר.",
+      "source": "https://www.bucharestairports.ro/en; https://www.bucharestairports.ro/en/transport-acces-to-and-from-the-airport/bus; https://www.bucharestairports.ro/en/access/train",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Henri+Coanda+International+Airport+Departures+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "שדה התעופה מפרסם קו 100 למרכז ורכבת ל-Gara de Nord לאורך היממה",
+            "evidenceStatus": "verified_regular_transport",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://www.bucharestairports.ro/en/transport-acces-to-and-from-the-airport/bus",
+              "https://www.bucharestairports.ro/en/access/train"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "לוחות חג 29.12.2026 ו-02.01.2027 לא אומתו; זמני מעבר במסמכים הם כריות תכנון",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "maps-logistics-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-la-mama-universitate",
+      "tripId": "bucharest-2026-new-year",
+      "name": "La Mama Universitate",
+      "countryCode": "RO",
+      "categories": [
+        "restaurant"
+      ],
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "notes": "חזה עוף 38 RON ובסמטי 16 RON; המרינדה כוללת שמן, שום, פלפל ויין. לבקש נתח ללא מרינדה אם הם טריגרים. העדפה לארוחה פשוטה במרכז.",
+      "source": "https://lamama.ro/la-mama-universitate/; https://lamama.ro/wp-content/uploads/2026/04/meniu1.pdf",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=La+Mama+Universitate+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "תפריט רשמי נבדק במחקר האוכל; המחירים והמרכיבים הם מחירי מקור ולא הצעת מחיר למנה מותאמת או לחג",
+            "evidenceStatus": "verified_menu_at_research_date",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://lamama.ro/la-mama-universitate/",
+              "https://lamama.ro/wp-content/uploads/2026/04/meniu1.pdf"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "פתיחה ותפריט רגיל ל-31.12.2026 בערב ול-01.01.2027 לא אומתו",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "אף מסעדה לא אישרה שינוי מתכון, מעט שומן והיעדר מוצרי חזיר; ההתאמה לילנה טעונה אישור מטבח",
+            "evidenceStatus": "adaptation_unconfirmed",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "food-reflux-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-la-mama-peasant-museum",
+      "tripId": "bucharest-2026-new-year",
+      "name": "La Mama Muzeul Țăranului Român",
+      "countryCode": "RO",
+      "categories": [
+        "restaurant"
+      ],
+      "priority": "B",
+      "planningStatus": "draft_conditional",
+      "notes": "גיבוי ליד Antipa; תפריט רשת כולל עוף ובסמטי. פורסם אירוע Revelion 2027 בסניף ולכן אין להניח תפריט רגיל בערב 31.12.",
+      "source": "https://lamama.ro/la-mama-muzeul-taranului-roman/; https://lamama.ro/wp-content/uploads/2026/04/meniu1.pdf; https://lamama.ro/revelion-2027/",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=La+Mama+Muzeul+%C8%9A%C4%83ranului+Rom%C3%A2n+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "תפריט רשמי נבדק במחקר האוכל; המחירים והמרכיבים הם מחירי מקור ולא הצעת מחיר למנה מותאמת או לחג",
+            "evidenceStatus": "verified_menu_at_research_date",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://lamama.ro/la-mama-muzeul-taranului-roman/",
+              "https://lamama.ro/wp-content/uploads/2026/04/meniu1.pdf"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "פתיחה ותפריט רגיל ל-31.12.2026 בערב ול-01.01.2027 לא אומתו",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "אף מסעדה לא אישרה שינוי מתכון, מעט שומן והיעדר מוצרי חזיר; ההתאמה לילנה טעונה אישור מטבח",
+            "evidenceStatus": "adaptation_unconfirmed",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "food-reflux-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-hanu-lui-manuc",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Hanu’ lui Manuc",
+      "countryCode": "RO",
+      "categories": [
+        "restaurant"
+      ],
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "notes": "פורל בגריל 23.5 RON ל-100 גרם, לברר משקל; פולנטה 11 RON או ירקות מאודים 22 RON. לבקש מעט שמן וללא עגבנייה בירקות. קרוב ל-Unirii והעיר העתיקה.",
+      "source": "https://hanumanucrestaurant.ro/contact/; https://hanumanucrestaurant.ro/wp-content/uploads/2026/10/meniu-mancare-hanuluimanuc-octombrie-romana.pdf",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Hanu%E2%80%99+lui+Manuc+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "תפריט רשמי נבדק במחקר האוכל; המחירים והמרכיבים הם מחירי מקור ולא הצעת מחיר למנה מותאמת או לחג",
+            "evidenceStatus": "verified_menu_at_research_date",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://hanumanucrestaurant.ro/contact/",
+              "https://hanumanucrestaurant.ro/wp-content/uploads/2026/10/meniu-mancare-hanuluimanuc-octombrie-romana.pdf"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "פתיחה ותפריט רגיל ל-31.12.2026 בערב ול-01.01.2027 לא אומתו",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "אף מסעדה לא אישרה שינוי מתכון, מעט שומן והיעדר מוצרי חזיר; ההתאמה לילנה טעונה אישור מטבח",
+            "evidenceStatus": "adaptation_unconfirmed",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "food-reflux-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-casa-oamenilor-de-stiinta",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Casa / Clubul Oamenilor de Știință",
+      "countryCode": "RO",
+      "categories": [
+        "restaurant"
+      ],
+      "priority": "B",
+      "planningStatus": "draft_conditional",
+      "notes": "ליד Romană; עוף בגריל 34 RON, זנדר בגריל 62 RON. שעות לא אומתו. פרסום Revelion 2026 ישן אינו אירוע 2027.",
+      "source": "https://cos-restaurant-bucuresti.ro/contact/; https://cos-restaurant-bucuresti.ro/MeniuRestaurant&Bar.pdf",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Casa+%2F+Clubul+Oamenilor+de+%C8%98tiin%C8%9B%C4%83+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "תפריט רשמי נבדק במחקר האוכל; המחירים והמרכיבים הם מחירי מקור ולא הצעת מחיר למנה מותאמת או לחג",
+            "evidenceStatus": "verified_menu_at_research_date",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://cos-restaurant-bucuresti.ro/contact/",
+              "https://cos-restaurant-bucuresti.ro/MeniuRestaurant&Bar.pdf"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "פתיחה ותפריט רגיל ל-31.12.2026 בערב ול-01.01.2027 לא אומתו",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "אף מסעדה לא אישרה שינוי מתכון, מעט שומן והיעדר מוצרי חזיר; ההתאמה לילנה טעונה אישור מטבח",
+            "evidenceStatus": "adaptation_unconfirmed",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "food-reflux-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-caru-cu-bere",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Caru’ cu Bere",
+      "countryCode": "RO",
+      "categories": [
+        "restaurant"
+      ],
+      "priority": "B",
+      "planningStatus": "draft_conditional",
+      "notes": "גבוהה לאדריכלות ובינונית לאוכל. לברק 120 RON מגיע עם רוטב חמאה-לימון ופולנטה מטוגנת; נדרשות התאמות. סלט קיסר הודו כולל בייקון. פורסם עמוד אירוע 2027 בלי פרטים שנקראו בהצלחה.",
+      "source": "https://www.carucubere.ro/meniu/; https://www.carucubere.ro/wp-content/uploads/2026/09/meniu-mancare-carucubere-septembrie.pdf; https://www.carucubere.ro/revelion-2027/",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Caru%E2%80%99+cu+Bere+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "תפריט רשמי נבדק במחקר האוכל; המחירים והמרכיבים הם מחירי מקור ולא הצעת מחיר למנה מותאמת או לחג",
+            "evidenceStatus": "verified_menu_at_research_date",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://www.carucubere.ro/meniu/",
+              "https://www.carucubere.ro/wp-content/uploads/2026/09/meniu-mancare-carucubere-septembrie.pdf"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "פתיחה ותפריט רגיל ל-31.12.2026 בערב ול-01.01.2027 לא אומתו",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "אף מסעדה לא אישרה שינוי מתכון, מעט שומן והיעדר מוצרי חזיר; ההתאמה לילנה טעונה אישור מטבח",
+            "evidenceStatus": "adaptation_unconfirmed",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "food-reflux-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-humboldt-therme",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Humboldt Restaurant — Therme The Palm",
+      "countryCode": "RO",
+      "categories": [
+        "restaurant"
+      ],
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "notes": "ארוחת צהריים מותנית ביום הספא ורק ללקוחות Therme. טונה 69 RON כוללת טריאקי, לימון ועגבנייה; לבקש להסיר. Chicken gorgonzola כולל בייקון ושמנת; bowl טבעוני כולל ויניגרט הדרים.",
+      "source": "https://www.therme.ro/attractions/humboldt-restaurant; https://cdn.mytherme.app/serve/8e51af9d-cefc-4d5d-b777-800503eefe37; https://www.therme.ro/regulament",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Humboldt+Restaurant+%E2%80%94+Therme+The+Palm+Bucharest+Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "תפריט רשמי נבדק במחקר האוכל; המחירים והמרכיבים הם מחירי מקור ולא הצעת מחיר למנה מותאמת או לחג",
+            "evidenceStatus": "verified_menu_at_research_date",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://www.therme.ro/attractions/humboldt-restaurant",
+              "https://cdn.mytherme.app/serve/8e51af9d-cefc-4d5d-b777-800503eefe37"
+            ],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "פתיחה ותפריט רגיל ל-31.12.2026 בערב ול-01.01.2027 לא אומתו",
+            "evidenceStatus": "not_published_or_not_verified",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          },
+          {
+            "claim": "אף מסעדה לא אישרה שינוי מתכון, מעט שומן והיעדר מוצרי חזיר; ההתאמה לילנה טעונה אישור מטבח",
+            "evidenceStatus": "adaptation_unconfirmed",
+            "sourceType": "official",
+            "sourceUrls": [],
+            "verifiedAt": "2026-11-07",
+            "verificationMethod": "synthesis_of_trip_research"
+          }
+        ],
+        "sourceDocuments": [
+          "food-reflux-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-lumina-park",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Lumina Park — Grădina Botanică",
+      "countryCode": "RO",
+      "categories": [
+        "light_park"
+      ],
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "notes": "העונה 16.10.2026–17.1.2027 מאומתת; תעריף חג 24.12–3.1. מחיר מדף בחג: 69 RON לאדם. שעות שגרה 17:30–21:30 אצל המפעיל מול 18:00–22:00 בהודעת האוניברסיטה. שעות 31.12 טרם אומתו. חלון ביקור בטיוטה רק מ-18:00. כתובת: Șoseaua Cotroceni 32.",
+      "source": "https://lumina-park.ro/; https://unibuc.ro/gradina-botanica-a-universitatii-din-bucuresti-se-transforma-in-lumina-park-si-invita-vizitatorii-sa-faca-ocolul-pamantului-pana-pe-17-ianuarie-2027/",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Lumina%20Park%20%E2%80%94%20Gr%C4%83dina%20Botanic%C4%83%20Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "העונה 16.10.2026–17.1.2027 מאומתת; תעריף חג 24.12–3.1. מחיר מדף בחג: 69 RON לאדם. שעות שגרה 17:30–21:30 אצל המפעיל מול 18:00–22:00 בהודעת האוניברסיטה. שעות 31.12 טרם אומתו. חלון ביקור בטיוטה רק מ-18:00. כתובת: Șoseaua Cotroceni 32.",
+            "evidenceStatus": "verified_season_only",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://lumina-park.ro/",
+              "https://unibuc.ro/gradina-botanica-a-universitatii-din-bucuresti-se-transforma-in-lumina-park-si-invita-vizitatorii-sa-faca-ocolul-pamantului-pana-pe-17-ianuarie-2027/"
+            ],
+            "verifiedAt": "2026-11-07"
+          }
+        ],
+        "sourceDocuments": [
+          "late-markets-addendum-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-baneasa-christmas-world",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Băneasa Christmas World",
+      "countryCode": "RO",
+      "categories": [
+        "christmas_market"
+      ],
+      "priority": "B",
+      "planningStatus": "unverified_season",
+      "notes": "מקורות עונת 2025 בלבד, עם סתירה בתאריך הסיום. אין אישור לתאריכים ולשעות של 2026–2027.",
+      "source": "https://baneasa.ro/ro/articol/baneasa-christmas-world; https://baneasa-christmas-world.ro/",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=B%C4%83neasa%20Christmas%20World%20Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "מקורות עונת 2025 בלבד, עם סתירה בתאריך הסיום. אין אישור לתאריכים ולשעות של 2026–2027.",
+            "evidenceStatus": "unknown_current_season",
+            "sourceType": "mixed_or_unavailable",
+            "sourceUrls": [
+              "https://baneasa.ro/ro/articol/baneasa-christmas-world",
+              "https://baneasa-christmas-world.ro/"
+            ],
+            "verifiedAt": "2026-11-07"
+          }
+        ],
+        "sourceDocuments": [
+          "late-markets-addendum-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-taramul-de-gheata",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Tărâmul de Gheață — Parcul Lumea Copiilor",
+      "countryCode": "RO",
+      "categories": [
+        "christmas_market"
+      ],
+      "priority": "C",
+      "planningStatus": "unverified_season",
+      "notes": "אתר המפעיל לא נטען; תאריכי 2026 לא אומתו. לא לשלב ברצף קריטי.",
+      "source": "https://taramuldegheata.ro/",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=T%C4%83r%C3%A2mul%20de%20Ghea%C8%9B%C4%83%20%E2%80%94%20Parcul%20Lumea%20Copiilor%20Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "אתר המפעיל לא נטען; תאריכי 2026 לא אומתו. לא לשלב ברצף קריטי.",
+            "evidenceStatus": "unknown_current_season",
+            "sourceType": "mixed_or_unavailable",
+            "sourceUrls": [
+              "https://taramuldegheata.ro/"
+            ],
+            "verifiedAt": "2026-11-07"
+          }
+        ],
+        "sourceDocuments": [
+          "late-markets-addendum-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-occ-christmas-story",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Poveste de Crăciun — Opera Comică pentru Copii",
+      "countryCode": "RO",
+      "categories": [
+        "christmas_market"
+      ],
+      "priority": "C",
+      "planningStatus": "rejected_dates",
+      "notes": "מהדורה רשמית: 20.11–22.12.2026. אינה חופפת להגעה ב-29.12.",
+      "source": "https://operacomica.ro/festival/poveste-de-craciun/",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Poveste%20de%20Cr%C4%83ciun%20%E2%80%94%20Opera%20Comic%C4%83%20pentru%20Copii%20Romania",
+        "openingForTrip": "closed",
+        "dateEvidence": [
+          {
+            "claim": "מהדורה רשמית: 20.11–22.12.2026. אינה חופפת להגעה ב-29.12.",
+            "evidenceStatus": "date_mismatch",
+            "sourceType": "official",
+            "sourceUrls": [
+              "https://operacomica.ro/festival/poveste-de-craciun/"
+            ],
+            "verifiedAt": "2026-11-07"
+          }
+        ],
+        "sourceDocuments": [
+          "late-markets-addendum-2026-11-07.md"
+        ]
+      }
+    },
+    {
+      "id": "bucharest-brasov-christmas-market",
+      "tripId": "bucharest-2026-new-year",
+      "name": "Brașov Christmas Market — אפשרות יום חלופית",
+      "countryCode": "RO",
+      "categories": [
+        "christmas_market"
+      ],
+      "priority": "C",
+      "planningStatus": "unverified_season",
+      "notes": "27.11.2026–3.1.2027 מופיעים במקורות משניים בלבד; האסמכתאה העירונית החזירה 404 וה-PDF לא נטען. לא אושרו פעילות או רכבות. זהו יום מלא במקום יום מוזיאונים, ולא תוספת קטנה למסלול.",
+      "source": "https://www.brasovcity.ro/",
+      "lastVerifiedAt": "2026-11-07",
+      "metadata": {
+        "mapsIdentityVerified": false,
+        "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Bra%C8%99ov%20Christmas%20Market%20%E2%80%94%20%D7%90%D7%A4%D7%A9%D7%A8%D7%95%D7%AA%20%D7%99%D7%95%D7%9D%20%D7%97%D7%9C%D7%95%D7%A4%D7%99%D7%AA%20Romania",
+        "openingForTrip": "unknown",
+        "dateEvidence": [
+          {
+            "claim": "27.11.2026–3.1.2027 מופיעים במקורות משניים בלבד; האסמכתאה העירונית החזירה 404 וה-PDF לא נטען. לא אושרו פעילות או רכבות. זהו יום מלא במקום יום מוזיאונים, ולא תוספת קטנה למסלול.",
+            "evidenceStatus": "unknown_current_season",
+            "sourceType": "mixed_or_unavailable",
+            "sourceUrls": [
+              "https://www.brasovcity.ro/"
+            ],
+            "verifiedAt": "2026-11-07"
+          }
+        ],
+        "sourceDocuments": [
+          "late-markets-addendum-2026-11-07.md"
+        ]
+      }
+    }
+  ],
+  "itinerary": [
+    {
+      "id": "bucharest-2026-20261229-01",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-29",
+      "startTime": "12:30",
+      "endTime": "13:00",
+      "title": "ארוחת צהריים קלה לפני הטיסה",
+      "itemType": "lunch",
+      "description": "ארוחה פשוטה ללא חזיר ומעט שומן; מיקום לפי הגעה לשדה. זמן הגעה לשדה ההלוך ייקבע לפי הכרטיס, בלי להמציא מסלול מהבית.",
+      "status": "draft",
+      "sortOrder": 1,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261229-02",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-29",
+      "startTime": "13:00",
+      "endTime": "15:35",
+      "title": "שדה המוצא — צ׳ק־אין ובידוק",
+      "itemType": "logistics",
+      "description": "חלון טיוטה בלבד; דרישת ההגעה של חברת התעופה גוברת. לא נוצר אירוע יומן.",
+      "status": "draft",
+      "sortOrder": 2,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261229-03",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-29",
+      "startTime": "15:35",
+      "endTime": "18:30",
+      "title": "טיסה לבוקרשט",
+      "itemType": "flight",
+      "description": "זמנים מאירוע הטיסה הקיים; אין אימות חי מול חברת התעופה. Europe/Bucharest ו-Asia/Jerusalem UTC+02 בתאריכים האלה.",
+      "status": "draft",
+      "sortOrder": 3,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "calendarEventId": "_8l2j4cpg68p34b9p6d0jeb9k70s3gb9p8gq46ba56t0jeha464s46chm6o"
+    },
+    {
+      "id": "bucharest-2026-20261229-04",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-29",
+      "startTime": "18:30",
+      "endTime": "19:30",
+      "title": "גבולות, כבודה ויציאה מהשדה",
+      "itemType": "logistics",
+      "description": "כרית טיוטה של 60 דקות לגבולות ולכבודה, שעשויה להתארך ל-90 דקות. אין התחייבות להספיק ארוחה במהלך הטיפול בגבולות.",
+      "status": "draft",
+      "sortOrder": 4,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07",
+        "catalogPlaceId": "henri-coanda-airport"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "placeId": "bucharest-henri-coanda-airport"
+    },
+    {
+      "id": "bucharest-2026-20261229-08",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-29",
+      "startTime": "19:30",
+      "endTime": "20:00",
+      "title": "ארוחת ערב קלה אחרי היציאה מהשדה",
+      "itemType": "meal",
+      "description": "ארוחה קטנה שהוכנה מראש, או רכישה רק אם נמצא אוכל מתאים באזור יציאת OTP. אין מסעדה פתוחה מאומתת. לארגן גיבוי לטיסה ולהגעה לפי כללי המזון. אם אין זמן, לתכנן מנה קלה מוקדם יותר בטיסה ולפי הסבילות בהגעה.",
+      "status": "draft",
+      "sortOrder": 5,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261229-05",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-29",
+      "startTime": "20:00",
+      "endTime": "21:15",
+      "title": "העברה לעיר ולדירה",
+      "itemType": "transfer",
+      "description": "75 דקות הקצאה להעברה לעיר ולדירה, כולל איסוף והמתנה; זה אינו ETA. אם היציאה מהטרמינל מתארכת, יתר הערב זז בהתאם. אין רכב שכור.",
+      "status": "draft",
+      "sortOrder": 5,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261229-06",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-29",
+      "startTime": "21:15",
+      "endTime": "21:45",
+      "title": "צ׳ק־אין, בדיקת המטבח ומצרכים",
+      "itemType": "check_in",
+      "description": "דירה טרם נרכשה; זו נקודת זמן מותנית. לוודא כניסה מאוחרת, חימום, מים חמים, כיריים, מקרר, כלי בישול ומחבת נקיים. להביא ארוחת גיבוי קלה.",
+      "status": "draft",
+      "sortOrder": 6,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261229-07",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-29",
+      "startTime": "21:45",
+      "endTime": "22:15",
+      "title": "מקלחת ומנוחה",
+      "itemType": "personal",
+      "description": "אחרי היציאה האחרונה. אם רעבים, ארוחה קטנה לפי הסבילות; לא ארוחה שומנית מאוחרת.",
+      "status": "draft",
+      "sortOrder": 7,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261230-01",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-30",
+      "startTime": "08:00",
+      "endTime": "08:45",
+      "title": "ארוחת בוקר בדירה",
+      "itemType": "meal",
+      "description": "חביתה במעט שמן וכריכים לפי הסבילות; קפה רק אם מתאים לילנה.",
+      "status": "draft",
+      "sortOrder": 1,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261230-02",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-30",
+      "startTime": "08:45",
+      "endTime": "09:30",
+      "title": "נסיעה לאזור MNAR וכיכר המהפכה",
+      "itemType": "transfer",
+      "description": "45 דקות הקצאה מהנחת בסיס Gara de Nord; המסלול הסופי תלוי בדירה ובאימות ניתוב.",
+      "status": "draft",
+      "sortOrder": 2,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261230-03",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-30",
+      "startTime": "09:30",
+      "endTime": "10:00",
+      "title": "Piața Revoluției והיערכות למוזיאון",
+      "itemType": "walk",
+      "description": "חזיתות וכיכר; מרווח כניסה. לא אירוע חג מאומת.",
+      "status": "draft",
+      "sortOrder": 3,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07",
+        "catalogPlaceId": "revolution-square"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "placeId": "bucharest-revolution-square"
+    },
+    {
+      "id": "bucharest-2026-20261230-04",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-30",
+      "startTime": "10:00",
+      "endTime": "11:15",
+      "title": "MNAR — גלריה נבחרת בארמון המלכותי",
+      "itemType": "museum",
+      "description": "פתיחת יום ד׳ בשגרה 10:00; חג 30.12 טרם אומת. לבחור גלריה או תערוכה ל-75 דקות. 1–2 בינואר סגור לפי הכללים הרשמיים.",
+      "status": "draft",
+      "sortOrder": 4,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07",
+        "catalogPlaceId": "mnar-national-art-museum"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "placeId": "bucharest-mnar-national-art-museum"
+    },
+    {
+      "id": "bucharest-2026-20261230-05",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-30",
+      "startTime": "11:15",
+      "endTime": "11:30",
+      "title": "הליכה לאתנאום",
+      "itemType": "transfer",
+      "description": "15 דקות הקצאה בין האתרים, לא זמן ניתוב מאומת.",
+      "status": "draft",
+      "sortOrder": 5,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261230-06",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-30",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "title": "האתנאום הרומני — ביקור מותנה",
+      "itemType": "visit",
+      "description": "30 דקות פנימה רק אם לוח דצמבר מאפשר; מחיר מדף 15 RON. אם יש חזרה/סגירה: חזית וגנים במקום.",
+      "status": "draft",
+      "sortOrder": 6,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07",
+        "catalogPlaceId": "romanian-athenaeum"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "placeId": "bucharest-romanian-athenaeum"
+    },
+    {
+      "id": "bucharest-2026-20261230-07",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-30",
+      "startTime": "12:00",
+      "endTime": "12:30",
+      "title": "הליכה למסעדה במרכז",
+      "itemType": "transfer",
+      "description": "30 דקות לצילום קצר והליכה ל-La Mama Universitate; התאמה סופית לפי לינה ופתיחה.",
+      "status": "draft",
+      "sortOrder": 7,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261230-08",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-30",
+      "startTime": "12:30",
+      "endTime": "13:30",
+      "title": "צהריים — La Mama Universitate",
+      "itemType": "lunch",
+      "description": "עוף ללא מרינדה שמפריעה ובסמטי; מעט שמן, ללא חזיר. אישור מטבח נדרש; מחירי מקור 38+16 RON.",
+      "status": "draft",
+      "sortOrder": 8,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07",
+        "catalogPlaceId": "la-mama-universitate"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "placeId": "bucharest-la-mama-universitate"
+    },
+    {
+      "id": "bucharest-2026-20261230-09",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-30",
+      "startTime": "13:30",
+      "endTime": "14:10",
+      "title": "Calea Victoriei וחזית ארמון CEC",
+      "itemType": "walk",
+      "description": "הליכה דרומה עם עצירות צילום קצרות. חזית CEC בלבד, ללא כניסה מובטחת.",
+      "status": "draft",
+      "sortOrder": 9,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07",
+        "catalogPlaceId": "calea-victoriei"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "placeId": "bucharest-calea-victoriei"
+    },
+    {
+      "id": "bucharest-2026-20261230-10",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-30",
+      "startTime": "14:10",
+      "endTime": "14:35",
+      "title": "Pasajul Macca-Vilacrosse",
+      "itemType": "visit",
+      "description": "מעבר וצילום; אם מזג האוויר קשה משתמשים בבלוק כהפסקה מחוממת.",
+      "status": "draft",
+      "sortOrder": 10,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07",
+        "catalogPlaceId": "macca-vilacrosse-passage"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "placeId": "bucharest-macca-vilacrosse-passage"
+    },
+    {
+      "id": "bucharest-2026-20261230-11",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-30",
+      "startTime": "14:35",
+      "endTime": "15:05",
+      "title": "Cărturești Carusel",
+      "itemType": "visit",
+      "description": "30 דקות בחנות הספרים; פתיחת חג לא מאומתת. אם סגור: הליכה קצרה ב-Lipscani.",
+      "status": "draft",
+      "sortOrder": 11,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07",
+        "catalogPlaceId": "carturesti-carusel"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "placeId": "bucharest-carturesti-carusel"
+    },
+    {
+      "id": "bucharest-2026-20261230-12",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-30",
+      "startTime": "15:05",
+      "endTime": "15:20",
+      "title": "הליכה ל-Stavropoleos",
+      "itemType": "transfer",
+      "description": "מרווח קצר בתוך העיר העתיקה; אין ETA מאומת.",
+      "status": "draft",
+      "sortOrder": 12,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261230-13",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-30",
+      "startTime": "15:20",
+      "endTime": "15:45",
+      "title": "Stavropoleos — כנסייה וחצר",
+      "itemType": "visit",
+      "description": "בכפוף לתפילות. המקורות הרשמיים סותרים בשעות, ולכן אין כניסה מובטחת.",
+      "status": "draft",
+      "sortOrder": 13,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07",
+        "catalogPlaceId": "stavropoleos-monastery"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "placeId": "bucharest-stavropoleos-monastery"
+    },
+    {
+      "id": "bucharest-2026-20261230-14",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-30",
+      "startTime": "15:45",
+      "endTime": "16:30",
+      "title": "Lipscani והעיר העתיקה",
+      "itemType": "walk",
+      "description": "מסלול רחובות קצר וגמיש; אין צורך לנסוע בין כל עצירה.",
+      "status": "draft",
+      "sortOrder": 14,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07",
+        "catalogPlaceId": "bucharest-old-town"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "placeId": "bucharest-bucharest-old-town"
+    },
+    {
+      "id": "bucharest-2026-20261230-15",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-30",
+      "startTime": "16:30",
+      "endTime": "17:00",
+      "title": "הפסקה מחוממת ונשנוש קל",
+      "itemType": "break",
+      "description": "מנה קטנה לפי הסבילות, בלי להניח שקינוח/מנטה/קפה מתאים לרפלוקס.",
+      "status": "draft",
+      "sortOrder": 15,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261230-16",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-30",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "title": "הליכת ערב לכיוון Cișmigiu",
+      "itemType": "walk",
+      "description": "פארק וחזיתות לפי מזג האוויר; אין משטח קרח עונתי מאומת ואין תוכנית אורות מאומתת.",
+      "status": "draft",
+      "sortOrder": 16,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07",
+        "catalogPlaceId": "cismigiu-gardens"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "placeId": "bucharest-cismigiu-gardens"
+    },
+    {
+      "id": "bucharest-2026-20261230-17",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-30",
+      "startTime": "18:00",
+      "endTime": "18:30",
+      "title": "מעבר למסעדת הערב",
+      "itemType": "transfer",
+      "description": "30 דקות הקצאה; לצמצם את ההליכה הקודמת אם נדרש זמן נוסף.",
+      "status": "draft",
+      "sortOrder": 17,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261230-18",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-30",
+      "startTime": "18:30",
+      "endTime": "19:30",
+      "title": "ערב — Hanu’ lui Manuc",
+      "itemType": "meal",
+      "description": "פורל בגריל עם פולנטה פשוטה; לברר משקל, שמן ומרינדה. התאמת מטבח ושעות דורשות אישור.",
+      "status": "draft",
+      "sortOrder": 18,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07",
+        "catalogPlaceId": "hanu-lui-manuc"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "placeId": "bucharest-hanu-lui-manuc"
+    },
+    {
+      "id": "bucharest-2026-20261230-19",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-30",
+      "startTime": "19:30",
+      "endTime": "20:15",
+      "title": "חזרה לדירה",
+      "itemType": "transfer",
+      "description": "45 דקות הקצאה; מטרו/מונית בהתאם לדירה ולפתיחה בפועל.",
+      "status": "draft",
+      "sortOrder": 19,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261230-20",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-30",
+      "startTime": "20:15",
+      "endTime": "20:45",
+      "title": "מקלחת והתארגנות למחר",
+      "itemType": "personal",
+      "description": "אחרי היציאה האחרונה; להכין אישורי סיור ומסמכים פיזיים.",
+      "status": "draft",
+      "sortOrder": 20,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261231-01",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-31",
+      "startTime": "08:00",
+      "endTime": "08:45",
+      "title": "ארוחת בוקר בדירה",
+      "itemType": "meal",
+      "description": "ארוחה פשוטה; לקחת דרכונים פיזיים לסיור אם יאושר.",
+      "status": "draft",
+      "sortOrder": 1,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261231-02",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-31",
+      "startTime": "08:45",
+      "endTime": "09:30",
+      "title": "מעבר לכניסת המבקרים בפרלמנט",
+      "itemType": "transfer",
+      "description": "45 דקות הקצאה; Izvor 2–4. לא לנווט למרכז הבניין או לכניסת MNAC.",
+      "status": "draft",
+      "sortOrder": 2,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261231-03",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-31",
+      "startTime": "09:30",
+      "endTime": "10:00",
+      "title": "בידוק והתייצבות לסיור",
+      "itemType": "queue",
+      "description": "30 דקות מרווח; המפעיל דורש התייצבות לפחות 15 דקות לפני. הסיור עצמו עדיין לא הוזמן.",
+      "status": "draft",
+      "sortOrder": 3,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261231-04",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-31",
+      "startTime": "10:00",
+      "endTime": "11:15",
+      "title": "סיור בפרלמנט — מותנה",
+      "itemType": "guided_tour",
+      "description": "חלון מבוקש בלבד; מחיר נוכחי 85 RON למבוגר. אישור פתיחה ל-31.12 והזמנה טלפונית 24 שעות מראש נדרשים. אם אין סיור: חזיתות ו-Izvor באותו בלוק.",
+      "status": "draft",
+      "sortOrder": 4,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07",
+        "catalogPlaceId": "palace-of-parliament"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "placeId": "bucharest-palace-of-parliament"
+    },
+    {
+      "id": "bucharest-2026-20261231-05",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-31",
+      "startTime": "11:15",
+      "endTime": "12:15",
+      "title": "העברה ל-AFI Cotroceni",
+      "itemType": "transfer",
+      "description": "60 דקות הקצאה כולל גישה לקניון; אין ETA מאומת. AFI ושעות החג טעונים אישור.",
+      "status": "draft",
+      "sortOrder": 5,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261231-06",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-31",
+      "startTime": "12:15",
+      "endTime": "12:30",
+      "title": "בחירת ארוחה מתאימה בקניון",
+      "itemType": "logistics",
+      "description": "לבדוק מעט שמן וללא חזיר מול מטבח. אין מסעדה ב-AFI שאישרה התאמה; להביא גיבוי מתוכנן אם אין אפשרות.",
+      "status": "draft",
+      "sortOrder": 6,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261231-07",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-31",
+      "startTime": "12:30",
+      "endTime": "13:30",
+      "title": "צהריים קלים ב-AFI",
+      "itemType": "lunch",
+      "description": "תנאי לשילוב הבלוק: ארוחה מתאימה מאושרת או גיבוי מהדירה לפי כללי המקום. עוף/דג פשוט ואורז, ללא רטבים לפי הטריגרים.",
+      "status": "draft",
+      "sortOrder": 7,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261231-08",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-31",
+      "startTime": "13:30",
+      "endTime": "14:00",
+      "title": "ציוד, החלפת נעליים ותור להחלקה",
+      "itemType": "queue",
+      "description": "30 דקות השכרה ולוקר; סשן 14:00 הוא סשן שגרה ולא אישור חג.",
+      "status": "draft",
+      "sortOrder": 8,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261231-09",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-31",
+      "startTime": "14:00",
+      "endTime": "15:30",
+      "title": "Cotroceni On Ice — סשן 90 דקות",
+      "itemType": "ice_skating",
+      "description": "שעות חג ופתיחת הקניון 31.12 טעונות אישור. בסיס תקציבי 120 RON לזוג עם השכרה. אין הבטחת מדריך בחופשת החורף.",
+      "status": "draft",
+      "sortOrder": 9,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07",
+        "catalogPlaceId": "afi-cotroceni-on-ice"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "placeId": "bucharest-afi-cotroceni-on-ice"
+    },
+    {
+      "id": "bucharest-2026-20261231-10",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-31",
+      "startTime": "15:30",
+      "endTime": "16:00",
+      "title": "החזרת ציוד והתארגנות",
+      "itemType": "logistics",
+      "description": "ייבוש והחלפת נעליים; מרווח אחרי החלקה.",
+      "status": "draft",
+      "sortOrder": 10,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261231-11",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-31",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "title": "הפסקה מחוממת ונשנוש קל באזור AFI/Cotroceni",
+      "itemType": "transfer",
+      "description": "הפסקה בתוך מבנה מחומם ונשנוש קל לפי הסבילות, לפני פארק האורות. זהו בלוק גמיש שאינו מחייב קניות; אין להגיע לפארק לפני פתיחתו.",
+      "status": "draft",
+      "sortOrder": 11,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261231-17",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-31",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "title": "העברה לגן הבוטני ומרווח כניסה מותנה",
+      "itemType": "transfer",
+      "description": "60 דקות הקצאה להעברה, תור וכניסה. שעות 31.12 טרם אומתו; אין כניסה לפני אישור פתיחה. אם הפארק סגור, מחליפים את הבלוק בהליכת מרכז ובארוחה מוקדמת.",
+      "status": "draft",
+      "sortOrder": 12,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261231-12",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-31",
+      "startTime": "18:00",
+      "endTime": "19:30",
+      "title": "Lumina Park — מסלול אורות מותנה",
+      "itemType": "visit",
+      "description": "חלון של 90 דקות לפארק אורות בגן הבוטני. העונה מאומתת עד 17.1.2027. המפעיל מפרסם בשגרה 17:30–21:30, בעוד הודעת האוניברסיטה מציגה 18:00–22:00; 18:00 היא שעת תכנון מותנית בלבד. יש לבדוק שעות 31.12 ואורך מסלול לפני רכישה.",
+      "status": "draft",
+      "sortOrder": 12,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07",
+        "catalogPlaceId": "lumina-park"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "placeId": "bucharest-lumina-park"
+    },
+    {
+      "id": "bucharest-2026-20261231-13",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-31",
+      "startTime": "19:30",
+      "endTime": "20:15",
+      "title": "העברה מ-Lumina Park לארוחת הערב",
+      "itemType": "transfer",
+      "description": "45 דקות הקצאה כולל יציאה והזמנת מונית/תחבורה. אם אין ניתוב מתאים לקצר או לוותר על הפארק; ארוחת ערב נשמרת ב-18:30.",
+      "status": "draft",
+      "sortOrder": 13,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261231-14",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-31",
+      "startTime": "20:15",
+      "endTime": "21:00",
+      "title": "ארוחת ערב לשנה החדשה — מותאמת וקלה",
+      "itemType": "meal",
+      "description": "ארוחה קלה ומותאמת במסעדה שאישרה תפריט ושעות חג, או בדירה. השעה מאוחרת מהרגיל בגלל פארק האורות. אם זה אינו מתאים לילנה, מוותרים על Lumina ואוכלים ב-18:30–19:30. לא מתוכננת ארוחה כבדה בחצות.",
+      "status": "draft",
+      "sortOrder": 14,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261231-15",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-31",
+      "startTime": "21:00",
+      "endTime": "21:30",
+      "title": "מעבר לבילוי ערב לפי התוכנית שתתפרסם",
+      "itemType": "transfer",
+      "description": "מסלול קצר עם יעד חזרה מוגדר; לא להסתמך על מונית מזדמנת בחצות.",
+      "status": "draft",
+      "sortOrder": 15,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20261231-16",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2026-12-31",
+      "startTime": "21:30",
+      "endTime": "23:59",
+      "title": "ערב השנה החדשה — תוכן גמיש",
+      "itemType": "leisure",
+      "description": "בילוי מחומם ויציאות קצרות למרכז לפי העדפה ופתיחה; אירוע, זיקוקים ומופע אינם מאומתים ולא נרכשו. אפשר להחליף בערב בדירה. אין חובה להמתין בחוץ שעות.",
+      "status": "draft",
+      "sortOrder": 16,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20270101-01",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2027-01-01",
+      "startTime": "00:00",
+      "endTime": "00:45",
+      "title": "חזרה מהבילוי",
+      "itemType": "transfer",
+      "description": "בלוק נפרד ביום 1.1; אם חוגגים בדירה אין נסיעה. לבדוק תחבורה וחסימות מראש.",
+      "status": "draft",
+      "sortOrder": 1,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20270101-02",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2027-01-01",
+      "startTime": "00:45",
+      "endTime": "01:15",
+      "title": "מקלחת ושינה",
+      "itemType": "personal",
+      "description": "אחרי היציאה האחרונה; אפשר לסיים את ערב השנה החדשה מוקדם יותר כדי לשמור על יום הספא.",
+      "status": "draft",
+      "sortOrder": 2,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20270101-03",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2027-01-01",
+      "startTime": "08:00",
+      "endTime": "08:30",
+      "title": "ארוחת בוקר בדירה",
+      "itemType": "meal",
+      "description": "פשוטה וקלה לפני הספא; להביא בגד ים, כפכפים ומגבת.",
+      "status": "draft",
+      "sortOrder": 3,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20270101-04",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2027-01-01",
+      "startTime": "08:30",
+      "endTime": "10:00",
+      "title": "העברה ל-Therme",
+      "itemType": "transfer",
+      "description": "90 דקות הקצאה מדלת הדירה; מחוץ למרכז. זמן הנסיעה לא אומת והמתחם עשוי לפתוח מאוחר בחג.",
+      "status": "draft",
+      "sortOrder": 4,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20270101-05",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2027-01-01",
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "title": "כניסה, צמיד ומלתחות",
+      "itemType": "queue",
+      "description": "מותנה בפתיחת 1.1 ובאישור תפריט מתאים לפני כרטוס. אין כרטיס שנרכש או עיסוי שהוזמן.",
+      "status": "draft",
+      "sortOrder": 5,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20270101-06",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2027-01-01",
+      "startTime": "10:30",
+      "endTime": "12:30",
+      "title": "Therme — Elysium ו-The Palm",
+      "itemType": "spa",
+      "description": "פתיחת יום החג לא אומתה; כרטיס Elysium כולל Palm/Galaxy. סאונות וטקסי Aufguss לפי לוח היום, בלי התחייבות לטקס מסוים.",
+      "status": "draft",
+      "sortOrder": 6,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07",
+        "catalogPlaceId": "therme-bucharest"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "placeId": "bucharest-therme-bucharest"
+    },
+    {
+      "id": "bucharest-2026-20270101-07",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2027-01-01",
+      "startTime": "12:30",
+      "endTime": "13:15",
+      "title": "צהריים ב-Humboldt — מותנה התאמה",
+      "itemType": "lunch",
+      "description": "יש לבדוק מנה דלת שומן וללא חזיר, לימון/טריאקי/עגבנייה לפי הסבילות. אין הכנסת אוכל מבחוץ לפי הכלל הכללי; אם אין פתרון מתאים, מחליפים יום/תוכנית לפני קניית כרטיס.",
+      "status": "draft",
+      "sortOrder": 7,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07",
+        "catalogPlaceId": "humboldt-therme"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "placeId": "bucharest-humboldt-therme"
+    },
+    {
+      "id": "bucharest-2026-20270101-08",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2027-01-01",
+      "startTime": "13:15",
+      "endTime": "16:45",
+      "title": "Therme — המשך יום הספא",
+      "itemType": "spa",
+      "description": "סך חלון במתחם 6 שעות ורבע כולל ארוחה. הפסקות ומים לפי הצורך; מחירים נוכחיים: 434 RON לזוג Elysium ליום מלא בתעריף חג. אין הבטחת עיסוי.",
+      "status": "draft",
+      "sortOrder": 8,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07",
+        "catalogPlaceId": "therme-bucharest"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "placeId": "bucharest-therme-bucharest"
+    },
+    {
+      "id": "bucharest-2026-20270101-09",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2027-01-01",
+      "startTime": "16:45",
+      "endTime": "17:00",
+      "title": "מקלחת, הלבשה ויציאה מהספא",
+      "itemType": "personal",
+      "description": "מקלחת מתוכננת אחרי הפעילות האחרונה במים; לחשב חיובים בצמיד ולוודא הסעה.",
+      "status": "draft",
+      "sortOrder": 9,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20270101-10",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2027-01-01",
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "title": "העברה לארוחת ערב בעיר",
+      "itemType": "transfer",
+      "description": "90 דקות הקצאה כולל איסוף; אין ETA או רכב מוזמן. להזיז יציאה מוקדם יותר אם זה נדרש לשעת הארוחה.",
+      "status": "draft",
+      "sortOrder": 10,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20270101-11",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2027-01-01",
+      "startTime": "18:30",
+      "endTime": "19:30",
+      "title": "ארוחת ערב פשוטה בעיר או בדירה",
+      "itemType": "meal",
+      "description": "מסעדה רק אם מאשרת פתיחת 1.1 ומנה מתאימה. גיבוי: מצרכים ומטבח בדירה שנבחרה. אין מסעדה מאושרת לחג.",
+      "status": "draft",
+      "sortOrder": 11,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20270101-12",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2027-01-01",
+      "startTime": "19:30",
+      "endTime": "20:15",
+      "title": "חזרה לדירה והתארגנות לחזור",
+      "itemType": "logistics",
+      "description": "אם אוכלים בדירה הבלוק משמש אריזה. לאשר הסעה, המראה ודרך גישה ל-Departures; מקלחת נוספת לפי הצורך אחרי היציאה האחרונה.",
+      "status": "draft",
+      "sortOrder": 12,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20270102-01",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2027-01-02",
+      "startTime": "06:45",
+      "endTime": "07:15",
+      "title": "ארוחת בוקר והכנת אוכל קל לדרך",
+      "itemType": "meal",
+      "description": "מטבח הדירה מאפשר חביתה/כריך; להכין מנה קלה לצהריים סביב 12:30 בזמן הטיסה לפי כללי הביטחון והחברה.",
+      "status": "draft",
+      "sortOrder": 1,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20270102-02",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2027-01-02",
+      "startTime": "07:15",
+      "endTime": "07:30",
+      "title": "צ׳ק־אאוט",
+      "itemType": "check_out",
+      "description": "לפי הוראות הדירה; לא נרכשה הזמנה. לבדוק דרכונים, כרטיסים, מטענים וכיבוי כיריים.",
+      "status": "draft",
+      "sortOrder": 2,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20270102-03",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2027-01-02",
+      "startTime": "07:30",
+      "endTime": "09:00",
+      "title": "העברה ל-OTP — יעד הגעה 09:00",
+      "itemType": "transfer",
+      "description": "90 דקות כרית תכנון. לצאת 07:30, אחרי אישור הסעה ערב קודם; דרישת חברת התעופה גוברת.",
+      "status": "draft",
+      "sortOrder": 3,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07",
+        "catalogPlaceId": "henri-coanda-airport"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "placeId": "bucharest-henri-coanda-airport"
+    },
+    {
+      "id": "bucharest-2026-20270102-04",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2027-01-02",
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "title": "מסירת כבודה, ביטחון ועלייה למטוס",
+      "itemType": "logistics",
+      "description": "יעד הגעה שלוש שעות לפני ההמראה לצורך תכנון, לא דרישה מיוחסת לחברת התעופה. אין אטרקציה בבוקר החזרה.",
+      "status": "draft",
+      "sortOrder": 4,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved"
+    },
+    {
+      "id": "bucharest-2026-20270102-05",
+      "tripId": "bucharest-2026-new-year",
+      "dayDate": "2027-01-02",
+      "startTime": "12:00",
+      "endTime": "14:20",
+      "title": "טיסה חזרה",
+      "itemType": "flight",
+      "description": "מאירוע הטיסה הקיים ללא אימות חברת תעופה חי; צהריים קלים סביב 12:30 לפי האפשרות. אין אירוע יומן חדש.",
+      "status": "draft",
+      "sortOrder": 5,
+      "metadata": {
+        "conditional": true,
+        "openingVerified": false,
+        "routeTimesVerified": false,
+        "draftVersion": "draft-v2",
+        "verifiedAt": "2026-11-07"
+      },
+      "source": "research draft-v2, 2026-11-07; holiday hours and Maps unresolved",
+      "calendarEventId": "_6kpj0gi38gr4ab9l88p30b9k6l238ba26spjiba46cp34h2384qjcgq18c"
+    }
+  ],
+  "lodgingCandidates": [
+    {
+      "id": "bucharest-airbnb-720918949881458339",
+      "tripId": "bucharest-2026-new-year",
+      "baseName": "Bucharest research only",
+      "provider": "airbnb",
+      "title": "Magheru - Cozy Downtown Apartment",
+      "url": "https://www.airbnb.com/rooms/720918949881458339?adults=2&check_in=2026-12-29&check_out=2027-01-02&currency=ILS",
+      "checkIn": "2026-12-29",
+      "checkOut": "2027-01-02",
+      "totalPrice": 1329,
+      "currency": "ILS",
+      "rating": 4.95,
+      "status": "rejected_policy",
+      "cancellation": "החזר מלא רק עד 24.12; כניסה 29.12 בשעה15:00.",
+      "notes": "החזר מלא רק עד 24.12; כניסה 29.12 בשעה15:00.",
+      "metadata": {
+        "reviews": 147,
+        "verifiedAt": "2026-11-07",
+        "verificationMethod": "dedicated_travel_chrome_ui",
+        "quoteScope": "listing_search_display_not_final",
+        "nights": 4,
+        "adults": 2,
+        "nightlyIls": 332.25,
+        "assessment": {
+          "eligible": false,
+          "nightlyPriceIls": 332.25,
+          "tierMaximumIls": 550,
+          "absoluteMaximumIls": 800,
+          "reasons": [
+            "Towels are not verified as included.",
+            "Bed linens are not verified as included.",
+            "A private bathroom is not verified.",
+            "Cleanliness is not verified by current listing details or recent reviews.",
+            "The all-in price and fees are not verified.",
+            "Full-refund cancellation is required through 24 hours before local check-in.",
+            "Full refund does not include all prepaid lodging, cleaning, and service fees.",
+            "Refund to the original payment method is not verified."
+          ],
+          "warnings": []
+        },
+        "shortlistEligible": false,
+        "externalSaved": false
+      }
+    },
+    {
+      "id": "bucharest-airbnb-934686731081814629",
+      "tripId": "bucharest-2026-new-year",
+      "baseName": "Bucharest research only",
+      "provider": "airbnb",
+      "title": "Victoriei Cozy Apartment",
+      "url": "https://www.airbnb.com/rooms/934686731081814629?adults=2&check_in=2026-12-29&check_out=2027-01-02&currency=ILS",
+      "checkIn": "2026-12-29",
+      "checkOut": "2027-01-02",
+      "totalPrice": 1070,
+      "currency": "ILS",
+      "rating": 4.88,
+      "status": "rejected_policy",
+      "cancellation": "החזר מלא רק עד24.12.",
+      "notes": "החזר מלא רק עד24.12.",
+      "metadata": {
+        "reviews": 176,
+        "verifiedAt": "2026-11-07",
+        "verificationMethod": "dedicated_travel_chrome_ui",
+        "quoteScope": "listing_search_display_not_final",
+        "nights": 4,
+        "adults": 2,
+        "nightlyIls": 267.5,
+        "assessment": {
+          "eligible": false,
+          "nightlyPriceIls": 267.5,
+          "tierMaximumIls": 550,
+          "absoluteMaximumIls": 800,
+          "reasons": [
+            "Towels are not verified as included.",
+            "Bed linens are not verified as included.",
+            "A private bathroom is not verified.",
+            "Cleanliness is not verified by current listing details or recent reviews.",
+            "The all-in price and fees are not verified.",
+            "Full-refund cancellation is required through 24 hours before local check-in.",
+            "Full refund does not include all prepaid lodging, cleaning, and service fees.",
+            "Refund to the original payment method is not verified."
+          ],
+          "warnings": []
+        },
+        "shortlistEligible": false,
+        "externalSaved": false
+      }
+    },
+    {
+      "id": "bucharest-airbnb-1741502107840221359",
+      "tripId": "bucharest-2026-new-year",
+      "baseName": "Bucharest research only",
+      "provider": "airbnb",
+      "title": "La Romana Quiet Modern Studio | City Center",
+      "url": "https://www.airbnb.com/rooms/1741502107840221359?adults=2&check_in=2026-12-29&check_out=2027-01-02&currency=ILS",
+      "checkIn": "2026-12-29",
+      "checkOut": "2027-01-02",
+      "totalPrice": 1155,
+      "currency": "ILS",
+      "rating": 4.91,
+      "status": "rejected_policy",
+      "cancellation": "החזר מלא רק עד24.12.",
+      "notes": "החזר מלא רק עד24.12.",
+      "metadata": {
+        "reviews": 34,
+        "verifiedAt": "2026-11-07",
+        "verificationMethod": "dedicated_travel_chrome_ui",
+        "quoteScope": "listing_search_display_not_final",
+        "nights": 4,
+        "adults": 2,
+        "nightlyIls": 288.75,
+        "assessment": {
+          "eligible": false,
+          "nightlyPriceIls": 288.75,
+          "tierMaximumIls": 550,
+          "absoluteMaximumIls": 800,
+          "reasons": [
+            "Towels are not verified as included.",
+            "Bed linens are not verified as included.",
+            "A private bathroom is not verified.",
+            "Cleanliness is not verified by current listing details or recent reviews.",
+            "The all-in price and fees are not verified.",
+            "Full-refund cancellation is required through 24 hours before local check-in.",
+            "Full refund does not include all prepaid lodging, cleaning, and service fees.",
+            "Refund to the original payment method is not verified."
+          ],
+          "warnings": []
+        },
+        "shortlistEligible": false,
+        "externalSaved": false
+      }
+    },
+    {
+      "id": "bucharest-airbnb-915001540001581905",
+      "tripId": "bucharest-2026-new-year",
+      "baseName": "Bucharest research only",
+      "provider": "airbnb",
+      "title": "M&M C.a Rosetti St. Stylish&Chic, balcony+Netflix",
+      "url": "https://www.airbnb.com/rooms/915001540001581905?adults=2&check_in=2026-12-29&check_out=2027-01-02&currency=ILS",
+      "checkIn": "2026-12-29",
+      "checkOut": "2027-01-02",
+      "totalPrice": 883,
+      "currency": "ILS",
+      "rating": 4.92,
+      "status": "rejected_kitchen",
+      "cancellation": "החזר100% עד28.12 15:00 אומת; כיריים אינדוקציה ומכונת פילטר רשומות, אבל ביקורת אוגוסט2026 מתארת ריח מכיריים ומחבתות להחלפה. אין אישור תיקון.",
+      "notes": "החזר100% עד28.12 15:00 אומת; כיריים אינדוקציה ומכונת פילטר רשומות, אבל ביקורת אוגוסט2026 מתארת ריח מכיריים ומחבתות להחלפה. אין אישור תיקון.",
+      "metadata": {
+        "reviews": 71,
+        "verifiedAt": "2026-11-07",
+        "verificationMethod": "dedicated_travel_chrome_ui",
+        "quoteScope": "listing_search_display_not_final",
+        "nights": 4,
+        "adults": 2,
+        "nightlyIls": 220.75,
+        "assessment": {
+          "eligible": false,
+          "nightlyPriceIls": 220.75,
+          "tierMaximumIls": 550,
+          "absoluteMaximumIls": 800,
+          "reasons": [
+            "Cleanliness is not verified by current listing details or recent reviews.",
+            "The all-in price and fees are not verified."
+          ],
+          "warnings": []
+        },
+        "shortlistEligible": false,
+        "externalSaved": false
+      }
+    },
+    {
+      "id": "bucharest-airbnb-1084777695437756505",
+      "tripId": "bucharest-2026-new-year",
+      "baseName": "Bucharest research only",
+      "provider": "airbnb",
+      "title": "Sunshine Apartment | Downtown",
+      "url": "https://www.airbnb.com/rooms/1084777695437756505?adults=2&check_in=2026-12-29&check_out=2027-01-02&currency=ILS",
+      "checkIn": "2026-12-29",
+      "checkOut": "2027-01-02",
+      "totalPrice": 1316,
+      "currency": "ILS",
+      "rating": 4.93,
+      "status": "rejected_policy",
+      "cancellation": "החזר מלא רק עד24.12.",
+      "notes": "החזר מלא רק עד24.12.",
+      "metadata": {
+        "reviews": 116,
+        "verifiedAt": "2026-11-07",
+        "verificationMethod": "dedicated_travel_chrome_ui",
+        "quoteScope": "listing_search_display_not_final",
+        "nights": 4,
+        "adults": 2,
+        "nightlyIls": 329,
+        "assessment": {
+          "eligible": false,
+          "nightlyPriceIls": 329,
+          "tierMaximumIls": 550,
+          "absoluteMaximumIls": 800,
+          "reasons": [
+            "Towels are not verified as included.",
+            "Bed linens are not verified as included.",
+            "A private bathroom is not verified.",
+            "Cleanliness is not verified by current listing details or recent reviews.",
+            "The all-in price and fees are not verified.",
+            "Full-refund cancellation is required through 24 hours before local check-in.",
+            "Full refund does not include all prepaid lodging, cleaning, and service fees.",
+            "Refund to the original payment method is not verified."
+          ],
+          "warnings": []
+        },
+        "shortlistEligible": false,
+        "externalSaved": false
+      }
+    },
+    {
+      "id": "bucharest-airbnb-53542653",
+      "tripId": "bucharest-2026-new-year",
+      "baseName": "Bucharest research only",
+      "provider": "airbnb",
+      "title": "Lovely vintage apartment in city center",
+      "url": "https://www.airbnb.com/rooms/53542653?adults=2&check_in=2026-12-29&check_out=2027-01-02&currency=ILS",
+      "checkIn": "2026-12-29",
+      "checkOut": "2027-01-02",
+      "totalPrice": 1666,
+      "currency": "ILS",
+      "rating": 4.95,
+      "status": "rejected_policy",
+      "cancellation": "החזר מלא רק עד24.12; גם ביקורות רעש.",
+      "notes": "החזר מלא רק עד24.12; גם ביקורות רעש.",
+      "metadata": {
+        "reviews": 289,
+        "verifiedAt": "2026-11-07",
+        "verificationMethod": "dedicated_travel_chrome_ui",
+        "quoteScope": "listing_search_display_not_final",
+        "nights": 4,
+        "adults": 2,
+        "nightlyIls": 416.5,
+        "assessment": {
+          "eligible": false,
+          "nightlyPriceIls": 416.5,
+          "tierMaximumIls": 550,
+          "absoluteMaximumIls": 800,
+          "reasons": [
+            "Towels are not verified as included.",
+            "Bed linens are not verified as included.",
+            "A private bathroom is not verified.",
+            "Cleanliness is not verified by current listing details or recent reviews.",
+            "The all-in price and fees are not verified.",
+            "Full-refund cancellation is required through 24 hours before local check-in.",
+            "Full refund does not include all prepaid lodging, cleaning, and service fees.",
+            "Refund to the original payment method is not verified."
+          ],
+          "warnings": []
+        },
+        "shortlistEligible": false,
+        "externalSaved": false
+      }
+    },
+    {
+      "id": "bucharest-airbnb-796352256231121140",
+      "tripId": "bucharest-2026-new-year",
+      "baseName": "Bucharest research only",
+      "provider": "airbnb",
+      "title": "CENTR | w/dryer, for longer stays, Central, Warmy",
+      "url": "https://www.airbnb.com/rooms/796352256231121140?adults=2&check_in=2026-12-29&check_out=2027-01-02&currency=ILS",
+      "checkIn": "2026-12-29",
+      "checkOut": "2027-01-02",
+      "totalPrice": 1274,
+      "currency": "ILS",
+      "rating": 4.87,
+      "status": "rejected_cleanliness",
+      "cancellation": "ביטול עד28.12, אך ביקורת אוקטובר2026 שלילית לניקיון ורעש בנייה; מס נוסף מוזכר ולא כומת.",
+      "notes": "ביטול עד28.12, אך ביקורת אוקטובר2026 שלילית לניקיון ורעש בנייה; מס נוסף מוזכר ולא כומת.",
+      "metadata": {
+        "reviews": 295,
+        "verifiedAt": "2026-11-07",
+        "verificationMethod": "dedicated_travel_chrome_ui",
+        "quoteScope": "listing_search_display_not_final",
+        "nights": 4,
+        "adults": 2,
+        "nightlyIls": 318.5,
+        "assessment": {
+          "eligible": false,
+          "nightlyPriceIls": 318.5,
+          "tierMaximumIls": 550,
+          "absoluteMaximumIls": 800,
+          "reasons": [
+            "Towels are not verified as included.",
+            "Bed linens are not verified as included.",
+            "A private bathroom is not verified.",
+            "Cleanliness is not verified by current listing details or recent reviews.",
+            "The all-in price and fees are not verified.",
+            "The cancellation terms are not verified for the selected dates and rate.",
+            "Full refund does not include all prepaid lodging, cleaning, and service fees.",
+            "Refund to the original payment method is not verified."
+          ],
+          "warnings": []
+        },
+        "shortlistEligible": false,
+        "externalSaved": false
+      }
+    },
+    {
+      "id": "bucharest-airbnb-1371602940596861483",
+      "tripId": "bucharest-2026-new-year",
+      "baseName": "Bucharest research only",
+      "provider": "airbnb",
+      "title": "River Retreat | Downtown",
+      "url": "https://www.airbnb.com/rooms/1371602940596861483?adults=2&check_in=2026-12-29&check_out=2027-01-02&currency=ILS",
+      "checkIn": "2026-12-29",
+      "checkOut": "2027-01-02",
+      "totalPrice": 1071,
+      "currency": "ILS",
+      "rating": 4.95,
+      "status": "rejected_policy",
+      "cancellation": "החזר מלא רק עד24.12.",
+      "notes": "החזר מלא רק עד24.12.",
+      "metadata": {
+        "reviews": 64,
+        "verifiedAt": "2026-11-07",
+        "verificationMethod": "dedicated_travel_chrome_ui",
+        "quoteScope": "listing_search_display_not_final",
+        "nights": 4,
+        "adults": 2,
+        "nightlyIls": 267.75,
+        "assessment": {
+          "eligible": false,
+          "nightlyPriceIls": 267.75,
+          "tierMaximumIls": 550,
+          "absoluteMaximumIls": 800,
+          "reasons": [
+            "Towels are not verified as included.",
+            "Bed linens are not verified as included.",
+            "A private bathroom is not verified.",
+            "Cleanliness is not verified by current listing details or recent reviews.",
+            "The all-in price and fees are not verified.",
+            "Full-refund cancellation is required through 24 hours before local check-in.",
+            "Full refund does not include all prepaid lodging, cleaning, and service fees.",
+            "Refund to the original payment method is not verified."
+          ],
+          "warnings": []
+        },
+        "shortlistEligible": false,
+        "externalSaved": false
+      }
+    },
+    {
+      "id": "bucharest-airbnb-53056152",
+      "tripId": "bucharest-2026-new-year",
+      "baseName": "Bucharest research only",
+      "provider": "airbnb",
+      "title": "Urban Maisonette - Secure and Comfortable",
+      "url": "https://www.airbnb.com/rooms/53056152?adults=2&check_in=2026-12-29&check_out=2027-01-02&currency=ILS",
+      "checkIn": "2026-12-29",
+      "checkOut": "2027-01-02",
+      "totalPrice": 1418,
+      "currency": "ILS",
+      "rating": 4.98,
+      "status": "rejected_policy",
+      "cancellation": "החזר מלא רק עד24.12.",
+      "notes": "החזר מלא רק עד24.12.",
+      "metadata": {
+        "reviews": 60,
+        "verifiedAt": "2026-11-07",
+        "verificationMethod": "dedicated_travel_chrome_ui",
+        "quoteScope": "listing_search_display_not_final",
+        "nights": 4,
+        "adults": 2,
+        "nightlyIls": 354.5,
+        "assessment": {
+          "eligible": false,
+          "nightlyPriceIls": 354.5,
+          "tierMaximumIls": 550,
+          "absoluteMaximumIls": 800,
+          "reasons": [
+            "Towels are not verified as included.",
+            "Bed linens are not verified as included.",
+            "A private bathroom is not verified.",
+            "Cleanliness is not verified by current listing details or recent reviews.",
+            "The all-in price and fees are not verified.",
+            "Full-refund cancellation is required through 24 hours before local check-in.",
+            "Full refund does not include all prepaid lodging, cleaning, and service fees.",
+            "Refund to the original payment method is not verified."
+          ],
+          "warnings": []
+        },
+        "shortlistEligible": false,
+        "externalSaved": false
+      }
+    },
+    {
+      "id": "bucharest-airbnb-1128100330168693890",
+      "tripId": "bucharest-2026-new-year",
+      "baseName": "Bucharest research only",
+      "provider": "airbnb",
+      "title": "Bee home | Calea Victoriei Street",
+      "url": "https://www.airbnb.com/rooms/1128100330168693890?adults=2&check_in=2026-12-29&check_out=2027-01-02&currency=ILS",
+      "checkIn": "2026-12-29",
+      "checkOut": "2027-01-02",
+      "totalPrice": 978,
+      "currency": "ILS",
+      "rating": 4.86,
+      "status": "rejected_policy",
+      "cancellation": "החזר מלא רק עד24.12.",
+      "notes": "החזר מלא רק עד24.12.",
+      "metadata": {
+        "reviews": 76,
+        "verifiedAt": "2026-11-07",
+        "verificationMethod": "dedicated_travel_chrome_ui",
+        "quoteScope": "listing_search_display_not_final",
+        "nights": 4,
+        "adults": 2,
+        "nightlyIls": 244.5,
+        "assessment": {
+          "eligible": false,
+          "nightlyPriceIls": 244.5,
+          "tierMaximumIls": 550,
+          "absoluteMaximumIls": 800,
+          "reasons": [
+            "Towels are not verified as included.",
+            "Bed linens are not verified as included.",
+            "A private bathroom is not verified.",
+            "Cleanliness is not verified by current listing details or recent reviews.",
+            "The all-in price and fees are not verified.",
+            "Full-refund cancellation is required through 24 hours before local check-in.",
+            "Full refund does not include all prepaid lodging, cleaning, and service fees.",
+            "Refund to the original payment method is not verified."
+          ],
+          "warnings": []
+        },
+        "shortlistEligible": false,
+        "externalSaved": false
+      }
+    },
+    {
+      "id": "bucharest-airbnb-1109146969912548348",
+      "tripId": "bucharest-2026-new-year",
+      "baseName": "Bucharest research only",
+      "provider": "airbnb",
+      "title": "Cozy city center studio",
+      "url": "https://www.airbnb.com/rooms/1109146969912548348?adults=2&check_in=2026-12-29&check_out=2027-01-02&currency=ILS",
+      "checkIn": "2026-12-29",
+      "checkOut": "2027-01-02",
+      "totalPrice": 1243,
+      "currency": "ILS",
+      "rating": 4.9,
+      "status": "rejected_policy",
+      "cancellation": "החזר רק24שעות לאחר ההזמנה, ולא עד24שעות לפני הגעה.",
+      "notes": "החזר רק24שעות לאחר ההזמנה, ולא עד24שעות לפני הגעה.",
+      "metadata": {
+        "reviews": 39,
+        "verifiedAt": "2026-11-07",
+        "verificationMethod": "dedicated_travel_chrome_ui",
+        "quoteScope": "listing_search_display_not_final",
+        "nights": 4,
+        "adults": 2,
+        "nightlyIls": 310.75,
+        "assessment": {
+          "eligible": false,
+          "nightlyPriceIls": 310.75,
+          "tierMaximumIls": 550,
+          "absoluteMaximumIls": 800,
+          "reasons": [
+            "Towels are not verified as included.",
+            "Bed linens are not verified as included.",
+            "A private bathroom is not verified.",
+            "Cleanliness is not verified by current listing details or recent reviews.",
+            "The all-in price and fees are not verified.",
+            "The full-refund cancellation deadline is unknown.",
+            "Full refund does not include all prepaid lodging, cleaning, and service fees.",
+            "Refund to the original payment method is not verified."
+          ],
+          "warnings": []
+        },
+        "shortlistEligible": false,
+        "externalSaved": false
+      }
+    },
+    {
+      "id": "bucharest-airbnb-695351094115057115",
+      "tripId": "bucharest-2026-new-year",
+      "baseName": "Bucharest research only",
+      "provider": "airbnb",
+      "title": "Design apartment -Little Paris district-Bucharest",
+      "url": "https://www.airbnb.com/rooms/695351094115057115?adults=2&check_in=2026-12-29&check_out=2027-01-02&currency=ILS",
+      "checkIn": "2026-12-29",
+      "checkOut": "2027-01-02",
+      "totalPrice": 1180,
+      "currency": "ILS",
+      "rating": 4.97,
+      "status": "rejected_policy",
+      "cancellation": "החזר מלא רק עד29.11.",
+      "notes": "החזר מלא רק עד29.11.",
+      "metadata": {
+        "reviews": 30,
+        "verifiedAt": "2026-11-07",
+        "verificationMethod": "dedicated_travel_chrome_ui",
+        "quoteScope": "listing_search_display_not_final",
+        "nights": 4,
+        "adults": 2,
+        "nightlyIls": 295,
+        "assessment": {
+          "eligible": false,
+          "nightlyPriceIls": 295,
+          "tierMaximumIls": 550,
+          "absoluteMaximumIls": 800,
+          "reasons": [
+            "Towels are not verified as included.",
+            "Bed linens are not verified as included.",
+            "A private bathroom is not verified.",
+            "Cleanliness is not verified by current listing details or recent reviews.",
+            "The all-in price and fees are not verified.",
+            "Full-refund cancellation is required through 24 hours before local check-in.",
+            "Full refund does not include all prepaid lodging, cleaning, and service fees.",
+            "Refund to the original payment method is not verified."
+          ],
+          "warnings": []
+        },
+        "shortlistEligible": false,
+        "externalSaved": false
+      }
+    },
+    {
+      "id": "bucharest-airbnb-48196078",
+      "tripId": "bucharest-2026-new-year",
+      "baseName": "Gara de Nord",
+      "provider": "airbnb",
+      "title": "Enjoy 2 - Apartment with extra comfy bed",
+      "url": "https://www.airbnb.com/rooms/48196078?adults=2&check_in=2026-12-29&check_out=2027-01-02&currency=ILS",
+      "checkIn": "2026-12-29",
+      "checkOut": "2027-01-02",
+      "totalPrice": 1021.56,
+      "currency": "ILS",
+      "rating": 4.97,
+      "status": "shortlisted_saved",
+      "cancellation": "החזר100% לפני28.12.2026 15:00 Europe/Bucharest לאמצעי התשלום המקורי; כולל כל ששולם.",
+      "notes": "Gara de Nord; פשרה במרחק מהמרכז. מטבח פרטי מלא; כיריים גז נראות בתמונה, מקרר/מקפיא, מחבתות וכלים, טוסטר ומכונת קפה. חימום מרכזי, מים חמים, WiFi, מגבות/מצעים וחדר רחצה פרטי. כניסה עצמית מקוד אחרי15:00; יציאה עד12:00 אך יוצאים מוקדם לטיסה. צילום מציג מכונת קפה, הדגם לא אומת. ללא ספא וללא רכב; חניה אינה רלוונטית.",
+      "metadata": {
+        "reviews": 274,
+        "verifiedAt": "2026-11-07",
+        "verificationMethod": "dedicated_travel_chrome_ui",
+        "quoteScope": "checkout_total_including_tax",
+        "nights": 4,
+        "adults": 2,
+        "nightlyIls": 255.39,
+        "assessment": {
+          "eligible": true,
+          "nightlyPriceIls": 255.39,
+          "tierMaximumIls": 550,
+          "absoluteMaximumIls": 800,
+          "reasons": [],
+          "warnings": []
+        },
+        "shortlistEligible": true,
+        "externalSaved": true,
+        "fullRefundDeadline": "2026-12-28T15:00:00+02:00",
+        "checkInTime": "15:00",
+        "checkOutTime": "12:00",
+        "taxesIls": 53.21,
+        "accommodationTotalIls": 968.35,
+        "wishlistName": "Bucharest 29.12.26–2.1.27",
+        "refundMethodSource": "https://www.airbnb.com/help/article/987",
+        "refundServiceFeesSource": "https://www.airbnb.com/help/article/3066",
+        "heating": true,
+        "towels": true,
+        "linens": true,
+        "privateBathroom": true,
+        "stove": "gas observed in listing photo",
+        "refrigerator": true,
+        "coffeeMaker": true,
+        "bookingSubmitted": false,
+        "wishlistUrl": "https://www.airbnb.com/wishlists/2242553607"
+      }
+    },
+    {
+      "id": "bucharest-airbnb-1604303711861162778",
+      "tripId": "bucharest-2026-new-year",
+      "baseName": "Bucharest research only",
+      "provider": "airbnb",
+      "title": "Echo | Piata Victoriei | Sanador",
+      "url": "https://www.airbnb.com/rooms/1604303711861162778?adults=2&check_in=2026-12-29&check_out=2027-01-02&currency=ILS",
+      "checkIn": "2026-12-29",
+      "checkOut": "2027-01-02",
+      "totalPrice": 1240,
+      "currency": "ILS",
+      "rating": 4.94,
+      "status": "rejected_policy",
+      "cancellation": "החזר מלא רק עד24.12.",
+      "notes": "החזר מלא רק עד24.12.",
+      "metadata": {
+        "reviews": 16,
+        "verifiedAt": "2026-11-07",
+        "verificationMethod": "dedicated_travel_chrome_ui",
+        "quoteScope": "listing_search_display_not_final",
+        "nights": 4,
+        "adults": 2,
+        "nightlyIls": 310,
+        "assessment": {
+          "eligible": false,
+          "nightlyPriceIls": 310,
+          "tierMaximumIls": 550,
+          "absoluteMaximumIls": 800,
+          "reasons": [
+            "Towels are not verified as included.",
+            "Bed linens are not verified as included.",
+            "A private bathroom is not verified.",
+            "Cleanliness is not verified by current listing details or recent reviews.",
+            "The all-in price and fees are not verified.",
+            "Full-refund cancellation is required through 24 hours before local check-in.",
+            "Full refund does not include all prepaid lodging, cleaning, and service fees.",
+            "Refund to the original payment method is not verified."
+          ],
+          "warnings": []
+        },
+        "shortlistEligible": false,
+        "externalSaved": false
+      }
+    },
+    {
+      "id": "bucharest-airbnb-1700691023680625165",
+      "tripId": "bucharest-2026-new-year",
+      "baseName": "Bucharest research only",
+      "provider": "airbnb",
+      "title": "Cozy Corner | Ultracentral",
+      "url": "https://www.airbnb.com/rooms/1700691023680625165?adults=2&check_in=2026-12-29&check_out=2027-01-02&currency=ILS",
+      "checkIn": "2026-12-29",
+      "checkOut": "2027-01-02",
+      "totalPrice": 1237,
+      "currency": "ILS",
+      "rating": 4.93,
+      "status": "rejected_policy",
+      "cancellation": "החזר מלא רק עד24.12.",
+      "notes": "החזר מלא רק עד24.12.",
+      "metadata": {
+        "reviews": 15,
+        "verifiedAt": "2026-11-07",
+        "verificationMethod": "dedicated_travel_chrome_ui",
+        "quoteScope": "listing_search_display_not_final",
+        "nights": 4,
+        "adults": 2,
+        "nightlyIls": 309.25,
+        "assessment": {
+          "eligible": false,
+          "nightlyPriceIls": 309.25,
+          "tierMaximumIls": 550,
+          "absoluteMaximumIls": 800,
+          "reasons": [
+            "Towels are not verified as included.",
+            "Bed linens are not verified as included.",
+            "A private bathroom is not verified.",
+            "Cleanliness is not verified by current listing details or recent reviews.",
+            "The all-in price and fees are not verified.",
+            "Full-refund cancellation is required through 24 hours before local check-in.",
+            "Full refund does not include all prepaid lodging, cleaning, and service fees.",
+            "Refund to the original payment method is not verified."
+          ],
+          "warnings": []
+        },
+        "shortlistEligible": false,
+        "externalSaved": false
+      }
+    },
+    {
+      "id": "bucharest-airbnb-1109875322978613447",
+      "tripId": "bucharest-2026-new-year",
+      "baseName": "Bucharest research only",
+      "provider": "airbnb",
+      "title": "Marc House",
+      "url": "https://www.airbnb.com/rooms/1109875322978613447?adults=2&check_in=2026-12-29&check_out=2027-01-02&currency=ILS",
+      "checkIn": "2026-12-29",
+      "checkOut": "2027-01-02",
+      "totalPrice": 1448,
+      "currency": "ILS",
+      "rating": 4.97,
+      "status": "rejected_policy",
+      "cancellation": "החזר רק24שעות לאחר הזמנה; ביקורת חרקים אינה עדות להתאמה.",
+      "notes": "החזר רק24שעות לאחר הזמנה; ביקורת חרקים אינה עדות להתאמה.",
+      "metadata": {
+        "reviews": 68,
+        "verifiedAt": "2026-11-07",
+        "verificationMethod": "dedicated_travel_chrome_ui",
+        "quoteScope": "listing_search_display_not_final",
+        "nights": 4,
+        "adults": 2,
+        "nightlyIls": 362,
+        "assessment": {
+          "eligible": false,
+          "nightlyPriceIls": 362,
+          "tierMaximumIls": 550,
+          "absoluteMaximumIls": 800,
+          "reasons": [
+            "Towels are not verified as included.",
+            "Bed linens are not verified as included.",
+            "A private bathroom is not verified.",
+            "Cleanliness is not verified by current listing details or recent reviews.",
+            "The all-in price and fees are not verified.",
+            "The full-refund cancellation deadline is unknown.",
+            "Full refund does not include all prepaid lodging, cleaning, and service fees.",
+            "Refund to the original payment method is not verified."
+          ],
+          "warnings": []
+        },
+        "shortlistEligible": false,
+        "externalSaved": false
+      }
+    },
+    {
+      "id": "bucharest-airbnb-1548531619636301802",
+      "tripId": "bucharest-2026-new-year",
+      "baseName": "Bucharest research only",
+      "provider": "airbnb",
+      "title": "Beautiful Studio 33",
+      "url": "https://www.airbnb.com/rooms/1548531619636301802?adults=2&check_in=2026-12-29&check_out=2027-01-02&currency=ILS",
+      "checkIn": "2026-12-29",
+      "checkOut": "2027-01-02",
+      "totalPrice": 1163,
+      "currency": "ILS",
+      "rating": 5,
+      "status": "needs_verification",
+      "cancellation": "מרכז ליד Calea Victoriei; בתיאור כיריים חשמליות, מקרר וNespresso עם קפסולות. ביטול עד28.12 בפרסום אך שעה/מחיר סופי טרם נבדקו בcheckout. Essentials מסומנים unavailable: הכללת מגבות לאאומתה. לא נשמר ולא ברשימת המלצות; מדרגות חיצוניות ו4מדרגות בחדר רחצה, כניסה למקלחת48סמ.",
+      "notes": "מרכז ליד Calea Victoriei; בתיאור כיריים חשמליות, מקרר וNespresso עם קפסולות. ביטול עד28.12 בפרסום אך שעה/מחיר סופי טרם נבדקו בcheckout. Essentials מסומנים unavailable: הכללת מגבות לאאומתה. לא נשמר ולא ברשימת המלצות; מדרגות חיצוניות ו4מדרגות בחדר רחצה, כניסה למקלחת48סמ.",
+      "metadata": {
+        "reviews": 18,
+        "verifiedAt": "2026-11-07",
+        "verificationMethod": "dedicated_travel_chrome_ui",
+        "quoteScope": "listing_search_display_not_final",
+        "nights": 4,
+        "adults": 2,
+        "nightlyIls": 290.75,
+        "assessment": {
+          "eligible": false,
+          "nightlyPriceIls": 290.75,
+          "tierMaximumIls": 550,
+          "absoluteMaximumIls": 800,
+          "reasons": [
+            "Towels are not verified as included.",
+            "Bed linens are not verified as included.",
+            "A private bathroom is not verified.",
+            "Cleanliness is not verified by current listing details or recent reviews.",
+            "The all-in price and fees are not verified.",
+            "The cancellation terms are not verified for the selected dates and rate.",
+            "Full refund does not include all prepaid lodging, cleaning, and service fees.",
+            "Refund to the original payment method is not verified."
+          ],
+          "warnings": []
+        },
+        "shortlistEligible": false,
+        "externalSaved": false
+      }
+    },
+    {
+      "id": "bucharest-airbnb-1634022457435280857",
+      "tripId": "bucharest-2026-new-year",
+      "baseName": "Bucharest research only",
+      "provider": "airbnb",
+      "title": "Bucharest Old Town Cozy Studio",
+      "url": "https://www.airbnb.com/rooms/1634022457435280857?adults=2&check_in=2026-12-29&check_out=2027-01-02&currency=ILS",
+      "checkIn": "2026-12-29",
+      "checkOut": "2027-01-02",
+      "totalPrice": 1110,
+      "currency": "ILS",
+      "rating": 4.78,
+      "status": "rejected_policy",
+      "cancellation": "החזר רק24שעות לאחר הזמנה, לא עד יום לפני הגעה.",
+      "notes": "החזר רק24שעות לאחר הזמנה, לא עד יום לפני הגעה.",
+      "metadata": {
+        "reviews": 9,
+        "verifiedAt": "2026-11-07",
+        "verificationMethod": "dedicated_travel_chrome_ui",
+        "quoteScope": "listing_search_display_not_final",
+        "nights": 4,
+        "adults": 2,
+        "nightlyIls": 277.5,
+        "assessment": {
+          "eligible": false,
+          "nightlyPriceIls": 277.5,
+          "tierMaximumIls": 550,
+          "absoluteMaximumIls": 800,
+          "reasons": [
+            "Towels are not verified as included.",
+            "Bed linens are not verified as included.",
+            "A private bathroom is not verified.",
+            "Cleanliness is not verified by current listing details or recent reviews.",
+            "The all-in price and fees are not verified.",
+            "The full-refund cancellation deadline is unknown.",
+            "Full refund does not include all prepaid lodging, cleaning, and service fees.",
+            "Refund to the original payment method is not verified."
+          ],
+          "warnings": []
+        },
+        "shortlistEligible": false,
+        "externalSaved": false
+      }
+    },
+    {
+      "id": "bucharest-airbnb-813325551069715345",
+      "tripId": "bucharest-2026-new-year",
+      "baseName": "Bucharest research only",
+      "provider": "airbnb",
+      "title": "Dox North Bucharest apartments",
+      "url": "https://www.airbnb.com/rooms/813325551069715345?adults=2&check_in=2026-12-29&check_out=2027-01-02&currency=ILS",
+      "checkIn": "2026-12-29",
+      "checkOut": "2027-01-02",
+      "totalPrice": 965,
+      "currency": "ILS",
+      "rating": 4.86,
+      "status": "rejected_policy",
+      "cancellation": "החזר מלא רק עד24.12.",
+      "notes": "החזר מלא רק עד24.12.",
+      "metadata": {
+        "reviews": 37,
+        "verifiedAt": "2026-11-07",
+        "verificationMethod": "dedicated_travel_chrome_ui",
+        "quoteScope": "listing_search_display_not_final",
+        "nights": 4,
+        "adults": 2,
+        "nightlyIls": 241.25,
+        "assessment": {
+          "eligible": false,
+          "nightlyPriceIls": 241.25,
+          "tierMaximumIls": 550,
+          "absoluteMaximumIls": 800,
+          "reasons": [
+            "Towels are not verified as included.",
+            "Bed linens are not verified as included.",
+            "A private bathroom is not verified.",
+            "Cleanliness is not verified by current listing details or recent reviews.",
+            "The all-in price and fees are not verified.",
+            "Full-refund cancellation is required through 24 hours before local check-in.",
+            "Full refund does not include all prepaid lodging, cleaning, and service fees.",
+            "Refund to the original payment method is not verified."
+          ],
+          "warnings": []
+        },
+        "shortlistEligible": false,
+        "externalSaved": false
+      }
+    }
+  ]
 }

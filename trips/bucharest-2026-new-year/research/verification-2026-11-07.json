@@ -1,0 +1,40 @@
+{
+  "tripId": "bucharest-2026-new-year",
+  "planVersion": "draft-v2",
+  "verifiedAt": "2026-11-07",
+  "counts": {
+    "places": 37,
+    "itinerary": 62,
+    "lodgingResearched": 19,
+    "eligibleSaved": 1
+  },
+  "sourcesSynchronized": true,
+  "localLinksValid": true,
+  "validation": {
+    "planningStage": "draft",
+    "places": 37,
+    "unresolvedPlaces": 37,
+    "itineraryItems": 62,
+    "daysPlanned": 5,
+    "tripDays": 5,
+    "errors": 0,
+    "warnings": 37
+  },
+  "knownGaps": [
+    "Google Maps connector authentication prevents provider place and route verification",
+    "Holiday-specific opening hours mostly unpublished",
+    "No Christmas market currently verified open on trip dates",
+    "One eligible lodging saved; central candidates still fail or need verification"
+  ],
+  "externalWrites": [
+    {
+      "provider": "Airbnb",
+      "action": "Created wishlist and saved Enjoy 2",
+      "wishlistUrl": "https://www.airbnb.com/wishlists/2242553607",
+      "verified": "Wishlist contains exactly 1 saved stay and names Enjoy 2"
+    }
+  ],
+  "bookingSubmitted": false,
+  "calendarChanged": false,
+  "telegramSent": false
+}

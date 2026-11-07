@@ -18,5 +18,32 @@
         "event_id": "_6kpj0gi38gr4ab9l88p30b9k6l238ba26spjiba46cp34h2384qjcgq18c"
       }
     ]
+  },
+  "travelers": 2,
+  "routeStrategy": "Dense geographic clusters; walk, metro and taxi; draft holiday availability",
+  "summary": "זוג, ארבעה לילות, מטבח פרטי וכיריים; חורף ושנה חדשה. שעות חג וניווט טעונים אימות.",
+  "metadata": {
+    "planVersion": "draft-v2",
+    "updatedAt": "2026-11-07",
+    "travelersNames": [
+      "David",
+      "Elena"
+    ],
+    "rentalCar": "not_planned",
+    "mapsVerified": false,
+    "holidayHoursVerified": false,
+    "lodgingRequirements": {
+      "privateKitchen": true,
+      "stove": "electric_or_gas",
+      "refrigerator": true,
+      "cookingBasics": true,
+      "coffeeMachine": "preferred"
+    },
+    "dietaryConstraints": [
+      "no_pork",
+      "low_fat",
+      "individual_acidity_triggers"
+    ],
+    "researchPlaceCount": 37
   }
 }

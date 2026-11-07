@@ -1,0 +1,1490 @@
+{
+  "schemaVersion": 1,
+  "tripId": "bucharest-2026-new-year",
+  "title": "קטלוג מקומות לתכנון בוקרשט — חורף ושנה חדשה",
+  "tripStartDate": "2026-12-29",
+  "tripEndDate": "2027-01-02",
+  "timezone": "Europe/Bucharest",
+  "compiledAt": "2026-11-07",
+  "compilationMethod": "סינתזה של שלושת מחקרי הטיול המקומיים; אין אימות רשת נוסף בשלב הקטלוג",
+  "sourceDocuments": [
+    "christmas-attractions-2026-11-07.md",
+    "maps-logistics-2026-11-07.md",
+    "food-reflux-2026-11-07.md",
+    "late-markets-addendum-2026-11-07.md",
+    "instagram-2026-11-07.md"
+  ],
+  "fieldSemantics": {
+    "verifiedAt": "תאריך בדיקת הטענה במחקר המקור, ולא אישור גורף לפתיחה בעת הנסיעה",
+    "openingForTrip": "verified דורש פתיחה לתאריך הנסיעה; unknown כולל שעות שגרה בלבד; closed מציין אירוע שמסתיים לפני הנסיעה. סגירה לחלק מהימים מפורטת ב-dateEvidence.",
+    "officialSourceUrls": "מקורות רשמיים שנקראו במחקרים. מערך ריק פירושו שלא נמצא מקור רשמי שנבדק עבור הרשומה; מקורות משניים מופיעים ב-dateEvidence.",
+    "mapsIdentityVerified": "false בכל הרשומות: כלי Maps נכשלו. קישורי החיפוש אינם התאמת מקום סופית.",
+    "priority": "A עדיפות לתוכנית/בדיקה, B חלופה מועילה, C מעקב נמוך או יעד שנפסל. planningStatus גובר על עדיפות."
+  },
+  "globalConstraints": [
+    "קטלוג מחקר מקומי; סטטוס שמירותלינה בנפרד, ללא פרסוםמפה או רכישה.",
+    "לא נשמרו Place IDs או קואורדינטות; אין זמני נסיעה מאומתים ב-Google Maps.",
+    "מספר שוקי כריסמס שפתיחתם אומתה לתאריכי הנסיעה: 0.",
+    "שעות חג דורשות השלמה; תפריט רשמי אינו אישור התאמה למגבלות המזון של ילנה."
+  ],
+  "places": [
+    {
+      "id": "constitution-christmas-market",
+      "name": "Bucharest Christmas Market — Piața Constituției",
+      "category": "christmas_market",
+      "priority": "C",
+      "planningStatus": "rejected_dates",
+      "officialSourceUrls": [
+        "https://bucharestchristmasmarket.ro/",
+        "https://pmb.ro/interes-public/arhiva/get-press-releases-menu/2026/2334"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "מהדורת 2026 מתקיימת 27.11–27.12.2026",
+          "evidenceStatus": "verified_current",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://bucharestchristmasmarket.ro/"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "אין חפיפה עם 29.12.2026–02.01.2027",
+          "evidenceStatus": "date_mismatch",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://bucharestchristmasmarket.ro/"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "closed",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Bucharest+Christmas+Market+%E2%80%94+Pia%C8%9Ba+Constitu%C8%9Biei+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "נסגר יומיים לפני ההגעה; אין לשבץ שוק פעיל. חזית הפרלמנט היא ביקור נפרד.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "west-side-christmas-market",
+      "name": "West Side Christmas Market — Parcul Drumul Taberei",
+      "category": "christmas_market",
+      "priority": "C",
+      "planningStatus": "rejected_dates",
+      "officialSourceUrls": [
+        "https://primarie6.ro/primarie_sector6/programul-west-side-christmas-market",
+        "https://primarie6.ro/primarie_sector6/sites/default/files/2023-07/1PHPRI1.pdf"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "מסמך עירוני מ-2023 מציג עונת 2026 עד 27.12.2026; זו הרשאת עונה ותיקה ולא הודעת שעות עדכנית",
+          "evidenceStatus": "historical_official_schedule",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://primarie6.ro/primarie_sector6/sites/default/files/2023-07/1PHPRI1.pdf"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "פרסום עדכני משני מתאר מהדורת 2026 בין 26.11 ל-27.12",
+          "evidenceStatus": "verified_secondary",
+          "sourceType": "secondary",
+          "sourceUrls": [
+            "https://peplaiuri.ro/ghiduri/targuri-de-craciun-bucuresti"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "אין במקורות בסיס לשוק פעיל בעת הנסיעה",
+          "evidenceStatus": "date_mismatch",
+          "sourceType": "mixed",
+          "sourceUrls": [
+            "https://primarie6.ro/primarie_sector6/sites/default/files/2023-07/1PHPRI1.pdf",
+            "https://peplaiuri.ro/ghiduri/targuri-de-craciun-bucuresti"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "closed",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=West+Side+Christmas+Market+%E2%80%94+Parcul+Drumul+Taberei+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "לא לתזמן נסיעה לשוק; התאריך האחרון שנמצא הוא 27.12. הודעת מפעיל עדכנית ל-2026 לא נקראה.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "laminor-winter-wonderland",
+      "name": "Laminor Winter Wonderland — Hala Laminor",
+      "category": "christmas_market",
+      "priority": "C",
+      "planningStatus": "unverified_season",
+      "officialSourceUrls": [
+        "https://www.primarie3.ro/index.php/presa/comunicat/7147",
+        "https://www.primarie3.ro/images/uploads/formulare/Anunt_atribuire_ADV_1505741.pdf"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "הודעת 2024 הרשמית קובעת 29.11.2024–07.01.2025 באולם Laminor",
+          "evidenceStatus": "verified_past_season",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://www.primarie3.ro/index.php/presa/comunicat/7147"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "חוזה 2025 מעביר את השוק העירוני ל-Piața Alba Iulia בעונת 2025–2026",
+          "evidenceStatus": "verified_past_season",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://www.primarie3.ro/images/uploads/formulare/Anunt_atribuire_ADV_1505741.pdf"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "מיקום ותאריכי עונת 2026–2027 לא אומתו",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Laminor+Winter+Wonderland+%E2%80%94+Hala+Laminor+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "אין להניח שהאירוע חוזר לאולם המקורה. ב-2025 השוק העירוני התקיים ב-Alba Iulia; המבנה והאירוע אינם אותו דבר.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "alba-iulia-winter-wonderland",
+      "name": "Winter Wonderland — Piața Alba Iulia",
+      "category": "christmas_market",
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "officialSourceUrls": [
+        "https://www.primarie3.ro/images/uploads/formulare/Anunt_atribuire_ADV_1505741.pdf"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "חוזה עירוני קובע 27.11.2025–07.01.2026 ב-Piața Alba Iulia",
+          "evidenceStatus": "verified_past_season",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://www.primarie3.ro/images/uploads/formulare/Anunt_atribuire_ADV_1505741.pdf"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "תאריכי ושעות 2026–2027 לא אומתו",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Winter+Wonderland+%E2%80%94+Pia%C8%9Ba+Alba+Iulia+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "מועמד מרכזי לשוק מאוחר, רק אם תאושר מהדורת 2026–2027 ומיקומה. אין הבטחה לאולם מקורה.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "romexpo-christmas-of-the-north",
+      "name": "Crăciunul Nordului — Romexpo",
+      "category": "christmas_market",
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "officialSourceUrls": [
+        "https://primariasector1.ro/vineri-se-deschide-craciunul-nordului-la-romexpo/",
+        "https://primariasector1.ro/wp-content/uploads/2026/02/19-PV_25.11.2025-ora10-00-Sedinta-ordinara-_raport-AN-.pdf"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "המהדורה הקודמת נקבעה ל-28.11.2025–04.01.2026",
+          "evidenceStatus": "verified_past_season",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://primariasector1.ro/wp-content/uploads/2026/02/19-PV_25.11.2025-ora10-00-Sedinta-ordinara-_raport-AN-.pdf"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "ב-2025 פורסם רשמית משטח החלקה מקורה",
+          "evidenceStatus": "verified_past_season",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://primariasector1.ro/vineri-se-deschide-craciunul-nordului-la-romexpo/"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "מהדורת 2026–2027 ושעותיה לא אומתו",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Cr%C4%83ciunul+Nordului+%E2%80%94+Romexpo+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "מועמד לשוק נוסף ולהחלקה מקורה; לא לצאת במיוחד לפני אישור מהדורה, שער כניסה ושעות חג.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "universitate-downtown-christmas-market",
+      "name": "Bucharest Downtown Christmas Market — Piața Universității",
+      "category": "christmas_market",
+      "priority": "C",
+      "planningStatus": "unverified_season",
+      "officialSourceUrls": [
+        "https://www.creart.ro/wp-content/uploads/2025/10/Instructiuni-pentru-ofertanti-4.pdf"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "מסמך המארגן מתייחס ל-29.11–28.12.2025",
+          "evidenceStatus": "verified_past_season",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://www.creart.ro/wp-content/uploads/2025/10/Instructiuni-pentru-ofertanti-4.pdf"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "לא אומתו תאריכי 2026; אין בסיס לשוק פעיל בנסיעה",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Bucharest+Downtown+Christmas+Market+%E2%80%94+Pia%C8%9Ba+Universit%C4%83%C8%9Bii+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "דפוס העבר מסתיים לפני הנחיתה, אך אין כאן אישור לסגירת מהדורת 2026. הכיכר קיימת כיעד רחוב נפרד.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "opera-christmas-market",
+      "name": "Bucharest Opera Christmas Market",
+      "category": "christmas_market",
+      "priority": "C",
+      "planningStatus": "unverified_season",
+      "officialSourceUrls": [],
+      "dateEvidence": [
+        {
+          "claim": "סקירה מתארת את מהדורת 2025 עד 28.12",
+          "evidenceStatus": "verified_past_season",
+          "sourceType": "secondary",
+          "sourceUrls": [
+            "https://peplaiuri.ro/ghiduri/targuri-de-craciun-bucuresti"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "תאריכי 2026–2027 לא אומתו",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Bucharest+Opera+Christmas+Market+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "סקירת העבר מציגה סיום ב-28.12.2025; אין להציג את 2026 כסגור או פעיל על בסיס זה.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "afi-cotroceni-on-ice",
+      "name": "Cotroceni On Ice — AFI Cotroceni",
+      "category": "ice_skating",
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "officialSourceUrls": [
+        "https://patinoarafi.ro/program-si-preturi/",
+        "https://www.aficotroceni.ro/brands/distractie/ice-rink/"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "המפעיל מפרסם פעילות כל השנה וסשנים של 90 דקות",
+          "evidenceStatus": "verified_regular_schedule",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://patinoarafi.ro/program-si-preturi/"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "מחיר מדף למבוגר עם השכרה 55 RON בימי ב׳–ה׳ ו-60 RON ו׳–א׳; לחגים וחופשות תעריף שונה מהמוזל",
+          "evidenceStatus": "verified_current_prices",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://patinoarafi.ro/program-si-preturi/"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "שעות החג 31.12.2026 ו-01.01.2027 לא אומתו",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Cotroceni+On+Ice+%E2%80%94+AFI+Cotroceni+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "גיבוי ההחלקה האמין ביותר; סשן 90 דקות ועוד 20–30 דקות ציוד. לא להציע הדרכה מאומתת בחופשת החורף.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md",
+        "maps-logistics-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "cismigiu-ice-rink",
+      "name": "Patinoarul Cișmigiu",
+      "category": "ice_skating",
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "officialSourceUrls": [],
+      "dateEvidence": [
+        {
+          "claim": "מקור משני מתאר פתיחה ב-19.12.2025 בעונה הקודמת ומחיר סשן 50 RON",
+          "evidenceStatus": "verified_past_season",
+          "sourceType": "secondary",
+          "sourceUrls": [
+            "https://travelreview.ro/patinoare-bucuresti/"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "תאריכי ומחירי עונת 2026–2027 לא אומתו",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Patinoarul+Ci%C8%99migiu+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "חלופה מועדפת לאווירת חורף במרכז, מותנית בהפעלת 2026–2027; AFI גיבוי. אין להשתמש במחיר העבר כהצעת מחיר.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "therme-bucharest",
+      "name": "Therme București",
+      "category": "spa",
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "officialSourceUrls": [
+        "https://www.therme.ro/admission-prices",
+        "https://therme.ro/opening-hours",
+        "https://therme.ro/frequently-asked-questions",
+        "https://therme.ro/your-first-visit-to-therme"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "מחיר מדף יום מלא בחג/חופשה: Elysium 217 RON ו-Palm 187 RON למבוגר",
+          "evidenceStatus": "verified_current_prices",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://www.therme.ro/admission-prices"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "שעות השגרה פורסמו; שעות מיוחדות ל-31.12.2026 ול-01.01.2027 לא אומתו",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://therme.ro/opening-hours"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "כלל הביקור הראשון אוסר הכנסת אוכל ושתייה מבחוץ; התאמת ארוחה לילנה דורשת אישור",
+          "evidenceStatus": "verified_rule_pending_food_adaptation",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://therme.ro/your-first-visit-to-therme"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Therme+Bucuresti+Balotesti+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "מומלץ Elysium יום מלא לזוג; בסיס תקציבי חג 434 RON לפני אוכל/טיפולים/נסיעות. 1.1 מותנה בשעות ובארוחה מתאימה לילנה; 30.12 גיבוי. מחוץ לעיר, להקצות חלון מעבר 60–90 דקות לכל כיוון לפי מחקר הלוגיסטיקה, לא ETA.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md",
+        "maps-logistics-2026-11-07.md",
+        "food-reflux-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "mnar-national-art-museum",
+      "name": "Muzeul Național de Artă al României — MNAR",
+      "category": "museum",
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "officialSourceUrls": [
+        "https://www.mnar.arts.ro/program",
+        "https://www.mnar.arts.ro/index.php"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "שגרה ד׳–ו׳ 10–18, ש׳–א׳ 11–19, ב׳–ג׳ סגור",
+          "evidenceStatus": "verified_regular_schedule",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://www.mnar.arts.ro/program"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "לוח הכללים הרשמי קובע סגירה ב-1 וב-2 בינואר",
+          "evidenceStatus": "verified_holiday_closure",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://www.mnar.arts.ro/program"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "פתיחה ספציפית ב-30–31.12.2026 כפופה להודעת חג; טרם אומתה",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Muzeul+Na%C8%9Bional+de+Art%C4%83+al+Rom%C3%A2niei+%E2%80%94+MNAR+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "לרכז ב-30.12, לבחור גלריה/תערוכה ל-75–105 דקות. 1–2 בינואר סגור; מחיר האולמות ההיסטוריים נפרד מכניסה לגלריות.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md",
+        "maps-logistics-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "romanian-athenaeum",
+      "name": "Romanian Athenaeum — Ateneul Român",
+      "category": "architecture_culture",
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "officialSourceUrls": [
+        "https://filarmonicaenescu.ro/en/info-program-bilete",
+        "https://filarmonicaenescu.ro/en/vizitarea-ateneului-roman"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "מחיר מדף לביקור 15 RON; ביקורים מחוץ לחזרות וקונצרטים",
+          "evidenceStatus": "verified_current_prices",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://filarmonicaenescu.ro/en/info-program-bilete"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "בלוחות שנקראו פורסמו חודשים עד נובמבר 2026 בלבד; דצמבר וינואר לא אומתו",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://filarmonicaenescu.ro/en/info-program-bilete"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Romanian+Athenaeum+%E2%80%94+Ateneul+Rom%C3%A2n+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "ביקור 30–45 דקות ליד MNAR, או קונצרט במקום ביקור כפול. אין שעה שמורה.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "palace-of-parliament",
+      "name": "Palace of Parliament — Palatul Parlamentului",
+      "category": "guided_tour",
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "officialSourceUrls": [
+        "https://cic.cdep.ro/en/vizitare"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "אתר רשמי שנקרא ישירות מפרסם שגרה 09–17 ומחיר 85 RON למבוגר",
+          "evidenceStatus": "verified_regular_schedule_and_prices",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://cic.cdep.ro/en/vizitare"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "נדרשים מסמך זיהוי פיזי והגעה 15 דקות לפני הסיור; הזמנה לשניים בטלפון 24 שעות מראש",
+          "evidenceStatus": "verified_access_rules",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://cic.cdep.ro/en/vizitare"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "סיור ושעות חג בתאריכי הנסיעה טרם אומתו",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Palace+of+Parliament+%E2%80%94+Palatul+Parlamentului+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "להקצות 90–120 דקות כולל בידוק. לשניים הזמנה טלפונית 24 שעות מראש; כרטיס לא נרכש. כניסת תיירים Izvor 2–4, לא כניסת MNAC.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md",
+        "maps-logistics-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "grigore-antipa-museum",
+      "name": "Muzeul Național de Istorie Naturală Grigore Antipa",
+      "category": "museum",
+      "priority": "B",
+      "planningStatus": "alternative",
+      "officialSourceUrls": [
+        "https://antipa.ro/info-utile/program-si-tarife/"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "חורף: ג׳–ו׳ 10–18, ש׳–א׳ 10–19, כניסה אחרונה שעה לפני; מחיר מבוגר 32 RON",
+          "evidenceStatus": "verified_regular_schedule_and_prices",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://antipa.ro/info-utile/program-si-tarife/"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "לוח ראש השנה לתאריכי הנסיעה לא אומת",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Muzeul+Na%C8%9Bional+de+Istorie+Natural%C4%83+Grigore+Antipa+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "חלופה ל-MNAR אם מעדיפים טבע; 75–90 דקות. לא לספור Antipa ו-Grigore Antipa כשני מקומות.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md",
+        "maps-logistics-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "dimitrie-gusti-village-museum",
+      "name": "Muzeul Național al Satului Dimitrie Gusti",
+      "category": "museum_outdoor",
+      "priority": "B",
+      "planningStatus": "alternative",
+      "officialSourceUrls": [
+        "https://muzeul-satului.ro/acces-muzeu/program-muzeu/"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "האתר הרשמי קובע סגירה ב-1 וב-2 בינואר",
+          "evidenceStatus": "verified_holiday_closure",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://muzeul-satului.ro/acces-muzeu/program-muzeu/"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "שעות החורף הוצגו בתמונות ולא חולצו; לא אומתו ביקור ופתיחה ל-30–31.12",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Muzeul+Na%C8%9Bional+al+Satului+Dimitrie+Gusti+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "חלופה צפונית ל-30–31.12 בכפוף לקור ושעות; לא מתאים ל-1–2 בינואר.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "carturesti-carusel",
+      "name": "Cărturești Carusel",
+      "category": "bookshop_architecture",
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "officialSourceUrls": [
+        "https://carturesti.ro/librarii?lang=en-US"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "עמוד המפעיל מציג שעות שגרה 10–22 בכל יום",
+          "evidenceStatus": "verified_regular_schedule",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://carturesti.ro/librarii?lang=en-US"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "שעות חג לתאריכי הנסיעה לא אומתו",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=C%C4%83rture%C8%99ti+Carusel+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "Lipscani 55; 20–35 דקות בעיר העתיקה. לא לאמץ שעות חצות מבלוגים בניגוד למפעיל.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "stavropoleos-monastery",
+      "name": "Mănăstirea Stavropoleos",
+      "category": "religious_architecture",
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "officialSourceUrls": [
+        "https://stavropoleos.ro/contact-2/",
+        "https://stavropoleos.ro/descopera/"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "Contact מציג 08–19, Discover מציג 12–20; תפילות קודמות לתיירות",
+          "evidenceStatus": "conflicting_official_hours",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://stavropoleos.ro/contact-2/",
+            "https://stavropoleos.ro/descopera/"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "חלון ביקור מדויק לחג לא אומת",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=M%C4%83n%C4%83stirea+Stavropoleos+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "15–25 דקות בכפוף לתפילות. דפי המפעיל סותרים בשעות; צהריים בתוך החלון המשותף הוא שיקול תכנון בלבד.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "calea-victoriei",
+      "name": "Calea Victoriei",
+      "category": "street_walk",
+      "priority": "A",
+      "planningStatus": "draft_candidate",
+      "officialSourceUrls": [],
+      "dateEvidence": [
+        {
+          "claim": "המקום מוזכר במחקר כאשכול הליכה/עוגן ציבורי; לא התקבל אימות זהות Maps או שעות/אירוע לתאריכי הטיול",
+          "evidenceStatus": "planning_reference_only",
+          "sourceType": "local_research",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Calea+Victoriei+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "טיול רחוב המחבר את אשכול MNAR והעיר העתיקה; תוכנית אורות 2026 לא אומתה.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md",
+        "maps-logistics-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "revolution-square",
+      "name": "Piața Revoluției",
+      "category": "public_square",
+      "priority": "A",
+      "planningStatus": "draft_candidate",
+      "officialSourceUrls": [],
+      "dateEvidence": [
+        {
+          "claim": "המקום מוזכר במחקר כאשכול הליכה/עוגן ציבורי; לא התקבל אימות זהות Maps או שעות/אירוע לתאריכי הטיול",
+          "evidenceStatus": "planning_reference_only",
+          "sourceType": "local_research",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Pia%C8%9Ba+Revolu%C8%9Biei+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "לשלב עם MNAR והאתנאום; אין כאן אימות לאירוע חג או כניסה לבניין.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md",
+        "maps-logistics-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "cec-palace-exterior",
+      "name": "Palatul CEC — exterior",
+      "category": "architecture_exterior",
+      "priority": "B",
+      "planningStatus": "draft_candidate",
+      "officialSourceUrls": [],
+      "dateEvidence": [
+        {
+          "claim": "המקום מוזכר במחקר כאשכול הליכה/עוגן ציבורי; לא התקבל אימות זהות Maps או שעות/אירוע לתאריכי הטיול",
+          "evidenceStatus": "planning_reference_only",
+          "sourceType": "local_research",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Palatul+CEC+%E2%80%94+exterior+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "עצירת חזית בלבד; אין אימות לכניסה פנימה או סיור.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md",
+        "maps-logistics-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "macca-vilacrosse-passage",
+      "name": "Pasajul Macca-Vilacrosse",
+      "category": "architecture_walk",
+      "priority": "B",
+      "planningStatus": "draft_candidate",
+      "officialSourceUrls": [],
+      "dateEvidence": [
+        {
+          "claim": "המקום מוזכר במחקר כאשכול הליכה/עוגן ציבורי; לא התקבל אימות זהות Maps או שעות/אירוע לתאריכי הטיול",
+          "evidenceStatus": "planning_reference_only",
+          "sourceType": "local_research",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Pasajul+Macca-Vilacrosse+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "מעבר ועצירת צילום בעיר העתיקה; לא פורסמה כאן הבטחת שעות חג.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md",
+        "maps-logistics-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "bucharest-old-town",
+      "name": "Centrul Vechi / Old Town — Lipscani",
+      "category": "neighborhood_walk",
+      "priority": "A",
+      "planningStatus": "draft_candidate",
+      "officialSourceUrls": [],
+      "dateEvidence": [
+        {
+          "claim": "המקום מוזכר במחקר כאשכול הליכה/עוגן ציבורי; לא התקבל אימות זהות Maps או שעות/אירוע לתאריכי הטיול",
+          "evidenceStatus": "planning_reference_only",
+          "sourceType": "local_research",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Centrul+Vechi+%2F+Old+Town+%E2%80%94+Lipscani+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "אזור רחב ולא כניסה יחידה; לבחור נקודת מפגש. להימנע מלינה מעל רחובות חיי הלילה בלי בדיקת רעש.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md",
+        "maps-logistics-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "university-square",
+      "name": "Piața Universității",
+      "category": "public_square",
+      "priority": "B",
+      "planningStatus": "draft_candidate",
+      "officialSourceUrls": [],
+      "dateEvidence": [
+        {
+          "claim": "המקום מוזכר במחקר כאשכול הליכה/עוגן ציבורי; לא התקבל אימות זהות Maps או שעות/אירוע לתאריכי הטיול",
+          "evidenceStatus": "planning_reference_only",
+          "sourceType": "local_research",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Pia%C8%9Ba+Universit%C4%83%C8%9Bii+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "עוגן לינה ומרכז; הכיכר איננה אישור לשוק כריסמס פעיל.",
+      "sourceDocumentRefs": [
+        "christmas-attractions-2026-11-07.md",
+        "maps-logistics-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "cismigiu-gardens",
+      "name": "Grădina Cișmigiu",
+      "category": "park",
+      "priority": "A",
+      "planningStatus": "draft_candidate",
+      "officialSourceUrls": [
+        "https://adpmb.ro/obiective/gradina-cismigiu/"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "מנהל הפארק מזהה את מיקומו בין Regina Elisabeta ל-Știrbei Vodă",
+          "evidenceStatus": "verified_place_identity_source",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://adpmb.ro/obiective/gradina-cismigiu/"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "לא אומתו שעות/הגבלות מיוחדות לחג או הפעלת משטח קרח",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Gr%C4%83dina+Ci%C8%99migiu+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "פארק במרכז; להבחין בין הפארק לבין משטח ההחלקה העונתי. גישה מעשית בחורף תלויה במזג האוויר ובמצב השבילים.",
+      "sourceDocumentRefs": [
+        "maps-logistics-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "casa-ceausescu",
+      "name": "Casa Ceaușescu / Palatul Primăverii",
+      "category": "museum_guided_tour",
+      "priority": "B",
+      "planningStatus": "alternative",
+      "officialSourceUrls": [
+        "https://casaceausescu.ro/en/contact/"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "עמוד המפעיל מציג שלישי–ראשון 10–17 וכתובת Primăverii 50",
+          "evidenceStatus": "verified_regular_schedule",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://casaceausescu.ro/en/contact/"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "מועדי חג וזמינות סיור לתאריכי הנסיעה לא אומתו",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Casa+Ceau%C8%99escu+%2F+Palatul+Prim%C4%83verii+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "Primăverii 50; חלופה ביום צפוני. נדרש מעבר נפרד מ-Antipa ומועד סיור מאושר; לא לשבץ שני סיורים צמודים.",
+      "sourceDocumentRefs": [
+        "maps-logistics-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "henri-coanda-airport",
+      "name": "Henri Coandă International Airport — OTP",
+      "category": "transport",
+      "priority": "A",
+      "planningStatus": "logistics_anchor",
+      "officialSourceUrls": [
+        "https://www.bucharestairports.ro/en",
+        "https://www.bucharestairports.ro/en/transport-acces-to-and-from-the-airport/bus",
+        "https://www.bucharestairports.ro/en/access/train"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "שדה התעופה מפרסם קו 100 למרכז ורכבת ל-Gara de Nord לאורך היממה",
+          "evidenceStatus": "verified_regular_transport",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://www.bucharestairports.ro/en/transport-acces-to-and-from-the-airport/bus",
+            "https://www.bucharestairports.ro/en/access/train"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "לוחות חג 29.12.2026 ו-02.01.2027 לא אומתו; זמני מעבר במסמכים הם כריות תכנון",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Henri+Coanda+International+Airport+Departures+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "בחזור 2.1 המראה 12:00 לפי אירועי הטיסה שנקראו בידי סוכן האב; יעד תכנון ל-Departures עד 09:00. יציאה 07:30–08:00 עם אימות נסיעה. אין אימות חברת תעופה עצמאי במחקר.",
+      "sourceDocumentRefs": [
+        "maps-logistics-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "la-mama-universitate",
+      "name": "La Mama Universitate",
+      "category": "restaurant",
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "officialSourceUrls": [
+        "https://lamama.ro/la-mama-universitate/",
+        "https://lamama.ro/wp-content/uploads/2026/04/meniu1.pdf"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "תפריט רשמי נבדק במחקר האוכל; המחירים והמרכיבים הם מחירי מקור ולא הצעת מחיר למנה מותאמת או לחג",
+          "evidenceStatus": "verified_menu_at_research_date",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://lamama.ro/la-mama-universitate/",
+            "https://lamama.ro/wp-content/uploads/2026/04/meniu1.pdf"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "פתיחה ותפריט רגיל ל-31.12.2026 בערב ול-01.01.2027 לא אומתו",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "אף מסעדה לא אישרה שינוי מתכון, מעט שומן והיעדר מוצרי חזיר; ההתאמה לילנה טעונה אישור מטבח",
+          "evidenceStatus": "adaptation_unconfirmed",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=La+Mama+Universitate+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "חזה עוף 38 RON ובסמטי 16 RON; המרינדה כוללת שמן, שום, פלפל ויין. לבקש נתח ללא מרינדה אם הם טריגרים. העדפה לארוחה פשוטה במרכז.",
+      "sourceDocumentRefs": [
+        "food-reflux-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "la-mama-peasant-museum",
+      "name": "La Mama Muzeul Țăranului Român",
+      "category": "restaurant",
+      "priority": "B",
+      "planningStatus": "draft_conditional",
+      "officialSourceUrls": [
+        "https://lamama.ro/la-mama-muzeul-taranului-roman/",
+        "https://lamama.ro/wp-content/uploads/2026/04/meniu1.pdf",
+        "https://lamama.ro/revelion-2027/"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "תפריט רשמי נבדק במחקר האוכל; המחירים והמרכיבים הם מחירי מקור ולא הצעת מחיר למנה מותאמת או לחג",
+          "evidenceStatus": "verified_menu_at_research_date",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://lamama.ro/la-mama-muzeul-taranului-roman/",
+            "https://lamama.ro/wp-content/uploads/2026/04/meniu1.pdf"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "פתיחה ותפריט רגיל ל-31.12.2026 בערב ול-01.01.2027 לא אומתו",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "אף מסעדה לא אישרה שינוי מתכון, מעט שומן והיעדר מוצרי חזיר; ההתאמה לילנה טעונה אישור מטבח",
+          "evidenceStatus": "adaptation_unconfirmed",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=La+Mama+Muzeul+%C8%9A%C4%83ranului+Rom%C3%A2n+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "גיבוי ליד Antipa; תפריט רשת כולל עוף ובסמטי. פורסם אירוע Revelion 2027 בסניף ולכן אין להניח תפריט רגיל בערב 31.12.",
+      "sourceDocumentRefs": [
+        "food-reflux-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "hanu-lui-manuc",
+      "name": "Hanu’ lui Manuc",
+      "category": "restaurant",
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "officialSourceUrls": [
+        "https://hanumanucrestaurant.ro/contact/",
+        "https://hanumanucrestaurant.ro/wp-content/uploads/2026/10/meniu-mancare-hanuluimanuc-octombrie-romana.pdf"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "תפריט רשמי נבדק במחקר האוכל; המחירים והמרכיבים הם מחירי מקור ולא הצעת מחיר למנה מותאמת או לחג",
+          "evidenceStatus": "verified_menu_at_research_date",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://hanumanucrestaurant.ro/contact/",
+            "https://hanumanucrestaurant.ro/wp-content/uploads/2026/10/meniu-mancare-hanuluimanuc-octombrie-romana.pdf"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "פתיחה ותפריט רגיל ל-31.12.2026 בערב ול-01.01.2027 לא אומתו",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "אף מסעדה לא אישרה שינוי מתכון, מעט שומן והיעדר מוצרי חזיר; ההתאמה לילנה טעונה אישור מטבח",
+          "evidenceStatus": "adaptation_unconfirmed",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Hanu%E2%80%99+lui+Manuc+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "פורל בגריל 23.5 RON ל-100 גרם, לברר משקל; פולנטה 11 RON או ירקות מאודים 22 RON. לבקש מעט שמן וללא עגבנייה בירקות. קרוב ל-Unirii והעיר העתיקה.",
+      "sourceDocumentRefs": [
+        "food-reflux-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "casa-oamenilor-de-stiinta",
+      "name": "Casa / Clubul Oamenilor de Știință",
+      "category": "restaurant",
+      "priority": "B",
+      "planningStatus": "draft_conditional",
+      "officialSourceUrls": [
+        "https://cos-restaurant-bucuresti.ro/contact/",
+        "https://cos-restaurant-bucuresti.ro/MeniuRestaurant&Bar.pdf"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "תפריט רשמי נבדק במחקר האוכל; המחירים והמרכיבים הם מחירי מקור ולא הצעת מחיר למנה מותאמת או לחג",
+          "evidenceStatus": "verified_menu_at_research_date",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://cos-restaurant-bucuresti.ro/contact/",
+            "https://cos-restaurant-bucuresti.ro/MeniuRestaurant&Bar.pdf"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "פתיחה ותפריט רגיל ל-31.12.2026 בערב ול-01.01.2027 לא אומתו",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "אף מסעדה לא אישרה שינוי מתכון, מעט שומן והיעדר מוצרי חזיר; ההתאמה לילנה טעונה אישור מטבח",
+          "evidenceStatus": "adaptation_unconfirmed",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Casa+%2F+Clubul+Oamenilor+de+%C8%98tiin%C8%9B%C4%83+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "ליד Romană; עוף בגריל 34 RON, זנדר בגריל 62 RON. שעות לא אומתו. פרסום Revelion 2026 ישן אינו אירוע 2027.",
+      "sourceDocumentRefs": [
+        "food-reflux-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "caru-cu-bere",
+      "name": "Caru’ cu Bere",
+      "category": "restaurant",
+      "priority": "B",
+      "planningStatus": "draft_conditional",
+      "officialSourceUrls": [
+        "https://www.carucubere.ro/meniu/",
+        "https://www.carucubere.ro/wp-content/uploads/2026/09/meniu-mancare-carucubere-septembrie.pdf",
+        "https://www.carucubere.ro/revelion-2027/"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "תפריט רשמי נבדק במחקר האוכל; המחירים והמרכיבים הם מחירי מקור ולא הצעת מחיר למנה מותאמת או לחג",
+          "evidenceStatus": "verified_menu_at_research_date",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://www.carucubere.ro/meniu/",
+            "https://www.carucubere.ro/wp-content/uploads/2026/09/meniu-mancare-carucubere-septembrie.pdf"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "פתיחה ותפריט רגיל ל-31.12.2026 בערב ול-01.01.2027 לא אומתו",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "אף מסעדה לא אישרה שינוי מתכון, מעט שומן והיעדר מוצרי חזיר; ההתאמה לילנה טעונה אישור מטבח",
+          "evidenceStatus": "adaptation_unconfirmed",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Caru%E2%80%99+cu+Bere+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "גבוהה לאדריכלות ובינונית לאוכל. לברק 120 RON מגיע עם רוטב חמאה-לימון ופולנטה מטוגנת; נדרשות התאמות. סלט קיסר הודו כולל בייקון. פורסם עמוד אירוע 2027 בלי פרטים שנקראו בהצלחה.",
+      "sourceDocumentRefs": [
+        "food-reflux-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "humboldt-therme",
+      "name": "Humboldt Restaurant — Therme The Palm",
+      "category": "restaurant",
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "officialSourceUrls": [
+        "https://www.therme.ro/attractions/humboldt-restaurant",
+        "https://cdn.mytherme.app/serve/8e51af9d-cefc-4d5d-b777-800503eefe37",
+        "https://www.therme.ro/regulament"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "תפריט רשמי נבדק במחקר האוכל; המחירים והמרכיבים הם מחירי מקור ולא הצעת מחיר למנה מותאמת או לחג",
+          "evidenceStatus": "verified_menu_at_research_date",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://www.therme.ro/attractions/humboldt-restaurant",
+            "https://cdn.mytherme.app/serve/8e51af9d-cefc-4d5d-b777-800503eefe37"
+          ],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "פתיחה ותפריט רגיל ל-31.12.2026 בערב ול-01.01.2027 לא אומתו",
+          "evidenceStatus": "not_published_or_not_verified",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        },
+        {
+          "claim": "אף מסעדה לא אישרה שינוי מתכון, מעט שומן והיעדר מוצרי חזיר; ההתאמה לילנה טעונה אישור מטבח",
+          "evidenceStatus": "adaptation_unconfirmed",
+          "sourceType": "official",
+          "sourceUrls": [],
+          "verifiedAt": "2026-11-07",
+          "verificationMethod": "synthesis_of_trip_research"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Humboldt+Restaurant+%E2%80%94+Therme+The+Palm+Bucharest+Romania",
+      "mapsIdentityVerified": false,
+      "notes": "ארוחת צהריים מותנית ביום הספא ורק ללקוחות Therme. טונה 69 RON כוללת טריאקי, לימון ועגבנייה; לבקש להסיר. Chicken gorgonzola כולל בייקון ושמנת; bowl טבעוני כולל ויניגרט הדרים.",
+      "sourceDocumentRefs": [
+        "food-reflux-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "lumina-park",
+      "name": "Lumina Park — Grădina Botanică",
+      "category": "light_park",
+      "priority": "A",
+      "planningStatus": "draft_conditional",
+      "officialSourceUrls": [
+        "https://lumina-park.ro/",
+        "https://unibuc.ro/gradina-botanica-a-universitatii-din-bucuresti-se-transforma-in-lumina-park-si-invita-vizitatorii-sa-faca-ocolul-pamantului-pana-pe-17-ianuarie-2027/"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "העונה 16.10.2026–17.1.2027 מאומתת; תעריף חג 24.12–3.1. מחיר מדף בחג: 69 RON לאדם. שעות שגרה 17:30–21:30 אצל המפעיל מול 18:00–22:00 בהודעת האוניברסיטה. שעות 31.12 טרם אומתו. חלון ביקור בטיוטה רק מ-18:00. כתובת: Șoseaua Cotroceni 32.",
+          "evidenceStatus": "verified_season_only",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://lumina-park.ro/",
+            "https://unibuc.ro/gradina-botanica-a-universitatii-din-bucuresti-se-transforma-in-lumina-park-si-invita-vizitatorii-sa-faca-ocolul-pamantului-pana-pe-17-ianuarie-2027/"
+          ],
+          "verifiedAt": "2026-11-07"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Lumina%20Park%20%E2%80%94%20Gr%C4%83dina%20Botanic%C4%83%20Romania",
+      "mapsIdentityVerified": false,
+      "notes": "העונה 16.10.2026–17.1.2027 מאומתת; תעריף חג 24.12–3.1. מחיר מדף בחג: 69 RON לאדם. שעות שגרה 17:30–21:30 אצל המפעיל מול 18:00–22:00 בהודעת האוניברסיטה. שעות 31.12 טרם אומתו. חלון ביקור בטיוטה רק מ-18:00. כתובת: Șoseaua Cotroceni 32.",
+      "sourceDocumentRefs": [
+        "late-markets-addendum-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "baneasa-christmas-world",
+      "name": "Băneasa Christmas World",
+      "category": "christmas_market",
+      "priority": "B",
+      "planningStatus": "unverified_season",
+      "officialSourceUrls": [
+        "https://baneasa.ro/ro/articol/baneasa-christmas-world",
+        "https://baneasa-christmas-world.ro/"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "מקורות עונת 2025 בלבד, עם סתירה בתאריך הסיום. אין אישור לתאריכים ולשעות של 2026–2027.",
+          "evidenceStatus": "unknown_current_season",
+          "sourceType": "mixed_or_unavailable",
+          "sourceUrls": [
+            "https://baneasa.ro/ro/articol/baneasa-christmas-world",
+            "https://baneasa-christmas-world.ro/"
+          ],
+          "verifiedAt": "2026-11-07"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=B%C4%83neasa%20Christmas%20World%20Romania",
+      "mapsIdentityVerified": false,
+      "notes": "מקורות עונת 2025 בלבד, עם סתירה בתאריך הסיום. אין אישור לתאריכים ולשעות של 2026–2027.",
+      "sourceDocumentRefs": [
+        "late-markets-addendum-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "taramul-de-gheata",
+      "name": "Tărâmul de Gheață — Parcul Lumea Copiilor",
+      "category": "christmas_market",
+      "priority": "C",
+      "planningStatus": "unverified_season",
+      "officialSourceUrls": [
+        "https://taramuldegheata.ro/"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "אתר המפעיל לא נטען; תאריכי 2026 לא אומתו. לא לשלב ברצף קריטי.",
+          "evidenceStatus": "unknown_current_season",
+          "sourceType": "mixed_or_unavailable",
+          "sourceUrls": [
+            "https://taramuldegheata.ro/"
+          ],
+          "verifiedAt": "2026-11-07"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=T%C4%83r%C3%A2mul%20de%20Ghea%C8%9B%C4%83%20%E2%80%94%20Parcul%20Lumea%20Copiilor%20Romania",
+      "mapsIdentityVerified": false,
+      "notes": "אתר המפעיל לא נטען; תאריכי 2026 לא אומתו. לא לשלב ברצף קריטי.",
+      "sourceDocumentRefs": [
+        "late-markets-addendum-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "occ-christmas-story",
+      "name": "Poveste de Crăciun — Opera Comică pentru Copii",
+      "category": "christmas_market",
+      "priority": "C",
+      "planningStatus": "rejected_dates",
+      "officialSourceUrls": [
+        "https://operacomica.ro/festival/poveste-de-craciun/"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "מהדורה רשמית: 20.11–22.12.2026. אינה חופפת להגעה ב-29.12.",
+          "evidenceStatus": "date_mismatch",
+          "sourceType": "official",
+          "sourceUrls": [
+            "https://operacomica.ro/festival/poveste-de-craciun/"
+          ],
+          "verifiedAt": "2026-11-07"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "closed",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Poveste%20de%20Cr%C4%83ciun%20%E2%80%94%20Opera%20Comic%C4%83%20pentru%20Copii%20Romania",
+      "mapsIdentityVerified": false,
+      "notes": "מהדורה רשמית: 20.11–22.12.2026. אינה חופפת להגעה ב-29.12.",
+      "sourceDocumentRefs": [
+        "late-markets-addendum-2026-11-07.md"
+      ]
+    },
+    {
+      "id": "brasov-christmas-market",
+      "name": "Brașov Christmas Market — אפשרות יום חלופית",
+      "category": "christmas_market",
+      "priority": "C",
+      "planningStatus": "unverified_season",
+      "officialSourceUrls": [
+        "https://www.brasovcity.ro/"
+      ],
+      "dateEvidence": [
+        {
+          "claim": "27.11.2026–3.1.2027 מופיעים במקורות משניים בלבד; האסמכתאה העירונית החזירה 404 וה-PDF לא נטען. לא אושרו פעילות או רכבות. זהו יום מלא במקום יום מוזיאונים, ולא תוספת קטנה למסלול.",
+          "evidenceStatus": "unknown_current_season",
+          "sourceType": "mixed_or_unavailable",
+          "sourceUrls": [
+            "https://www.brasovcity.ro/"
+          ],
+          "verifiedAt": "2026-11-07"
+        }
+      ],
+      "verifiedAt": "2026-11-07",
+      "openingForTrip": "unknown",
+      "mapsSearchUrl": "https://www.google.com/maps/search/?api=1&query=Bra%C8%99ov%20Christmas%20Market%20%E2%80%94%20%D7%90%D7%A4%D7%A9%D7%A8%D7%95%D7%AA%20%D7%99%D7%95%D7%9D%20%D7%97%D7%9C%D7%95%D7%A4%D7%99%D7%AA%20Romania",
+      "mapsIdentityVerified": false,
+      "notes": "27.11.2026–3.1.2027 מופיעים במקורות משניים בלבד; האסמכתאה העירונית החזירה 404 וה-PDF לא נטען. לא אושרו פעילות או רכבות. זהו יום מלא במקום יום מוזיאונים, ולא תוספת קטנה למסלול.",
+      "sourceDocumentRefs": [
+        "late-markets-addendum-2026-11-07.md"
+      ]
+    }
+  ]
+}
