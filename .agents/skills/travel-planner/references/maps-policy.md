@@ -134,7 +134,9 @@ airport, hostel, hotel, parking, station, terminal, lockers, rental car, cable c
 ```text
 [A][🧭] Hostel One — לינה מחוץ לוונציה, להשתמש במקום שכבר מסומן במפה.
 [A][👁] Piazza San Marco / San Marco Square — עוגן רומנטי.
-[A][🎟👁] Murano — 2 שעות באי עצמו + זמן שיט.
+[A][🎟👁] Burano — 11.09 בבוקר; קו 12 ב־07:10, חזרה ב־09:25, כ־1.5 שעות באי.
+[B][🎟👁] Murano — גיבוי במפה בלבד; לא מצטרף לבוראנו.
+[A][❤️] Caffè Cannaregio — 11.09 ב־10:20 אחרי Burano, בדרך ל־Venezia Santa Lucia.
 [A][🎟] La Bauta — החנות הראשית לקניית מסכה; 4.8/5 מתוך 334 ביקורות Google, עבודת יד ודגמים פשוטים סביב €15–€25 לפי הקטלוג הרשמי.
 [B][🎟] Ca’ Macana Original — גיבוי בדורסודורו; 4.7/5 מתוך 913 ביקורות, עבודת יד ומבחר רחב.
 [B][🎟] Kartaruga Atelier — גיבוי ליד San Marco/Castello; 4.7/5 מתוך 124 ביקורות ודגמים ייחודיים. לבדוק שעות סמוך לביקור.

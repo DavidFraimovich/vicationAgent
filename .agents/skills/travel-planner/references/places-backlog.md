@@ -53,7 +53,9 @@ role: places backlog and scheduling candidates
 |---|---|---|---:|---|
 | Hostel One | Plan A | 🧭 | לינה | אירוע לינה/check-in/check-out. להשתמש במקום המדויק שכבר מסומן במפה. |
 | Piazza San Marco / San Marco Square | Plan A | 👁 | 45–90 דק׳ | עוגן רומנטי מרכזי. עדיף בוקר/ערב כדי להפחית עומס. |
-| Murano | Plan A | 🎟👁 | 2 שעות באי + שיט | לשלב כבלוק עצמאי, לא יום שלם. |
+| Burano | Plan A | 🎟👁 | 1.5 שעות באי + שיט | 11.9: קו 12 ב־07:10, חזרה ב־09:25; לשלב כבלוק בוקר מתוזמן לפני איסוף הרכב. |
+| Murano | Plan B / Map only | 🎟👁 | 2 שעות באי + שיט | גיבוי בלבד; אינו מצטרף לבוראנו. |
+| Caffè Cannaregio | Plan A | ❤️ | 30 דק׳ | 11.9 ב־10:20 אחרי בוראנו, על ציר Fondamente Nove → Santa Lucia; שעות שישי 08:00–15:30. |
 | La Bauta | Plan A | 🎟 | 30–45 דק׳ | החנות הראשית לקנייה: 4.8/5 מתוך 334 ביקורות Google; מסכות נייר בעבודת יד ודגמים פשוטים סביב €15–€25. נשמרה ברשימת Maps עם הערת A. |
 | Ca’ Macana Original | Plan B / Map only | 🎟 | 30–45 דק׳ | גיבוי בדורסודורו: 4.7/5 מתוך 913 ביקורות, עבודת יד ומבחר רחב. |
 | Kartaruga Atelier | Plan B / Map only | 🎟 | 30–45 דק׳ | גיבוי ליד San Marco/Castello: 4.7/5 מתוך 124 ביקורות; מסכות עבודת יד ודגמי חיות ייחודיים. |
@@ -149,8 +151,8 @@ role: places backlog and scheduling candidates
 
 ```text
 09.09 — נחיתה VCE, הגעה ל־Hostel One, שינה.
-10.09 — Venice romantic full day: San Marco + mask shop + Murano + wandering.
-11.09 — חצי ונציה רגוע אם מסתדר / איסוף רכב שכור רק אחרי סיום ונציה / Designer Outlet Noventa di Piave עד הסגירה / נסיעה מאוחרת ל־Cortina.
+10.09 — Venice romantic full day: Rialto + Arcicchetti + San Marco + La Bauta + wandering.
+11.09 — יציאה ב־06:00 / Burano בקו 12 / Caffè Cannaregio / חזרה למזוודות / איסוף רכב בשעה המקורית / Designer Outlet Noventa di Piave / נסיעה מאוחרת ל־Cortina.
 
 Cortina / Misurina / Dobbiaco base:
 - יום Cinque Torri + Rifugio Scoiattoli/Averau + Passo Giau אם מסתדר.

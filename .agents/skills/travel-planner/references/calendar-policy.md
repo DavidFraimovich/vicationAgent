@@ -101,8 +101,8 @@ Apple Calendar הוא לקוח תצוגה המסונכרן מ־Google. מותר 
 
 ```text
 09.09 — נחיתה VCE + Hostel One.
-10.09 — Venice romantic full day.
-11.09 — חצי ונציה רגוע אם מסתדר / איסוף רכב שכור רק אחרי סיום ונציה / נסיעה ל־Cortina area.
+10.09 — Venice romantic full day: Rialto, Arcicchetti, San Marco, La Bauta ושיטוט רומנטי.
+11.09 — יציאה ב־06:00, Burano, Caffè Cannaregio, חזרה למזוודות, איסוף רכב שכור בשעה המקורית ונסיעה ל־Cortina area.
 12–16.09 — בסיס מזרחי: Cortina / Misurina / Dobbiaco.
 17.09 — מעבר נופי מזרח→מערב דרך מעברי הרים, עם 1–2 עצירות בלבד.
 18–23.09 — בסיס מערבי: Val Gardena / Ortisei.
@@ -246,12 +246,15 @@ Weather fallback — town/spa/cafe
 1. שיטוט בוקר רומנטי / קפה.
 2. **Piazza San Marco / San Marco Square**.
 3. **La Bauta — קניית מסכה**; Ca’ Macana Original ו־Kartaruga נשארות כגיבויי Map only.
-4. **Murano — 2 שעות באי עצמו**.
+4. **Burano עובר לבוקר 11.09**; Murano נשאר גיבוי במפה בלבד.
 5. בלוק שיטוט חופשי של כ־4 שעות בין מקומות שכבר שמורים במפה.
 6. ערב רומנטי / אוכל קרוב למסלול.
 
 ### 11.09.2026
-- חצי יום ונציה אם מתאים, כדי להשלים יום וחצי רומנטיים בעיר.
+- 05:40 צ׳ק־אאוט מוקדם והשארת מזוודות בלינה; יציאה ב־06:00.
+- 07:10–10:04 Burano בקו 12: הגעה ב־07:53 וחזרה ב־09:25.
+- 10:20–10:50 Caffè Cannaregio בדרך ל־Venezia Santa Lucia.
+- חזרה למזוודות והמשך ל־VCE, בלי להזיז את איסוף הרכב.
 - איסוף רכב שכור רק אחרי שסיימנו את ונציה.
 - ליצור אירוע נפרד: Pick up rental car — Venice area / VCE / Mestre.
 - ליצור לאחר מכן נסיעה לכיוון Cortina area כברירת מחדל.

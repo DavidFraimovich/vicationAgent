@@ -74,8 +74,8 @@ role: primary planning policy
 
 ```text
 09.09 — נחיתה VCE, לינה Hostel One מחוץ לוונציה.
-10.09 — Venice romantic day.
-11.09 — חצי ונציה רגוע / איסוף רכב שכור רק אחרי סיום ונציה / Designer Outlet Noventa di Piave עד הסגירה / נסיעה מאוחרת לקורטינה.
+10.09 — Venice romantic day: Rialto, Arcicchetti, San Marco, La Bauta ושיטוט רומנטי.
+11.09 — יציאה ב־06:00, Burano בקו 12, Caffè Cannaregio, חזרה למזוודות, איסוף רכב בשעה המקורית / Designer Outlet Noventa di Piave / נסיעה מאוחרת לקורטינה.
 12–16.09 — בסיס מזרחי: Cortina / Misurina / Dobbiaco.
 17.09 — מעבר נופי מערבה דרך Passo Falzarego / Passo Giau / Passo Pordoi / Passo Sella — לבחור 1–2 עצירות בלבד.
 18–23.09 — בסיס מערבי: Val Gardena / Ortisei.
@@ -97,7 +97,8 @@ role: primary planning policy
 - לא לבנות יום מוזיאונים עמוס. המטרה היא אווירה, הליכה, מים, תמונות, אוכל, מסכות ושיטוט זוגי.
 - חובה לכלול:
   - **Piazza San Marco / San Marco Square**.
-  - **Murano** — כ־2 שעות באי עצמו, בנוסף לזמן שיט.
+  - **Burano** — בבוקר 11.09 בקו 12: יציאה מ־Fondamente Nove ב־07:10 וחזרה מבוראנו ב־09:25, עם כ־1.5 שעות באי.
+  - **Caffè Cannaregio** — עצירת קפה קצרה אחרי החזרה מבוראנו, בדרך ל־Venezia Santa Lucia.
   - **La Bauta** לקניית מסכה כ־Plan A; **Ca’ Macana Original** ו־**Kartaruga Atelier** שמורות כגיבויי Plan B במפה.
   - עוד כ־4 שעות מפוזרות ביום לשיטוט ממקום למקום בין המקומות שכבר מסומנים במפה.
 - אחרי סיום ונציה: איסוף רכב שכור ויציאה לדולומיטים. אירוע איסוף הרכב חייב להופיע ביומן לפני נסיעת Venice area → Cortina.
@@ -133,7 +134,8 @@ Lena ובן הזוג אוהבים טיול עם **וואו גבוה אבל עו�
 - Venice romantic day.
 - Hostel One.
 - San Marco Square.
-- Murano.
+- Burano בבוקר 11.09; Murano נשאר גיבוי במפה בלבד.
+- Caffè Cannaregio אחרי Burano, על ציר החזרה למזוודות.
 - La Bauta as the primary Venice mask shop; Ca’ Macana Original and Kartaruga Atelier as map-only backups.
 - Cortina d’Ampezzo / Misurina / Dobbiaco base.
 - Pieve di Cadore / Lago di Centro Cadore as a mandatory short return stop on 24 September.

@@ -4,7 +4,7 @@
 >
 > תאריכים: **9–25 בספטמבר 2026** | נוסעים: **2** | אזור זמן בתוכנית: **Europe/Rome**
 >
-> גרסת מקור: `plan-a-2026-09-07-v26` | המסמך עודכן: **07.09.2026**
+> גרסת מקור: `plan-a-2026-09-19-v29` | המסמך עודכן: **19.09.2026**
 
 ## איך להשתמש במסמך
 
@@ -12,7 +12,7 @@
 
 ```text
 11.9 — לשמור את Rialto ואת איסוף הרכב ב־13:30.
-18.9 — רוצה מסלול מעט ארוך יותר ב־Seceda.
+19.9 — רוצה את שביל Friedrich-August-Weg, ואחריו את Pordoi ו־Carezza שהתפספסו.
 לינה במערב — לחפש אפשרות משתלמת יותר עם חניה; לא להעדיף מלון יקר רק בגלל דירוג.
 ```
 
@@ -34,14 +34,14 @@
 
 ## תקציר הטיול
 
-המסלול נשאר **East-first**. נקודת המוצא המזרחית היא הלינה המאושרת **Bella casa vacanze, Via Corte 13, Auronzo di Cadore**; Centro Studi Criminalistica Forense היה עוגן החיפוש הראשוני בלבד. העוגן המערבי מאושר ב־**Laion**, בין 17–25.9: צ׳ק־אין ב־16:00, צ׳ק־אאוט ב־09:00, כניסה עם lockbox וחניה במוסך. ב־17.9 יוצאים מוקדם ל־Zipline San Tomaso, ממשיכים דרך Passo Pordoi ו־Lago di Carezza, ואז עושים שיטוט מלא וארוחת ערב ב־Chiusa לפני הצ׳ק־אין הראשון ב־Laion. Gardonè עבר ל־20.9 בבוקר, יום הפעילות האחרון שלו ב־2026, ומתחבר אחר כך ל־Bressanone. כדי לשמור את כל שאר העוגנים, Passo Gardena ו־Vallunga עברו ל־21.9 ו־Val di Funes עם השקיעה ב־Santa Maddalena עבר ל־22.9, כשה־Geisleralm פתוחה ולא ביום הסגירה השבועי שלה. Ortisei נשאר מרכז הפעילויות, במרחק כ־15–17 דקות מהלינה. ב־25.9 יוצאים מ־Laion ב־04:45 לנסיעה הישירה לשדה.
+המסלול נשאר **East-first**. נקודת המוצא המזרחית היא הלינה המאושרת **Bella casa vacanze, Via Corte 13, Auronzo di Cadore**; Centro Studi Criminalistica Forense היה עוגן החיפוש הראשוני בלבד. העוגן המערבי מאושר ב־**Laion**, בין 17–25.9: צ׳ק־אין ב־16:00, צ׳ק־אאוט ב־09:00, כניסה עם lockbox וחניה במוסך. Passo Pordoi ו־Lago di Carezza לא בוצעו ביום המעבר 17.9, ולכן הועברו ל־19.9 אחרי ארוחת קראפפן ב־Rifugio Friedrich August והלוך־חזור קל־בינוני על שביל 557 דרך Rifugio Sandro Pertini עד Rifugio Sasso Piatto. Ortisei הוסר מערב 19.9 משום שכבר ביקרנו בו והוא יקר; ארוחת הערב תהיה חסכונית בדירה ב־Laion. Gardonè נשאר ב־20.9 בבוקר, יום הפעילות האחרון שלו ב־2026, ומתחבר אחר כך ל־Bressanone. Passo Gardena ו־Vallunga נשארו ב־21.9 ו־Val di Funes עם השקיעה ב־Santa Maddalena ב־22.9. ב־25.9 יוצאים מ־Laion ב־04:45 לנסיעה הישירה לשדה.
 
 | תאריכים | בסיס / אזור | אופי הימים | סטטוס לינה |
 |---|---|---|---|
-| 9–11.9 | Mestre + Venice | הגעה, בוראנו מוקדם, Arcicchetti, Caffè Florian, San Marco, Bovolo, QUORAMI ו־La Bauta | ✅ a&o Venezia Mestre מאושר |
-| 11.9 | Venice, VCE, Target Rent, Noventa di Piave, בסיס מזרחי | Rialto, צהריים ב־VCE, איסוף רכב ב־13:30 ללא שינוי, אאוטלט מקוצר, סופרמרקט והגעה מוקדמת יותר לאורונזו | ✅ הרכב והלינה מאושרים; התקבלו הוראות self check-in וחניה |
+| 9–11.9 | Mestre + Venice | הגעה, Rialto, Arcicchetti, Caffè Florian, San Marco, Palazzo Fendi, Bovolo, QUORAMI ו־La Bauta | ✅ a&o Venezia Mestre מאושר |
+| 11.9 | Burano, Cannaregio, VCE, Target Rent, Noventa di Piave, בסיס מזרחי | צ׳ק־אאוט והפקדת מזוודות, בוראנו מוקדם, Caffè Cannaregio, איסוף רכב ב־13:30 ללא שינוי, אאוטלט מקוצר, סופרמרקט והגעה לאורונזו | ✅ הרכב והלינה מאושרים; התקבלו הוראות self check-in וחניה |
 | 12–17.9 | Via Corte 13, Auronzo / מזרח הדולומיטים | Ra Bujela + Fun Bob, Ponte Tibetano, Val Cimoliana + המוזיאון העירוני, Tre Cime, Braies + Col de Varda, Cinque Torri + Lagazuoi ושקיעה ב־Giau | ✅ Bella casa vacanze מאושרת |
-| 17–25.9 | Laion / טבעת Val Gardena | Chiusa לפני הצ׳ק־אין, Seceda + מצנח + Val d’Anna, Alpe di Siusi + סוסים + Castelrotto, Gardonè + Bressanone, Passo Gardena + Vallunga, Cinema delle Odle + Santa Maddalena בשקיעה, e-bike ו־Bolzano | ✅ Airbnb ב־Laion מאושר לשמונה לילות |
+| 17–25.9 | Laion / טבעת Val Gardena | Friedrich August + שביל 557 ל־Sasso Piatto + Passo Pordoi + Lago di Carezza, Alpe di Siusi + סוסים + Castelrotto, Gardonè + Bressanone, Passo Gardena + Vallunga, Cinema delle Odle + Santa Maddalena בשקיעה, e-bike ו־Bolzano | ✅ Airbnb ב־Laion מאושר לשמונה לילות |
 | 25.9 | Laion, Target Rent, VCE | יציאה ב־04:45, נסיעה ישירה, החזרת רכב וטיסה | הלינה והטיסה מאושרות |
 
 ### עקרונות התכנון
@@ -57,7 +57,7 @@
 - לכל יום מלא מ־10.9 עד 24.9 נוסף חלון ארוחת ערב ייעודי.
 - שעות הפעילות ששימשו לבניית הרצף מופיעות בתיאור כל אטרקציה תלויה בשעה; מקום טבע פתוח מסומן לפי מגבלת הדרך, מזג האוויר ואור היום.
 - שתי הטיסות כבר קיימות ביומן ומוגנות משינוי.
-- לא נמצא ביומן הראשי אירוע Airbnb ל־17–25.9, ולכן לא נוצר אירוע לינה כפול. עדכון זה נשאר בתוכנית המקומית ובמפה בלבד; לא פורסמו אירועי המסלול ליומן.
+- אירועי המסלול ל־10–11.9 נשמרים לפי Event ID לעדכון במקום. גרסה v28 מעבירה את בוראנו לשישי ומוסיפה את Caffè Cannaregio; אירועי לינה שנוצרו על ידי ספקים נשארים בניהול הספק ולא נוצרים מחדש.
 
 ### בדיקת רכבלים — ספטמבר 2026
 
@@ -69,8 +69,8 @@
 | Col de Varda — Misurina | יוני–ספטמבר | 09:00–16:45 | נוסף ב־15.9 אחרי Lago di Landro; עולים סביב 15:05 ומתחילים ירידה עד 16:20. לא מנסים להגיע ל־Rifugio Città di Carpi בחלון המאוחר. |
 | Lagazuoi | 6.6–18.10 | ראשון 09:00, עלייה אחרונה 16:40, ירידה אחרונה 17:00 | נוסף אחרי Cinque Torri ב־16.9; להיות בתור לירידה עד 16:35. |
 | Alpine Coaster Gardonè | 13.6–20.9 | 10:00–17:00; רכבל ירידה עד 17:45 | שובץ ב־20.9, 10:15–12:00, ביום האחרון של עונת 2026 ובכפוף למזג האוויר. |
-| Seceda — Ortisei–Furnes–Seceda | 22.5–2.11 | ב־18.9: 08:30–17:30 | התאריך הנוכחי מתאים. Fermeda האופציונלי פתוח עד 20.9, 09:30–16:30. |
-| Mont Sëuc — Ortisei–Alpe di Siusi | 1.5–2.11 | ב־19.9: 08:30–18:00 | התאריך הנוכחי מתאים ואין יתרון להעביר את ונציה לסוף. |
+| Seceda — Ortisei–Furnes–Seceda | 22.5–2.11 | 08:30–17:30 ב־19.9 | אומת אך הוסר מיום 19.9 בהחלטת המשתמש; נשאר מועמד מפה בלבד, ללא הזמנה. |
+| Mont Sëuc — Ortisei–Alpe di Siusi | 1.5–2.11 | ב־18.9: 08:30–18:00 | התאריך הנוכחי מתאים ואין יתרון להעביר את ונציה לסוף. |
 | Resciesa — גיבוי מערבי | 16.5–11.10 | 6.9–11.10: 08:30–17:00 | נשאר גיבוי תקין לאורך כל השהייה במערב. |
 | Sass Pordoi — אופציה ביום מעבר | 14.5–1.11 | עד 18.10: 09:00–17:00 | אין לחץ עונתי ביום המעבר 17.9. |
 
@@ -98,9 +98,9 @@
 
 | שעה | תוכנית | פרטים |
 |---|---|---|
-| 20:50–21:20 | נחיתה ב־VCE — LY 289 | אירוע הטיסה כבר קיים ומוגן ביומן. השעה היא זמן מקומי באיטליה. |
-| 21:30–22:30 | מעבר משדה התעופה ל־Mestre | תחבורה ללינה, מים ונשנוש קל. |
-| 22:30–23:00 | צ׳ק־אין ב־a&o Venezia Mestre | ✅ לינה מאושרת לשני לילות, לשני מבוגרים. |
+| 20:50–21:20 | [נחיתה ב־VCE — LY 289](https://www.google.com/maps/search/Venice%20Marco%20Polo%20Airport) | אירוע הטיסה כבר קיים ומוגן ביומן. השעה היא זמן מקומי באיטליה. |
+| 21:30–22:30 | [VCE](https://www.google.com/maps/search/Venice%20Marco%20Polo%20Airport) → [Venezia Mestre](https://www.google.com/maps/search/Venezia%20Mestre%20railway%20station) | תחבורה ללינה, מים ונשנוש קל. |
+| 22:30–23:00 | צ׳ק־אין ב־[a&o Venezia Mestre](https://maps.google.com/?cid=2559267828695871316) | ✅ לינה מאושרת לשני לילות, לשני מבוגרים. |
 
 **לשים לב:** לוודא מראש שהמלון מודע להגעה המאוחרת אם נדרש.
 
@@ -108,50 +108,57 @@
 
 ---
 
-## יום חמישי, 10.9 — בוראנו מוקדם ויום ונציה רומנטי
+## יום חמישי, 10.9 — Rialto ויום ונציה רומנטי
 
-**מטרת היום:** לנצל את השיט המוקדם לבוראנו, ואז לעבור ברצף לאוכל, קינוח, עוגני המרכז וקניות נבחרות — בלי להוסיף אי שני.
+**מטרת היום:** להתחיל בבוקר רגוע דרך Rialto, ואז לעבור ברצף לארוחת הבוקר המאוחרת, קינוח, עוגני המרכז וקניות נבחרות. בוראנו עבר לבוקר שישי.
 
 | שעה | תוכנית | פרטים |
 |---|---|---|
-| 06:00–07:40 | קימה ו־Mestre → Fondamente Nove | לצאת מוכנים לרכבת הראשונה המתאימה ל־Venezia Santa Lucia. יעד: קו ACTV 5.2 מ־Ferrovia ב־07:10, הגעה ל־Fondamente Nove ב־07:30 והחלפה של 10 דקות. לבדוק שוב רכבת והתראות ACTV בבוקר. |
-| 07:40–11:04 | [בוראנו — שיט וביקור מוקדם](https://www.google.com/maps/search/?api=1&query=Burano%2C%20Venezia) | קו 12 יוצא מ־Fondamente Nove ב־07:40 ומגיע לבוראנו ב־08:23. שיטוט עד 10:20; חזרה ב־10:25 והגעה ל־Fondamente Nove ב־11:04. [לוח ACTV הרשמי](https://avm.avmspa.it/sites/default/files/avm/navigazione/Actv_nav_linea_12.pdf), בתוקף מ־22.4.2026. |
-| 11:04–12:00 | הליכה ל־Arcicchetti | חציית ונציה ל־Campo dei Tolentini, כולל ניווט ומרווח לתור. |
-| 12:00–12:40 | [ארוחת בוקר מאוחרת — Arcicchetti Bakaro](https://www.google.com/maps/search/?api=1&query=Arcicchetti%20Bakaro%20Venezia) | Cicchetti ושתייה כארוחת brunch משמעותית. המקום נפתח רק ב־11:00, ולכן אינו יכול להיות ארוחת בוקר מוקדמת; ביום חמישי השעות המפורסמות הן 11:00–21:00. |
-| 12:40–13:15 | הליכה ל־San Marco | מעבר רגלי ממוקד, בלי להוסיף עצירה נוספת. |
-| 13:15–13:55 | [קינוח וקפה ב־Caffè Florian](https://caffeflorian.com/contatti/) | קינוח וקפה בלבד אחרי Arcicchetti. פתוח רשמית מדי יום 09:00–23:00; לזוג אין הזמנה מראש. להביא בחשבון מחירי Piazza San Marco. |
-| 13:55–15:05 | San Marco ומרכז ונציה | הכיכר, חזיתות וסמטאות קרובות. בשעה זו עמוס יותר; הבוקר השקט ניתן לבוראנו במכוון. |
-| 15:15–15:55 | [Palazzo Contarini del Bovolo](https://www.gioiellinascostidivenezia.it/scala-contarini-del-bovolo/) | התוספת המרכזית מהרשימה: המדרגות הלולייניות והתצפית. פתוח רשמית 10:00–18:00, כניסה אחרונה 17:30; מחיר מלא €9 והזמנה מומלצת אך לא חובה. |
-| 16:00–16:30 | [QUORAMI](https://www.google.com/maps/search/?api=1&query=QUORAMI%20Venezia) | עצירת עור ואומנות קצרה על הציר ל־La Bauta. אם נוצר איחור — זו העצירה הראשונה שמוותרים עליה. |
-| 16:45–17:30 | [La Bauta — קניית מסכה](https://www.google.com/maps/place/La+Bauta/@45.4359844,12.3273012,17z/data=!3m1!4b1!4m6!3m5!1s0x477eb1c5cb01003b:0xb3f00e3ca4c90999!8m2!3d45.4359844!4d12.3273012!16s%2Fg%2F11c60kg_lk) | נשארת החנות הראשית, בדיוק כפי שביקשתם; La Bottega dei Mascareri אינה מחליפה אותה. להתחיל בדגמי נייר בעבודת יד סביב €15–€25. |
-| 17:30–18:45 | שיטוט איטי ו־aperitivo | חלון גמיש ב־San Polo/Dorsoduro לתעלות, תמונות ומנוחה; הוא גם סופג עיכובים מהיום הארוך. |
+| 08:45–10:30 | [Mestre](https://www.google.com/maps/search/Venezia%20Mestre%20railway%20station) → [Rialto](https://www.google.com/maps/search/Rialto%20Bridge%20Venice) ושיטוט בוקר רגוע | רכבת ל־[Venezia Santa Lucia](https://www.google.com/maps/search/?api=1&query=Venezia%20Santa%20Lucia) והמשך דרך Cannaregio ל־Rialto. לצלם וליהנות מהעיר בלי קימה של 06:00 ביום שאחרי הטיסה. |
+| 10:30–12:00 | [Rialto](https://www.google.com/maps/search/Rialto%20Bridge%20Venice) → [Arcicchetti](https://www.google.com/maps/search/?api=1&query=Arcicchetti%20Bakaro%20Venezia) דרך San Polo ו־Santa Croce | הליכה איטית, תמונות ומרווח ניווט/תור לפני Campo dei Tolentini. |
+| 12:00–12:40 | [ארוחת בוקר מאוחרת — Arcicchetti Bakaro](https://www.google.com/maps/search/?api=1&query=Arcicchetti%20Bakaro%20Venezia) | Cicchetti ושתייה כארוחת brunch משמעותית. המקום נפתח ב־11:00; ביום חמישי השעות המפורסמות הן 11:00–21:00. |
+| 12:40–13:15 | הליכה ל־[Piazza San Marco](https://www.google.com/maps/place/%D7%9B%D7%99%D7%9B%D7%A8+%D7%A1%D7%9F+%D7%9E%D7%A8%D7%A7%D7%95%E2%80%AD/@45.4341668,12.3384717,17z) | מעבר רגלי ממוקד, בלי להוסיף עצירה נוספת. |
+| 13:15–13:55 | [קינוח וקפה ב־Caffè Florian](https://www.google.com/maps/search/?api=1&query=Caff%C3%A8%20Florian%20Venezia) | קינוח וקפה בלבד אחרי Arcicchetti. לפי [האתר הרשמי](https://caffeflorian.com/contatti/) פתוח מדי יום 09:00–23:00; לזוג אין הזמנה מראש. להביא בחשבון מחירי Piazza San Marco. |
+| 13:55–15:05 | [San Marco ומרכז ונציה](https://www.google.com/maps/place/%D7%9B%D7%99%D7%9B%D7%A8+%D7%A1%D7%9F+%D7%9E%D7%A8%D7%A7%D7%95%E2%80%AD/@45.4341668,12.3384717,17z) | הכיכר, חזיתות וסמטאות קרובות. היום נשאר נינוח יותר משום שבוראנו עבר לשישי. |
+| 15:05–15:30 | [Palazzo Fendi Venezia](https://www.google.com/maps/search/?api=1&query=Palazzo%20Fendi%20Venezia%2C%20Calle%20Larga%20de%20l%27Ascension%2C%201255%2C%2030124%20Venezia) | עצירת קניות קצרה מיד אחרי San Marco. הסניף נמצא ב־Calle Larga de l’Ascension, Piazza San Marco 1255; לפי [Fendi](https://www.fendi.com/it-it/store-locator/italia/calle-larga-de-l%E2%80%99ascension) הוא פתוח ביום חמישי 10:00–19:30. |
+| 15:40–16:20 | [Palazzo Contarini del Bovolo](https://www.google.com/maps/search/?api=1&query=Palazzo%20Contarini%20del%20Bovolo%20Venezia) | התוספת המרכזית מהרשימה: המדרגות הלולייניות והתצפית. לפי [האתר הרשמי](https://www.gioiellinascostidivenezia.it/scala-contarini-del-bovolo/) פתוח 10:00–18:00, כניסה אחרונה 17:30; מחיר מלא €9 והזמנה מומלצת אך לא חובה. |
+| 16:25–16:50 | [QUORAMI](https://www.google.com/maps/search/?api=1&query=QUORAMI%20Venezia) | עצירת עור ואומנות קצרה על הציר ל־La Bauta. אם נוצר איחור — זו העצירה הראשונה שמוותרים עליה. |
+| 17:05–17:50 | [La Bauta — קניית מסכה](https://www.google.com/maps/place/La+Bauta/@45.4359844,12.3273012,17z/data=!3m1!4b1!4m6!3m5!1s0x477eb1c5cb01003b:0xb3f00e3ca4c90999!8m2!3d45.4359844!4d12.3273012!16s%2Fg%2F11c60kg_lk) | נשארת החנות הראשית, בדיוק כפי שביקשתם; La Bottega dei Mascareri אינה מחליפה אותה. להתחיל בדגמי נייר בעבודת יד סביב €15–€25. |
+| 17:50–18:45 | שיטוט איטי ב־[San Polo](https://www.google.com/maps/search/?api=1&query=San%20Polo%20Venezia) וב־[Dorsoduro](https://www.google.com/maps/search/?api=1&query=Dorsoduro%20Venezia) + aperitivo | חלון גמיש לתעלות, תמונות ומנוחה; הוא גם סופג עיכובים מהיום הארוך. |
 | 19:00–20:30 | ארוחת ערב בוונציה או ב־Mestre | לבחור מקום על ציר החזרה ולחזור מוקדם יחסית לפני הצ׳ק־אאוט ואיסוף הרכב הקבוע למחרת. |
 
-**Plan B:** אם עייפים אחרי הטיסה המאוחרת, מוותרים על בוראנו ומתחילים את ונציה מאוחר יותר. אם רק מפספסים את קו 12 של 07:40, קיימת יציאה ב־08:10, אך היא דוחסת את אחר הצהריים; במקרה כזה מוותרים קודם על QUORAMI. לא מעבירים את בוראנו ל־11.9, כדי לא לסכן את איסוף הרכב ב־13:30. Murano נשאר רעיון גיבוי בלבד ולא מצטרף לבוראנו.
+**Plan B:** אם עייפים אחרי הטיסה המאוחרת, מקצרים את Rialto ומגיעים ישירות ל־Arcicchetti. אם אחר הצהריים מתעכב, QUORAMI היא העצירה הראשונה שמוותרים עליה. Murano נשאר רעיון גיבוי בלבד ואינו מצטרף לבוראנו.
 
-**לשים לב:** לקנות ולתקף מראש כרטיס/פס ACTV מתאים, לבדוק התראות שירות חיות, ולהביא מים. קימה ב־06:00 אפשרית ללו״ז הזה, אך היא מגיעה אחרי לילה קצר; לא להפוך את הבוקר למרוץ אם הטיסה או הצ׳ק־אין מתעכבים.
+**לשים לב:** בערב לאכול בזמן, לארוז ולתאם עם הקבלה הפקדת מזוודות ב־05:40 למחרת. יציאת 06:00 היא אילוץ מודע כדי להספיק לבוראנו בלי להזיז את הרכב.
 
 > הערה שלי:
 
 ---
 
-## יום שישי, 11.9 — Rialto, איסוף רכב קבוע, אאוטלט מקוצר ואורונזו
+## יום שישי, 11.9 — בוראנו, Caffè Cannaregio, איסוף רכב קבוע ואורונזו
 
-**מטרת היום:** לשמור על Rialto ועל איסוף הרכב המאושר ב־13:30 ללא שינוי, לקצר את האאוטלט ולהגיע לאורונזו מוקדם יותר. אין השכרת ציוד ביום הזה.
+**מטרת היום:** לצאת ב־06:00 אחרי צ׳ק־אאוט והפקדת המזוודות, להספיק בוראנו וקפה ב־Cannaregio, ולחזור במסלול מתוזמן למזוודות, ל־VCE ולאיסוף הרכב המאושר ב־13:30 ללא שינוי. אין השכרת ציוד ביום הזה.
 
 | שעה | תוכנית | פרטים |
 |---|---|---|
-| 08:00–09:45 | Rialto והליכה אחרונה בוונציה | הליכה מוקדמת וקפה באזור Rialto, ואז חזרה בזמן ל־Mestre. |
-| 09:45–12:00 | חזרה ל־Mestre, צ׳ק־אאוט ומעבר ל־VCE | לאסוף מזוודות ולצאת לשדה. החלון השמרני מגן על ארוחת הצהריים ועל האיסוף ב־13:30. |
-| 12:00–12:45 | ארוחת צהריים ב־VCE | לאכול ארוחה פשוטה בטרמינל כדי לא לדחות את הצהריים לאחר 14:30. להישאר קרוב לציר arrivals/P5. |
-| 12:45–13:30 | VCE → Target Rent בשאטל | להגיע לאזור P5 ולהזמין את שאטל Park Gold החינמי ל־Via Orlanda 216. נשמר אותו מרווח שאטל של 45 דקות שהיה בתוכנית הקודמת. |
-| 13:30–14:30 | איסוף רכב ב־Target Rent | מאושר במייל הספק מ־29.7, אומת שוב ב־5.9. לתעד את מצב הרכב ולאשר דלק, פיקדון, אגרות וביטוח בסניף. |
-| 14:30–15:05 | נסיעה ל־Designer Outlet Noventa di Piave | כולל A4/E70, אגרה וחניה. |
-| 15:05–17:20 | קניות ו־Tax Free באאוטלט | האאוטלט קוצר ל־2:15 שעות. שעות שישי רשמיות: 10:00–20:00; לעבוד לפי רשימת חובה ולסיים גם את ניירת ה־Tax Free בזמן. |
-| 17:20–18:20 | ארוחת ערב מוקדמת באאוטלט | חלון ייעודי מיד אחרי הקניות, כדי להקדים את הסופר ואת ההגעה לאורונזו. |
+| 05:40–07:10 | צ׳ק־אאוט והפקדת מזוודות ב־[a&o Venezia Mestre](https://maps.google.com/?cid=2559267828695871316), ואז [Mestre](https://www.google.com/maps/search/Venezia%20Mestre%20railway%20station) → [Fondamente Nove](https://www.google.com/maps/search/?api=1&query=Fondamente%20Nove%20Venezia) | לצאת מהמלון ב־06:00. רכבת מתאימה ל־[Venezia Santa Lucia](https://www.google.com/maps/search/?api=1&query=Venezia%20Santa%20Lucia) והמשך ל־Fondamente Nove לקו 12 של 07:10. |
+| 07:10–10:04 | [בוראנו — שיט וביקור בוקר](https://www.google.com/maps/search/?api=1&query=Burano%2C%20Venezia) | קו 12 יוצא ב־07:10 ומגיע ב־07:53. שיטוט עד 09:20; חזרה ב־09:25 והגעה ל־Fondamente Nove ב־10:04. מתקבלות כשעה וחצי באי. [לוח ACTV הרשמי](https://avm.avmspa.it/sites/default/files/avm/navigazione/Actv_nav_linea_12.pdf), בתוקף מ־22.4.2026. |
+| 10:04–10:20 | [Fondamente Nove](https://www.google.com/maps/search/?api=1&query=Fondamente%20Nove%20Venezia) → [Caffè Cannaregio](https://www.google.com/maps/place/Caff%C3%A8+Cannaregio/@45.4457284,12.3304546,656m/data=!3m2!1e3!4b1!4m6!3m5!1s0x477eb19576edae91:0x89b1fe2d89dd9044!8m2!3d45.4457284!4d12.327885!16s%2Fg%2F1vnnh78p) | הליכה ישירה לאורך Cannaregio ל־Fondamenta dei Ormesini 2804. |
+| 10:20–10:50 | [Caffè Cannaregio](https://www.google.com/maps/place/Caff%C3%A8+Cannaregio/@45.4457284,12.3304546,656m/data=!3m2!1e3!4b1!4m6!3m5!1s0x477eb19576edae91:0x89b1fe2d89dd9044!8m2!3d45.4457284!4d12.327885!16s%2Fg%2F1vnnh78p) | קפה specialty אחרי בוראנו. המקום המחודש הודיע על פתיחה מחדש ב־28.8.2026; שעות שישי המפורסמות הן 08:00–15:30. להזמין קפה ומאפה/בייגל ולקחת נשנוש נייד לקראת השדה. |
+| 10:50–12:35 | [Caffè Cannaregio](https://www.google.com/maps/place/Caff%C3%A8+Cannaregio/@45.4457284,12.3304546,656m/data=!3m2!1e3!4b1!4m6!3m5!1s0x477eb19576edae91:0x89b1fe2d89dd9044!8m2!3d45.4457284!4d12.327885!16s%2Fg%2F1vnnh78p) → [Venezia Santa Lucia](https://www.google.com/maps/search/?api=1&query=Venezia%20Santa%20Lucia) → מזוודות ב־[a&o](https://maps.google.com/?cid=2559267828695871316) → [VCE](https://www.google.com/maps/search/Venice%20Marco%20Polo%20Airport) | ללכת ישירות לתחנה ולכוון לרכבת 11:27, שמגיעה ל־Mestre בערך ב־11:38. לאסוף את המזוודות ולעלות על ATVO Airport Express של 12:15; לפי [הלוח הרשמי](https://www.atvo.it/assets/bus_routes/035b_10.09.26-30.09.26.pdf) ההגעה ל־VCE ב־12:35. לבדוק את הרכבת בזמן אמת. |
+| 12:35–12:45 | אוכל נייד והליכה ל־[P5 ב־VCE](https://www.google.com/maps/search/?api=1&query=Parking%20P5%20Venice%20Marco%20Polo%20Airport) | לאכול את הנשנוש שנקנה בבית הקפה או לקחת כריך מוכן בלבד; אין זמן לארוחת ישיבה בלי לסכן את האיסוף. |
+| 12:45–13:30 | [VCE](https://www.google.com/maps/search/Venice%20Marco%20Polo%20Airport) → [Target Rent](https://maps.app.goo.gl/UiD6XeqskFK6cjYS7) בשאטל | להגיע לאזור P5 ולהזמין את שאטל Park Gold החינמי ל־Via Orlanda 216. נשמר אותו מרווח שאטל של 45 דקות שהיה בתוכנית הקודמת. |
+| 13:30–14:30 | איסוף רכב ב־[Target Rent](https://maps.app.goo.gl/UiD6XeqskFK6cjYS7) | מאושר במייל הספק מ־29.7, אומת שוב ב־5.9. לתעד את מצב הרכב ולאשר דלק, פיקדון, אגרות וביטוח בסניף. |
+| 14:30–15:05 | [Target Rent](https://maps.app.goo.gl/UiD6XeqskFK6cjYS7) → [Designer Outlet Noventa di Piave](https://www.google.com/maps/place/Designer+Outlet+Noventa+di+Piave/@45.6714459,12.5354406,17z) | כולל A4/E70, אגרה וחניה. |
+| 15:05–17:20 | קניות ו־Tax Free ב־[Designer Outlet Noventa di Piave](https://www.google.com/maps/place/Designer+Outlet+Noventa+di+Piave/@45.6714459,12.5354406,17z) | האאוטלט קוצר ל־2:15 שעות. שעות שישי רשמיות: 10:00–20:00; לעבוד לפי רשימת חובה ולסיים גם את ניירת ה־Tax Free בזמן. |
+| 17:20–18:20 | ארוחת ערב מוקדמת ב־[Designer Outlet Noventa di Piave](https://www.google.com/maps/place/Designer+Outlet+Noventa+di+Piave/@45.6714459,12.5354406,17z) | חלון ייעודי מיד אחרי הקניות, כדי להקדים את הסופר ואת ההגעה לאורונזו. |
 | 18:30–19:10 | [Eurospar Noventa di Piave](https://www.google.com/maps/search/?api=1&query=Eurospar%20Via%20Calnova%20Noventa%20di%20Piave) | לקנות ארוחת בוקר, מים, נשנושים וכריכים לצהריים של 12.9. שעות שישי רשמיות: 08:30–20:30; כעת יש מרווח גדול לפני הסגירה. |
-| 19:10–21:25 | נסיעה ללינה המאושרת באורונזו | נסיעת לילה דרך A27, כולל אגרות ואותו מרווח נסיעה של 2:15 שעות. |
-| 21:25–21:45 | הגעה ו־late check-in | כניסה עצמאית מאושרת. אוספים מפתח מהתיבה בכניסה למשרד Larese, ואז מגיעים לכניסה האחורית של הדירה. חניה בחצר תוך השארת מקום לרכבים אחרים; הרחוב הוא גיבוי. |
+| 19:10–21:25 | נסיעה ל־[Auronzo di Cadore](https://www.google.com/maps/search/?api=1&query=Auronzo%20di%20Cadore) וללינה המאושרת | נסיעת לילה דרך A27, כולל אגרות ואותו מרווח נסיעה של 2:15 שעות. |
+| 21:25–21:45 | הגעה ו־late check-in ב־[Auronzo di Cadore](https://www.google.com/maps/search/?api=1&query=Auronzo%20di%20Cadore) | כניסה עצמאית מאושרת. אוספים מפתח מהתיבה בכניסה למשרד Larese, ואז מגיעים לכניסה האחורית של הדירה. חניה בחצר תוך השארת מקום לרכבים אחרים; הרחוב הוא גיבוי. |
+
+**Fallback תפעולי:** אם מפספסים את קו 12 של 07:10, עולים על 07:40 אבל מקצרים את בוראנו ומוותרים קודם על Caffè Cannaregio. אם הרכבת חזרה מתעכבת, אוטובוס ATVO הבא יוצא ב־12:40 ומגיע ב־13:00; במקרה כזה מתקשרים מיד לשאטל Target Rent ומדלגים על אוכל בשדה. איסוף הרכב ב־13:30 אינו זז.
+
+**לשים לב הערב:** לתאם עוד היום עם קבלת a&o שהפקדת מזוודות אפשרית כבר ב־05:40, לקנות מראש כרטיסי ACTV/ATVO כשאפשר, ולבדוק בבוקר התראות ACTV ורכבות חיות.
 
 **לינה:** הוראות המפתח, הכניסה והחניה התקבלו מהמארח והועברו בידי המשתמש ב־5.9. מצעים ומגבות סוכמו בוואטסאפ. קוד הכניסה והתמונות נשארים בשיחה הפרטית; המארח זמין בטלפון ביום 11.9.
 
@@ -332,38 +339,45 @@
 
 **Plan B:** אם הספק אינו מאשר מקצה Zipline מוקדם, לא מנסים לדחוס אותו בהמשך היום וממשיכים בתוואי Pordoi–Carezza–Chiusa. אם מעברי ההרים אינם בטוחים, בוחרים במסלול הישיר והבטוח יותר ל־Laion.
 
+**עדכון ביצוע 19.9:** Passo Pordoi ו־Lago di Carezza לא בוצעו בפועל ב־17.9. הם הועברו ליום 19.9 אחרי ההליכה מ־Passo Sella; הרשומות של 17.9 נשמרו כ־`missed` לצורך תיעוד.
+
 > הערה שלי:
 
 ---
 
-## יום שישי, 18.9 — Seceda ומצנח רחיפה
+## יום שבת, 19.9 — Friedrich-August-Weg, ‏Passo Pordoi ו־Lago di Carezza
 
-**מטרת היום:** לשמור את תצפית הרכס וההליכה האייקונית, ואז לרדת מ־Seceda ל־Ortisei בטיסת טנדם במקום בירידה רגילה ברכבל.
+**מטרת היום:** להגיע לקראפפן ב־Rifugio Friedrich August סביב 09:00, לעשות הלוך־חזור יפה ולא טכני על שביל 557 עד Rifugio Sasso Piatto, ואז להשלים ברכב את Passo Pordoi ו־Lago di Carezza שהתפספסו ב־17.9. אין חזרה ל־Ortisei.
 
 | שעה | תוכנית | פרטים |
 |---|---|---|
-| 07:45–08:25 | Laion → רכבל Seceda | Google Maps: כ־17 דקות ו־12.6 ק״מ; היתרה לחניה והליכה לתחנה. |
-| 08:30–10:20 | רכבל והליכת רכס קומפקטית ב־Seceda | לעלות עם הפתיחה ולשמור 75–90 דקות הליכה נטו באזור התצפית האייקוני. חוזרים לנקודת ההמראה שסוכמה עד 10:20. |
-| 10:30–12:00 | GARDENAFLY — טנדם Seceda → Ortisei | שתי טיסות במקביל: כ־15–20 דקות באוויר וכ־1:30 שעות לכל החוויה. נחיתה ליד Annatal. חובה לאשר מראש שני טייסים ומפגש על ההר. |
-| 12:15–13:30 | צהריים ב־Annatal או Ortisei | ארוחה ליד אזור הנחיתה. אם הטיסה מתבטלת, ממשיכים את ההליכה המקורית עד 12:20 ויורדים ברכבל. |
-| 13:30–16:30 | הליכה קלה ב־Val d’Anna | ממשיכים ישירות מהצהריים; אין חזרה ללינה, החלפת בגדים או מקלחת. |
-| 16:30–18:00 | מרכז Ortisei ואפריטיבו | שיטוט קל, חנויות וקפה עד ארוחת הערב. |
-| 18:00–19:30 | ארוחת ערב ב־Ortisei | חלון ייעודי. אין כביסה נוספת. |
-| 19:30–19:55 | Ortisei → Laion | Google Maps: כ־15–17 דקות; מקלחת רק אחרי החזרה בלילה. |
+| 07:15–08:25 | Laion → [Passo Sella](https://www.google.com/maps/dir/?api=1&destination=Passo+Sella%2C+Italy&travelmode=driving) | כ־55–65 דקות ועוד מרווח חניה. לחנות רק בחניה ציבורית מסומנת; לא לעלות בדרך העפר הפרטית לריפוג׳יו. |
+| 08:25–08:55 | Passo Sella → [Rifugio Friedrich August](https://www.google.com/maps/place/Rifugio+Friedrich+August/@46.500467,11.745209,17z) | האתר הרשמי מציין כ־20 דקות ברגל; נשמרות 30 דקות לקצב רגוע ולתמונות. |
+| 09:00–09:50 | ארוחת בוקר וקראפפן | בקיץ ארוחת הבוקר 07:30–10:30 ללא הזמנה. הקראפפן אינו מובטח במלאי; טלפון הריפוג׳יו: ‎+39 353 3605674. |
+| 10:00–11:00 | שביל 557: Friedrich August → [Sandro Pertini](https://www.google.com/maps/search/?api=1&query=Rifugio+Sandro+Pertini) | מסלול נופי קל־בינוני עם עליות וירידות קטנות. Pertini היא נקודת הסיבוב המוקדמת אם עייפים או אם הקרקע חלקה. |
+| 11:00–11:50 | Sandro Pertini → [Rifugio Sasso Piatto](https://www.google.com/maps/search/?api=1&query=Rifugio+Sasso+Piatto) | ממשיכים על 557 אל האוכף Giogo di Fassa. היעד הוא הריפוג׳יו בגובה כ־2300 מ׳, לא פסגת Sassopiatto. |
+| 12:00–12:40 | צהריים ארוזים ליד Sasso Piatto | סנדוויצ׳ים ונשנוש. אם משתמשים בשולחנות הריפוג׳יו, קונים שתייה; לא נכנסים למרעה מגודר. |
+| 12:40–14:20 | חזרה באותה דרך ל־Friedrich August | דרך Pertini. אם עד 12:20 לא הגעתם ל־Sasso Piatto, אוכלים בנקודה בטוחה ומסתובבים. |
+| 14:20–14:35 | מים, שירותים ושכבה חמה | עצירה קצרה בלבד כדי לשמור את חלון האור ל־Pordoi ו־Carezza. |
+| 14:35–15:05 | Friedrich August → חניית Passo Sella | ירידה ברגל. סך ההליכה ביום הוא כ־4–4.5 שעות כולל העלייה והירידה מהחניה. |
+| 15:15–15:45 | [Passo Sella → Passo Pordoi](https://www.google.com/maps/dir/?api=1&origin=Passo+Sella&destination=Passo+Pordoi&travelmode=driving) | Google Maps נבדק ב־19.9: 23 דקות ו־13 ק״מ; הבלוק כולל חניה. |
+| 15:45–16:15 | [Passo Pordoi](https://www.google.com/maps/place/Passo+Pordoi/@46.4888128,11.8117568,15z) | צילום ותצפית קצרה בלבד. לא עולים ברכבל Sass Pordoi ביום הארוך הזה. |
+| 16:15–17:15 | [Passo Pordoi → Lago di Carezza](https://www.google.com/maps/dir/?api=1&origin=Passo+Pordoi&destination=Lago+di+Carezza&travelmode=driving) | Google Maps: 56 דקות ו־36.6 ק״מ; הכביש מפותל ולכן נשמרת שעה מלאה. |
+| 17:15–18:00 | [Lago di Carezza](https://www.google.com/maps/place/Lago+di+Carezza/@46.4092273,11.5750645,17z) | תצפית והליכה קצרה ליד האגם. מרכז המבקרים והגישה המוסדרת פתוחים 08:00–19:01; השקיעה סביב 19:20. |
+| 18:00–19:00 | [Lago di Carezza → Laion](https://www.google.com/maps/dir/?api=1&origin=Lago+di+Carezza&destination=Laion%2C+BZ&travelmode=driving) | Google Maps: 56 דקות ו־48.8 ק״מ. |
+| 19:15–20:15 | ארוחת ערב חסכונית בדירה | בישול או אוכל שנקנה מראש במקום ערב יקר נוסף ב־Ortisei. מקלחת רק אחרי הארוחה. |
 
-**לשים לב:** פעילות 2026 שפורסמה היא 22.5–2.11. ב־18.9 המקטעים Ortisei–Furnes ו־Furnes–Seceda פועלים 08:30–17:30. רכבל הכיסאות Fermeda האופציונלי פועל רק עד 20.9, בשעות 09:30–16:30.
+**Google Maps — מסלול הרכב אחר הצהריים:** [Passo Sella → Passo Pordoi → Lago di Carezza → Laion](https://www.google.com/maps/dir/?api=1&origin=Passo+Sella%2C+Italy&destination=Laion%2C+BZ%2C+Italy&waypoints=Passo+Pordoi%2C+Italy%7CLago+di+Carezza%2C+Italy&travelmode=driving). זמן הנהיגה הכולל שנבדק הוא כ־2:14 שעות ו־98.4 ק״מ.
 
-**מחיר עבודה:** [GARDENAFLY](https://www.paragliding-flights-dolomites.com/summer) מפרסמת €190 לאדם לטיסת Seceda panoramic; לשניים €380. [צילום ווידאו](https://www.paragliding-flights-dolomites.com/foto-video) עולים €25 לאדם, ולכן המקסימום המתוכנן הוא €430 לזוג ועוד כרטיסי העלייה לרכבל. החבילה כוללת העברת החומר לטלפון לאחר הטיסה.
+**מזג אוויר וציוד:** תחזית MeteoTrentino ל־19.9 היא עננות נמוכה מקומית מוקדם ואחר כך יותר שמש, רוחות חלשות וכ־6–13°C בגובה 2000 מ׳. אחרי הגשם של 18.9 השביל עשוי להיות רטוב. לקחת 1.5 ל׳ מים לאדם, נעלי הליכה, פליז, מעיל רוח/גשם, כובע, קרם הגנה ואוכל ארוז.
 
-**למה זו הבחירה הראשית:** 5.0/5 מתוך 856 ביקורות Google, מחיר ושעות מפורסמים, צוות גדול ונקודת נחיתה ב־Ortisei. [Fly 2 Dolomites](https://www.fly2.info/en/faq.asp) הוא גיבוי לוגיסטי מצוין באותו מחיר של €190, משום שהוא מציין במפורש שאפשר להיפגש על ההר בתיאום; [Tandem-Paragliding.com](https://www.tandem-paragliding.com/en) הוא גיבוי נוסף ב־€190 מ־Seceda או €150 מ־Alpe di Siusi.
-
-**Plan B:** אם Gardenafly אינה מאשרת שני טייסים ומפגש על ההר, עוברים ל־Fly2. אם אין תנאי טיסה ב־18.9, ממשיכים את יום Seceda המקורי ומעבירים את הטיסה לבוקר 24.9. אם גם אז אין תנאים — הטיסה מתבטלת, לא מנסים לטוס בניגוד להחלטת הטייס.
+**Plan B:** אם עייפים ב־Pertini, מסתובבים שם ושומרים את Pordoi ו־Carezza. אם יוצאים מחניית Passo Sella אחרי 15:20, מקצרים את Pordoi לעשר דקות ואת Carezza לכ־30 דקות. אם הראות או הכביש אינם בטוחים, מוותרים על העצירות הגבוהות וחוזרים ישירות ל־Laion.
 
 > הערה שלי:
 
 ---
 
-## יום שבת, 19.9 — Alpe di Siusi ורכיבה על סוסים
+## יום שישי, 18.9 — Alpe di Siusi ורכיבה על סוסים
 
 **מטרת היום:** לשמור את יום האחו וההליכה הקלה, ולאחר הצהריים להוסיף רכיבה מודרכת של שעה במחיר נמוך יחסית.
 
@@ -376,10 +390,10 @@
 | 15:15–15:30 | קסדה, התאמת סוס ותדריך | קסדה כלולה. מגבלת המשקל המפורסמת היא 90 ק״ג לרוכב. |
 | 15:30–16:30 | רכיבה מודרכת של שעה | מתאים למתחילים ולמנוסים; הספק מציין שאין דהירה מטעמי בטיחות וביטוח. |
 | 16:30–18:00 | Castelrotto | רק כ־3 דקות מהחווה; שיטוט קל במרכז במקום חזרה ללינה ומנוחה. |
-| 18:00–19:30 | ארוחת ערב ב־Castelrotto | חלון ייעודי; לאשר שעות מטבח של שבת. |
+| 18:00–19:30 | ארוחת ערב ב־Castelrotto | חלון ייעודי; לאשר שעות מטבח של שישי. |
 | 19:30–19:55 | Castelrotto → Laion | כ־21 דקות ו־15.2 ק״מ; חוזרים רק אחרי הארוחה. |
 
-**לשים לב:** Mont Sëuc פועל עד 2.11.2026; ב־19.9 השעות שפורסמו הן 08:30–18:00. לבדוק סטטוס חי בערב שלפני.
+**לשים לב:** Mont Sëuc פועל עד 2.11.2026; ב־18.9 השעות שפורסמו הן 08:30–18:00. לבדוק סטטוס חי בערב שלפני.
 
 **מחיר ובחירה:** [Unterlanzin](https://www.unterlanzin.it/en/program.asp) מפרסמת רכיבה של שעה למתחילים ולמנוסים; [מחירון 2026](https://www.unterlanzin.it/de/preise.asp) הוא €33 לאדם, כלומר €66 לזוג, כולל קסדה. זהו המחיר הטוב ביותר שמצאתי לחוויה מלאה של שעה.
 
@@ -496,7 +510,7 @@
 
 | שעה | תוכנית | פרטים |
 |---|---|---|
-| 08:30–12:30 | Laion → Bolzano ובוקר במרכז | Google Maps: כ־34 דקות ו־30.3 ק״מ; מרכז עתיק ושוק. אם המצנח של 18.9 נדחה בגלל מזג האוויר, הבוקר הזה הוא חלון הגיבוי שלו. |
+| 08:30–12:30 | Laion → Bolzano ובוקר במרכז | Google Maps: כ־34 דקות ו־30.3 ק״מ; מרכז עתיק ושוק. מצנח הרחיפה שלא הוזמן הוסר מ־19.9 ואינו גיבוי אוטומטי ליום הזה. |
 | 12:30–13:45 | צהריים אחרונים ב־Bolzano | חלון ייעודי. |
 | 13:45–17:15 | Bolzano, הנהר וקניות אחרונות | יום פתוח ולא מאומץ; אין חזרה ללינה לפני הארוחה. |
 | 17:15–18:30 | ארוחת ערב מוקדמת ב־Bolzano | לאשר שירות של יום חמישי. |
@@ -677,7 +691,7 @@
 
 - **Plan A:** Lago di Carezza, Passo Pordoi, Funivia Lagazuoi, Malga Zannes, On the Rocks ו־Vallunga. ב־v18 נשמרו גם Eurospar Noventa, Fun Bob, Gardonè ו־Cinema delle Odle; ב־v23 נוספו Zipline San Tomaso ו־Gassl Bräu.
 - **Plan B / Map only:** Pasticceria Alverà, Fermeda-Hütte ו־MMM Corones.
-- **Plan A פעילויות:** GARDENAFLY ו־Maneggio Unterlanzin.
+- **Plan A פעילויות:** Maneggio Unterlanzin. ‏GARDENAFLY לא הוזמנה והורדה מיום 19.9; היא נשארת מועמדת מפה בלבד.
 - **Map only יקר:** SanBrite ו־Ristorante Tivoli — נשמרו כרעיונות, אך אינם חלק מברירת המחדל החסכונית.
 
 בנוסף נשמרו ארבע חלופות ספקים חדשות עם הערות השוואה: Fly 2 Dolomites ו־Tandem-Paragliding.com למצנח; Maneggio Ortisei ו־Pozzamanigoni לרכיבה.
@@ -700,11 +714,13 @@
 | A | [a&o Venezia Mestre](https://maps.google.com/?cid=2559267828695871316) | לינה מאושרת; לעדכן אם ההגעה מתאחרת. |
 | A | [Piazza San Marco](https://www.google.com/maps/search/Piazza%20San%20Marco%20Venice) | להגיע לפני 09:00 כדי להפחית עומס. |
 | A | [Rialto Bridge](https://www.google.com/maps/search/Rialto%20Bridge%20Venice) | להגיע לפני 09:00; אחר כך צפוף מאוד. |
-| A | [Burano](https://www.google.com/maps/search/?api=1&query=Burano%2C%20Venezia) | 10.9 בבוקר: קו 12 ב־07:40, הגעה 08:23; חזרה ב־10:25 והגעה 11:04. לבדוק התראות חיות. |
+| A | [Burano](https://www.google.com/maps/search/?api=1&query=Burano%2C%20Venezia) | 11.9 בבוקר: קו 12 ב־07:10, הגעה 07:53; חזרה ב־09:25 והגעה 10:04. לבדוק התראות חיות. |
 | B | [Murano Faro](https://www.google.com/maps/search/Murano%20Faro%20Venice) | גיבוי בלבד; אינו מצטרף לבוראנו באותו יום. |
-| A | [Arcicchetti Bakaro](https://www.google.com/maps/search/?api=1&query=Arcicchetti%20Bakaro%20Venezia) | ארוחת בוקר מאוחרת/Brunch ב־12:00 אחרי בוראנו; נפתח ב־11:00. |
+| A | [Arcicchetti Bakaro](https://www.google.com/maps/search/?api=1&query=Arcicchetti%20Bakaro%20Venezia) | ארוחת בוקר מאוחרת/Brunch ביום חמישי ב־12:00; נפתח ב־11:00. |
 | A | [Caffè Florian](https://caffeflorian.com/contatti/) | קינוח וקפה אחרי Arcicchetti; פתוח רשמית 09:00–23:00 ולזוג אין הזמנה. |
-| A | [Palazzo Contarini del Bovolo](https://www.gioiellinascostidivenezia.it/scala-contarini-del-bovolo/) | תוספת קבועה ב־15:15; 10:00–18:00, כניסה אחרונה 17:30, €9 מלא. |
+| A | [Caffè Cannaregio](https://www.google.com/maps/place/Caff%C3%A8+Cannaregio/@45.4457284,12.3304546,656m/data=!3m2!1e3!4b1!4m6!3m5!1s0x477eb19576edae91:0x89b1fe2d89dd9044!8m2!3d45.4457284!4d12.327885!16s%2Fg%2F1vnnh78p) | שישי 10:20 אחרי בוראנו; נפתח מחדש ב־28.8.2026 ושעות שישי המפורסמות הן 08:00–15:30. |
+| A | [Palazzo Fendi Venezia](https://www.fendi.com/it-it/store-locator/italia/calle-larga-de-l%E2%80%99ascension) | עצירת קניות ב־15:05 מיד אחרי San Marco; שעות יום חמישי רשמיות 10:00–19:30. |
+| A | [Palazzo Contarini del Bovolo](https://www.gioiellinascostidivenezia.it/scala-contarini-del-bovolo/) | תוספת קבועה ב־15:40; 10:00–18:00, כניסה אחרונה 17:30, €9 מלא. |
 | B | [QUORAMI](https://www.google.com/maps/search/?api=1&query=QUORAMI%20Venezia) | עצירת עור קצרה על הציר ל־La Bauta; מוותרים עליה ראשונה אם יש עיכוב. |
 | A | [La Bauta](https://www.google.com/maps/place/La+Bauta/@45.4359844,12.3273012,17z/data=!3m1!4b1!4m6!3m5!1s0x477eb1c5cb01003b:0xb3f00e3ca4c90999!8m2!3d45.4359844!4d12.3273012!16s%2Fg%2F11c60kg_lk) | ההמלצה הראשית לקנייה: 4.8/5 מתוך 334 ביקורות; מסכות נייר בעבודת יד, עם דגמים פשוטים סביב €15–€25 לפי הקטלוג הרשמי. |
 | B | [Ca’ Macana Original](https://www.google.com/maps/place/Ca'+Macana+Original/@45.433924,12.3255665,17z/data=!3m1!4b1!4m6!3m5!1s0x477eb1cee60d89f1:0x1de820c5de535d05!8m2!3d45.433924!4d12.3255665!16s%2Fg%2F1tf306y7) | גיבוי חזק בדורסודורו: 4.7/5 מתוך 913 ביקורות; ייצור ידני בוונציה ומבחר רחב. |
@@ -764,8 +780,12 @@
 | A | Airbnb מאושר — Laion | עוגן לינה פרטי ל־17–25.9. הקואורדינטות נשמרו ברשימת **„לינות — דולומיטים 2026”** ואינן מוצגות במסמך הציבורי. |
 | A | [Ortisei](https://www.google.com/maps/search/Ortisei) | מרכז הפעילויות של Val Gardena, כ־15–17 דקות מהלינה ב־Laion. |
 | A | [Zipline San Tomaso](https://www.google.com/maps/search/?api=1&query=Zipline%20San%20Tomaso%20Cableway%20Belluno) | עוגן הבוקר של 17.9; שני מקטעים, 1.6 ק״מ וכ־50 דקות. השיבוץ 09:00 מותנה באישור טלפוני מראש. |
-| A | [Passo Pordoi](https://www.google.com/maps/place/Passo+Pordoi/@46.4888128,11.8117568,15z) | עצירת נוף קומפקטית אחרי ה־Zipline ב־17.9. |
-| A | [Lago di Carezza](https://www.google.com/maps/place/Lago+di+Carezza/@46.4092273,11.5750645,17z) | עצירת אגם קצרה בדרך הגדולה של הדולומיטים ב־17.9. |
+| A | [Passo Sella](https://www.google.com/maps/search/?api=1&query=Passo+Sella) | נקודת החניה והיציאה של יום 19.9; משתמשים בחניה ציבורית בלבד. |
+| A | [Rifugio Friedrich August](https://www.google.com/maps/place/Rifugio+Friedrich+August/@46.500467,11.745209,17z) | קראפפן וארוחת בוקר ב־09:00; נקודת ההתחלה של שביל 557. |
+| A | [Rifugio Sandro Pertini](https://www.google.com/maps/search/?api=1&query=Rifugio+Sandro+Pertini) | תחנת ביניים ונקודת סיבוב מוקדמת על שביל 557. |
+| A | [Rifugio Sasso Piatto](https://www.google.com/maps/search/?api=1&query=Rifugio+Sasso+Piatto) | יעד ההלוך־חזור וארוחת הצהריים הארוזה ב־19.9; לא פסגת Sassopiatto. |
+| A | [Passo Pordoi](https://www.google.com/maps/place/Passo+Pordoi/@46.4888128,11.8117568,15z) | לא בוצע ב־17.9; הועבר לעצירת נוף קומפקטית אחרי ההליכה ב־19.9. |
+| A | [Lago di Carezza](https://www.google.com/maps/place/Lago+di+Carezza/@46.4092273,11.5750645,17z) | לא בוצע ב־17.9; הועבר לעצירת האור האחרונה ב־19.9, 17:15–18:00. |
 | A | [Bolzano](https://www.google.com/maps/place/Bolzano/@46.4949259,11.3402543,13z) | יום עיר רגוע ב־24.9; כ־34–35 דקות לכל כיוון מ־Laion. |
 | A | [Bressanone](https://www.google.com/maps/search/?api=1&query=Bressanone%20Italy) | אחר הצהריים והערב של 20.9 אחרי Gardonè; כ־21 דקות חזרה ל־Laion. |
 | A | [Chiusa](https://www.google.com/maps/search/?api=1&query=Chiusa%20South%20Tyrol) | שיטוט מלא וארוחת ערב ב־17.9 לפני הצ׳ק־אין הראשון; כ־14 דקות מהלינה. |
@@ -773,15 +793,15 @@
 | A | [Dreimädelhaus](https://www.google.com/maps/place/Dreim%C3%A4delhaus/@46.6465682,11.6881979,17z/data=!4m6!3m5!1s0x477811ae7f59d65b:0x2ddd64b46ae8ec66!8m2!3d46.6465682!4d11.6881979!16s%2Fg%2F11c206ch7r) | **המלצה של ליילה** — ארוחת ערב ב־22.9, 20:15–21:30, אחרי השקיעה ב־Val di Funes. |
 | B | [Torgglkeller](https://www.google.com/maps/place/Restaurant+Pizzeria+Torgglkeller/@46.6400514,11.5644016,17z) | גיבוי מרכזי באותו רחוב: 4.4/5 מ־2,418 ביקורות; ארוחת ערב רשמית 17:00–23:00. |
 | B | [Turmwirt](https://www.google.com/maps/place/Restaurant+Turmwirt/@46.6486086,11.6026784,17z) | גיבוי איכותי ב־Gufidaun בדרך ללינה: 4.8/5 מ־470 ביקורות; חמישי 17:30–20:30. |
-| A | [Castelrotto](https://www.google.com/maps/search/?api=1&query=Castelrotto%20Italy) | המשך ישיר אחרי הרכיבה ב־19.9; כ־3 דקות מ־Unterlanzin. |
-| A | [Val d’Anna](https://www.google.com/maps/search/?api=1&query=Val%20d%27Anna%20Hutte%20Ortisei) | הליכה קלה אחרי המצנח ב־18.9 ובגיבוי אחרי ה־e-bike ב־23.9. |
+| A | [Castelrotto](https://www.google.com/maps/search/?api=1&query=Castelrotto%20Italy) | המשך ישיר אחרי הרכיבה ב־18.9; כ־3 דקות מ־Unterlanzin. |
+| A | [Val d’Anna](https://www.google.com/maps/search/?api=1&query=Val%20d%27Anna%20Hutte%20Ortisei) | נשארת גיבוי קל אחרי ה־e-bike ב־23.9; הוסרה מיום 19.9. |
 | A | [Alpine Coaster Gardonè](https://www.google.com/maps/search/?api=1&query=Alpine%20Coaster%20Gardone%20Predazzo) | 20.9, 10:15–12:00, ביום האחרון של עונת 2026. פתוח 10:00–17:00; רכבל עד 17:45 ובכפוף למזג האוויר. |
 | A | [On the Rocks](https://www.google.com/maps/place/On+the+Rocks+Bike+Rental,+Shop,+Service+%26+Guiding/@46.5719275,11.6775441,17z) | Plan A להשכרת שתי electric hardtail לארבע שעות ב־23.9. |
 | A | [Vallunga](https://www.google.com/maps/place/Vallunga/@46.5646978,11.7775044,17z) | הליכה קלה רשמית של כשעתיים ב־21.9 וגם יעד הסיבוב הנופי של רכיבת ה־e-bike ב־23.9. |
 | A | [Seceda cable car](https://www.google.com/maps/search/Seceda%20cable%20car%20Ortisei) | רכבל ראשון 08:30; לחזור אם עננות מתפתחת. |
 | B | [Fermeda-Hütte](https://www.google.com/maps/place/Fermeda-H%C3%BCtte/@46.5910859,11.7368404,17z) | אפשרות בקתה ביום Seceda; לבדוק פתיחה ולא לשנות את המסלול רק בשבילה. |
 | A | [Mont Sëuc / Alpe di Siusi](https://www.google.com/maps/search/Ortisei%20Alpe%20di%20Siusi%20cable%20car%20Mont%20Seuc) | לעלות מוקדם ולבדוק שעות ביום הקודם. |
-| A | [Maneggio Unterlanzin](https://www.google.com/maps/place/Maneggio+Unterlanzin/@46.557003,11.5517492,17z) | Plan A ל־19.9: שעה מודרכת ב־15:30, €33 לאדם וקסדה כלולה. |
+| A | [Maneggio Unterlanzin](https://www.google.com/maps/place/Maneggio+Unterlanzin/@46.557003,11.5517492,17z) | Plan A ל־18.9: שעה מודרכת ב־15:30, €33 לאדם וקסדה כלולה. |
 | B | [Maneggio Ortisei](https://www.google.com/maps/search/?api=1&query=Maneggio%20Ortisei%20Strada%20Passua%205) | הגיבוי הקרוב ביותר לבסיס; טיולי טבע ושעות 08:00–19:00, אך מחיר שעה אינו מפורסם. |
 | B | [Pozzamanigoni](https://www.google.com/maps/search/?api=1&query=Scuola%20d%27equitazione%20Pozzamanigoni%20Selva%20Val%20Gardena) | גיבוי נופי ב־Selva, אך יקר יותר: מחיר עבודה כ־€80 לאדם ל־1:30 שעות. |
 | A | [Santa Maddalena](https://www.google.com/maps/search/Santa%20Maddalena%20Val%20di%20Funes) | 22.9: לשמור את חלון 17:15–19:35 לתצפית על רכס Odle; שקיעה סביב 19:11. לשמור על שבילים פרטיים. |
@@ -794,7 +814,7 @@
 | C / Conditional | [Val Venegia](https://www.google.com/maps/search/?api=1&query=Val%20Venegia) | מסלול יפה מהסרטון, רק במסגרת יום Passo Rolle ייעודי. |
 | C / Conditional | [Baita Segantini](https://www.google.com/maps/search/?api=1&query=Baita%20Segantini) | 40–60 דקות הליכה לכל כיוון מ־Passo Rolle; לא לשלב עם יום עמוס אחר. |
 | C | [Lago Welsperg](https://www.google.com/maps/search/?api=1&query=Lago%20Welsperg%20Primiero) | Map only; עצירת צילום רק אם נבחר יום Passo Rolle/Val Venegia. |
-| A | [GARDENAFLY](https://www.google.com/maps/place/GARDENAFLY+-+Paragliding+Tandemflights+in+the+Dolomites/@46.5746364,11.6804252,17z) | Plan A ל־18.9: Seceda→Ortisei, €190 לאדם; צילום/וידאו €25. |
+| C / Map only | [GARDENAFLY](https://www.google.com/maps/place/GARDENAFLY+-+Paragliding+Tandemflights+in+the+Dolomites/@46.5746364,11.6804252,17z) | לא הוזמן והוסר מיום 19.9; אין ליצור קשר או לשבץ מחדש בלי בקשה מפורשת. |
 | B | [Fly 2 Dolomites](https://www.google.com/maps/place/Fly+2+Dolomites+-+Tandem+Flights/data=!4m7!3m6!1s0x47781533bba96d37:0x4a139552292c35cb!8m2!3d46.5763334!4d11.6751388!16s%2Fg%2F11f6543794) | גיבוי ראשון למצנח: €190 מ־Seceda ומפגש על ההר אפשרי בתיאום. |
 | B | [Tandem-Paragliding.com](https://www.google.com/maps/place/Tandem-Paragliding.com/data=!4m7!3m6!1s0x47780d5ea8476fef:0x8b5a471b53e1ae7b!8m2!3d46.5651495!4d11.5608254!16s%2Fg%2F11w_fnmc5x) | גיבוי מאזור Castelrotto: €190 מ־Seceda או €150 מ־Alpe di Siusi. |
 | C | [Conegliano](https://www.google.com/maps/search/Conegliano%20historic%20centre) | נשאר במפה בלבד; אינו חלק ממסלול החזרה ואינו מחליף את עצירת האגם. |
@@ -805,7 +825,7 @@
 
 ## החלטות ומצב ביצוע — 5.9.2026
 
-אלה החלטות התפעול העדכניות; הן גוברות על הערות הזמנה ישנות בהמשך המסמך. שעות המסלול לא השתנו. JSON, מסד הנתונים והמסמך מתעדכנים יחד; עדכון פרטי התפעול ביומן והתזכורת ממתינים לחיבור Calendar גולמי. קריאת היומן דרך המחבר זמינה, אך הוא מנרמל תיאורים ואינו מאפשר את האימות הנדרש.
+זהו צילום מצב של החלטות התפעול מ־5.9; הוא גובר על הערות הזמנה ישנות יותר. עדכוני ונציה מ־9.9 שמופיעים במסלול למעלה מאוחרים יותר וגוברים עליו. אירועי המסלול הקיימים של 10–11.9 זוהו לפי Event ID, אך גרסה v28 עדיין לא נכתבה ליומן מפני שקובץ ההרשאה הגולמית ל־Google Calendar חסר.
 
 | סעיף | החלטה ומצב |
 |---|---|
@@ -816,8 +836,9 @@
 | Tre Cime ‏14.9 ו־Braies ‏15.9 | לפי המשתמש: להמתין לפרטי הרכב ביום האיסוף, 11.9. הוכנה תזכורת ל־14:30 בשעון איטליה, אך היא טרם הופעלה. ב־Tre Cime אפשר לפי ה־FAQ להזמין בלי מספר רכב ולהוסיף אותו עד 23:59 יום לפני הכניסה; אין צורך טכני להמתין, אך נשמרת החלטת המשתמש. ב־Braies ההגבלות חלות גם ב־15.9, 09:00–16:00; הגעה מוקדמת אינה מבטיחה חניה. |
 | Zipline, ‏17.9 ב־09:00 | האתר מפרסם €40 לאדם, כ־50 דקות והזמנה בטלפון +39 351 3686733. לא פורסם אישור למקצה הספציפי שלנו; אין checkout מקוון בעמוד ההזמנות. |
 | Gassl Bräu, ‏17.9 ב־18:00 | המשתמש בחר להגיע בלי שריון. המטבח המלא נפתח ב־18:00; יש סיכון שלא יימצא שולחן, ללא נתוני תפוסה שמאפשרים לכמת אותו. Torgglkeller נשאר הגיבוי. |
-| GARDENAFLY, ‏18.9 ב־10:30 | בקשה מוכנה אך לא נשלחה. שני נוסעים, 68 ו־58 ק״ג, שתי טיסות במקביל; מחיר מפורסם €380 לזוג, צילום/וידאו אופציונלי €25 לאדם, רכבלים לא כלולים. נקודת המפגש הרגילה היא בעמק ולכן נדרש אישור מפורש למפגש על ההר. עוד לא אושרו שני טייסים בשעה המבוקשת, אופן/מועד התשלום, תנאי החזר ודחייה ל־24.9. האתר הוא טופס בקשה ולא תשלום מיידי. |
-| סוסים ‏19.9, חניית Zannes ‏22.9, אופניים ‏23.9 | אין להזמין כעת. לחזור לבדיקת מזג האוויר סמוך לכל יום ואז להתקדם לפי החלטת המשתמש. |
+| GARDENAFLY | לא הוזמן ולא נשלחה בקשה. הוסר מיום 19.9 כשהמשתמש בחר ב־Friedrich-August-Weg; נשמר במפה בלבד ולא משובץ אוטומטית ל־24.9. |
+| סוסים ‏18.9 | המשתמש ביקש לשריין לשניים בשעה 15:30 ללא תשלום. האתר הרשמי מפנה לשריון בטלפון אצל Miriam ומפרסם גם את info@unterlanzin.it; בקשת המייל בהכנה וטרם נשלחה. |
+| חניית Zannes ‏22.9, אופניים ‏23.9 | אין להזמין כעת. לחזור לבדיקת מזג האוויר סמוך לכל יום ואז להתקדם לפי החלטת המשתמש. |
 | Gardonè, ‏20.9 | לקנות במקום לפי מזג האוויר. המפעיל מציין במפורש שאין צורך בהזמנה; הכרטיס המשולב לרכבל הלוך־ושוב ולסיבוב אחד עולה €25 לאדם. סיכון ההזמנה נמוך; ייתכנו תורים או סגירה בגלל מזג האוויר. 20.9 הוא יום הפעילות האחרון לעונה ואין גיבוי מאוחר יותר. |
 | Target Rent — fast checkout | במייל האישור אין חובה מפורשת לבצע מראש, וההנחיות הרשמיות מתארות חתימה, פיקדון ומסירה בסניף. אפשר להיערך להליך בסניף; היות השירות המקוון אופציונלי לא אושרה ישירות מול הסניף. |
 
@@ -836,8 +857,8 @@
 - [ ] חניית Tre Cime / Rifugio Auronzo ל־14.9.
 - [ ] חניית Lago di Braies ל־15.9.
 - [ ] חניית Malga Zannes אם עושים את הלופ.
-- [ ] GARDENAFLY: לבקש שתי טיסות Seceda panoramic במקביל ל־18.9 סביב 10:30, מפגש על ההר, תנאי דחייה ל־24.9, מחיר סופי, עלות צילום/וידאו והאם נדרש כרטיס רכבל מסוים.
-- [ ] Unterlanzin: להזמין שני מקומות לרכיבה של שעה ב־19.9 בשעה 15:30, לאשר קסדות, מגבלת משקל, ביטול מזג־אוויר והגעה 15 דקות מראש.
+- [x] GARDENAFLY: לא הוזמן והוסר מ־19.9; אין לשלוח את הטיוטה או להעביר ל־24.9 בלי בקשה חדשה.
+- [ ] Unterlanzin: להזמין שני מקומות לרכיבה של שעה ב־18.9 בשעה 15:30, לאשר קסדות, מגבלת משקל, ביטול מזג־אוויר והגעה 15 דקות מראש.
 - [ ] On the Rocks: לשמור שתי electric hardtail לארבע שעות ב־23.9, לאשר קסדות, ביטול במקרה מזג אוויר, מסלול Rodaval/Vallunga קל והחזרה עד 13:00.
 - [ ] Target Rent: לבדוק בשובר את שעת ההחזרה 09:00, תנאי הדלק, הוראות הסניף והשאטל מ־P5/אל VCE.
 - [ ] לוודא שירות צהריים ב־Rifugio Duca d’Aosta או להכין אוכל ארוז.
@@ -892,17 +913,18 @@
 
 # מצב פרסום וסנכרון
 
-- Google Maps: 🟠 הרשימות הקודמות מסונכרנות, אך חמשת עוגני ונציה החדשים טרם נשמרו ברשימה החיה משום שחיבור Google Maps דורש OAuth מחדש.
-- תוכנית מקומית: ✅ 17 מתוך 17 ימים, 94 מקומות ו־154 פריטי מסלול מתוכננים ללא שגיאות ולידציה.
-- Google Calendar: 🟠 תצוגה מקדימה v26 כוללת 149 אירועים (הטיסות ו־3 אירועי לינה מנוהלי־ספק מוחרגים); הפרסום והאימות הגולמי עדיין חסומים עד חיבור Calendar OAuth מורשה.
+- Google Maps: 🟠 הרשימות הקודמות מסונכרנות. Caffè Cannaregio אומת ב־Google Maps ומתועד בתוכנית עם כתובת וקישור ניווט; שמירה ברשימה החיה טרם בוצעה.
+- תוכנית מקומית: ✅ גרסה v28 כוללת 17 מתוך 17 ימים, 96 מקומות ו־157 פריטי מסלול.
+- Google Calendar: 🟠 תצוגה מקדימה v28 מוכנה לעדכון במקום של 23 אירועים קיימים וליצירת שני אירועי Caffè Cannaregio חדשים. ניסיון הכתיבה נעצר לפני שינוי כלשהו משום שהקובץ `secrets/google-oauth-client.json` חסר; יש לחבר OAuth גולמי ואז להריץ שוב ולוודא לפי Event ID.
+- HTML ב־Drive: ✅ גרסה v28 הופקה מחדש לאחר ולידציה והועתקה לתיקיית הטיול ב־Google Drive.
 - טיסות: ✅ קיימות ביומן ומוגנות משינוי.
-- חנות מסכות: ✅ La Bauta זוהתה ונקבעה כעוגן המקומי ל־10.9; Ca’ Macana ו־Kartaruga שמורות כגיבוי. טרם פורסם שינוי חדש ל־Google Calendar.
+- חנות מסכות: ✅ La Bauta נשארת עוגן הקנייה ל־10.9; Ca’ Macana ו־Kartaruga שמורות כגיבוי. האירוע קיים ביומן, אך עדכון v28 שלו ממתין לאותו חיבור OAuth.
 
 ---
 
 # נקודות שעליהן כדאי לתת הערות
 
-- [ ] האם ביום 10.9 תרצו לבצע את בוראנו למרות הלילה הקצר, או להפעיל את Plan B ולהתחיל את ונציה מאוחר יותר?
+- [x] בוראנו עבר ל־11.9: צ׳ק־אאוט והפקדת מזוודות ב־05:40, יציאה ב־06:00 וחזרה מתוזמנת לאיסוף הרכב ב־13:30.
 - [ ] האם יום Tre Cime ברמת הקושי הרצויה?
 - [ ] האם רוצים שסירה ב־Braies תהיה חלק חובה או אופציונלי?
 - [ ] האם יש ניסיון מעשי מספיק ליציאה עצמאית ב־Ra Bujela, או שצריך מדריך?

@@ -229,16 +229,33 @@ test("plan seeding is idempotent and trip-place links stay scoped", { concurrenc
     const database = path.join(directory, "test.sqlite");
     process.env.TRAVEL_AGENT_DB = database;
     const { loadConfig } = await import("../src/config.js");
-    const { closeDb, getDb, listItinerary, listLodging, listPlaces, upsertPlace, } = await import("../src/db.js");
+    const { closeDb, getDb, getItineraryItem, listItinerary, listLodging, listPlaces, upsertPlace, upsertItineraryItem, } = await import("../src/db.js");
     const { seedTripPlan } = await import("../src/plan-import.js");
     try {
         loadConfig(true);
         const first = seedTripPlan();
+        const preservedItemId = "dolomites-2026:2026-09-10-lunch";
+        const preservedItem = getItineraryItem(preservedItemId);
+        upsertItineraryItem({
+            ...preservedItem,
+            tripId: "dolomites-2026",
+            dayDate: String(preservedItem.dayDate),
+            title: String(preservedItem.title),
+            calendarEventId: "calendar-event-to-preserve",
+        });
+        upsertItineraryItem({
+            id: "dolomites-2026:superseded-test-item",
+            tripId: "dolomites-2026",
+            dayDate: "2026-09-10",
+            title: "Superseded test item",
+        });
         const second = seedTripPlan();
         assert.deepEqual(second, first);
         assert.equal(listPlaces({ tripId: "dolomites-2026", limit: 1000 }).length, first.places);
         assert.equal(listItinerary("dolomites-2026").length, first.itineraryItems);
         assert.equal(listLodging("dolomites-2026").length, first.lodgingCandidates);
+        assert.equal(getItineraryItem(preservedItemId)?.calendarEventId, "calendar-event-to-preserve");
+        assert.equal(getItineraryItem("dolomites-2026:superseded-test-item"), undefined);
         upsertPlace({
             id: "library-only",
             tripId: "dolomites-2026",

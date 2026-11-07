@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T20:00:11.690Z",
+  "generatedAt": "2026-09-17T21:23:02.425Z",
   "tripId": "dolomites-2026",
   "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
   "calendarName": "חו״ל",
@@ -61,48 +61,23 @@
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
-      "eventId": "8tjckgdtgj0nm15pjhcc7rjee8",
+      "eventId": "urs16jdg09fklhc4452rsgni0g",
       "event": {
-        "summary": "Wake, Mestre → Fondamente Nove",
+        "summary": "Mestre → Rialto and relaxed morning walk",
         "start": {
-          "dateTime": "2026-09-10T06:00:00",
+          "dateTime": "2026-09-10T08:45:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-10T07:40:00",
+          "dateTime": "2026-09-10T10:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Venezia%20Mestre%20railway%20station\n\nמה זה המקום:\nWake at 06:00 and leave ready for the first suitable train to Venezia Santa Lucia. Target ACTV Line 5.2 from Ferrovia at 07:10, arriving Fondamente Nove at 07:30, with ten minutes to transfer to Line 12. Recheck the train and live ACTV service alerts before leaving.\n\nמה לראות / לעשות:\n- לבצע את בלוק Wake, Mestre → Fondamente Nove בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 06:00–07:40.\n- משך ביקור מתוכנן: 1 ש׳ 40 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nIf the 07:40 Line 12 is missed, the 08:10 sailing is usable but compresses the central-Venice afternoon; skip QUORAMI first if delayed.",
-        "location": "Venezia Mestre railway station",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Rialto%20Bridge%20Venice\n\nמה זה המקום:\nUse the morning released by moving Burano to Friday: travel from Mestre to Venezia Santa Lucia, then continue through Cannaregio to Rialto for a relaxed early walk and photographs before the late breakfast.\n\nמה לראות / לעשות:\n- לבצע את בלוק Mestre → Rialto and relaxed morning walk בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:45–10:30.\n- משך ביקור מתוכנן: 1 ש׳ 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nIf the late arrival makes the morning too tiring, shorten the Rialto walk but keep Arcicchetti at 12:00.",
+        "location": "Rialto Bridge",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-10-early-transfer"
-          }
-        }
-      }
-    },
-    {
-      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
-      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "update",
-      "eventId": "qf8oad7062aa7r1br5m8ef69ek",
-      "event": {
-        "summary": "Burano — early ACTV round trip",
-        "start": {
-          "dateTime": "2026-09-10T07:40:00",
-          "timeZone": "Europe/Rome"
-        },
-        "end": {
-          "dateTime": "2026-09-10T11:04:00",
-          "timeZone": "Europe/Rome"
-        },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Burano%2C%20Venezia\n\nמה זה המקום:\nACTV Line 12 leaves Fondamente Nove at 07:40 and reaches Burano at 08:23. Walk the colored-island lanes and waterfront at the quietest part of the morning, then take the 10:25 Line 12 back to Fondamente Nove, arriving 11:04. Timetable in force from 22 Apr 2026: https://avm.avmspa.it/sites/default/files/avm/navigazione/Actv_nav_linea_12.pdf\n\nמה לראות / לעשות:\n- לבצע את בלוק Burano — early ACTV round trip בקצב רגוע.\n- לשים לב: Scheduled for 10 Sep using ACTV Line 12: Fondamente Nove 07:40 → Burano 08:23; Burano 10:25 → Fondamente Nove 11:04. Murano remains Plan B only. Recheck live service alerts on the morning.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 07:40–11:04.\n- משך ביקור מתוכנן: 3 ש׳ 24 דק׳.\n- חניה / רכבל / כרטיס: Buy and validate the required ACTV ticket/pass before boarding; check service alerts live.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nIf too tired after the late flight, skip Burano and start the Venice day later; do not move it to 11 Sep because the 13:30 rental pickup is fixed.",
-        "location": "30142 Venezia VE, Italy",
-        "extendedProperties": {
-          "private": {
-            "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-10-burano"
+            "itineraryItemId": "dolomites-2026:2026-09-10-rialto"
           }
         }
       }
@@ -113,21 +88,21 @@
       "action": "update",
       "eventId": "e864actkgl8eo88hemimi59v28",
       "event": {
-        "summary": "Fondamente Nove → Arcicchetti Bakaro",
+        "summary": "Rialto → Arcicchetti via Santa Croce",
         "start": {
-          "dateTime": "2026-09-10T11:04:00",
+          "dateTime": "2026-09-10T10:30:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
           "dateTime": "2026-09-10T12:00:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Arcicchetti%20Bakaro%20Venezia\n\nמה זה המקום:\nWalk across Venice toward Campo dei Tolentini after the return boat. The block includes route-finding and a possible queue at the small bacaro.\n\nמה לראות / לעשות:\n- לבצע את בלוק Fondamente Nove → Arcicchetti Bakaro בקצב רגוע.\n- לשים לב: User-selected late breakfast after Burano. Published Thursday hours are 11:00–21:00; this is not an early breakfast venue. Small and popular, so allow a queue and order cicchetti as the substantial midday meal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 11:04–12:00.\n- משך ביקור מתוכנן: 56 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Arcicchetti%20Bakaro%20Venezia\n\nמה זה המקום:\nWalk slowly from Rialto toward Campo dei Tolentini through San Polo and Santa Croce. The block includes photographs, route-finding and a possible queue at the small bacaro before the 12:00 brunch.\n\nמה לראות / לעשות:\n- לבצע את בלוק Rialto → Arcicchetti via Santa Croce בקצב רגוע.\n- לשים לב: User-selected Thursday late breakfast. Published Thursday hours are 11:00–21:00; this is not an early breakfast venue. Small and popular, so allow a queue and order cicchetti as the substantial midday meal before dessert at Caffè Florian.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 10:30–12:00.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Santa Croce 183/A, Campo dei Tolentini, 30135 Venezia VE, Italy",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-10-burano-to-brunch"
+            "itineraryItemId": "dolomites-2026:2026-09-10-rialto-to-brunch"
           }
         }
       }
@@ -147,7 +122,7 @@
           "dateTime": "2026-09-10T12:40:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Arcicchetti%20Bakaro%20Venezia\n\nמה זה המקום:\nUser-selected breakfast stop after Burano. Because Arcicchetti opens at 11:00, treat this as a substantial late breakfast/brunch: cicchetti and a drink, with room left for dessert at Florian. Published Thursday hours: 11:00–21:00.\n\nמה לראות / לעשות:\n- לבצע את בלוק Late breakfast / brunch — Arcicchetti Bakaro בקצב רגוע.\n- לשים לב: User-selected late breakfast after Burano. Published Thursday hours are 11:00–21:00; this is not an early breakfast venue. Small and popular, so allow a queue and order cicchetti as the substantial midday meal.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:00–12:40.\n- משך ביקור מתוכנן: 40 דק׳.\n- חניה / רכבל / כרטיס: Walk-in only; small popular venue, allow a queue.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Arcicchetti%20Bakaro%20Venezia\n\nמה זה המקום:\nUser-selected Thursday breakfast stop. Because Arcicchetti opens at 11:00, treat this as a substantial late breakfast/brunch: cicchetti and a drink, with room left for dessert at Florian. Published Thursday hours: 11:00–21:00.\n\nמה לראות / לעשות:\n- לבצע את בלוק Late breakfast / brunch — Arcicchetti Bakaro בקצב רגוע.\n- לשים לב: User-selected Thursday late breakfast. Published Thursday hours are 11:00–21:00; this is not an early breakfast venue. Small and popular, so allow a queue and order cicchetti as the substantial midday meal before dessert at Caffè Florian.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:00–12:40.\n- משך ביקור מתוכנן: 40 דק׳.\n- חניה / רכבל / כרטיס: Walk-in only; small popular venue, allow a queue.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Santa Croce 183/A, Campo dei Tolentini, 30135 Venezia VE, Italy",
         "extendedProperties": {
           "private": {
@@ -222,7 +197,7 @@
           "dateTime": "2026-09-10T15:05:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/place/%D7%9B%D7%99%D7%9B%D7%A8+%D7%A1%D7%9F+%D7%9E%D7%A8%D7%A7%D7%95%E2%80%AD/@45.4341668,12.3384717,17z\n\nמה זה המקום:\nPiazza San Marco, exterior landmarks and a focused walk after the Florian stop. Burano gets the quieter early morning, so accept that San Marco will be busier in this window.\n\nמה לראות / לעשות:\n- לבצע את בלוק San Marco and central Venice בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:55–15:05.\n- משך ביקור מתוכנן: 1 ש׳ 10 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/%D7%9B%D7%99%D7%9B%D7%A8+%D7%A1%D7%9F+%D7%9E%D7%A8%D7%A7%D7%95%E2%80%AD/@45.4341668,12.3384717,17z\n\nמה זה המקום:\nPiazza San Marco, exterior landmarks and a focused walk after the Florian stop. The full Thursday remains relaxed because Burano has moved to Friday morning.\n\nמה לראות / לעשות:\n- לבצע את בלוק San Marco and central Venice בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:55–15:05.\n- משך ביקור מתוכנן: 1 ש׳ 10 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "P.za San Marco, 30100 Venezia VE, Italy",
         "extendedProperties": {
           "private": {
@@ -236,18 +211,43 @@
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
+      "eventId": "oukt4bl63sjoumg4lnveu9r4fk",
+      "event": {
+        "summary": "Palazzo Fendi Venezia",
+        "start": {
+          "dateTime": "2026-09-10T15:05:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-10T15:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Palazzo%20Fendi%20Venezia%2C%20Calle%20Larga%20de%20l%27Ascension%2C%201255%2C%2030124%20Venezia\n\nמה זה המקום:\nUser-requested Fendi boutique stop immediately after San Marco. The official Fendi page lists Thursday hours of 10:00–19:30. Browse the boutique briefly, then continue on foot to Palazzo Contarini del Bovolo.\n\nמה לראות / לעשות:\n- לבצע את בלוק Palazzo Fendi Venezia בקצב רגוע.\n- לשים לב: User-requested Fendi stop immediately after San Marco. The official boutique page lists daily hours of 10:00–19:30, so the 15:05 visit is safely inside the Thursday opening window.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:05–15:30.\n- משך ביקור מתוכנן: 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Calle Larga de l’Ascension, Piazza San Marco 1255, 30124 Venezia VE, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-10-fendi"
+          }
+        }
+      }
+    },
+    {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "update",
       "eventId": "niruak1d73ai6ah77t8veatceo",
       "event": {
         "summary": "Palazzo Contarini del Bovolo",
         "start": {
-          "dateTime": "2026-09-10T15:15:00",
+          "dateTime": "2026-09-10T15:40:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-10T15:55:00",
+          "dateTime": "2026-09-10T16:20:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Palazzo%20Contarini%20del%20Bovolo%20Venezia\n\nמה זה המקום:\nCompact extra attraction from the user's list: climb the spiral staircase and use the belvedere. Official 2026 summer hours are 10:00–18:00, last entry 17:30; full ticket €9. Booking is recommended but not mandatory.\n\nמה לראות / לעשות:\n- לבצע את בלוק Palazzo Contarini del Bovolo בקצב רגוע.\n- לשים לב: Added from the user's list as the compact extra attraction. Official 2026 summer hours are daily 10:00–18:00, last entry 17:30; full ticket €9 and booking is recommended but not mandatory.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:15–15:55.\n- משך ביקור מתוכנן: 40 דק׳.\n- חניה / רכבל / כרטיס: Booking recommended, not mandatory.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Palazzo%20Contarini%20del%20Bovolo%20Venezia\n\nמה זה המקום:\nCompact extra attraction from the user's list: climb the spiral staircase and use the belvedere. Official 2026 summer hours are 10:00–18:00, last entry 17:30; full ticket €9. Booking is recommended but not mandatory.\n\nמה לראות / לעשות:\n- לבצע את בלוק Palazzo Contarini del Bovolo בקצב רגוע.\n- לשים לב: Added from the user's list as the compact extra attraction. Official 2026 summer hours are daily 10:00–18:00, last entry 17:30; full ticket €9 and booking is recommended but not mandatory.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:40–16:20.\n- משך ביקור מתוכנן: 40 דק׳.\n- חניה / רכבל / כרטיס: Booking recommended, not mandatory.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "San Marco 4303, Corte Contarini del Bovolo, 30124 Venezia VE, Italy",
         "extendedProperties": {
           "private": {
@@ -265,14 +265,14 @@
       "event": {
         "summary": "QUORAMI — artisan leather stop",
         "start": {
-          "dateTime": "2026-09-10T16:00:00",
+          "dateTime": "2026-09-10T16:25:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-10T16:30:00",
+          "dateTime": "2026-09-10T16:50:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=QUORAMI%20Venezia\n\nמה זה המקום:\nShort stop for artisan leather accessories on Calle della Mandola, placed on the route between Bovolo and La Bauta. Current directory hours are 11:00–13:30 and 15:30–19:00. This is the first item to skip if the Burano return or lunch runs late.\n\nמה לראות / לעשות:\n- לבצע את בלוק QUORAMI — artisan leather stop בקצב רגוע.\n- לשים לב: Short artisan-leather stop added because it lies between Palazzo Contarini del Bovolo and La Bauta. Current directory hours are 11:00–13:30 and 15:30–19:00 daily; keep it optional if the day is running late.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 16:00–16:30.\n- משך ביקור מתוכנן: 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nSkip QUORAMI first if delayed; keep Palazzo Contarini del Bovolo and La Bauta.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=QUORAMI%20Venezia\n\nמה זה המקום:\nShort stop for artisan leather accessories on Calle della Mandola, placed on the route between Bovolo and La Bauta. Current directory hours are 11:00–13:30 and 15:30–19:00. This is the first item to skip if the Burano return or lunch runs late.\n\nמה לראות / לעשות:\n- לבצע את בלוק QUORAMI — artisan leather stop בקצב רגוע.\n- לשים לב: Short artisan-leather stop added because it lies between Palazzo Contarini del Bovolo and La Bauta. Current directory hours are 11:00–13:30 and 15:30–19:00 daily; keep it optional if the day is running late.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 16:25–16:50.\n- משך ביקור מתוכנן: 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nSkip QUORAMI first if delayed; keep Palazzo Fendi Venezia, Palazzo Contarini del Bovolo and La Bauta.",
         "location": "Calle de la Mandola 3730, 30124 Venezia VE, Italy",
         "extendedProperties": {
           "private": {
@@ -290,14 +290,14 @@
       "event": {
         "summary": "Buy a Venetian mask — La Bauta",
         "start": {
-          "dateTime": "2026-09-10T16:45:00",
+          "dateTime": "2026-09-10T17:05:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-10T17:30:00",
+          "dateTime": "2026-09-10T17:50:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/place/La+Bauta/@45.4359844,12.3273012,17z/data=!3m1!4b1!4m6!3m5!1s0x477eb1c5cb01003b:0xb3f00e3ca4c90999!8m2!3d45.4359844!4d12.3273012!16s%2Fg%2F11c60kg_lk\n\nמה זה המקום:\nLa Bauta remains the primary shop, as requested; La Bottega dei Mascareri is not substituted. Start with the simple handmade papier-mâché masks around €15–€25, compare fit and workmanship, and keep Ca’ Macana Original and Kartaruga only as map backups. Google Maps: https://www.google.com/maps/place/La+Bauta/@45.4359844,12.3273012,17z/data=!3m1!4b1!4m6!3m5!1s0x477eb1c5cb01003b:0xb3f00e3ca4c90999!8m2!3d45.4359844!4d12.3273012!16s%2Fg%2F11c60kg_lk\n\nPhone:\n+39 041 740095\n\nמה לראות / לעשות:\n- לבצע את בלוק Buy a Venetian mask — La Bauta בקצב רגוע.\n- לשים לב: Primary recommendation. Google Maps 4.8/5 from 334 reviews. Handmade papier-mâché masks; the official catalog includes simple masks around €15–€25. Saved to Google Maps list דולומיטים 2026 — Plan A with an A-priority note.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 16:45–17:30.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/La+Bauta/@45.4359844,12.3273012,17z/data=!3m1!4b1!4m6!3m5!1s0x477eb1c5cb01003b:0xb3f00e3ca4c90999!8m2!3d45.4359844!4d12.3273012!16s%2Fg%2F11c60kg_lk\n\nמה זה המקום:\nLa Bauta remains the primary shop, as requested; La Bottega dei Mascareri is not substituted. Start with the simple handmade papier-mâché masks around €15–€25, compare fit and workmanship, and keep Ca’ Macana Original and Kartaruga only as map backups. Google Maps: https://www.google.com/maps/place/La+Bauta/@45.4359844,12.3273012,17z/data=!3m1!4b1!4m6!3m5!1s0x477eb1c5cb01003b:0xb3f00e3ca4c90999!8m2!3d45.4359844!4d12.3273012!16s%2Fg%2F11c60kg_lk\n\nPhone:\n+39 041 740095\n\nמה לראות / לעשות:\n- לבצע את בלוק Buy a Venetian mask — La Bauta בקצב רגוע.\n- לשים לב: Primary recommendation. Google Maps 4.8/5 from 334 reviews. Handmade papier-mâché masks; the official catalog includes simple masks around €15–€25. Saved to Google Maps list דולומיטים 2026 — Plan A with an A-priority note.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 17:05–17:50.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "San Polo 2867, 30125 Venezia VE, Italy",
         "extendedProperties": {
           "private": {
@@ -315,14 +315,14 @@
       "event": {
         "summary": "Slow Venice walk and aperitivo buffer",
         "start": {
-          "dateTime": "2026-09-10T17:30:00",
+          "dateTime": "2026-09-10T17:50:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
           "dateTime": "2026-09-10T18:45:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Slow%20Venice%20walk%20and%20aperitivo%20buffer\n\nמה זה המקום:\nUnstructured time around San Polo/Dorsoduro after La Bauta. Use it for canals, photos or an aperitivo and absorb delays from the long day; do not add another fixed attraction.\n\nמה לראות / לעשות:\n- לבצע את בלוק Slow Venice walk and aperitivo buffer בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 17:30–18:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Slow%20Venice%20walk%20and%20aperitivo%20buffer\n\nמה זה המקום:\nUnstructured time around San Polo/Dorsoduro after La Bauta. Use it for canals, photos or an aperitivo and absorb delays from the long day; do not add another fixed attraction.\n\nמה לראות / לעשות:\n- לבצע את בלוק Slow Venice walk and aperitivo buffer בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 17:50–18:45.\n- משך ביקור מתוכנן: 55 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Slow Venice walk and aperitivo buffer",
         "extendedProperties": {
           "private": {
@@ -347,7 +347,7 @@
           "dateTime": "2026-09-10T20:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Dinner%20%E2%80%94%20Venice%20or%20Mestre\n\nמה זה המקום:\nDedicated unhurried dinner after the long Burano-and-Venice day. Keep the restaurant close to the return route; return to Mestre early enough to sleep before the next morning's checkout and fixed 13:30 rental pickup.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Venice or Mestre בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:00–20:30.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Dinner%20%E2%80%94%20Venice%20or%20Mestre\n\nמה זה המקום:\nDedicated unhurried dinner after the Venice day. Keep the restaurant close to the return route and return to Mestre early enough to pack and sleep before the 05:40 checkout and luggage storage the next morning.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Venice or Mestre בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:00–20:30.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Dinner — Venice or Mestre",
         "extendedProperties": {
           "private": {
@@ -361,23 +361,96 @@
       "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "update",
-      "eventId": "urs16jdg09fklhc4452rsgni0g",
+      "eventId": "8tjckgdtgj0nm15pjhcc7rjee8",
       "event": {
-        "summary": "Rialto and final Venice walk",
+        "summary": "Early checkout, store luggage, Mestre → Fondamente Nove",
         "start": {
-          "dateTime": "2026-09-11T08:00:00",
+          "dateTime": "2026-09-11T05:40:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-11T09:45:00",
+          "dateTime": "2026-09-11T07:10:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Rialto%20Bridge%20Venice\n\nמה זה המקום:\nEarly Rialto area walk and coffee. Keep the original Venice anchor, then return promptly to Mestre for luggage and checkout.\n\nמה לראות / לעשות:\n- לבצע את בלוק Rialto and final Venice walk בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:00–09:45.\n- משך ביקור מתוכנן: 1 ש׳ 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Rialto Bridge",
+        "description": "Google Maps:\nhttps://maps.google.com/?cid=2559267828695871316\n\nמה זה המקום:\nCheck out at 05:40, leave the luggage with a&o reception and depart the hotel at 06:00 as requested. Walk to Venezia Mestre, take the first suitable train to Venezia Santa Lucia and continue to Fondamente Nove in time for the 07:10 Line 12 sailing.\n\nמה לראות / לעשות:\n- לבצע את בלוק Early checkout, store luggage, Mestre → Fondamente Nove בקצב רגוע.\n- לשים לב: לינה מאושרת לשני לילות; לעדכן מראש על הגעה מאוחרת.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 05:40–07:10.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: Confirm luggage storage with reception tonight and have ACTV tickets ready before the morning.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nIf the 07:10 Line 12 is missed, take 07:40 but shorten the island visit and skip Caffè Cannaregio if needed; the 13:30 car pickup remains fixed.",
+        "location": "Via Ca Marcello, 15, 30172 Venezia VE, Italy",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-11-rialto"
+            "itineraryItemId": "dolomites-2026:2026-09-11-checkout-burano-transfer"
+          }
+        }
+      }
+    },
+    {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "update",
+      "eventId": "qf8oad7062aa7r1br5m8ef69ek",
+      "event": {
+        "summary": "Burano — early ACTV round trip",
+        "start": {
+          "dateTime": "2026-09-11T07:10:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-11T10:04:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Burano%2C%20Venezia\n\nמה זה המקום:\nACTV Line 12 leaves Fondamente Nove at 07:10 and reaches Burano at 07:53. Walk the colored lanes and waterfront until 09:20, then take the 09:25 Line 12 back to Fondamente Nove, arriving 10:04. Timetable in force from 22 Apr 2026: https://avm.avmspa.it/sites/default/files/avm/navigazione/Actv_nav_linea_12.pdf\n\nמה לראות / לעשות:\n- לבצע את בלוק Burano — early ACTV round trip בקצב רגוע.\n- לשים לב: Scheduled for Friday 11 Sep after early checkout and luggage storage: ACTV Line 12 Fondamente Nove 07:10 → Burano 07:53; Burano 09:25 → Fondamente Nove 10:04. This leaves about 1 hour 30 minutes on the island and protects the fixed 13:30 rental pickup. Recheck live service alerts before boarding.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 07:10–10:04.\n- משך ביקור מתוכנן: 2 ש׳ 54 דק׳.\n- חניה / רכבל / כרטיס: Buy and validate the required ACTV ticket/pass before boarding; check live service alerts before leaving.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nDo not take a later return than 09:25 unless Caffè Cannaregio is skipped; protect the 12:15 ATVO bus and fixed 13:30 rental pickup.",
+        "location": "30142 Venezia VE, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-11-burano"
+          }
+        }
+      }
+    },
+    {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Fondamente Nove → Caffè Cannaregio",
+        "start": {
+          "dateTime": "2026-09-11T10:04:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-11T10:20:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Caff%C3%A8+Cannaregio/@45.4457284,12.3304546,656m/data=!3m2!1e3!4b1!4m6!3m5!1s0x477eb19576edae91:0x89b1fe2d89dd9044!8m2!3d45.4457284!4d12.327885!16s%2Fg%2F1vnnh78p\n\nמה זה המקום:\nWalk directly from Fondamente Nove to Fondamenta dei Ormesini 2804. Keep the transfer brisk because the café stop must end by 10:50 to protect the luggage and airport connection.\n\nמה לראות / לעשות:\n- לבצע את בלוק Fondamente Nove → Caffè Cannaregio בקצב רגוע.\n- לשים לב: Friday coffee stop after Burano on the walking route from Fondamente Nove toward Venezia Santa Lucia. The renovated specialty-coffee shop announced reopening on 28 Aug 2026. Published Friday hours are 08:00–15:30; the planned 10:20 visit is safely inside the opening window.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 10:04–10:20.\n- משך ביקור מתוכנן: 16 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Fondamenta dei Ormesini, 2804, 30121 Venezia VE, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-11-burano-to-caffe"
+          }
+        }
+      }
+    },
+    {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Coffee — Caffè Cannaregio",
+        "start": {
+          "dateTime": "2026-09-11T10:20:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-11T10:50:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Caff%C3%A8+Cannaregio/@45.4457284,12.3304546,656m/data=!3m2!1e3!4b1!4m6!3m5!1s0x477eb19576edae91:0x89b1fe2d89dd9044!8m2!3d45.4457284!4d12.327885!16s%2Fg%2F1vnnh78p\n\nמה זה המקום:\nSpecialty-coffee stop after Burano. The renovated café announced reopening on 28 Aug 2026 and publishes Friday hours of 08:00–15:30. Order coffee and a pastry or bagel, and take a portable snack for the airport connection because there is no room for a long VCE lunch.\n\nמה לראות / לעשות:\n- לבצע את בלוק Coffee — Caffè Cannaregio בקצב רגוע.\n- לשים לב: Friday coffee stop after Burano on the walking route from Fondamente Nove toward Venezia Santa Lucia. The renovated specialty-coffee shop announced reopening on 28 Aug 2026. Published Friday hours are 08:00–15:30; the planned 10:20 visit is safely inside the opening window.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 10:20–10:50.\n- משך ביקור מתוכנן: 30 דק׳.\n- חניה / רכבל / כרטיס: Walk-in; no reservation needed.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nIf the Burano return is late, make this takeaway only or skip it and go directly to Santa Lucia.",
+        "location": "Fondamenta dei Ormesini, 2804, 30121 Venezia VE, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-11-caffe-cannaregio"
           }
         }
       }
@@ -388,16 +461,16 @@
       "action": "update",
       "eventId": "pvfnou6vnimubip0e6pduevac8",
       "event": {
-        "summary": "Return to Mestre, checkout and transfer to VCE",
+        "summary": "Caffè Cannaregio → Santa Lucia → luggage → VCE",
         "start": {
-          "dateTime": "2026-09-11T09:45:00",
+          "dateTime": "2026-09-11T10:50:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-11T12:00:00",
+          "dateTime": "2026-09-11T12:35:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://maps.google.com/?cid=2559267828695871316\n\nמה זה המקום:\nReturn from Venice, collect luggage, check out and travel to VCE. The generous block protects the 13:30 Target Rent pickup and reaches the airport in time for lunch before the shuttle.\n\nמה לראות / לעשות:\n- לבצע את בלוק Return to Mestre, checkout and transfer to VCE בקצב רגוע.\n- לשים לב: לינה מאושרת לשני לילות; לעדכן מראש על הגעה מאוחרת.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 09:45–12:00.\n- משך ביקור מתוכנן: 2 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://maps.google.com/?cid=2559267828695871316\n\nמה זה המקום:\nWalk directly to Venezia Santa Lucia and target the 11:27 train, currently scheduled to reach Venezia Mestre at about 11:38. Collect the stored luggage from a&o and board the Friday 12:15 ATVO Airport Express from Mestre FS, scheduled to reach VCE at 12:35. Recheck the train live; do not linger after the café.\n\nמה לראות / לעשות:\n- לבצע את בלוק Caffè Cannaregio → Santa Lucia → luggage → VCE בקצב רגוע.\n- לשים לב: לינה מאושרת לשני לילות; לעדכן מראש על הגעה מאוחרת.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 10:50–12:35.\n- משך ביקור מתוכנן: 1 ש׳ 45 דק׳.\n- חניה / רכבל / כרטיס: Confirm luggage storage before the 06:00 departure; buy the ATVO ticket in advance if practical.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nIf the 11:27 train is missed, take the next train and the 12:40 ATVO bus, call the Target Rent shuttle immediately on arrival and skip any airport food stop.",
         "location": "Via Ca Marcello, 15, 30172 Venezia VE, Italy",
         "extendedProperties": {
           "private": {
@@ -413,16 +486,16 @@
       "action": "update",
       "eventId": "lvviqopo6llbgk1lf4j76t1adg",
       "event": {
-        "summary": "Lunch — VCE",
+        "summary": "Takeaway lunch and P5 connection — VCE",
         "start": {
-          "dateTime": "2026-09-11T12:00:00",
+          "dateTime": "2026-09-11T12:35:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
           "dateTime": "2026-09-11T12:45:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Venice%20Marco%20Polo%20Airport\n\nמה זה המקום:\nEat before leaving the terminal so lunch is not pushed past 14:30 by the 13:30 car pickup. Keep the meal simple and remain near the arrivals/P5 route.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lunch — VCE בקצב רגוע.\n- לשים לב: Arrival 9 Sep; Target Rent shuttle meeting point on 11 Sep; airport arrival after car return and departure on 25 Sep.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:00–12:45.\n- משך ביקור מתוכנן: 45 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Venice%20Marco%20Polo%20Airport\n\nמה זה המקום:\nUse the portable snack bought at Caffè Cannaregio or grab only a ready-made takeaway item while walking to the P5 shuttle area. This compressed food stop is an explicit consequence of adding Burano while keeping the 13:30 rental pickup fixed.\n\nמה לראות / לעשות:\n- לבצע את בלוק Takeaway lunch and P5 connection — VCE בקצב רגוע.\n- לשים לב: Arrival 9 Sep; Target Rent shuttle meeting point on 11 Sep; airport arrival after car return and departure on 25 Sep.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:35–12:45.\n- משך ביקור מתוכנן: 10 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Viale Galileo Galilei 30, 30173 Venezia VE, Italy",
         "extendedProperties": {
           "private": {
@@ -2100,21 +2173,21 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Laion → Seceda cable car and parking",
+        "summary": "Laion → Mont Sëuc cable car and parking",
         "start": {
-          "dateTime": "2026-09-18T07:45:00",
+          "dateTime": "2026-09-18T07:50:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
           "dateTime": "2026-09-18T08:25:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Seceda%20cable%20car%20Ortisei\n\nמה זה המקום:\nGoogle Maps currently estimates 17 minutes / 12.6 km. The 40-minute block includes the drive, parking and walking to the first practical lift.\n\nמה לראות / לעשות:\n- לבצע את בלוק Laion → Seceda cable car and parking בקצב רגוע.\n- לשים לב: Published 2026 operation: 22 May–2 Nov. On 18 Sep the Ortisei–Furnes and Furnes–Seceda lifts run 08:30–17:30. The optional Fermeda chairlift runs only through 20 Sep, 09:30–16:30. Official mountain weather: https://weather.province.bz.it/en/forecasts\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 07:45–08:25.\n- משך ביקור מתוכנן: 40 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Seceda cable car – Ortisei",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei%20Alpe%20di%20Siusi%20cable%20car%20Mont%20Seuc\n\nמה זה המקום:\nGoogle Maps currently estimates 15 minutes / 12.1 km; the block includes parking and walking to the station.\n\nמה לראות / לעשות:\n- לבצע את בלוק Laion → Mont Sëuc cable car and parking בקצב רגוע.\n- לשים לב: Ortisei–Alpe di Siusi gondola operates 1 May–2 Nov 2026; on 18 Sep the published hours are 08:30–18:00. Verify live status the evening before. Official mountain weather: https://weather.province.bz.it/en/forecasts\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 07:50–08:25.\n- משך ביקור מתוכנן: 35 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Mont Sëuc / Alpe di Siusi cable car – Ortisei",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-18-drive-seceda"
+            "itineraryItemId": "dolomites-2026:2026-09-18-drive-siusi"
           }
         }
       }
@@ -2124,21 +2197,21 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Seceda lift and compact ridge walk",
+        "summary": "Alpe di Siusi from Ortisei",
         "start": {
           "dateTime": "2026-09-18T08:30:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-18T10:20:00",
+          "dateTime": "2026-09-18T12:20:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Seceda%20cable%20car%20Ortisei\n\nמה זה המקום:\nTake the first practical lift from Ortisei and keep the iconic ridge walk to about 75–90 minutes, returning to the agreed take-off point by 10:20. Do not rush if footing or visibility is poor.\n\nמה לראות / לעשות:\n- לבצע את בלוק Seceda lift and compact ridge walk בקצב רגוע.\n- לשים לב: Published 2026 operation: 22 May–2 Nov. On 18 Sep the Ortisei–Furnes and Furnes–Seceda lifts run 08:30–17:30. The optional Fermeda chairlift runs only through 20 Sep, 09:30–16:30. Official mountain weather: https://weather.province.bz.it/en/forecasts\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:30–10:20.\n- משך ביקור מתוכנן: 1 ש׳ 50 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nIf the flight is cancelled, continue the original Seceda ridge morning until 12:20 and descend by lift.",
-        "location": "Seceda cable car – Ortisei",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei%20Alpe%20di%20Siusi%20cable%20car%20Mont%20Seuc\n\nמה זה המקום:\nUse the Ortisei cable car for a broad meadow walk with an easy turnaround and weather-aware pacing.\n\nמה לראות / לעשות:\n- לבצע את בלוק Alpe di Siusi from Ortisei בקצב רגוע.\n- לשים לב: Ortisei–Alpe di Siusi gondola operates 1 May–2 Nov 2026; on 18 Sep the published hours are 08:30–18:00. Verify live status the evening before. Official mountain weather: https://weather.province.bz.it/en/forecasts\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:30–12:20.\n- משך ביקור מתוכנן: 3 ש׳ 50 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nCastelrotto/Ortisei village day",
+        "location": "Mont Sëuc / Alpe di Siusi cable car – Ortisei",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-18-seceda"
+            "itineraryItemId": "dolomites-2026:2026-09-18-siusi"
           }
         }
       }
@@ -2148,41 +2221,17 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "GARDENAFLY tandem paragliding — Seceda → Ortisei",
+        "summary": "Lunch on Alpe di Siusi",
         "start": {
-          "dateTime": "2026-09-18T10:30:00",
+          "dateTime": "2026-09-18T12:30:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-18T12:00:00",
+          "dateTime": "2026-09-18T13:45:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/place/GARDENAFLY+-+Paragliding+Tandemflights+in+the+Dolomites/@46.5746364,11.6804252,17z\n\nמה זה המקום:\nTwo simultaneous panoramic tandem flights, about 15–20 minutes airborne and 1.5 hours total, landing near Annatal/Ortisei. Confirm two pilots and a mountain rendezvous before booking; if Gardenafly requires a valley meeting, use Fly2's published mountain-meeting option or move the flight to the 24 Sep weather buffer.\n\nמה לראות / לעשות:\n- לבצע את בלוק GARDENAFLY tandem paragliding — Seceda → Ortisei בקצב רגוע.\n- לשים לב: Plan A for 18 Sep after a shortened Seceda ridge walk: panoramic Seceda-to-Ortisei tandem flight, about 15–20 minutes airborne and 1.5 hours total. Published price €190 per person; optional GoPro photo/video package €25 per person; lift ticket excluded. Confirm two pilots and a mountain rendezvous. Weather fallback: 24 Sep morning.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 10:30–12:00.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Streda Sacun 39, 39046 Ortisei, Italy",
-        "extendedProperties": {
-          "private": {
-            "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-18-paragliding"
-          }
-        }
-      }
-    },
-    {
-      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
-      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
-      "event": {
-        "summary": "Lunch in Annatal or Ortisei after landing",
-        "start": {
-          "dateTime": "2026-09-18T12:15:00",
-          "timeZone": "Europe/Rome"
-        },
-        "end": {
-          "dateTime": "2026-09-18T13:30:00",
-          "timeZone": "Europe/Rome"
-        },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Lunch%20in%20Annatal%20or%20Ortisei%20after%20landing\n\nמה זה המקום:\nEat close to the landing area after the flight. If the flight is cancelled, retain the original hut/Ortisei lunch after descending from Seceda.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lunch in Annatal or Ortisei after landing בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:15–13:30.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Lunch in Annatal or Ortisei after landing",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Lunch%20on%20Alpe%20di%20Siusi\n\nמה זה המקום:\nPreselect one hut and keep a packed backup in case of closure or queues.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lunch on Alpe di Siusi בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:30–13:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Lunch on Alpe di Siusi",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
@@ -2196,17 +2245,89 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Val d'Anna easy walk after landing",
+        "summary": "Descend from Alpe di Siusi and drive to Maneggio Unterlanzin",
         "start": {
-          "dateTime": "2026-09-18T13:30:00",
+          "dateTime": "2026-09-18T13:45:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-18T15:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Maneggio+Unterlanzin/@46.557003,11.5517492,17z\n\nמה זה המקום:\nFinish the gondola descent, collect the car and continue to Unterlanzin. Google Maps currently estimates 21 minutes / 12.9 km from the Mont Sëuc station; the block includes the lift, parking exit and arrival margin.\n\nמה לראות / לעשות:\n- לבצע את בלוק Descend from Alpe di Siusi and drive to Maneggio Unterlanzin בקצב רגוע.\n- לשים לב: Plan A for 18 Sep after the Alpe di Siusi walk and lunch. One-hour accompanied ride for beginners or advanced riders, €33 per person, helmet included, no gallop, maximum 90 kg. Current Google Maps driving estimate from Ortisei: 22 minutes / 12.8 km.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:45–15:15.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Maneggio Unterlanzin",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-18-horse-drive"
+          }
+        }
+      }
+    },
+    {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Horse assignment, helmet and briefing",
+        "start": {
+          "dateTime": "2026-09-18T15:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-18T15:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Maneggio+Unterlanzin/@46.557003,11.5517492,17z\n\nמה זה המקום:\nConfirm each rider is within the published 90 kg limit, disclose experience accurately and follow the guide’s instructions. Helmets are included.\n\nמה לראות / לעשות:\n- לבצע את בלוק Horse assignment, helmet and briefing בקצב רגוע.\n- לשים לב: Plan A for 18 Sep after the Alpe di Siusi walk and lunch. One-hour accompanied ride for beginners or advanced riders, €33 per person, helmet included, no gallop, maximum 90 kg. Current Google Maps driving estimate from Ortisei: 22 minutes / 12.8 km.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:15–15:30.\n- משך ביקור מתוכנן: 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Maneggio Unterlanzin",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-18-horse-briefing"
+          }
+        }
+      }
+    },
+    {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "One-hour guided horse ride — Unterlanzin",
+        "start": {
+          "dateTime": "2026-09-18T15:30:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
           "dateTime": "2026-09-18T16:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Val%20d%27Anna%20Hutte%20Ortisei\n\nמה זה המקום:\nContinue directly from lunch into the easy Annatal/Val d'Anna valley walk. This replaces the old recovery-at-home block: do not return to Laion, change clothes or shower during the active day.\n\nמה לראות / לעשות:\n- לבצע את בלוק Val d'Anna easy walk after landing בקצב רגוע.\n- לשים לב: Easy valley walk after the Seceda tandem landing; remain outside continuously until dinner rather than returning to the Laion lodging.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:30–16:30.\n- משך ביקור מתוכנן: 3 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "S.da Val d'Anna, 39046 Ortisei BZ, Italy",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Maneggio+Unterlanzin/@46.557003,11.5517492,17z\n\nמה זה המקום:\nOne-hour accompanied outing for beginners or experienced riders. The provider specifies no gallop for safety and insurance reasons. Contact the stable if weather is poor.\n\nמה לראות / לעשות:\n- לבצע את בלוק One-hour guided horse ride — Unterlanzin בקצב רגוע.\n- לשים לב: Plan A for 18 Sep after the Alpe di Siusi walk and lunch. One-hour accompanied ride for beginners or advanced riders, €33 per person, helmet included, no gallop, maximum 90 kg. Current Google Maps driving estimate from Ortisei: 22 minutes / 12.8 km.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:30–16:30.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Maneggio Unterlanzin",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-18-horse-ride"
+          }
+        }
+      }
+    },
+    {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Castelrotto village walk",
+        "start": {
+          "dateTime": "2026-09-18T16:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-18T18:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Castelrotto%20Italy\n\nמה זה המקום:\nUnterlanzin is about 3 minutes / 1.6 km from Castelrotto. Continue directly into an easy village walk instead of returning to the lodging or scheduling rest.\n\nמה לראות / לעשות:\n- לבצע את בלוק Castelrotto village walk בקצב רגוע.\n- לשים לב: Post-riding village walk and dinner on 18 Sep. Unterlanzin is about 3 minutes away; the drive back to Laion is about 21 minutes.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 16:30–18:00.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Castelrotto / Kastelruth",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
@@ -2220,31 +2341,7 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Ortisei centre and aperitivo walk",
-        "start": {
-          "dateTime": "2026-09-18T16:30:00",
-          "timeZone": "Europe/Rome"
-        },
-        "end": {
-          "dateTime": "2026-09-18T18:00:00",
-          "timeZone": "Europe/Rome"
-        },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nStay in Ortisei for an easy centre walk, shops or aperitivo before dinner; no lodging return.\n\nמה לראות / לעשות:\n- לבצע את בלוק Ortisei centre and aperitivo walk בקצב רגוע.\n- לשים לב: Primary Val Gardena activity hub, 15–17 minutes by car from the confirmed Laion lodging. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 16:30–18:00.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Ortisei",
-        "extendedProperties": {
-          "private": {
-            "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-18-ortisei"
-          }
-        }
-      }
-    },
-    {
-      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
-      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
-      "event": {
-        "summary": "Dinner — Ortisei",
+        "summary": "Dinner — Castelrotto",
         "start": {
           "dateTime": "2026-09-18T18:00:00",
           "timeZone": "Europe/Rome"
@@ -2253,8 +2350,8 @@
           "dateTime": "2026-09-18T19:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nDedicated dinner after Seceda, the flight and Val d'Anna. No laundry today because the single planned load was completed on the first evening at the final anchor.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Ortisei בקצב רגוע.\n- לשים לב: Primary Val Gardena activity hub, 15–17 minutes by car from the confirmed Laion lodging. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:00–19:30.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Ortisei",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Castelrotto%20Italy\n\nמה זה המקום:\nDedicated dinner after the horse ride and village walk; confirm Friday kitchen hours.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Castelrotto בקצב רגוע.\n- לשים לב: Post-riding village walk and dinner on 18 Sep. Unterlanzin is about 3 minutes away; the drive back to Laion is about 21 minutes.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:00–19:30.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Castelrotto / Kastelruth",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
@@ -2268,7 +2365,7 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Ortisei → Laion lodging",
+        "summary": "Castelrotto → Laion lodging",
         "start": {
           "dateTime": "2026-09-18T19:30:00",
           "timeZone": "Europe/Rome"
@@ -2277,7 +2374,7 @@
           "dateTime": "2026-09-18T19:55:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.6037555%2C11.5546319\n\nמה זה המקום:\nGoogle Maps estimates about 15–17 minutes. Return only after dinner; shower at night after the day is finished.\n\nמה לראות / לעשות:\n- לבצע את בלוק Ortisei → Laion lodging בקצב רגוע.\n- לשים לב: Confirmed 17–25 Sep for two guests. Check-in 16:00, checkout 09:00, lockbox check-in, garage, and free in-building washer and dryer. The host warns that generic sat-nav data can be inaccurate; use the Google Maps coordinates. Saved privately in the lodging list.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:30–19:55.\n- משך ביקור מתוכנן: 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.6037555%2C11.5546319\n\nמה זה המקום:\nGoogle Maps estimates about 21 minutes / 15.2 km. Return after dinner and shower only after the active day ends.\n\nמה לראות / לעשות:\n- לבצע את בלוק Castelrotto → Laion lodging בקצב רגוע.\n- לשים לב: Confirmed 17–25 Sep for two guests. Check-in 16:00, checkout 09:00, lockbox check-in, garage, and free in-building washer and dryer. The host warns that generic sat-nav data can be inaccurate; use the Google Maps coordinates. Saved privately in the lodging list.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:30–19:55.\n- משך ביקור מתוכנן: 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Localita' Novale 113, 39040 Laion BZ, Italy",
         "extendedProperties": {
           "private": {
@@ -2292,21 +2389,21 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Laion → Mont Sëuc cable car and parking",
+        "summary": "Laion → Seceda cable car and parking",
         "start": {
-          "dateTime": "2026-09-19T07:50:00",
+          "dateTime": "2026-09-19T07:45:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
           "dateTime": "2026-09-19T08:25:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei%20Alpe%20di%20Siusi%20cable%20car%20Mont%20Seuc\n\nמה זה המקום:\nGoogle Maps currently estimates 15 minutes / 12.1 km; the block includes parking and walking to the station.\n\nמה לראות / לעשות:\n- לבצע את בלוק Laion → Mont Sëuc cable car and parking בקצב רגוע.\n- לשים לב: Ortisei–Alpe di Siusi gondola operates 1 May–2 Nov 2026; on 19 Sep the published hours are 08:30–18:00. Verify live status the evening before. Official mountain weather: https://weather.province.bz.it/en/forecasts\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 07:50–08:25.\n- משך ביקור מתוכנן: 35 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Mont Sëuc / Alpe di Siusi cable car – Ortisei",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Seceda%20cable%20car%20Ortisei\n\nמה זה המקום:\nGoogle Maps currently estimates 17 minutes / 12.6 km. The 40-minute block includes the drive, parking and walking to the first practical lift.\n\nמה לראות / לעשות:\n- לבצע את בלוק Laion → Seceda cable car and parking בקצב רגוע.\n- לשים לב: Published 2026 operation: 22 May–2 Nov. On 19 Sep the Ortisei–Furnes and Furnes–Seceda lifts run 08:30–17:30. The optional Fermeda chairlift runs only through 20 Sep, 09:30–16:30. Official mountain weather: https://weather.province.bz.it/en/forecasts\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 07:45–08:25.\n- משך ביקור מתוכנן: 40 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Seceda cable car – Ortisei",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-19-drive-siusi"
+            "itineraryItemId": "dolomites-2026:2026-09-19-drive-seceda"
           }
         }
       }
@@ -2316,21 +2413,21 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Alpe di Siusi from Ortisei",
+        "summary": "Seceda lift and compact ridge walk",
         "start": {
           "dateTime": "2026-09-19T08:30:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-19T12:20:00",
+          "dateTime": "2026-09-19T10:20:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei%20Alpe%20di%20Siusi%20cable%20car%20Mont%20Seuc\n\nמה זה המקום:\nUse the Ortisei cable car for a broad meadow walk with an easy turnaround and weather-aware pacing.\n\nמה לראות / לעשות:\n- לבצע את בלוק Alpe di Siusi from Ortisei בקצב רגוע.\n- לשים לב: Ortisei–Alpe di Siusi gondola operates 1 May–2 Nov 2026; on 19 Sep the published hours are 08:30–18:00. Verify live status the evening before. Official mountain weather: https://weather.province.bz.it/en/forecasts\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:30–12:20.\n- משך ביקור מתוכנן: 3 ש׳ 50 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nCastelrotto/Ortisei village day",
-        "location": "Mont Sëuc / Alpe di Siusi cable car – Ortisei",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Seceda%20cable%20car%20Ortisei\n\nמה זה המקום:\nTake the first practical lift from Ortisei and keep the iconic ridge walk to about 75–90 minutes, returning to the agreed take-off point by 10:20. Do not rush if footing or visibility is poor.\n\nמה לראות / לעשות:\n- לבצע את בלוק Seceda lift and compact ridge walk בקצב רגוע.\n- לשים לב: Published 2026 operation: 22 May–2 Nov. On 19 Sep the Ortisei–Furnes and Furnes–Seceda lifts run 08:30–17:30. The optional Fermeda chairlift runs only through 20 Sep, 09:30–16:30. Official mountain weather: https://weather.province.bz.it/en/forecasts\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:30–10:20.\n- משך ביקור מתוכנן: 1 ש׳ 50 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nIf the flight is cancelled, continue the original Seceda ridge morning until 12:20 and descend by lift.",
+        "location": "Seceda cable car – Ortisei",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-19-siusi"
+            "itineraryItemId": "dolomites-2026:2026-09-19-seceda"
           }
         }
       }
@@ -2340,17 +2437,41 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Lunch on Alpe di Siusi",
+        "summary": "GARDENAFLY tandem paragliding — Seceda → Ortisei",
         "start": {
-          "dateTime": "2026-09-19T12:30:00",
+          "dateTime": "2026-09-19T10:30:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
-          "dateTime": "2026-09-19T13:45:00",
+          "dateTime": "2026-09-19T12:00:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Lunch%20on%20Alpe%20di%20Siusi\n\nמה זה המקום:\nPreselect one hut and keep a packed backup in case of closure or queues.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lunch on Alpe di Siusi בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:30–13:45.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Lunch on Alpe di Siusi",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/GARDENAFLY+-+Paragliding+Tandemflights+in+the+Dolomites/@46.5746364,11.6804252,17z\n\nמה זה המקום:\nTwo simultaneous panoramic tandem flights, about 15–20 minutes airborne and 1.5 hours total, landing near Annatal/Ortisei. Confirm two pilots and a mountain rendezvous before booking; if Gardenafly requires a valley meeting, use Fly2's published mountain-meeting option or move the flight to the 24 Sep weather buffer.\n\nמה לראות / לעשות:\n- לבצע את בלוק GARDENAFLY tandem paragliding — Seceda → Ortisei בקצב רגוע.\n- לשים לב: Plan A for 19 Sep after a shortened Seceda ridge walk: panoramic Seceda-to-Ortisei tandem flight, about 15–20 minutes airborne and 1.5 hours total. Published price €190 per person; optional GoPro photo/video package €25 per person; lift ticket excluded. Confirm two pilots and a mountain rendezvous. Weather fallback: 24 Sep morning.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 10:30–12:00.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Streda Sacun 39, 39046 Ortisei, Italy",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-19-paragliding"
+          }
+        }
+      }
+    },
+    {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Lunch in Annatal or Ortisei after landing",
+        "start": {
+          "dateTime": "2026-09-19T12:15:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-19T13:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Lunch%20in%20Annatal%20or%20Ortisei%20after%20landing\n\nמה זה המקום:\nEat close to the landing area after the flight. If the flight is cancelled, retain the original hut/Ortisei lunch after descending from Seceda.\n\nמה לראות / לעשות:\n- לבצע את בלוק Lunch in Annatal or Ortisei after landing בקצב רגוע.\n- לבדוק תנאים בפועל לפני היציאה.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 12:15–13:30.\n- משך ביקור מתוכנן: 1 ש׳ 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nזהו עוגן הצהריים; לבחור מקום זמין קרוב למסלול ולשמור נשנוש גיבוי.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Lunch in Annatal or Ortisei after landing",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
@@ -2364,89 +2485,17 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Descend from Alpe di Siusi and drive to Maneggio Unterlanzin",
+        "summary": "Val d'Anna easy walk after landing",
         "start": {
-          "dateTime": "2026-09-19T13:45:00",
-          "timeZone": "Europe/Rome"
-        },
-        "end": {
-          "dateTime": "2026-09-19T15:15:00",
-          "timeZone": "Europe/Rome"
-        },
-        "description": "Google Maps:\nhttps://www.google.com/maps/place/Maneggio+Unterlanzin/@46.557003,11.5517492,17z\n\nמה זה המקום:\nFinish the gondola descent, collect the car and continue to Unterlanzin. Google Maps currently estimates 21 minutes / 12.9 km from the Mont Sëuc station; the block includes the lift, parking exit and arrival margin.\n\nמה לראות / לעשות:\n- לבצע את בלוק Descend from Alpe di Siusi and drive to Maneggio Unterlanzin בקצב רגוע.\n- לשים לב: Plan A for 19 Sep after the Alpe di Siusi walk and lunch. One-hour accompanied ride for beginners or advanced riders, €33 per person, helmet included, no gallop, maximum 90 kg. Current Google Maps driving estimate from Ortisei: 22 minutes / 12.8 km.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:45–15:15.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Maneggio Unterlanzin",
-        "extendedProperties": {
-          "private": {
-            "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-19-horse-drive"
-          }
-        }
-      }
-    },
-    {
-      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
-      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
-      "event": {
-        "summary": "Horse assignment, helmet and briefing",
-        "start": {
-          "dateTime": "2026-09-19T15:15:00",
-          "timeZone": "Europe/Rome"
-        },
-        "end": {
-          "dateTime": "2026-09-19T15:30:00",
-          "timeZone": "Europe/Rome"
-        },
-        "description": "Google Maps:\nhttps://www.google.com/maps/place/Maneggio+Unterlanzin/@46.557003,11.5517492,17z\n\nמה זה המקום:\nConfirm each rider is within the published 90 kg limit, disclose experience accurately and follow the guide’s instructions. Helmets are included.\n\nמה לראות / לעשות:\n- לבצע את בלוק Horse assignment, helmet and briefing בקצב רגוע.\n- לשים לב: Plan A for 19 Sep after the Alpe di Siusi walk and lunch. One-hour accompanied ride for beginners or advanced riders, €33 per person, helmet included, no gallop, maximum 90 kg. Current Google Maps driving estimate from Ortisei: 22 minutes / 12.8 km.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:15–15:30.\n- משך ביקור מתוכנן: 15 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Maneggio Unterlanzin",
-        "extendedProperties": {
-          "private": {
-            "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-19-horse-briefing"
-          }
-        }
-      }
-    },
-    {
-      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
-      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
-      "event": {
-        "summary": "One-hour guided horse ride — Unterlanzin",
-        "start": {
-          "dateTime": "2026-09-19T15:30:00",
+          "dateTime": "2026-09-19T13:30:00",
           "timeZone": "Europe/Rome"
         },
         "end": {
           "dateTime": "2026-09-19T16:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/place/Maneggio+Unterlanzin/@46.557003,11.5517492,17z\n\nמה זה המקום:\nOne-hour accompanied outing for beginners or experienced riders. The provider specifies no gallop for safety and insurance reasons. Contact the stable if weather is poor.\n\nמה לראות / לעשות:\n- לבצע את בלוק One-hour guided horse ride — Unterlanzin בקצב רגוע.\n- לשים לב: Plan A for 19 Sep after the Alpe di Siusi walk and lunch. One-hour accompanied ride for beginners or advanced riders, €33 per person, helmet included, no gallop, maximum 90 kg. Current Google Maps driving estimate from Ortisei: 22 minutes / 12.8 km.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 15:30–16:30.\n- משך ביקור מתוכנן: 1 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Maneggio Unterlanzin",
-        "extendedProperties": {
-          "private": {
-            "travelAgent": "codex-travel-agent-local",
-            "itineraryItemId": "dolomites-2026:2026-09-19-horse-ride"
-          }
-        }
-      }
-    },
-    {
-      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
-      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
-      "action": "create",
-      "event": {
-        "summary": "Castelrotto village walk",
-        "start": {
-          "dateTime": "2026-09-19T16:30:00",
-          "timeZone": "Europe/Rome"
-        },
-        "end": {
-          "dateTime": "2026-09-19T18:00:00",
-          "timeZone": "Europe/Rome"
-        },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Castelrotto%20Italy\n\nמה זה המקום:\nUnterlanzin is about 3 minutes / 1.6 km from Castelrotto. Continue directly into an easy village walk instead of returning to the lodging or scheduling rest.\n\nמה לראות / לעשות:\n- לבצע את בלוק Castelrotto village walk בקצב רגוע.\n- לשים לב: Post-riding village walk and dinner on 19 Sep. Unterlanzin is about 3 minutes away; the drive back to Laion is about 21 minutes.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 16:30–18:00.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Castelrotto / Kastelruth",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Val%20d%27Anna%20Hutte%20Ortisei\n\nמה זה המקום:\nContinue directly from lunch into the easy Annatal/Val d'Anna valley walk. This replaces the old recovery-at-home block: do not return to Laion, change clothes or shower during the active day.\n\nמה לראות / לעשות:\n- לבצע את בלוק Val d'Anna easy walk after landing בקצב רגוע.\n- לשים לב: Easy valley walk after the Seceda tandem landing; remain outside continuously until dinner rather than returning to the Laion lodging.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 13:30–16:30.\n- משך ביקור מתוכנן: 3 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל־בינוני עד בינוני.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "S.da Val d'Anna, 39046 Ortisei BZ, Italy",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
@@ -2460,7 +2509,31 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Dinner — Castelrotto",
+        "summary": "Ortisei centre and aperitivo walk",
+        "start": {
+          "dateTime": "2026-09-19T16:30:00",
+          "timeZone": "Europe/Rome"
+        },
+        "end": {
+          "dateTime": "2026-09-19T18:00:00",
+          "timeZone": "Europe/Rome"
+        },
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nStay in Ortisei for an easy centre walk, shops or aperitivo before dinner; no lodging return.\n\nמה לראות / לעשות:\n- לבצע את בלוק Ortisei centre and aperitivo walk בקצב רגוע.\n- לשים לב: Primary Val Gardena activity hub, 15–17 minutes by car from the confirmed Laion lodging. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 16:30–18:00.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Ortisei",
+        "extendedProperties": {
+          "private": {
+            "travelAgent": "codex-travel-agent-local",
+            "itineraryItemId": "dolomites-2026:2026-09-19-ortisei"
+          }
+        }
+      }
+    },
+    {
+      "policyFile": ".agents/skills/travel-planner/references/calendar-policy.md",
+      "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
+      "action": "create",
+      "event": {
+        "summary": "Dinner — Ortisei",
         "start": {
           "dateTime": "2026-09-19T18:00:00",
           "timeZone": "Europe/Rome"
@@ -2469,8 +2542,8 @@
           "dateTime": "2026-09-19T19:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=Castelrotto%20Italy\n\nמה זה המקום:\nDedicated dinner after the horse ride and village walk; confirm Saturday kitchen hours.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Castelrotto בקצב רגוע.\n- לשים לב: Post-riding village walk and dinner on 19 Sep. Unterlanzin is about 3 minutes away; the drive back to Laion is about 21 minutes.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:00–19:30.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
-        "location": "Castelrotto / Kastelruth",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/Ortisei\n\nמה זה המקום:\nDedicated dinner after Seceda, the flight and Val d'Anna. No laundry today because the single planned load was completed on the first evening at the final anchor.\n\nמה לראות / לעשות:\n- לבצע את בלוק Dinner — Ortisei בקצב רגוע.\n- לשים לב: Primary Val Gardena activity hub, 15–17 minutes by car from the confirmed Laion lodging. Official South Tyrol forecast: https://weather.province.bz.it/en/home . Official Dolomites mountain bulletin: https://static-weather.province.bz.it/web-data/pdf-forecast/mountain_bulletin_dolomites_en.pdf\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 18:00–19:30.\n- משך ביקור מתוכנן: 1 ש׳ 30 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "location": "Ortisei",
         "extendedProperties": {
           "private": {
             "travelAgent": "codex-travel-agent-local",
@@ -2484,7 +2557,7 @@
       "calendarId": "00da743e003f133d4e2a97203388349337c0584d04ef6bb372d0d6080877f18d@group.calendar.google.com",
       "action": "create",
       "event": {
-        "summary": "Castelrotto → Laion lodging",
+        "summary": "Ortisei → Laion lodging",
         "start": {
           "dateTime": "2026-09-19T19:30:00",
           "timeZone": "Europe/Rome"
@@ -2493,7 +2566,7 @@
           "dateTime": "2026-09-19T19:55:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.6037555%2C11.5546319\n\nמה זה המקום:\nGoogle Maps estimates about 21 minutes / 15.2 km. Return after dinner and shower only after the active day ends.\n\nמה לראות / לעשות:\n- לבצע את בלוק Castelrotto → Laion lodging בקצב רגוע.\n- לשים לב: Confirmed 17–25 Sep for two guests. Check-in 16:00, checkout 09:00, lockbox check-in, garage, and free in-building washer and dryer. The host warns that generic sat-nav data can be inaccurate; use the Google Maps coordinates. Saved privately in the lodging list.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:30–19:55.\n- משך ביקור מתוכנן: 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/search/?api=1&query=46.6037555%2C11.5546319\n\nמה זה המקום:\nGoogle Maps estimates about 15–17 minutes. Return only after dinner; shower at night after the day is finished.\n\nמה לראות / לעשות:\n- לבצע את בלוק Ortisei → Laion lodging בקצב רגוע.\n- לשים לב: Confirmed 17–25 Sep for two guests. Check-in 16:00, checkout 09:00, lockbox check-in, garage, and free in-building washer and dryer. The host warns that generic sat-nav data can be inaccurate; use the Google Maps coordinates. Saved privately in the lodging list.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 19:30–19:55.\n- משך ביקור מתוכנן: 25 דק׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "Localita' Novale 113, 39040 Laion BZ, Italy",
         "extendedProperties": {
           "private": {
@@ -3405,7 +3478,7 @@
           "dateTime": "2026-09-24T12:30:00",
           "timeZone": "Europe/Rome"
         },
-        "description": "Google Maps:\nhttps://www.google.com/maps/place/Bolzano/@46.4949259,11.3402543,13z\n\nמה זה המקום:\nGoogle Maps currently estimates 34 minutes / 30.3 km from Laion. If the 18 Sep tandem flight was cancelled, replace this Bolzano block with the flight fallback; otherwise use the open-access old town and market streets for a low-risk final touring morning.\n\nמה לראות / לעשות:\n- לבצע את בלוק Laion → Bolzano and relaxed old-town morning בקצב רגוע.\n- לשים לב: Low-risk final touring day on 24 Sep before the early flight drive. Google Maps estimates about 34–35 minutes each way from Laion; keep the visit to the open-access old town and an early dinner.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:30–12:30.\n- משך ביקור מתוכנן: 4 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
+        "description": "Google Maps:\nhttps://www.google.com/maps/place/Bolzano/@46.4949259,11.3402543,13z\n\nמה זה המקום:\nGoogle Maps currently estimates 34 minutes / 30.3 km from Laion. If the 19 Sep tandem flight was cancelled, replace this Bolzano block with the flight fallback; otherwise use the open-access old town and market streets for a low-risk final touring morning.\n\nמה לראות / לעשות:\n- לבצע את בלוק Laion → Bolzano and relaxed old-town morning בקצב רגוע.\n- לשים לב: Low-risk final touring day on 24 Sep before the early flight drive. Google Maps estimates about 34–35 minutes each way from Laion; keep the visit to the open-access old town and an early dinner.\n\nלמה זה מתאים לטיול שלנו:\nחלק מ־Plan A המאוזן בין עוגן מרכזי, אוכל ומנוחה; ניתן לקצר לפי מזג האוויר והאנרגיה.\n\nלוגיסטיקה:\n- שעה מתוכננת: 08:30–12:30.\n- משך ביקור מתוכנן: 4 ש׳.\n- חניה / רכבל / כרטיס: לבדוק יום קודם אם נדרשת הזמנה, חניה או כרטיס.\n- רמת קושי: קל / לוגיסטי.\n\nאוכל:\nלשאת מים ונשנוש; עוגן הצהריים מופיע כאירוע נפרד ביום.\n\nFallback:\nלקצר, לדחות ליום הגיבוי או לבחור עיירה/קפה קרובים לפי מזג האוויר והאנרגיה.",
         "location": "39100 Bolzano, South Tyrol, Italy",
         "extendedProperties": {
           "private": {
